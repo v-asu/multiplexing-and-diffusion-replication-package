@@ -6,13 +6,25 @@ The repository root contains the code, input data, and generated outputs for the
 
 ## Quick Start
 
-From the repository root, run:
+From the repository root, restore the pinned R environment:
+
+```sh
+Rscript -e 'install.packages("renv", repos = "https://cloud.r-project.org"); renv::restore()'
+```
+
+The Python packages used by the simulation plotting script are listed in `requirements.txt`:
+
+```sh
+python3 -m pip install -r requirements.txt
+```
+
+Then run the workflow:
 
 ```sh
 Rscript run_all.R
 ```
 
-The workflow creates any missing output folders, installs missing R packages from CRAN, rebuilds the processed data, and regenerates the retained tables and figures. Python is called from within `run_all.R` for the simulation plots. If needed, set `REPLICATION_PACKAGE_PYTHON` to the path of the Python interpreter to use:
+The workflow creates any missing output folders, installs missing R packages from CRAN if they are not already available, rebuilds the processed data, and regenerates the retained tables and figures. Python is called from within `run_all.R` for the simulation plots. If needed, set `REPLICATION_PACKAGE_PYTHON` to the path of the Python interpreter to use:
 
 ```sh
 REPLICATION_PACKAGE_PYTHON=/path/to/python Rscript run_all.R
@@ -29,6 +41,8 @@ The package was tested from a clean copy by deleting `data/processed/`, `figures
 - `tables/`: regenerated LaTeX table outputs.
 - `run_all.R`: runs the replication scripts in sequence from the package root.
 - `DATA_DICTIONARY.md`: file-level description of raw inputs.
+- `renv.lock`: pinned R package environment.
+- `requirements.txt`: Python package requirements for simulation plotting.
 
 ## Expected Outputs
 
@@ -113,41 +127,10 @@ Banerjee, Abhijit V., Emily Breza, Arun G. Chandrasekhar, Esther Duflo, Matthew 
 
 This package was checked with R 4.5.1 and Python 3.12.11.
 
-R packages used:
+The pinned R package environment is recorded in `renv.lock`. Restore it from the repository root with:
 
-| Package | Version |
-|---|---:|
-| tidyverse | 2.0.0 |
-| haven | 2.5.5 |
-| patchwork | 1.3.2 |
-| knitr | 1.50 |
-| R.matlab | 3.7.0 |
-| igraph | 2.1.4 |
-| Matrix | 1.7.3 |
-| expm | 1.0.0 |
-| kableExtra | 1.4.0 |
-| estimatr | 1.0.6 |
-| modelsummary | 2.5.0 |
-| glmnet | 4.1.10 |
-| ggrepel | 0.9.6 |
-| data.table | 1.17.8 |
-| ggdist | 3.3.3 |
-| ggsci | 4.0.0 |
-| factoextra | 2.0.0 |
-| gtools | 3.9.5 |
-| ICtest | 0.3.7 |
-| fixest | 0.13.2 |
-| marginaleffects | 0.29.0 |
-| viridis | 0.6.5 |
-| xtable | 1.8.4 |
-| reshape2 | 1.4.5 |
-| broom | 1.0.9 |
+```sh
+Rscript -e 'install.packages("renv", repos = "https://cloud.r-project.org"); renv::restore()'
+```
 
-Python packages used:
-
-| Package | Version |
-|---|---:|
-| numpy | 2.4.4 |
-| pandas | 3.0.2 |
-| matplotlib | 3.10.9 |
-| scipy | 1.17.1 |
+The Python packages used by `code/09_plot_sims.py` are pinned in `requirements.txt`.
