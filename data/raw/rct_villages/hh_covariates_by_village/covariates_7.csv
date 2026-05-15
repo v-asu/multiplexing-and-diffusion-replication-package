@@ -1,0 +1,150 @@
+villageid	hh_id	caste_category_label	caste_category	subcaste	roof_type	occupation_label	occupation
+7	101	Religious Minority	5	103	5	Farm labourer	3
+7	102	OBC	3	103	3	Farm labourer	3
+7	103	OBC	3	-333	3	Farm land-owner	2
+7	104	General	4	-333	5	Industrialist	11
+7	105	OBC	3	402	4	Pensioner	17
+7	106	OBC	3	402	5	Government services (teacher, etc.)	8
+7	107	OBC	3	103	5	Government services (teacher, etc.)	8
+7	108	OBC	3	103	4	Pensioner	17
+7	109	OTHERS, SPECIFY	-333	103	5	Farm land-owner	2
+7	110	Religious Minority	5	103	3	Farm labourer	3
+7	111	OBC	3	103	5	Government services (teacher, etc.)	8
+7	112	OBC	3	103	5	Government services (teacher, etc.)	8
+7	113	Missing	-666	-666	-666	Missing	-666
+7	114	OBC	3	103	4	Industry/factory worker(brick making etc)	10
+7	115	OBC	3	103	5	Industrialist	11
+7	116	General	4	103	5	Private services	9
+7	117	OBC	3	103	3	Government services (teacher, etc.)	8
+7	118	OBC	3	402	5	Government services (teacher, etc.)	8
+7	119	OBC	3	103	5	Government services (teacher, etc.)	8
+7	120	OBC	3	103	3	Government services (teacher, etc.)	8
+7	121	General	4	103	5	Private services	9
+7	122	OBC	3	103	5	Farm labourer	3
+7	123	OBC	3	103	3	Private services	9
+7	124	OBC	3	103	4	Industry/factory worker(brick making etc)	10
+7	125	OBC	3	103	4	Masonry/construction worker	12
+7	126	OBC	3	402	4	Industry/factory worker(brick making etc)	10
+7	127	ST	2	402	5	Industry/factory worker(brick making etc)	10
+7	128	OBC	3	103	5	Farm land-owner	2
+7	129	General	4	103	5	Industry/factory worker(brick making etc)	10
+7	130	OBC	3	103	5	Government services (teacher, etc.)	8
+7	131	OBC	3	103	5	Private services	9
+7	132	General	4	103	5	Government services (teacher, etc.)	8
+7	133	OBC	3	103	5	Government services (teacher, etc.)	8
+7	134	OBC	3	103	3	Pensioner	17
+7	135	General	4	103	5	Farm labourer	3
+7	136	OBC	3	103	5	Farm labourer	3
+7	137	OBC	3	103	3	Farm land-owner	2
+7	138	OBC	3	103	5	Farm labourer	3
+7	139	OBC	3	103	3	Private services	9
+7	140	OBC	3	103	3	Government services (teacher, etc.)	8
+7	141	General	4	103	5	Farm land-owner	2
+7	142	General	4	103	5	Industry/factory worker(brick making etc)	10
+7	143	OBC	3	103	5	Government services (teacher, etc.)	8
+7	144	OBC	3	103	3	Farm labourer	3
+7	145	OBC	3	103	4	Domestic help/cook/casual	15
+7	146	OBC	3	103	4	Pensioner	17
+7	147	OBC	3	103	1	Farm land-owner	2
+7	148	OBC	3	103	2	Government services (teacher, etc.)	8
+7	149	OBC	3	402	4	Government services (teacher, etc.)	8
+7	150	ST	2	402	4	Farm land-owner	2
+7	151	OBC	3	103	3	Farm labourer	3
+7	152	OBC	3	103	3	Private services	9
+7	153	OBC	3	103	3	Industrialist	11
+7	154	General	4	103	5	Pensioner	17
+7	155	OBC	3	103	3	Domestic help/cook/casual	15
+7	156	OBC	3	103	3	Industry/factory worker(brick making etc)	10
+7	157	OBC	3	103	3	Industrialist	11
+7	158	OBC	3	103	3	Government services (teacher, etc.)	8
+7	159	General	4	103	4	Farm labourer	3
+7	160	General	4	103	5	Farm labourer	3
+7	161	OBC	3	103	3	Private services	9
+7	162	OBC	3	103	2	Farm labourer	3
+7	163	OBC	3	103	3	Industry/factory worker(brick making etc)	10
+7	164	OBC	3	103	4	Industry/factory worker(brick making etc)	10
+7	165	OBC	3	402	3	Private services	9
+7	166	OBC	3	402	3	Farm land-owner	2
+7	167	ST	2	402	5	Masonry/construction worker	12
+7	168	OBC	3	402	4	Farm labourer	3
+7	169	OBC	3	103	4	Government services (teacher, etc.)	8
+7	170	OBC	3	402	3	Farm labourer	3
+7	171	OBC	3	402	5	Private services	9
+7	172	General	4	103	5	Industry/factory worker(brick making etc)	10
+7	173	OBC	3	103	3	Farm labourer	3
+7	174	OBC	3	103	3	Farm land-owner	2
+7	175	OBC	3	103	5	Farm labourer	3
+7	176	OBC	3	103	5	Farm labourer	3
+7	177	General	4	103	3	Pensioner	17
+7	178	OBC	3	103	3	Pensioner	17
+7	179	OBC	3	103	4	Farm land-owner	2
+7	180	ST	2	402	2	Farm labourer	3
+7	181	OBC	3	103	1	Industrialist	11
+7	182	OBC	3	103	5	Farming(tenancy)	4
+7	183	General	4	103	5	Farm labourer	3
+7	184	OBC	3	402	2	Farm labourer	3
+7	185	OBC	3	402	3	Farm labourer	3
+7	186	General	4	103	5	Farm labourer	3
+7	187	OBC	3	402	3	Government services (teacher, etc.)	8
+7	188	OBC	3	402	3	Industrialist	11
+7	189	OBC	3	402	5	Government services (teacher, etc.)	8
+7	190	OBC	3	402	4	Pensioner	17
+7	191	General	4	103	3	Government services (teacher, etc.)	8
+7	192	OBC	3	103	3	Farm land-owner	2
+7	193	OBC	3	103	3	Farm land-owner	2
+7	194	OBC	3	103	4	Farm land-owner	2
+7	195	General	4	103	4	Government services (teacher, etc.)	8
+7	196	OBC	3	402	2	Farm land-owner	2
+7	197	OBC	3	402	2	Farm land-owner	2
+7	198	OBC	3	103	4	Farm labourer	3
+7	199	ST	2	201	5	Government services (teacher, etc.)	8
+7	200	ST	2	201	3	Farm labourer	3
+7	201	SC	1	201	2	Farm land-owner	2
+7	202	SC	1	201	4	Farm land-owner	2
+7	203	Religious Minority	5	502	2	Government services (teacher, etc.)	8
+7	204	SC	1	201	2	Pensioner	17
+7	205	SC	1	201	4	Farm labourer	3
+7	206	SC	1	201	2	Government services (teacher, etc.)	8
+7	207	SC	1	201	3	Farm labourer	3
+7	208	ST	2	309	4	Domestic help/cook/casual	15
+7	209	ST	2	309	2	Masonry/construction worker	12
+7	210	SC	1	201	3	Government services (teacher, etc.)	8
+7	211	SC	1	201	4	Pensioner	17
+7	212	SC	1	201	4	OTHERS, SPECIFY	-333
+7	213	SC	1	201	5	Government services (teacher, etc.)	8
+7	214	SC	1	201	5	Government services (teacher, etc.)	8
+7	215	SC	1	201	4	Government services (teacher, etc.)	8
+7	216	SC	1	201	3	Farm land-owner	2
+7	217	SC	1	201	3	Government services (teacher, etc.)	8
+7	218	SC	1	201	3	Government services (teacher, etc.)	8
+7	219	SC	1	201	2	Pensioner	17
+7	220	SC	1	201	3	Farm labourer	3
+7	221	SC	1	201	3	Government services (teacher, etc.)	8
+7	222	SC	1	201	4	Farm labourer	3
+7	223	SC	1	201	4	Farm labourer	3
+7	224	SC	1	201	4	Farm land-owner	2
+7	225	SC	1	201	5	Government services (teacher, etc.)	8
+7	226	SC	1	201	4	Farm labourer	3
+7	227	SC	1	201	4	Government services (teacher, etc.)	8
+7	228	SC	1	201	4	Masonry/construction worker	12
+7	229	OBC	3	103	4	Pensioner	17
+7	230	OBC	3	103	3	Government services (teacher, etc.)	8
+7	231	OBC	3	103	5	Private services	9
+7	232	OBC	3	103	4	Farm labourer	3
+7	233	OBC	3	103	4	Government services (teacher, etc.)	8
+7	234	OBC	3	103	1	Farm labourer	3
+7	235	OBC	3	103	1	Farm labourer	3
+7	236	OBC	3	103	3	Farm labourer	3
+7	237	OBC	3	103	4	Pensioner	17
+7	238	OBC	3	103	3	Farm labourer	3
+7	239	OBC	3	103	5	Government services (teacher, etc.)	8
+7	240	OBC	3	103	3	Industry/factory worker(brick making etc)	10
+7	241	OBC	3	103	5	Industrialist	11
+7	242	OBC	3	103	5	Government services (teacher, etc.)	8
+7	243	OBC	3	402	3	Farm labourer	3
+7	244	OBC	3	402	3	Farm land-owner	2
+7	245	OBC	3	103	3	Farm labourer	3
+7	246	OBC	3	402	3	Government services (teacher, etc.)	8
+7	247	OBC	3	103	4	Farm labourer	3
+7	248	OBC	3	103	4	Farm labourer	3
+7	249	OBC	3	103	4	Government services (teacher, etc.)	8

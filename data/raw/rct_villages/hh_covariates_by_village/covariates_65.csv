@@ -1,0 +1,199 @@
+villageid	hh_id	caste_category_label	caste_category	subcaste	roof_type	occupation_label	occupation
+65	101	SC	1	201	3	Farm labourer	3
+65	102	SC	1	201	1	Farm labourer	3
+65	103	SC	1	201	3	Farm labourer	3
+65	104	ST	2	202	3	Farm labourer	3
+65	105	SC	1	201	3	Pensioner	17
+65	106	SC	1	202	3	OTHERS, SPECIFY	-333
+65	107	SC	1	201	3	Farm land-owner	2
+65	108	ST	2	202	3	Farm land-owner	2
+65	109	SC	1	201	2	Farm labourer	3
+65	110	SC	1	201	1	Farm labourer	3
+65	111	SC	1	201	3	Farm land-owner	2
+65	112	SC	1	201	1	Farm labourer	3
+65	113	SC	1	201	1	Farm labourer	3
+65	114	ST	2	202	3	Farm land-owner	2
+65	115	ST	2	202	2	Farm labourer	3
+65	116	General	4	401	3	Farm land-owner	2
+65	117	SC	1	401	3	Dairy/cattle rearing	5
+65	118	General	4	401	3	Farm land-owner	2
+65	119	General	4	401	3	Farm land-owner	2
+65	120	OBC	3	401	3	Farm land-owner	2
+65	121	OBC	3	401	3	Farm land-owner	2
+65	122	OBC	3	402	3	Masonry/construction worker	12
+65	123	General	4	401	3	Farm labourer	3
+65	124	ST	2	202	3	Farm labourer	3
+65	125	ST	2	402	3	Farm labourer	3
+65	126	General	4	402	3	Masonry/construction worker	12
+65	127	OBC	3	402	3	Pensioner	17
+65	128	SC	1	201	3	Farm labourer	3
+65	129	SC	1	201	1	Pensioner	17
+65	130	ST	2	202	3	Farm land-owner	2
+65	131	ST	2	411	5	Government services (teacher, etc.)	8
+65	132	SC	1	201	3	Farm land-owner	2
+65	133	SC	1	402	3	Farm labourer	3
+65	134	OBC	3	402	3	Farm land-owner	2
+65	135	ST	2	202	3	Farm land-owner	2
+65	136	ST	2	202	1	Farm labourer	3
+65	137	SC	1	201	3	Farm labourer	3
+65	138	General	4	401	3	Farm land-owner	2
+65	139	OBC	3	401	3	Farm land-owner	2
+65	140	General	4	401	3	Farm land-owner	2
+65	141	General	4	401	3	Farm land-owner	2
+65	142	General	4	401	3	Farm land-owner	2
+65	143	OBC	3	401	3	Dairy/cattle rearing	5
+65	144	OBC	3	402	3	Government services (teacher, etc.)	8
+65	145	General	4	401	3	Farm land-owner	2
+65	146	General	4	401	5	Farm labourer	3
+65	147	General	4	401	5	Farm labourer	3
+65	148	General	4	401	3	Farm land-owner	2
+65	149	OBC	3	401	3	Farm land-owner	2
+65	150	OBC	3	401	3	Farm land-owner	2
+65	151	General	4	401	3	Farm land-owner	2
+65	152	General	4	401	3	Farm labourer	3
+65	153	General	4	401	3	Farm land-owner	2
+65	154	General	4	401	3	Government services (teacher, etc.)	8
+65	155	ST	2	402	3	Housewife	16
+65	156	General	4	401	5	Farm labourer	3
+65	157	OBC	3	411	3	Farm land-owner	2
+65	158	OBC	3	401	3	Farm land-owner	2
+65	159	General	4	401	3	Farm labourer	3
+65	160	General	4	401	3	Farm labourer	3
+65	161	General	4	401	3	Farm labourer	3
+65	162	General	4	402	3	Farm labourer	3
+65	163	General	4	402	3	Farm labourer	3
+65	164	OBC	3	401	3	Farm land-owner	2
+65	165	General	4	402	3	Farm land-owner	2
+65	166	OBC	3	401	3	Farm land-owner	2
+65	167	OBC	3	401	3	Farm land-owner	2
+65	168	General	4	401	3	Farm land-owner	2
+65	169	General	4	401	3	Pensioner	17
+65	170	OBC	3	401	3	Farm land-owner	2
+65	171	ST	2	-333	3	Government services (teacher, etc.)	8
+65	172	General	4	401	3	Farm labourer	3
+65	173	General	4	401	3	Farm land-owner	2
+65	174	General	4	401	3	Farm labourer	3
+65	175	General	4	401	3	Farm labourer	3
+65	176	OBC	3	401	3	Small business (shop, etc.)	1
+65	177	General	4	401	3	Farm labourer	3
+65	178	OBC	3	401	3	Farm land-owner	2
+65	179	OBC	3	401	3	Farm land-owner	2
+65	180	OBC	3	401	3	Farm land-owner	2
+65	181	General	4	401	3	Farm land-owner	2
+65	182	General	4	401	3	Farm land-owner	2
+65	183	General	4	401	3	Farm land-owner	2
+65	184	General	4	401	3	Farm land-owner	2
+65	185	General	4	401	3	Small business (shop, etc.)	1
+65	186	General	4	401	3	Government services (teacher, etc.)	8
+65	187	General	4	401	3	Farm land-owner	2
+65	188	General	4	401	3	Small business (shop, etc.)	1
+65	189	General	4	401	5	Farm land-owner	2
+65	190	OBC	3	401	3	Farm land-owner	2
+65	191	OBC	3	401	3	Farm land-owner	2
+65	192	General	4	401	3	Farm land-owner	2
+65	193	General	4	401	3	Farm labourer	3
+65	194	General	4	401	3	Farm land-owner	2
+65	195	General	4	401	3	Farm land-owner	2
+65	196	OBC	3	401	3	Government services (teacher, etc.)	8
+65	197	General	4	401	3	Farm labourer	3
+65	198	OBC	3	401	3	Masonry/construction worker	12
+65	199	OBC	3	401	3	Farm land-owner	2
+65	200	OBC	3	401	3	Government services (teacher, etc.)	8
+65	201	General	4	401	3	Farm land-owner	2
+65	202	General	4	401	3	Government services (teacher, etc.)	8
+65	203	General	4	401	3	Farm land-owner	2
+65	204	General	4	401	3	Farm labourer	3
+65	205	General	4	401	3	Government services (teacher, etc.)	8
+65	206	General	4	401	3	Farm land-owner	2
+65	207	General	4	401	3	Farm land-owner	2
+65	208	General	4	401	3	Government services (teacher, etc.)	8
+65	209	General	4	401	3	Farm land-owner	2
+65	210	General	4	401	3	Farm land-owner	2
+65	211	OBC	3	401	3	Farm land-owner	2
+65	212	General	4	401	3	Farm land-owner	2
+65	213	OBC	3	401	3	Farm land-owner	2
+65	214	OBC	3	401	3	Industry/factory worker(brick making etc)	10
+65	215	OBC	3	401	3	Farm land-owner	2
+65	216	General	4	411	3	Farm labourer	3
+65	217	General	4	411	3	Farm labourer	3
+65	218	General	4	411	3	OTHERS, SPECIFY	-333
+65	219	General	4	411	3	Farm labourer	3
+65	220	General	4	411	3	Industry/factory worker(brick making etc)	10
+65	221	General	4	411	3	Farm labourer	3
+65	222	General	4	411	3	Industry/factory worker(brick making etc)	10
+65	223	OBC	3	401	3	Farm land-owner	2
+65	224	OBC	3	401	3	Farm land-owner	2
+65	225	OBC	3	401	3	Farm land-owner	2
+65	226	General	4	401	3	Farm land-owner	2
+65	227	General	4	401	3	Government services (teacher, etc.)	8
+65	228	General	4	401	3	Farm land-owner	2
+65	229	SC	1	201	5	Farm land-owner	2
+65	230	SC	1	201	3	Farm land-owner	2
+65	231	OBC	3	401	3	Farm land-owner	2
+65	232	OBC	3	401	3	Farm land-owner	2
+65	233	OBC	3	401	3	Farm land-owner	2
+65	234	OBC	3	401	3	Farm land-owner	2
+65	235	General	4	401	5	Farm land-owner	2
+65	236	SC	1	201	3	Farm labourer	3
+65	237	SC	1	201	3	Farm land-owner	2
+65	238	SC	1	201	3	Farm labourer	3
+65	239	SC	1	201	3	Farm labourer	3
+65	240	SC	1	201	3	Farm labourer	3
+65	241	SC	1	201	3	Farm labourer	3
+65	242	SC	1	201	2	Farm labourer	3
+65	243	SC	1	201	3	Farm labourer	3
+65	244	SC	1	201	3	Farm labourer	3
+65	245	SC	1	201	3	Farm labourer	3
+65	246	ST	2	202	3	Farm land-owner	2
+65	247	SC	1	201	4	Farm labourer	3
+65	248	SC	1	201	2	Farm labourer	3
+65	249	General	4	401	3	Farm land-owner	2
+65	250	General	4	401	3	Farm land-owner	2
+65	251	General	4	401	3	Farm land-owner	2
+65	252	General	4	402	3	Farm land-owner	2
+65	253	General	4	401	3	Farm land-owner	2
+65	254	General	4	401	3	Farm land-owner	2
+65	255	General	4	401	3	Farm land-owner	2
+65	256	General	4	401	3	Farm labourer	3
+65	257	General	4	401	3	Private services	9
+65	258	OBC	3	401	3	Farm land-owner	2
+65	259	OBC	3	401	3	Farm land-owner	2
+65	260	General	4	401	3	Farm labourer	3
+65	261	General	4	401	3	Farm land-owner	2
+65	262	General	4	401	3	Farm land-owner	2
+65	263	OBC	3	401	3	Farm land-owner	2
+65	264	OBC	3	401	3	Farm land-owner	2
+65	265	OBC	3	401	3	Industry/factory worker(brick making etc)	10
+65	266	General	4	401	3	Farm land-owner	2
+65	267	OBC	3	401	3	Farm land-owner	2
+65	268	OBC	3	401	3	Farm land-owner	2
+65	269	General	4	401	3	Farm land-owner	2
+65	270	OBC	3	401	3	Private services	9
+65	271	General	4	401	3	Farm land-owner	2
+65	272	General	4	401	3	Farm land-owner	2
+65	273	OBC	3	401	3	Farm land-owner	2
+65	274	General	4	401	3	Farm land-owner	2
+65	275	General	4	401	3	Farm land-owner	2
+65	276	OBC	3	401	3	Private services	9
+65	277	General	4	401	3	Small business (shop, etc.)	1
+65	278	General	4	401	3	Farm land-owner	2
+65	279	OBC	3	401	3	Farm land-owner	2
+65	280	General	4	401	3	Farm labourer	3
+65	281	OBC	3	401	3	Farm land-owner	2
+65	282	OBC	3	401	3	Government services (teacher, etc.)	8
+65	283	General	4	401	3	Pensioner	17
+65	284	General	4	401	3	Industry/factory worker(brick making etc)	10
+65	285	General	4	401	3	Government services (teacher, etc.)	8
+65	286	General	4	-333	3	Farm labourer	3
+65	287	OBC	3	-333	3	Farm labourer	3
+65	288	General	4	401	3	Farm land-owner	2
+65	289	General	4	401	3	Farm land-owner	2
+65	290	OBC	3	411	3	Farm land-owner	2
+65	291	General	4	411	3	Government services (teacher, etc.)	8
+65	292	General	4	401	3	Farm land-owner	2
+65	293	General	4	401	3	Farm labourer	3
+65	294	OBC	3	401	3	Industry/factory worker(brick making etc)	10
+65	295	SC	1	201	3	Farm labourer	3
+65	296	General	4	407	4	Farm land-owner	2
+65	297	SC	1	201	4	Farm labourer	3
+65	298	SC	1	201	1	Farm labourer	3

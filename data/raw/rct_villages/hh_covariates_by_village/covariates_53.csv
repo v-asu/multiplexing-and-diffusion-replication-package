@@ -1,0 +1,163 @@
+villageid	hh_id	caste_category_label	caste_category	subcaste	roof_type	occupation_label	occupation
+53	101	OBC	3	404	3	Farm land-owner	2
+53	102	OBC	3	401	3	Dairy/cattle rearing	5
+53	103	OBC	3	401	4	Farm labourer	3
+53	104	General	4	401	3	Farm labourer	3
+53	105	General	4	401	4	Farm land-owner	2
+53	106	General	4	401	4	Farm land-owner	2
+53	107	OBC	3	401	3	Farm land-owner	2
+53	108	OBC	3	401	3	Farm land-owner	2
+53	109	OBC	3	401	4	Farm land-owner	2
+53	110	SC	1	206	5	Farm labourer	3
+53	111	General	4	206	3	Government services (teacher, etc.)	8
+53	112	SC	1	206	3	Farm labourer	3
+53	113	SC	1	206	3	Farm labourer	3
+53	114	OBC	3	206	3	Farm labourer	3
+53	115	OBC	3	404	3	Farm labourer	3
+53	116	ST	2	404	4	Farm labourer	3
+53	117	OBC	3	404	4	Government services (teacher, etc.)	8
+53	118	ST	2	206	4	Farm labourer	3
+53	119	SC	1	206	3	Farm labourer	3
+53	120	General	4	206	3	Farm labourer	3
+53	121	OBC	3	404	5	Farm labourer	3
+53	122	OBC	3	404	3	Farm labourer	3
+53	124	SC	1	201	3	Farm labourer	3
+53	125	General	4	401	3	Farm labourer	3
+53	126	SC	1	206	3	Masonry/construction worker	12
+53	127	General	4	404	3	Dairy/cattle rearing	5
+53	128	ST	2	206	3	Farm labourer	3
+53	129	SC	1	201	3	Farm labourer	3
+53	130	SC	1	206	3	Farming(tenancy)	4
+53	131	SC	1	201	5	OTHERS, SPECIFY	-333
+53	132	SC	1	201	3	Farm land-owner	2
+53	133	SC	1	201	3	Farm labourer	3
+53	134	SC	1	201	3	Farm land-owner	2
+53	135	OBC	3	404	3	Farm labourer	3
+53	136	SC	1	201	3	Farm land-owner	2
+53	137	ST	2	202	2	Farming(tenancy)	4
+53	138	SC	1	201	3	Masonry/construction worker	12
+53	139	SC	1	201	3	Farm labourer	3
+53	140	SC	1	201	5	Farm labourer	3
+53	141	SC	1	201	3	Domestic help/cook/casual	15
+53	142	OBC	3	401	3	Government services (teacher, etc.)	8
+53	143	OBC	3	404	3	Domestic help/cook/casual	15
+53	144	OBC	3	404	3	Private services	9
+53	145	OBC	3	404	3	Farm land-owner	2
+53	146	OBC	3	401	3	Government services (teacher, etc.)	8
+53	147	OBC	3	401	3	Farm labourer	3
+53	148	General	4	401	3	Farm land-owner	2
+53	149	OBC	3	404	2	Farm land-owner	2
+53	150	General	4	401	3	Farm land-owner	2
+53	151	OBC	3	401	3	Farm labourer	3
+53	152	General	4	401	2	Farm land-owner	2
+53	153	OBC	3	404	3	Farm land-owner	2
+53	154	OBC	3	404	3	Farm land-owner	2
+53	155	OBC	3	404	3	Farm land-owner	2
+53	156	OBC	3	404	4	Farm land-owner	2
+53	157	OBC	3	404	3	Farm labourer	3
+53	158	OBC	3	404	3	Dairy/cattle rearing	5
+53	159	OBC	3	404	3	OTHERS, SPECIFY	-333
+53	160	General	4	401	3	Farm land-owner	2
+53	161	General	4	404	3	Dairy/cattle rearing	5
+53	162	General	4	404	3	Industry/factory worker(brick making etc)	10
+53	163	General	4	404	3	Government services (teacher, etc.)	8
+53	164	General	4	404	3	Farm labourer	3
+53	165	General	4	401	5	Farm land-owner	2
+53	166	OBC	3	404	5	Farm land-owner	2
+53	167	OBC	3	404	5	Farm land-owner	2
+53	168	SC	1	206	5	Farm land-owner	2
+53	169	OBC	3	404	3	Farm land-owner	2
+53	170	OBC	3	401	3	Farm labourer	3
+53	171	OBC	3	404	3	Farm labourer	3
+53	172	General	4	404	3	Farm land-owner	2
+53	173	General	4	404	3	Farm land-owner	2
+53	174	General	4	404	3	Farm land-owner	2
+53	175	OBC	3	404	3	Farm land-owner	2
+53	176	ST	2	404	5	Farm land-owner	2
+53	177	OBC	3	404	3	Farm land-owner	2
+53	178	OBC	3	404	3	Farm labourer	3
+53	179	OBC	3	404	3	Farm labourer	3
+53	180	OBC	3	404	2	Farm land-owner	2
+53	181	OBC	3	404	2	Pensioner	17
+53	182	OBC	3	404	3	Farm labourer	3
+53	184	OBC	3	404	3	Dairy/cattle rearing	5
+53	185	General	4	404	3	Government services (teacher, etc.)	8
+53	186	ST	2	404	4	Farm land-owner	2
+53	187	General	4	404	3	Farm labourer	3
+53	188	OBC	3	404	3	Farm land-owner	2
+53	189	ST	2	206	4	Farm labourer	3
+53	190	OBC	3	404	5	Farm land-owner	2
+53	191	OBC	3	404	3	Farm labourer	3
+53	192	OBC	3	404	3	Farm labourer	3
+53	193	OBC	3	401	1	Farm labourer	3
+53	194	OBC	3	401	3	Farm land-owner	2
+53	195	OBC	3	404	3	Farm land-owner	2
+53	196	OBC	3	404	5	Farm land-owner	2
+53	197	SC	1	201	3	Farm labourer	3
+53	198	SC	1	201	3	Farm labourer	3
+53	199	SC	1	201	3	Farm labourer	3
+53	200	SC	1	201	1	Farm labourer	3
+53	201	SC	1	201	4	Domestic help/cook/casual	15
+53	202	SC	1	201	2	Farm labourer	3
+53	203	SC	1	201	3	Farm labourer	3
+53	204	SC	1	201	3	Farm labourer	3
+53	205	SC	1	201	3	Farm labourer	3
+53	206	SC	1	201	3	Farm labourer	3
+53	207	SC	1	201	3	Farm labourer	3
+53	208	SC	1	201	5	Farm labourer	3
+53	209	SC	1	201	3	Farm labourer	3
+53	210	OBC	3	404	3	Dairy/cattle rearing	5
+53	211	General	4	404	3	Farm labourer	3
+53	212	OBC	3	404	3	Farm labourer	3
+53	213	OBC	3	401	5	Government services (teacher, etc.)	8
+53	214	SC	1	201	1	Farm labourer	3
+53	215	General	4	401	4	Farm land-owner	2
+53	216	General	4	401	3	Farm land-owner	2
+53	217	General	4	404	3	Dairy/cattle rearing	5
+53	218	OBC	3	404	3	Farm labourer	3
+53	219	OBC	3	404	2	Farm land-owner	2
+53	220	OBC	3	404	5	Farm land-owner	2
+53	221	OBC	3	404	3	Farm land-owner	2
+53	222	OBC	3	404	3	Farm labourer	3
+53	223	OBC	3	404	3	Private services	9
+53	224	OBC	3	404	3	Housewife	16
+53	225	OBC	3	401	5	Farm land-owner	2
+53	226	General	4	404	3	Dairy/cattle rearing	5
+53	227	OBC	3	404	3	Farm labourer	3
+53	228	General	4	401	5	Farm land-owner	2
+53	229	OBC	3	404	3	Farm land-owner	2
+53	230	OBC	3	404	5	Farm land-owner	2
+53	231	OBC	3	401	3	Farm land-owner	2
+53	232	OBC	3	404	3	Farm land-owner	2
+53	233	OBC	3	401	3	Farm labourer	3
+53	234	OBC	3	401	3	Farm labourer	3
+53	235	OBC	3	401	4	Farm labourer	3
+53	236	General	4	404	3	Industrialist	11
+53	237	OBC	3	404	3	Farm labourer	3
+53	238	OBC	3	404	3	Domestic help/cook/casual	15
+53	239	General	4	401	5	Housewife	16
+53	240	OBC	3	404	4	Farm labourer	3
+53	241	General	4	404	3	Dairy/cattle rearing	5
+53	242	OBC	3	401	4	Farm land-owner	2
+53	243	OBC	3	404	3	Farm labourer	3
+53	244	ST	2	404	5	Farm labourer	3
+53	245	OBC	3	404	3	Pensioner	17
+53	246	General	4	404	3	Small business (shop, etc.)	1
+53	247	General	4	404	3	Farm land-owner	2
+53	248	OBC	3	404	5	Farm land-owner	2
+53	249	OBC	3	404	3	Farm labourer	3
+53	250	OBC	3	404	3	Farm labourer	3
+53	251	General	4	404	3	Farm land-owner	2
+53	252	General	4	404	3	Farm land-owner	2
+53	253	General	4	404	3	Farm land-owner	2
+53	254	General	4	404	3	Farm labourer	3
+53	255	General	4	404	5	Farm land-owner	2
+53	256	General	4	404	3	Dairy/cattle rearing	5
+53	257	General	4	404	3	Dairy/cattle rearing	5
+53	258	General	4	404	3	Farm land-owner	2
+53	259	General	4	404	4	Farm labourer	3
+53	260	General	4	404	4	Dairy/cattle rearing	5
+53	261	General	4	404	4	Industrialist	11
+53	262	General	4	404	3	Farm land-owner	2
+53	263	General	4	404	3	Farm land-owner	2
+53	264	General	4	404	3	Farm land-owner	2

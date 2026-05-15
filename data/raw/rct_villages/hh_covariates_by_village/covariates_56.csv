@@ -1,0 +1,209 @@
+villageid	hh_id	caste_category_label	caste_category	subcaste	roof_type	occupation_label	occupation
+56	102	General	4	102	4	OTHERS, SPECIFY	-333
+56	103	General	4	102	3	Industrialist	11
+56	104	General	4	402	5	Farm labourer	3
+56	105	OBC	3	-333	3	Farm land-owner	2
+56	106	General	4	401	5	Farm land-owner	2
+56	107	General	4	401	5	Farm land-owner	2
+56	108	OBC	3	401	1	Farm labourer	3
+56	109	General	4	408	2	Farm labourer	3
+56	110	General	4	401	5	Farm land-owner	2
+56	111	OBC	3	408	3	Farm labourer	3
+56	112	General	4	408	3	Farm labourer	3
+56	113	General	4	402	3	Farm land-owner	2
+56	114	General	4	401	5	Farm land-owner	2
+56	115	General	4	401	4	Farm labourer	3
+56	116	SC	1	201	4	Farm labourer	3
+56	117	ST	2	309	3	Dairy/cattle rearing	5
+56	118	General	4	401	5	Farm land-owner	2
+56	119	ST	2	209	3	Pensioner	17
+56	120	SC	1	201	5	Farm land-owner	2
+56	121	SC	1	201	3	Industrialist	11
+56	122	SC	1	201	3	Farm labourer	3
+56	123	Religious Minority	5	413	3	Farm labourer	3
+56	124	SC	1	201	3	Farm labourer	3
+56	125	SC	1	201	3	Farm labourer	3
+56	126	SC	1	201	3	Farm labourer	3
+56	127	SC	1	201	3	Government services (teacher, etc.)	8
+56	128	SC	1	201	3	Industry/factory worker(brick making etc)	10
+56	129	SC	1	201	3	Farm labourer	3
+56	130	SC	1	201	3	Farm labourer	3
+56	131	SC	1	201	3	Farm labourer	3
+56	132	SC	1	201	3	Farm labourer	3
+56	133	SC	1	201	3	Farm land-owner	2
+56	134	SC	1	201	3	Farm labourer	3
+56	135	SC	1	201	3	Farm labourer	3
+56	136	SC	1	201	3	Farm land-owner	2
+56	137	SC	1	201	3	Farm land-owner	2
+56	138	SC	1	201	2	Farm labourer	3
+56	139	SC	1	201	2	Farm labourer	3
+56	140	SC	1	201	3	Farm land-owner	2
+56	141	SC	1	201	3	Artist	14
+56	142	SC	1	201	3	Farm labourer	3
+56	143	SC	1	201	3	Farm land-owner	2
+56	144	SC	1	201	3	Farm land-owner	2
+56	145	SC	1	201	3	Farm labourer	3
+56	146	SC	1	201	-333	Farm labourer	3
+56	147	SC	1	201	1	Farm labourer	3
+56	148	SC	1	201	1	Farm labourer	3
+56	149	General	4	401	3	Dairy/cattle rearing	5
+56	150	Missing	-666	-666	-666	Missing	-666
+56	151	General	4	101	3	Dairy/cattle rearing	5
+56	153	Religious Minority	5	413	3	Private services	9
+56	155	OBC	3	401	3	Farm labourer	3
+56	156	General	4	402	3	Domestic help/cook/casual	15
+56	157	General	4	402	3	Government services (teacher, etc.)	8
+56	158	General	4	102	3	Domestic help/cook/casual	15
+56	159	General	4	102	3	Domestic help/cook/casual	15
+56	160	General	4	401	3	Farm labourer	3
+56	161	OBC	3	102	3	Domestic help/cook/casual	15
+56	162	OBC	3	408	5	Industrialist	11
+56	163	OBC	3	413	3	Industrialist	11
+56	164	General	4	-333	5	Farm labourer	3
+56	165	General	4	404	4	Farm labourer	3
+56	166	General	4	404	4	Farm land-owner	2
+56	167	SC	1	201	1	Farm labourer	3
+56	168	SC	1	201	3	Farm labourer	3
+56	169	SC	1	201	3	Farm labourer	3
+56	170	SC	1	201	3	Farm labourer	3
+56	171	SC	1	201	3	Farm labourer	3
+56	172	General	4	402	3	Farm land-owner	2
+56	173	Religious Minority	5	501	5	Farm labourer	3
+56	174	Religious Minority	5	501	3	Farm labourer	3
+56	175	OBC	3	401	5	Farm land-owner	2
+56	176	OBC	3	404	3	Dairy/cattle rearing	5
+56	177	General	4	404	1	Pensioner	17
+56	179	General	4	402	3	Farm land-owner	2
+56	180	OBC	3	-333	1	Farm labourer	3
+56	181	General	4	402	4	Farm labourer	3
+56	182	General	4	402	3	Farm labourer	3
+56	183	General	4	402	3	Dairy/cattle rearing	5
+56	184	General	4	102	3	Domestic help/cook/casual	15
+56	185	ST	2	309	3	Farm labourer	3
+56	186	Missing	-666	-666	-666	Missing	-666
+56	187	OBC	3	-333	3	Farm labourer	3
+56	188	General	4	402	3	Farm labourer	3
+56	189	General	4	402	3	Farm land-owner	2
+56	190	OBC	3	402	3	Farm labourer	3
+56	191	General	4	402	3	Farm land-owner	2
+56	192	General	4	-333	5	Farm land-owner	2
+56	193	General	4	402	2	Farm land-owner	2
+56	194	General	4	401	5	Farm land-owner	2
+56	195	OBC	3	401	3	Farm land-owner	2
+56	196	OBC	3	401	1	Farm land-owner	2
+56	198	General	4	401	5	Farm land-owner	2
+56	199	OBC	3	412	4	Farm labourer	3
+56	200	OBC	3	412	3	Small business (shop, etc.)	1
+56	201	General	4	102	2	Farm land-owner	2
+56	202	OBC	3	-333	3	Farm labourer	3
+56	203	General	4	402	3	Housewife	16
+56	204	General	4	401	3	Farm labourer	3
+56	205	General	4	401	3	Farm labourer	3
+56	206	General	4	401	2	Farm land-owner	2
+56	207	General	4	401	3	Private services	9
+56	208	General	4	402	3	Farm land-owner	2
+56	209	General	4	-333	3	Farm labourer	3
+56	210	General	4	402	3	Farm land-owner	2
+56	211	General	4	402	3	Farm labourer	3
+56	212	ST	2	402	3	Farm land-owner	2
+56	213	OBC	3	402	3	Farm labourer	3
+56	214	General	4	408	3	Pensioner	17
+56	215	General	4	401	3	Farm labourer	3
+56	216	General	4	101	3	Government services (teacher, etc.)	8
+56	217	General	4	401	5	Industrialist	11
+56	218	Religious Minority	5	413	2	Pensioner	17
+56	219	General	4	101	3	Farm land-owner	2
+56	220	General	4	402	3	Farm labourer	3
+56	221	General	4	402	3	OTHERS, SPECIFY	-333
+56	222	General	4	402	3	Farm land-owner	2
+56	223	OBC	3	401	3	Farm labourer	3
+56	224	General	4	401	3	Industrialist	11
+56	225	OBC	3	101	5	Farm labourer	3
+56	226	OBC	3	101	5	Farm labourer	3
+56	227	OBC	3	101	4	Farm labourer	3
+56	228	General	4	402	3	Dairy/cattle rearing	5
+56	229	OBC	3	401	3	Pensioner	17
+56	230	General	4	401	3	Farm land-owner	2
+56	231	OBC	3	401	3	Farm land-owner	2
+56	232	General	4	408	3	Farm labourer	3
+56	236	OBC	3	401	3	Farm land-owner	2
+56	237	General	4	102	2	Small business (shop, etc.)	1
+56	238	General	4	102	3	OTHERS, SPECIFY	-333
+56	239	General	4	102	3	Housewife	16
+56	240	General	4	401	3	Farm land-owner	2
+56	241	OBC	3	402	3	Farm land-owner	2
+56	242	General	4	402	5	Private services	9
+56	243	General	4	402	2	Small business (shop, etc.)	1
+56	244	General	4	402	3	Farm labourer	3
+56	245	General	4	402	2	Farm labourer	3
+56	246	General	4	402	2	Farm labourer	3
+56	247	General	4	402	2	Farm labourer	3
+56	248	ST	2	-333	2	Farm labourer	3
+56	249	Religious Minority	5	413	2	Farm labourer	3
+56	250	General	4	402	3	Private services	9
+56	252	OBC	3	401	1	Farm land-owner	2
+56	253	OBC	3	401	5	Industrialist	11
+56	254	General	4	401	5	Farm land-owner	2
+56	255	Religious Minority	5	501	5	Government services (teacher, etc.)	8
+56	256	ST	2	-333	1	Farm land-owner	2
+56	257	General	4	401	3	Farm land-owner	2
+56	258	General	4	401	3	Farm land-owner	2
+56	259	Religious Minority	5	413	3	Farm labourer	3
+56	260	Religious Minority	5	413	2	Private services	9
+56	261	OBC	3	401	5	Farm land-owner	2
+56	262	General	4	401	5	Farm land-owner	2
+56	263	ST	2	-333	3	Housewife	16
+56	264	ST	2	-333	2	Farm labourer	3
+56	265	General	4	408	3	Farm labourer	3
+56	266	General	4	-333	2	Industry/factory worker(brick making etc)	10
+56	267	General	4	401	3	Farm land-owner	2
+56	268	General	4	104	3	Industrialist	11
+56	269	OBC	3	102	3	Farm labourer	3
+56	270	General	4	401	3	Farm land-owner	2
+56	271	General	4	401	3	Farm land-owner	2
+56	272	General	4	401	3	Housewife	16
+56	273	General	4	-333	3	Farm labourer	3
+56	274	SC	1	201	3	Farm labourer	3
+56	275	Religious Minority	5	413	3	Farm labourer	3
+56	276	General	4	401	3	Farm land-owner	2
+56	277	OBC	3	401	3	Farm labourer	3
+56	278	OBC	3	411	3	Private services	9
+56	279	OBC	3	104	5	Farm land-owner	2
+56	280	General	4	104	2	Housewife	16
+56	281	General	4	402	3	Farm labourer	3
+56	282	OBC	3	-333	3	Farm labourer	3
+56	283	General	4	-333	1	Farm labourer	3
+56	284	Religious Minority	5	413	3	Pensioner	17
+56	285	ST	2	-333	3	Farm labourer	3
+56	286	Religious Minority	5	501	1	Industrialist	11
+56	287	Religious Minority	5	413	2	OTHERS, SPECIFY	-333
+56	288	General	4	401	5	Government services (teacher, etc.)	8
+56	289	Religious Minority	5	413	5	Farm labourer	3
+56	290	General	4	413	3	Farm labourer	3
+56	291	Religious Minority	5	413	1	Pensioner	17
+56	292	General	4	410	5	Industrialist	11
+56	293	Religious Minority	5	413	3	Private services	9
+56	294	Religious Minority	5	413	1	Pensioner	17
+56	295	General	4	101	3	Farm labourer	3
+56	296	General	4	402	3	Farm labourer	3
+56	297	General	4	501	4	Private services	9
+56	298	Religious Minority	5	413	3	Farm land-owner	2
+56	299	General	4	413	3	Private services	9
+56	300	OBC	3	401	3	Farm labourer	3
+56	301	General	4	401	5	Farm land-owner	2
+56	302	OBC	3	401	3	Farm land-owner	2
+56	303	General	4	104	3	Farm land-owner	2
+56	304	General	4	402	4	Farm land-owner	2
+56	305	SC	1	201	3	Industrialist	11
+56	306	SC	1	201	3	Farm labourer	3
+56	307	General	4	401	5	Farm land-owner	2
+56	308	OBC	3	401	3	Farm labourer	3
+56	309	SC	1	402	2	Private services	9
+56	310	Religious Minority	5	413	5	Farm labourer	3
+56	311	ST	2	-333	5	Dairy/cattle rearing	5
+56	312	OBC	3	401	5	Farm labourer	3
+56	313	Religious Minority	5	413	3	Pensioner	17
+56	314	Religious Minority	5	413	3	OTHERS, SPECIFY	-333
+56	315	Religious Minority	5	413	3	Pensioner	17
+56	316	Religious Minority	5	413	3	Small business (shop, etc.)	1
+56	317	General	4	-333	5	Farm land-owner	2

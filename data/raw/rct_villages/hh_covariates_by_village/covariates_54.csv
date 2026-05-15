@@ -1,0 +1,178 @@
+villageid	hh_id	caste_category_label	caste_category	subcaste	roof_type	occupation_label	occupation
+54	101	OBC	3	401	3	Farm land-owner	2
+54	102	General	4	406	3	Farm land-owner	2
+54	103	OBC	3	406	3	Farm labourer	3
+54	104	OBC	3	401	3	Farm land-owner	2
+54	105	OBC	3	401	3	Farm labourer	3
+54	106	OBC	3	406	3	Farm labourer	3
+54	107	OBC	3	406	3	Farm labourer	3
+54	108	SC	1	406	3	Farm labourer	3
+54	109	OBC	3	406	3	Farm land-owner	2
+54	110	OBC	3	406	2	Farm labourer	3
+54	111	General	4	406	3	Farm land-owner	2
+54	112	OBC	3	406	3	Farm land-owner	2
+54	113	OBC	3	406	3	Farm land-owner	2
+54	114	OBC	3	406	3	Farm land-owner	2
+54	115	OBC	3	401	3	Farm labourer	3
+54	116	OBC	3	406	3	Farm land-owner	2
+54	117	SC	1	-333	3	Farm labourer	3
+54	118	General	4	406	3	Farm labourer	3
+54	119	General	4	406	3	Farm labourer	3
+54	120	General	4	406	5	Farm land-owner	2
+54	121	OBC	3	406	3	Dairy/cattle rearing	5
+54	122	OBC	3	401	3	Farm land-owner	2
+54	123	OBC	3	401	3	Farm land-owner	2
+54	124	OBC	3	401	3	Domestic help/cook/casual	15
+54	125	OBC	3	401	3	Farm labourer	3
+54	126	OBC	3	-333	3	Farm labourer	3
+54	127	OBC	3	406	2	Farm land-owner	2
+54	128	OBC	3	-333	3	Farm land-owner	2
+54	129	OBC	3	-333	3	Farm land-owner	2
+54	130	General	4	401	5	Farm land-owner	2
+54	131	OBC	3	401	3	Farm land-owner	2
+54	132	OBC	3	401	3	Farm land-owner	2
+54	133	OBC	3	401	3	Farm land-owner	2
+54	134	OBC	3	401	2	Farm labourer	3
+54	135	OBC	3	401	2	Farm labourer	3
+54	136	ST	2	-333	5	Industrialist	11
+54	137	OBC	3	210	3	Pensioner	17
+54	138	General	4	-333	3	Farm land-owner	2
+54	139	OTHERS, SPECIFY	-333	-333	3	Farm labourer	3
+54	140	OBC	3	-333	3	Domestic help/cook/casual	15
+54	141	OBC	3	-333	3	Farm labourer	3
+54	142	OBC	3	406	3	Farm labourer	3
+54	143	OBC	3	406	3	Farm land-owner	2
+54	144	OTHERS, SPECIFY	-333	-333	3	Industrialist	11
+54	145	OTHERS, SPECIFY	-333	-333	3	Farm labourer	3
+54	146	SC	1	-333	3	Farm labourer	3
+54	147	General	4	-333	2	Farm labourer	3
+54	148	General	4	-333	2	Farm labourer	3
+54	149	OBC	3	-333	4	Farm land-owner	2
+54	150	General	4	-333	3	Industrialist	11
+54	152	OBC	3	409	1	Farm labourer	3
+54	153	OBC	3	201	3	Farm labourer	3
+54	154	SC	1	201	1	Farm labourer	3
+54	155	SC	1	406	3	Farm labourer	3
+54	156	SC	1	-333	5	Small business (shop, etc.)	1
+54	157	General	4	-333	1	Farm labourer	3
+54	158	General	4	-333	3	Small business (shop, etc.)	1
+54	159	General	4	-333	1	Farm labourer	3
+54	160	General	4	-333	3	Farm labourer	3
+54	161	ST	2	-333	5	Farm labourer	3
+54	162	ST	2	-333	4	Farm labourer	3
+54	163	OBC	3	-333	3	Farm land-owner	2
+54	164	OBC	3	-333	3	Masonry/construction worker	12
+54	165	SC	1	-333	4	Farm labourer	3
+54	166	SC	1	-333	3	Farm land-owner	2
+54	167	SC	1	-333	4	Farm land-owner	2
+54	168	SC	1	-333	3	Farm land-owner	2
+54	169	General	4	406	4	Farm labourer	3
+54	170	SC	1	-333	4	Farm labourer	3
+54	171	SC	1	-333	4	Domestic help/cook/casual	15
+54	172	OTHERS, SPECIFY	-333	-333	4	Farm labourer	3
+54	173	General	4	-333	3	Farm labourer	3
+54	174	ST	2	-333	5	Farm labourer	3
+54	175	General	4	-333	4	Farm labourer	3
+54	176	SC	1	201	4	Farm labourer	3
+54	177	General	4	-333	3	Farm land-owner	2
+54	178	Missing	-666	-666	-666	Missing	-666
+54	179	Missing	-666	-666	-666	Missing	-666
+54	180	Missing	-666	-666	-666	Missing	-666
+54	181	Missing	-666	-666	-666	Missing	-666
+54	182	Missing	-666	-666	-666	Missing	-666
+54	183	OBC	3	401	3	Farm labourer	3
+54	184	OBC	3	401	5	Farm land-owner	2
+54	185	General	4	401	5	Farm land-owner	2
+54	186	General	4	401	3	Farm land-owner	2
+54	187	General	4	401	4	Industrialist	11
+54	188	OBC	3	409	3	Farm land-owner	2
+54	189	OBC	3	409	3	Small business (shop, etc.)	1
+54	190	OBC	3	409	3	Farm land-owner	2
+54	191	OBC	3	409	4	Farm land-owner	2
+54	192	SC	1	406	1	Farm land-owner	2
+54	193	OBC	3	406	3	Farm labourer	3
+54	194	OBC	3	406	3	Farm labourer	3
+54	195	OBC	3	-333	3	Industrialist	11
+54	196	OBC	3	-333	3	Farm labourer	3
+54	197	General	4	401	3	Small business (shop, etc.)	1
+54	198	General	4	401	3	Industrialist	11
+54	199	OBC	3	401	3	Farm labourer	3
+54	200	General	4	401	4	Farm land-owner	2
+54	201	General	4	401	4	Farm land-owner	2
+54	202	OTHERS, SPECIFY	-333	-333	3	Farm land-owner	2
+54	203	SC	1	-333	3	Farm land-owner	2
+54	204	OBC	3	-333	3	Small business (shop, etc.)	1
+54	205	OBC	3	-333	3	Farm land-owner	2
+54	206	ST	2	-333	3	Farm land-owner	2
+54	207	SC	1	-333	5	Farm land-owner	2
+54	208	OBC	3	-333	3	Farm land-owner	2
+54	209	OBC	3	403	5	Farm land-owner	2
+54	210	General	4	401	3	Farm land-owner	2
+54	211	General	4	401	3	Private services	9
+54	212	OBC	3	401	3	Farm land-owner	2
+54	213	General	4	401	5	Farm labourer	3
+54	214	General	4	407	3	Private services	9
+54	215	OBC	3	309	3	Farm labourer	3
+54	216	OBC	3	-333	2	Farm labourer	3
+54	217	OBC	3	407	3	Farm labourer	3
+54	218	General	4	-333	3	Farm land-owner	2
+54	219	ST	2	406	2	Farm labourer	3
+54	220	General	4	401	2	Housewife	16
+54	221	General	4	401	5	Farm labourer	3
+54	222	SC	1	207	2	Farm labourer	3
+54	223	SC	1	207	3	Farm land-owner	2
+54	224	General	4	406	3	Farm land-owner	2
+54	225	General	4	406	3	Farm land-owner	2
+54	226	General	4	401	3	Farm land-owner	2
+54	227	OBC	3	401	2	Farm labourer	3
+54	228	OBC	3	401	4	Farm land-owner	2
+54	229	SC	1	206	3	Farm labourer	3
+54	230	OBC	3	401	3	Farm labourer	3
+54	231	OBC	3	401	3	Farm labourer	3
+54	232	OBC	3	401	3	Farm land-owner	2
+54	233	OBC	3	401	3	Farm land-owner	2
+54	234	OBC	3	401	3	Farm land-owner	2
+54	235	SC	1	406	3	Farm labourer	3
+54	236	OBC	3	406	3	Farm land-owner	2
+54	237	OBC	3	406	3	Farm land-owner	2
+54	238	OBC	3	406	3	Pensioner	17
+54	239	General	4	-333	3	Farm labourer	3
+54	240	OBC	3	104	3	Farm labourer	3
+54	241	SC	1	202	3	Farm labourer	3
+54	242	General	4	201	3	Private services	9
+54	243	General	4	201	3	Farm labourer	3
+54	244	SC	1	201	1	Farm labourer	3
+54	245	SC	1	207	-333	Farm labourer	3
+54	246	SC	1	207	3	Farm labourer	3
+54	247	SC	1	201	3	Farm labourer	3
+54	248	SC	1	207	3	Farm labourer	3
+54	249	OBC	3	408	5	Industrialist	11
+54	250	OBC	3	408	5	Private services	9
+54	251	SC	1	201	3	Industrialist	11
+54	252	General	4	408	1	Farm labourer	3
+54	253	General	4	401	5	Farm land-owner	2
+54	254	General	4	401	5	Farm land-owner	2
+54	255	OBC	3	401	3	Farm land-owner	2
+54	256	OBC	3	401	3	Farm land-owner	2
+54	257	OBC	3	406	3	Farm labourer	3
+54	258	General	4	406	2	Farm labourer	3
+54	259	SC	1	406	3	Farm labourer	3
+54	260	SC	1	201	5	Farm labourer	3
+54	261	SC	1	201	5	Farm labourer	3
+54	262	SC	1	202	3	Government services (teacher, etc.)	8
+54	263	General	4	-333	3	Farm land-owner	2
+54	265	General	4	401	5	Industrialist	11
+54	266	OBC	3	-333	4	Small business (shop, etc.)	1
+54	267	OBC	3	-333	4	Farm labourer	3
+54	268	OBC	3	-333	3	Farm labourer	3
+54	269	OBC	3	406	3	Farm labourer	3
+54	270	OBC	3	406	3	Farm labourer	3
+54	271	SC	1	201	3	Farm labourer	3
+54	272	OBC	3	406	3	Farm land-owner	2
+54	273	OBC	3	-333	2	Farm labourer	3
+54	274	OBC	3	-333	3	Farm labourer	3
+54	275	OBC	3	406	3	Farm labourer	3
+54	276	SC	1	201	3	Farm labourer	3
+54	277	OBC	3	406	3	Farm labourer	3
+54	278	OBC	3	406	4	Farm labourer	3
+54	279	OBC	3	401	5	Farm land-owner	2

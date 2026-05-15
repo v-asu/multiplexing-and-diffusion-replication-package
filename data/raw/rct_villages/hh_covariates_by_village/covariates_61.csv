@@ -1,0 +1,334 @@
+villageid	hh_id	caste_category_label	caste_category	subcaste	roof_type	occupation_label	occupation
+61	101	SC	1	201	3	Farm labourer	3
+61	102	SC	1	201	1	Farm labourer	3
+61	103	SC	1	201	3	Farm labourer	3
+61	104	SC	1	201	3	Farm labourer	3
+61	105	SC	1	201	4	Farm labourer	3
+61	106	SC	1	201	3	Farm labourer	3
+61	107	SC	1	201	3	OTHERS, SPECIFY	-333
+61	108	SC	1	201	4	Farm labourer	3
+61	109	SC	1	202	3	Government services (teacher, etc.)	8
+61	110	General	4	-333	3	Farm land-owner	2
+61	111	OBC	3	401	3	Sericulture owner	6
+61	112	OBC	3	402	3	Farm land-owner	2
+61	113	OBC	3	402	3	Farm land-owner	2
+61	114	OBC	3	402	3	Farm labourer	3
+61	115	OBC	3	402	2	Pensioner	17
+61	116	OBC	3	401	3	Farm land-owner	2
+61	117	General	4	401	3	Farm labourer	3
+61	118	OBC	3	401	5	Farm land-owner	2
+61	119	OBC	3	402	3	Pensioner	17
+61	120	OBC	3	402	3	Small business (shop, etc.)	1
+61	121	OBC	3	402	3	Farm land-owner	2
+61	122	OBC	3	402	3	Farm land-owner	2
+61	123	OBC	3	401	3	Farm land-owner	2
+61	124	OBC	3	401	3	Farming(tenancy)	4
+61	125	OBC	3	402	3	Government services (teacher, etc.)	8
+61	126	OBC	3	-333	3	Farm land-owner	2
+61	128	ST	2	-333	3	Pensioner	17
+61	129	OBC	3	402	3	Farm labourer	3
+61	130	OBC	3	-333	3	Private services	9
+61	131	OBC	3	-333	3	Private services	9
+61	132	OBC	3	-333	3	Private services	9
+61	133	General	4	401	3	Farm labourer	3
+61	134	OBC	3	-333	3	Pensioner	17
+61	135	General	4	401	3	Pensioner	17
+61	136	SC	1	402	3	Farm labourer	3
+61	137	SC	1	305	3	Masonry/construction worker	12
+61	138	SC	1	406	3	Farm labourer	3
+61	139	SC	1	406	3	Farm labourer	3
+61	140	SC	1	-333	3	Farm labourer	3
+61	141	ST	2	402	3	Farm labourer	3
+61	142	General	4	102	3	Industrialist	11
+61	143	OBC	3	402	1	Private services	9
+61	144	OBC	3	402	3	Private services	9
+61	145	OBC	3	411	3	Industrialist	11
+61	146	General	4	102	5	Industrialist	11
+61	147	SC	1	201	3	OTHERS, SPECIFY	-333
+61	148	SC	1	201	3	Farm labourer	3
+61	149	SC	1	201	3	OTHERS, SPECIFY	-333
+61	150	SC	1	201	3	Farm labourer	3
+61	151	SC	1	201	3	Farm labourer	3
+61	153	SC	1	201	3	Government services (teacher, etc.)	8
+61	154	SC	1	201	3	Small business (shop, etc.)	1
+61	156	SC	1	202	3	Farm labourer	3
+61	157	OBC	3	402	3	OTHERS, SPECIFY	-333
+61	158	Religious Minority	5	413	3	Small business (shop, etc.)	1
+61	159	OBC	3	401	3	Farm land-owner	2
+61	160	SC	1	201	3	Farm labourer	3
+61	161	SC	1	202	3	Farm labourer	3
+61	162	SC	1	201	3	Farm labourer	3
+61	163	SC	1	201	3	Farm labourer	3
+61	164	SC	1	201	3	Farm labourer	3
+61	165	SC	1	201	3	Government services (teacher, etc.)	8
+61	166	SC	1	201	3	Farm labourer	3
+61	167	SC	1	201	3	OTHERS, SPECIFY	-333
+61	168	OBC	3	401	3	Farm land-owner	2
+61	169	General	4	102	3	OTHERS, SPECIFY	-333
+61	170	OBC	3	413	3	Industrialist	11
+61	171	Religious Minority	5	413	3	Farm labourer	3
+61	173	Religious Minority	5	413	3	Farm labourer	3
+61	174	General	4	402	3	Farm labourer	3
+61	175	General	4	402	3	Farm labourer	3
+61	176	General	4	402	3	Pensioner	17
+61	177	Religious Minority	5	413	3	Farm labourer	3
+61	178	Religious Minority	5	413	4	Farm labourer	3
+61	179	OBC	3	402	3	Domestic help/cook/casual	15
+61	180	Religious Minority	5	413	3	Farm labourer	3
+61	181	General	4	402	3	Farm labourer	3
+61	182	General	4	402	3	Farm labourer	3
+61	183	SC	1	402	3	Farm labourer	3
+61	186	OBC	3	402	3	Farming(tenancy)	4
+61	188	ST	2	309	3	Masonry/construction worker	12
+61	189	OBC	3	309	3	Industrialist	11
+61	190	General	4	402	3	Farm land-owner	2
+61	191	Religious Minority	5	413	3	Farm labourer	3
+61	192	ST	2	402	3	Farm labourer	3
+61	193	OBC	3	402	3	Farm labourer	3
+61	194	OBC	3	402	3	Farm labourer	3
+61	195	OBC	3	401	3	Farm labourer	3
+61	196	OBC	3	401	3	Farm labourer	3
+61	197	SC	1	201	3	Government services (teacher, etc.)	8
+61	198	SC	1	201	3	Government services (teacher, etc.)	8
+61	199	General	4	402	3	Farm labourer	3
+61	200	OBC	3	401	3	Domestic help/cook/casual	15
+61	201	OBC	3	401	3	Industry/factory worker(brick making etc)	10
+61	202	ST	2	309	3	Farm labourer	3
+61	203	SC	1	201	3	Farm labourer	3
+61	204	OBC	3	413	3	Farming(tenancy)	4
+61	205	Religious Minority	5	413	3	Farm labourer	3
+61	206	OBC	3	401	3	Farm land-owner	2
+61	207	Religious Minority	5	413	3	Farm labourer	3
+61	208	General	4	401	3	Farm land-owner	2
+61	209	ST	2	309	3	Farm labourer	3
+61	210	ST	2	309	3	Farm labourer	3
+61	211	ST	2	309	3	Industrialist	11
+61	212	Religious Minority	5	413	3	Masonry/construction worker	12
+61	213	OBC	3	401	3	Farm land-owner	2
+61	214	General	4	401	3	Farm land-owner	2
+61	215	General	4	401	3	Government services (teacher, etc.)	8
+61	216	General	4	401	3	Pensioner	17
+61	217	OBC	3	103	3	Industrialist	11
+61	218	SC	1	402	3	Farm land-owner	2
+61	219	OBC	3	401	3	Farm labourer	3
+61	220	ST	2	309	3	Farm labourer	3
+61	221	General	4	402	3	Farm labourer	3
+61	222	OBC	3	401	3	Farm labourer	3
+61	223	OBC	3	401	3	Small business (shop, etc.)	1
+61	224	OBC	3	401	3	Farm land-owner	2
+61	225	General	4	401	3	Farm land-owner	2
+61	226	OBC	3	401	3	Farm labourer	3
+61	227	OBC	3	401	3	Farm land-owner	2
+61	228	General	4	401	3	Private services	9
+61	229	OBC	3	401	5	Government services (teacher, etc.)	8
+61	230	OBC	3	401	3	Farm land-owner	2
+61	231	SC	1	201	4	Industrialist	11
+61	232	General	4	401	3	Farm labourer	3
+61	233	General	4	401	3	Farm labourer	3
+61	234	OBC	3	401	3	Government services (teacher, etc.)	8
+61	235	SC	1	201	3	Farm labourer	3
+61	236	OBC	3	410	3	Farm labourer	3
+61	237	OBC	3	402	3	Farm land-owner	2
+61	238	OBC	3	401	3	Government services (teacher, etc.)	8
+61	239	OBC	3	406	3	Farm labourer	3
+61	240	OBC	3	407	3	Industrialist	11
+61	241	OBC	3	401	3	Private services	9
+61	242	General	4	401	3	Farm land-owner	2
+61	243	General	4	401	3	Farming(tenancy)	4
+61	244	General	4	401	3	Farm land-owner	2
+61	245	General	4	401	5	Industrialist	11
+61	246	General	4	401	5	Industrialist	11
+61	247	General	4	401	3	Farm land-owner	2
+61	248	OBC	3	401	3	Farm land-owner	2
+61	250	SC	1	402	3	Farm labourer	3
+61	251	OBC	3	401	3	Farm land-owner	2
+61	252	OBC	3	401	3	Pensioner	17
+61	253	General	4	401	3	Industrialist	11
+61	255	General	4	411	5	OTHERS, SPECIFY	-333
+61	256	Missing	-666	-666	-666	Missing	-666
+61	257	General	4	102	3	Small business (shop, etc.)	1
+61	258	OBC	3	411	3	Private services	9
+61	260	SC	1	402	3	Farm labourer	3
+61	261	OBC	3	411	3	Farm labourer	3
+61	262	OBC	3	411	3	Farm labourer	3
+61	263	OBC	3	411	3	Farm land-owner	2
+61	264	General	4	411	3	Pensioner	17
+61	266	OBC	3	411	3	OTHERS, SPECIFY	-333
+61	267	OBC	3	411	3	Small business (shop, etc.)	1
+61	268	Missing	-666	-666	-666	Missing	-666
+61	269	OBC	3	408	3	Farm labourer	3
+61	270	OBC	3	411	3	Small business (shop, etc.)	1
+61	271	General	4	408	3	Small business (shop, etc.)	1
+61	272	General	4	402	3	Farm land-owner	2
+61	273	General	4	102	3	OTHERS, SPECIFY	-333
+61	274	General	4	401	3	Farm land-owner	2
+61	275	General	4	402	3	Farm land-owner	2
+61	276	OBC	3	402	3	Farm land-owner	2
+61	277	OBC	3	401	3	Farm land-owner	2
+61	278	General	4	401	3	Pensioner	17
+61	279	OBC	3	401	3	Farm land-owner	2
+61	280	General	4	401	3	Farm land-owner	2
+61	281	OBC	3	401	3	Pensioner	17
+61	282	General	4	102	3	Industry/factory worker(brick making etc)	10
+61	283	OBC	3	402	3	Pensioner	17
+61	284	General	4	401	3	Private services	9
+61	285	General	4	401	3	Farming(tenancy)	4
+61	286	General	4	401	3	Farm land-owner	2
+61	287	General	4	401	3	Farm land-owner	2
+61	288	General	4	401	3	Farm land-owner	2
+61	289	OBC	3	-333	3	Industrialist	11
+61	290	OBC	3	-333	3	Industrialist	11
+61	291	OBC	3	-333	2	Industrialist	11
+61	292	OBC	3	-333	3	Farm labourer	3
+61	293	OBC	3	409	2	Farming(tenancy)	4
+61	294	General	4	101	3	Farm labourer	3
+61	295	SC	1	407	3	Private services	9
+61	296	Missing	-666	-666	-666	Missing	-666
+61	297	General	4	401	3	Farm labourer	3
+61	298	General	4	401	3	Farm land-owner	2
+61	299	ST	2	309	3	Government services (teacher, etc.)	8
+61	300	OBC	3	401	3	Farm land-owner	2
+61	301	OBC	3	401	3	Farm land-owner	2
+61	302	OBC	3	-333	3	Farm land-owner	2
+61	304	OBC	3	401	3	Farm land-owner	2
+61	305	ST	2	205	3	Farm land-owner	2
+61	306	OBC	3	406	3	Farm land-owner	2
+61	307	General	4	401	3	OTHERS, SPECIFY	-333
+61	308	General	4	102	3	Refuse To Say	-888
+61	309	OBC	3	-333	3	Government services (teacher, etc.)	8
+61	310	OBC	3	-333	3	Domestic help/cook/casual	15
+61	311	OBC	3	401	3	Farm land-owner	2
+61	312	OBC	3	401	3	Government services (teacher, etc.)	8
+61	313	OBC	3	401	3	Farm land-owner	2
+61	314	General	4	101	3	Private services	9
+61	315	General	4	102	3	Farm labourer	3
+61	316	General	4	401	3	Farm land-owner	2
+61	317	OBC	3	-333	3	Industrialist	11
+61	318	General	4	401	3	Private services	9
+61	319	General	4	102	3	Private services	9
+61	320	OBC	3	402	3	Government services (teacher, etc.)	8
+61	321	General	4	402	3	Farm land-owner	2
+61	322	General	4	402	3	OTHERS, SPECIFY	-333
+61	323	OBC	3	406	3	Farm labourer	3
+61	324	OBC	3	413	3	Industrialist	11
+61	325	General	4	401	3	Farm labourer	3
+61	326	OBC	3	408	3	Farm labourer	3
+61	327	OBC	3	104	3	Farm labourer	3
+61	328	General	4	401	3	Farm labourer	3
+61	329	OBC	3	401	3	Private services	9
+61	330	General	4	401	3	Farm land-owner	2
+61	331	OBC	3	402	1	Farm labourer	3
+61	332	Religious Minority	5	413	3	Government services (teacher, etc.)	8
+61	333	Religious Minority	5	413	3	Government services (teacher, etc.)	8
+61	334	OBC	3	410	3	Industrialist	11
+61	335	General	4	401	3	Farm land-owner	2
+61	336	OBC	3	401	3	Farm land-owner	2
+61	337	OBC	3	408	3	Industrialist	11
+61	338	OBC	3	401	3	Industrialist	11
+61	339	OBC	3	102	3	Industrialist	11
+61	340	OBC	3	104	1	Pensioner	17
+61	341	General	4	102	3	Government services (teacher, etc.)	8
+61	343	General	4	102	3	Industrialist	11
+61	344	SC	1	402	4	Farm labourer	3
+61	345	SC	1	402	3	Farm labourer	3
+61	346	OBC	3	402	5	Government services (teacher, etc.)	8
+61	347	OBC	3	402	3	Farm land-owner	2
+61	348	OBC	3	402	3	Farm land-owner	2
+61	349	OBC	3	102	3	Pensioner	17
+61	350	OBC	3	102	3	Industrialist	11
+61	351	OBC	3	411	3	Small business (shop, etc.)	1
+61	352	OBC	3	411	3	Government services (teacher, etc.)	8
+61	353	Religious Minority	5	413	3	Government services (teacher, etc.)	8
+61	354	General	4	104	3	Small business (shop, etc.)	1
+61	355	Religious Minority	5	413	3	Pensioner	17
+61	356	OBC	3	104	3	Farm labourer	3
+61	357	OBC	3	411	3	Industrialist	11
+61	358	OBC	3	104	3	Farm labourer	3
+61	359	Religious Minority	5	412	3	Industrialist	11
+61	360	Religious Minority	5	413	3	Industrialist	11
+61	361	OBC	3	413	4	Pensioner	17
+61	362	OBC	3	413	2	Private services	9
+61	363	OBC	3	402	3	Farm labourer	3
+61	364	OBC	3	402	3	Farm labourer	3
+61	365	OBC	3	402	3	Farm labourer	3
+61	366	OBC	3	408	3	Government services (teacher, etc.)	8
+61	367	Religious Minority	5	413	3	Farm labourer	3
+61	368	General	4	401	3	Government services (teacher, etc.)	8
+61	369	General	4	401	3	Farm labourer	3
+61	371	OBC	3	102	3	Private services	9
+61	372	OBC	3	401	3	Farm land-owner	2
+61	374	Religious Minority	5	413	3	Farm labourer	3
+61	375	Religious Minority	5	413	3	Farm labourer	3
+61	376	General	4	401	3	Farm land-owner	2
+61	377	General	4	401	3	Government services (teacher, etc.)	8
+61	378	General	4	401	3	Farm land-owner	2
+61	379	General	4	401	3	Farm land-owner	2
+61	380	General	4	401	3	Farm land-owner	2
+61	381	Religious Minority	5	401	3	Farm land-owner	2
+61	382	Religious Minority	5	413	2	Small business (shop, etc.)	1
+61	383	OBC	3	402	3	Private services	9
+61	384	OBC	3	402	3	Small business (shop, etc.)	1
+61	385	OBC	3	402	3	Private services	9
+61	386	OBC	3	402	3	Farm labourer	3
+61	387	OBC	3	402	3	Private services	9
+61	388	General	4	401	3	Farm land-owner	2
+61	389	General	4	401	3	Farm land-owner	2
+61	390	General	4	401	3	Farm land-owner	2
+61	391	SC	1	402	3	Government services (teacher, etc.)	8
+61	392	OBC	3	402	3	Farm labourer	3
+61	393	General	4	401	3	Farm land-owner	2
+61	394	General	4	401	3	Farm land-owner	2
+61	395	General	4	402	3	Farm land-owner	2
+61	396	OBC	3	401	3	Farm land-owner	2
+61	397	OBC	3	413	3	Farm labourer	3
+61	398	General	4	401	3	Farm land-owner	2
+61	399	General	4	401	3	Farm land-owner	2
+61	400	General	4	401	3	Farm labourer	3
+61	401	General	4	401	3	Farm labourer	3
+61	402	OBC	3	413	3	Industrialist	11
+61	403	SC	1	201	1	Farm labourer	3
+61	404	SC	1	201	3	Farm labourer	3
+61	405	SC	1	209	3	Farm labourer	3
+61	406	SC	1	201	3	Farm labourer	3
+61	407	SC	1	209	2	Farm land-owner	2
+61	408	SC	1	209	3	Farm labourer	3
+61	409	SC	1	209	3	Farm labourer	3
+61	410	SC	1	201	3	Private services	9
+61	411	SC	1	201	3	Farm land-owner	2
+61	412	SC	1	201	3	Farm labourer	3
+61	413	SC	1	201	3	Farm labourer	3
+61	414	SC	1	201	3	Private services	9
+61	415	SC	1	201	3	Farm labourer	3
+61	416	SC	1	201	1	Industrialist	11
+61	417	SC	1	209	3	Farm land-owner	2
+61	418	SC	1	209	3	Farm land-owner	2
+61	419	SC	1	201	3	Farm land-owner	2
+61	420	SC	1	201	3	Farm labourer	3
+61	421	SC	1	201	3	Farm labourer	3
+61	422	SC	1	201	3	Farm labourer	3
+61	423	SC	1	201	1	Industrialist	11
+61	424	SC	1	201	1	Farm labourer	3
+61	425	SC	1	201	3	Private services	9
+61	426	SC	1	201	3	Farm labourer	3
+61	427	SC	1	201	3	Pensioner	17
+61	428	SC	1	201	2	Farm labourer	3
+61	429	SC	1	201	3	Government services (teacher, etc.)	8
+61	430	SC	1	201	3	Farm land-owner	2
+61	431	SC	1	201	3	Farm land-owner	2
+61	432	SC	1	201	3	Farm labourer	3
+61	433	SC	1	201	3	Farm labourer	3
+61	434	SC	1	201	3	Farm land-owner	2
+61	435	SC	1	201	3	Farm land-owner	2
+61	436	SC	1	201	3	Farm land-owner	2
+61	437	SC	1	201	3	Industrialist	11
+61	438	SC	1	201	3	Pensioner	17
+61	439	Missing	-666	-666	-666	Missing	-666
+61	440	SC	1	201	2	Farm labourer	3
+61	441	SC	1	201	3	Farm labourer	3
+61	442	Religious Minority	5	413	3	Farm labourer	3
+61	443	General	4	401	3	Farm land-owner	2
+61	444	General	4	401	3	Farm land-owner	2
+61	445	General	4	401	3	Farm land-owner	2
+61	446	OBC	3	413	3	Industrialist	11
+61	447	OBC	3	413	3	Pensioner	17
+61	448	OBC	3	401	3	Farm land-owner	2

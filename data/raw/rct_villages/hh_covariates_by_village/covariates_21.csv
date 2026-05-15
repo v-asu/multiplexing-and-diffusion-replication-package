@@ -1,0 +1,186 @@
+villageid	hh_id	caste_category_label	caste_category	subcaste	roof_type	occupation_label	occupation
+21	101	OBC	3	401	3	Farm land-owner	2
+21	102	General	4	401	3	Farm land-owner	2
+21	103	General	4	401	3	Farm land-owner	2
+21	104	OBC	3	401	3	Farm land-owner	2
+21	105	SC	1	201	3	Government services (teacher, etc.)	8
+21	106	SC	1	201	3	Government services (teacher, etc.)	8
+21	107	SC	1	202	3	Government services (teacher, etc.)	8
+21	108	ST	2	309	4	Farm labourer	3
+21	109	General	4	309	3	Farm land-owner	2
+21	110	SC	1	201	3	Farm labourer	3
+21	111	ST	2	309	3	OTHERS, SPECIFY	-333
+21	112	ST	2	309	3	Farm labourer	3
+21	113	SC	1	309	3	Farm labourer	3
+21	114	ST	2	309	3	Farm labourer	3
+21	115	SC	1	309	3	Masonry/construction worker	12
+21	116	SC	1	201	3	Farm labourer	3
+21	117	SC	1	309	3	Masonry/construction worker	12
+21	118	SC	1	309	3	Masonry/construction worker	12
+21	119	SC	1	309	3	Masonry/construction worker	12
+21	120	ST	2	309	3	Masonry/construction worker	12
+21	121	ST	2	309	3	Farm labourer	3
+21	122	ST	2	309	3	Farm labourer	3
+21	123	ST	2	309	3	Masonry/construction worker	12
+21	124	OBC	3	401	3	Farm land-owner	2
+21	125	ST	2	309	3	Farm labourer	3
+21	126	ST	2	309	3	Masonry/construction worker	12
+21	127	ST	2	309	3	Farm labourer	3
+21	128	ST	2	309	3	Farm labourer	3
+21	129	ST	2	309	3	Farm labourer	3
+21	130	ST	2	309	3	Masonry/construction worker	12
+21	131	ST	2	309	5	Farm land-owner	2
+21	132	ST	2	309	3	Private services	9
+21	133	OBC	3	408	3	Dairy/cattle rearing	5
+21	134	ST	2	309	3	Farm labourer	3
+21	135	ST	2	309	3	Farm labourer	3
+21	136	ST	2	309	3	Farm land-owner	2
+21	137	OBC	3	401	3	Farm land-owner	2
+21	138	OBC	3	401	3	Farm land-owner	2
+21	139	OBC	3	401	3	Farm land-owner	2
+21	140	OBC	3	401	3	Farm land-owner	2
+21	141	SC	1	309	3	Masonry/construction worker	12
+21	142	General	4	401	3	Farm land-owner	2
+21	143	General	4	401	3	Farm land-owner	2
+21	144	General	4	401	3	Farm land-owner	2
+21	145	General	4	401	3	Farm land-owner	2
+21	146	OBC	3	401	3	Farm land-owner	2
+21	147	OBC	3	401	3	Farm land-owner	2
+21	148	General	4	401	3	Farm land-owner	2
+21	149	General	4	401	3	Farm land-owner	2
+21	150	General	4	401	3	Farm land-owner	2
+21	151	General	4	401	3	Farm land-owner	2
+21	152	General	4	401	3	Farm labourer	3
+21	153	OBC	3	401	3	Farm land-owner	2
+21	154	OBC	3	401	3	Farm land-owner	2
+21	155	General	4	401	3	Industry/factory worker(brick making etc)	10
+21	156	ST	2	309	3	Farm labourer	3
+21	157	OBC	3	401	3	Domestic help/cook/casual	15
+21	158	General	4	401	3	Farm labourer	3
+21	159	General	4	401	3	Farm labourer	3
+21	160	OBC	3	408	3	Farm labourer	3
+21	161	General	4	408	3	Farm land-owner	2
+21	162	ST	2	309	3	Farm land-owner	2
+21	163	General	4	408	3	Masonry/construction worker	12
+21	164	General	4	402	3	Masonry/construction worker	12
+21	165	General	4	402	3	Farm labourer	3
+21	166	ST	2	309	3	Farm labourer	3
+21	167	ST	2	309	4	Farm labourer	3
+21	168	General	4	408	3	Masonry/construction worker	12
+21	169	General	4	408	3	Masonry/construction worker	12
+21	170	ST	2	309	3	Farm labourer	3
+21	171	ST	2	309	3	Farm labourer	3
+21	172	ST	2	309	3	Industrialist	11
+21	173	SC	1	201	3	Domestic help/cook/casual	15
+21	174	ST	2	309	3	Farm labourer	3
+21	175	SC	1	206	3	Masonry/construction worker	12
+21	176	ST	2	309	3	Farm land-owner	2
+21	177	General	4	401	3	Farm labourer	3
+21	178	General	4	401	3	Dairy/cattle rearing	5
+21	179	ST	2	309	3	Farm labourer	3
+21	180	General	4	401	3	Farm land-owner	2
+21	181	General	4	401	3	Farm land-owner	2
+21	182	General	4	401	3	Sericulture owner	6
+21	183	ST	2	309	3	Farm labourer	3
+21	184	ST	2	309	3	Farm labourer	3
+21	185	General	4	401	3	Farm land-owner	2
+21	186	OBC	3	-333	3	Farm labourer	3
+21	187	General	4	401	3	Farm land-owner	2
+21	188	OBC	3	402	3	Domestic help/cook/casual	15
+21	189	General	4	401	3	Farm land-owner	2
+21	190	OBC	3	-333	3	Industry/factory worker(brick making etc)	10
+21	191	General	4	401	3	Farm land-owner	2
+21	192	General	4	401	3	Farm land-owner	2
+21	193	General	4	401	3	Farm land-owner	2
+21	194	General	4	401	3	Farm land-owner	2
+21	195	General	4	401	3	Farm land-owner	2
+21	196	General	4	401	3	Farm labourer	3
+21	197	General	4	401	3	Farm land-owner	2
+21	198	ST	2	309	3	Industry/factory worker(brick making etc)	10
+21	199	General	4	401	3	Farm land-owner	2
+21	200	General	4	402	3	Farm land-owner	2
+21	201	General	4	402	3	Farm land-owner	2
+21	202	OBC	3	401	3	Farm labourer	3
+21	203	General	4	402	3	Farm labourer	3
+21	204	General	4	402	3	Farm land-owner	2
+21	205	General	4	401	3	Farm land-owner	2
+21	206	ST	2	309	3	Masonry/construction worker	12
+21	207	ST	2	309	3	Masonry/construction worker	12
+21	208	ST	2	309	3	Industry/factory worker(brick making etc)	10
+21	209	General	4	309	3	Industrialist	11
+21	210	General	4	401	3	Farm labourer	3
+21	211	General	4	402	3	Farm land-owner	2
+21	212	General	4	402	3	Farm land-owner	2
+21	213	General	4	401	3	Farm land-owner	2
+21	214	General	4	401	3	Farm land-owner	2
+21	215	General	4	401	3	Farm land-owner	2
+21	216	General	4	102	3	OTHERS, SPECIFY	-333
+21	217	General	4	402	3	Farm labourer	3
+21	218	General	4	401	3	Farm land-owner	2
+21	219	General	4	401	3	Farm land-owner	2
+21	220	General	4	401	3	Farm land-owner	2
+21	221	General	4	401	3	Farm land-owner	2
+21	222	General	4	401	3	Farm land-owner	2
+21	223	General	4	401	3	Housewife	16
+21	224	General	4	401	5	Farm land-owner	2
+21	225	General	4	102	3	OTHERS, SPECIFY	-333
+21	226	SC	1	201	3	Private services	9
+21	227	SC	1	201	1	Farm labourer	3
+21	228	ST	2	309	3	Industrialist	11
+21	229	ST	2	309	3	Farm labourer	3
+21	230	SC	1	201	3	Farm labourer	3
+21	231	SC	1	201	3	Farm labourer	3
+21	232	SC	1	201	3	Farm labourer	3
+21	233	SC	1	201	4	Farm labourer	3
+21	234	SC	1	201	3	Farm labourer	3
+21	235	SC	1	201	3	Farm labourer	3
+21	236	SC	1	201	3	Farm labourer	3
+21	237	SC	1	201	5	Private services	9
+21	238	OBC	3	-333	3	Farm labourer	3
+21	239	General	4	401	3	Farm land-owner	2
+21	240	General	4	401	3	Farm land-owner	2
+21	241	General	4	401	3	Farm land-owner	2
+21	242	General	4	401	3	Farm land-owner	2
+21	243	General	4	401	3	Farm land-owner	2
+21	244	General	4	401	3	Farm land-owner	2
+21	245	General	4	401	3	Farm land-owner	2
+21	246	General	4	401	3	Farm land-owner	2
+21	247	General	4	401	3	Farm land-owner	2
+21	248	General	4	401	3	Farm land-owner	2
+21	249	General	4	309	3	Masonry/construction worker	12
+21	250	ST	2	309	3	Masonry/construction worker	12
+21	251	General	4	401	3	Farm land-owner	2
+21	252	General	4	401	3	Farm land-owner	2
+21	253	General	4	401	5	Farm labourer	3
+21	254	General	4	401	3	Farm land-owner	2
+21	255	General	4	401	3	Farm land-owner	2
+21	256	General	4	402	3	Farm land-owner	2
+21	257	General	4	402	3	Masonry/construction worker	12
+21	258	General	4	401	3	Dairy/cattle rearing	5
+21	259	General	4	401	5	Farm labourer	3
+21	260	General	4	401	5	Farm land-owner	2
+21	261	OBC	3	401	3	Farm land-owner	2
+21	262	General	4	402	3	Farm land-owner	2
+21	263	General	4	401	3	Farm land-owner	2
+21	264	General	4	401	3	Farm land-owner	2
+21	265	General	4	401	3	Farm land-owner	2
+21	266	General	4	401	3	Farm land-owner	2
+21	267	General	4	401	3	Industry/factory worker(brick making etc)	10
+21	268	General	4	401	3	Farm land-owner	2
+21	269	General	4	401	3	Farm labourer	3
+21	270	General	4	401	3	Farm labourer	3
+21	271	General	4	401	3	Farm land-owner	2
+21	272	General	4	-333	3	Industrialist	11
+21	273	Religious Minority	5	309	3	Masonry/construction worker	12
+21	274	Religious Minority	5	309	4	Farm labourer	3
+21	275	OBC	3	408	3	Masonry/construction worker	12
+21	276	OBC	3	408	3	Farm labourer	3
+21	277	General	4	407	3	Industrialist	11
+21	279	General	4	401	3	Farm labourer	3
+21	280	OBC	3	408	3	Farm labourer	3
+21	281	ST	2	309	3	Dairy/cattle rearing	5
+21	282	ST	2	309	3	Farm land-owner	2
+21	283	ST	2	309	3	Farm labourer	3
+21	284	ST	2	309	1	Farm labourer	3
+21	285	Religious Minority	5	309	3	Farm land-owner	2
+21	286	Religious Minority	5	309	3	Farm labourer	3

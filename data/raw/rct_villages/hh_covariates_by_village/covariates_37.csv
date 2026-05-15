@@ -1,0 +1,137 @@
+villageid	hh_id	caste_category_label	caste_category	subcaste	roof_type	occupation_label	occupation
+37	101	General	4	403	5	Farm land-owner	2
+37	102	General	4	403	3	Farm land-owner	2
+37	103	ST	2	309	3	Farming(tenancy)	4
+37	104	General	4	403	5	Government services (teacher, etc.)	8
+37	105	General	4	403	3	Farm labourer	3
+37	106	General	4	403	3	Farm land-owner	2
+37	107	OBC	3	403	5	Farm land-owner	2
+37	108	OBC	3	403	5	Farm land-owner	2
+37	109	ST	2	405	5	Private services	9
+37	110	General	4	403	5	Domestic help/cook/casual	15
+37	111	General	4	403	3	Farm labourer	3
+37	112	General	4	403	4	Farm labourer	3
+37	113	General	4	403	4	Farm labourer	3
+37	114	General	4	403	4	Farm labourer	3
+37	115	OBC	3	405	4	Industry/factory worker(brick making etc)	10
+37	116	OBC	3	405	5	Farm land-owner	2
+37	117	OBC	3	405	3	Industry/factory worker(brick making etc)	10
+37	118	SC	1	201	5	Farm land-owner	2
+37	119	SC	1	201	4	Farm labourer	3
+37	121	SC	1	201	5	Farm labourer	3
+37	122	SC	1	201	4	Farm labourer	3
+37	123	SC	1	201	4	Farm labourer	3
+37	124	General	4	403	5	Farm land-owner	2
+37	125	General	4	403	5	Farm land-owner	2
+37	126	General	4	403	5	Farm land-owner	2
+37	127	General	4	403	5	Farm land-owner	2
+37	128	OBC	3	403	4	Masonry/construction worker	12
+37	129	OBC	3	405	3	Farm land-owner	2
+37	130	General	4	403	5	Industry/factory worker(brick making etc)	10
+37	131	General	4	102	5	Pensioner	17
+37	132	OBC	3	403	4	Farm land-owner	2
+37	133	Missing	-666	-666	-666	Missing	-666
+37	134	OBC	3	302	3	Farm land-owner	2
+37	135	General	4	403	3	Farm labourer	3
+37	136	General	4	403	3	Farm labourer	3
+37	137	OBC	3	403	2	Masonry/construction worker	12
+37	138	General	4	403	4	Farm labourer	3
+37	139	OBC	3	401	2	Farm labourer	3
+37	140	General	4	102	5	Industry/factory worker(brick making etc)	10
+37	141	General	4	102	4	Private services	9
+37	142	OBC	3	102	5	Housewife	16
+37	143	General	4	403	3	Farm labourer	3
+37	144	General	4	403	1	Farm labourer	3
+37	145	Religious Minority	5	403	2	Farm labourer	3
+37	146	General	4	403	4	Farm labourer	3
+37	147	General	4	403	3	Masonry/construction worker	12
+37	148	General	4	403	3	Masonry/construction worker	12
+37	149	OBC	3	403	3	Industrialist	11
+37	150	OBC	3	403	3	Farm land-owner	2
+37	151	General	4	403	3	Farm labourer	3
+37	152	General	4	403	4	Farm land-owner	2
+37	153	General	4	403	2	Private services	9
+37	154	OBC	3	302	5	Farm labourer	3
+37	155	OBC	3	403	5	Farm labourer	3
+37	156	OBC	3	403	4	OTHERS, SPECIFY	-333
+37	157	General	4	403	3	Farm labourer	3
+37	158	OBC	3	405	4	Private services	9
+37	159	Religious Minority	5	403	5	Farm labourer	3
+37	160	ST	2	402	4	Farm labourer	3
+37	161	Religious Minority	5	402	4	Industrialist	11
+37	162	ST	2	202	-333	Farm labourer	3
+37	163	General	4	202	3	Farm labourer	3
+37	164	General	4	202	3	Farm labourer	3
+37	165	ST	2	202	3	Farm labourer	3
+37	166	ST	2	202	3	Farm labourer	3
+37	167	SC	1	202	3	Farm labourer	3
+37	168	ST	2	202	3	Farm labourer	3
+37	169	ST	2	202	3	Farm labourer	3
+37	170	SC	1	201	4	Farm land-owner	2
+37	171	SC	1	201	4	Farm labourer	3
+37	172	SC	1	201	4	Industry/factory worker(brick making etc)	10
+37	173	SC	1	201	4	Farm labourer	3
+37	174	SC	1	207	5	Masonry/construction worker	12
+37	175	SC	1	202	4	Industry/factory worker(brick making etc)	10
+37	176	SC	1	207	2	Farming(tenancy)	4
+37	177	OBC	3	405	5	Sericulture labourer	7
+37	178	General	4	405	3	Government services (teacher, etc.)	8
+37	179	General	4	405	3	Government services (teacher, etc.)	8
+37	180	General	4	405	4	Private services	9
+37	181	General	4	405	4	Pensioner	17
+37	182	General	4	405	3	Farm labourer	3
+37	183	General	4	405	2	Farm labourer	3
+37	184	General	4	403	4	Farm labourer	3
+37	185	Religious Minority	5	403	5	Farm land-owner	2
+37	186	General	4	402	4	Small business (shop, etc.)	1
+37	187	General	4	405	3	Small business (shop, etc.)	1
+37	188	SC	1	403	3	Farming(tenancy)	4
+37	189	SC	1	201	2	Farm labourer	3
+37	190	OBC	3	404	2	Farming(tenancy)	4
+37	191	SC	1	204	5	Industry/factory worker(brick making etc)	10
+37	192	General	4	403	3	Farm labourer	3
+37	193	General	4	403	2	Farm labourer	3
+37	194	OBC	3	403	2	Farm labourer	3
+37	195	General	4	402	5	Farm land-owner	2
+37	196	OBC	3	403	5	Farm land-owner	2
+37	197	ST	2	206	2	Private services	9
+37	198	OBC	3	403	5	Farm land-owner	2
+37	199	OBC	3	403	5	Farm labourer	3
+37	200	OBC	3	403	4	Farm labourer	3
+37	201	General	4	201	2	Farm labourer	3
+37	202	General	4	305	3	Dairy/cattle rearing	5
+37	203	General	4	403	3	Dairy/cattle rearing	5
+37	204	SC	1	201	4	Farm labourer	3
+37	205	ST	2	202	4	Farm labourer	3
+37	206	SC	1	207	4	Farming(tenancy)	4
+37	207	ST	2	405	5	Farm land-owner	2
+37	208	General	4	405	3	Farm land-owner	2
+37	209	General	4	405	4	Industry/factory worker(brick making etc)	10
+37	210	OBC	3	405	3	Farm labourer	3
+37	211	SC	1	207	4	Farming(tenancy)	4
+37	212	General	4	403	3	Farm labourer	3
+37	213	Religious Minority	5	-333	5	Farm labourer	3
+37	214	General	4	403	2	Domestic help/cook/casual	15
+37	215	General	4	403	3	Domestic help/cook/casual	15
+37	216	SC	1	201	4	Farm labourer	3
+37	217	General	4	405	3	Farm land-owner	2
+37	218	General	4	405	3	Farm land-owner	2
+37	219	General	4	405	4	Farm land-owner	2
+37	220	Missing	-666	-666	-666	Missing	-666
+37	221	Missing	-666	-666	-666	Missing	-666
+37	222	Missing	-666	-666	-666	Missing	-666
+37	223	ST	2	405	4	Masonry/construction worker	12
+37	224	OBC	3	403	3	Private services	9
+37	225	General	4	403	5	Farm labourer	3
+37	226	General	4	302	3	Farm labourer	3
+37	227	General	4	403	3	Farm labourer	3
+37	228	ST	2	309	3	Farming(tenancy)	4
+37	229	General	4	401	5	Small business (shop, etc.)	1
+37	230	OBC	3	405	3	Farm land-owner	2
+37	231	Missing	-666	-666	-666	Missing	-666
+37	232	General	4	403	3	Farm land-owner	2
+37	233	General	4	403	4	Farming(tenancy)	4
+37	234	General	4	403	4	Farming(tenancy)	4
+37	235	General	4	403	4	Farming(tenancy)	4
+37	236	OBC	3	402	4	Industry/factory worker(brick making etc)	10
+37	237	ST	2	404	5	Farm labourer	3

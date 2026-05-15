@@ -1,0 +1,156 @@
+villageid	hh_id	caste_category_label	caste_category	subcaste	roof_type	occupation_label	occupation
+38	101	OBC	3	401	3	Farm land-owner	2
+38	102	General	4	401	5	Farm land-owner	2
+38	103	OBC	3	401	5	Farm land-owner	2
+38	104	General	4	206	2	Farm labourer	3
+38	105	General	4	401	5	Industrialist	11
+38	106	OBC	3	102	5	Industrialist	11
+38	107	OBC	3	401	5	Farm land-owner	2
+38	108	General	4	401	5	Farm land-owner	2
+38	109	General	4	403	5	Private services	9
+38	110	General	4	401	5	Industrialist	11
+38	111	General	4	502	5	Industrialist	11
+38	112	SC	1	201	3	Government services (teacher, etc.)	8
+38	114	SC	1	209	5	Private services	9
+38	115	SC	1	201	3	Farm labourer	3
+38	116	SC	1	201	3	Farm labourer	3
+38	117	General	4	401	5	Farming(tenancy)	4
+38	118	OBC	3	401	5	Farm land-owner	2
+38	119	SC	1	201	3	Masonry/construction worker	12
+38	120	SC	1	201	4	Farm labourer	3
+38	121	General	4	401	5	Farm labourer	3
+38	122	General	4	401	5	Industrialist	11
+38	123	SC	1	202	5	Private services	9
+38	124	General	4	103	3	Farm labourer	3
+38	125	SC	1	201	3	Farm labourer	3
+38	126	SC	1	201	2	Farm labourer	3
+38	127	SC	1	201	3	Masonry/construction worker	12
+38	128	SC	1	201	3	Dairy/cattle rearing	5
+38	129	SC	1	201	4	Housewife	16
+38	130	SC	1	201	5	Farm labourer	3
+38	131	SC	1	207	2	Farm labourer	3
+38	132	SC	1	207	2	Farm labourer	3
+38	133	SC	1	201	5	Masonry/construction worker	12
+38	134	SC	1	201	5	Farm land-owner	2
+38	135	SC	1	201	2	Industry/factory worker(brick making etc)	10
+38	136	SC	1	201	4	Farm labourer	3
+38	137	SC	1	201	4	Sericulture labourer	7
+38	138	SC	1	201	4	Government services (teacher, etc.)	8
+38	139	SC	1	201	1	Domestic help/cook/casual	15
+38	140	SC	1	201	3	Farm labourer	3
+38	141	SC	1	201	1	Farm labourer	3
+38	142	SC	1	209	2	Masonry/construction worker	12
+38	143	SC	1	209	2	Farm labourer	3
+38	144	SC	1	209	3	Farm labourer	3
+38	145	SC	1	201	2	Private services	9
+38	146	SC	1	201	2	Masonry/construction worker	12
+38	147	SC	1	201	4	Masonry/construction worker	12
+38	148	ST	2	309	3	Farm labourer	3
+38	149	SC	1	201	3	Masonry/construction worker	12
+38	150	SC	1	209	4	Private services	9
+38	151	SC	1	201	5	Industrialist	11
+38	152	SC	1	201	5	Farm labourer	3
+38	153	SC	1	201	2	Farm labourer	3
+38	154	SC	1	201	1	Industry/factory worker(brick making etc)	10
+38	155	SC	1	201	1	Farm labourer	3
+38	156	SC	1	209	3	Government services (teacher, etc.)	8
+38	157	SC	1	209	3	Farm land-owner	2
+38	158	SC	1	201	3	Farm labourer	3
+38	159	SC	1	201	5	Farm labourer	3
+38	160	SC	1	201	5	Farm land-owner	2
+38	161	SC	1	201	5	Farm labourer	3
+38	162	ST	2	207	5	Farm labourer	3
+38	163	SC	1	201	3	Masonry/construction worker	12
+38	164	SC	1	201	5	Industrialist	11
+38	165	SC	1	201	2	Masonry/construction worker	12
+38	166	SC	1	201	4	Farm labourer	3
+38	167	SC	1	201	4	Farm labourer	3
+38	168	OBC	3	209	3	Farm labourer	3
+38	169	SC	1	201	4	Farm labourer	3
+38	170	SC	1	201	3	Farm labourer	3
+38	171	ST	2	201	3	Farm labourer	3
+38	172	SC	1	201	1	Farm labourer	3
+38	173	SC	1	201	1	Farm labourer	3
+38	174	SC	1	201	1	Farm labourer	3
+38	175	SC	1	201	3	Farm labourer	3
+38	176	SC	1	209	5	Farm labourer	3
+38	177	General	4	401	5	OTHERS, SPECIFY	-333
+38	178	General	4	401	5	Farm land-owner	2
+38	179	General	4	401	5	Farm land-owner	2
+38	180	General	4	401	5	Farm labourer	3
+38	181	OBC	3	401	3	Industrialist	11
+38	182	OBC	3	401	1	Pensioner	17
+38	183	ST	2	205	3	Farm labourer	3
+38	184	ST	2	205	4	Sericulture owner	6
+38	185	OBC	3	401	5	Farm land-owner	2
+38	186	General	4	401	3	Sericulture owner	6
+38	187	OBC	3	401	5	Small business (shop, etc.)	1
+38	188	OBC	3	401	3	Industrialist	11
+38	189	OBC	3	401	1	Farm land-owner	2
+38	190	General	4	401	3	Government services (teacher, etc.)	8
+38	191	OBC	3	401	3	Dairy/cattle rearing	5
+38	192	OBC	3	401	3	Dairy/cattle rearing	5
+38	193	General	4	401	3	Farm land-owner	2
+38	194	OBC	3	401	5	Farm land-owner	2
+38	195	General	4	401	5	Private services	9
+38	196	OBC	3	401	5	Farm land-owner	2
+38	197	OBC	3	401	5	Farm land-owner	2
+38	198	OBC	3	206	3	Industrialist	11
+38	199	SC	1	206	5	Industry/factory worker(brick making etc)	10
+38	200	General	4	103	3	Pensioner	17
+38	201	General	4	401	5	Farm land-owner	2
+38	202	OBC	3	401	4	Farm labourer	3
+38	203	OBC	3	401	5	Private services	9
+38	204	General	4	401	5	Farm land-owner	2
+38	205	OBC	3	401	3	Farm land-owner	2
+38	206	OBC	3	401	1	Farm land-owner	2
+38	207	OBC	3	401	2	Farm labourer	3
+38	208	General	4	401	3	Farm land-owner	2
+38	209	General	4	401	3	Farm land-owner	2
+38	210	General	4	401	5	Farm land-owner	2
+38	211	OBC	3	401	5	Farm land-owner	2
+38	212	General	4	301	4	Farm labourer	3
+38	213	General	4	405	5	Dairy/cattle rearing	5
+38	214	General	4	401	2	Farm land-owner	2
+38	215	General	4	401	3	Farm labourer	3
+38	216	SC	1	201	3	Private services	9
+38	217	SC	1	201	4	Government services (teacher, etc.)	8
+38	218	SC	1	201	4	Private services	9
+38	219	SC	1	201	3	Farm labourer	3
+38	220	SC	1	201	1	Farm labourer	3
+38	221	SC	1	201	1	Masonry/construction worker	12
+38	222	OBC	3	401	5	Farm land-owner	2
+38	223	SC	1	206	3	Farm labourer	3
+38	224	SC	1	206	3	Farm labourer	3
+38	225	SC	1	201	3	Masonry/construction worker	12
+38	226	SC	1	201	3	Farm labourer	3
+38	227	General	4	-333	3	Farm labourer	3
+38	228	General	4	401	3	Farm land-owner	2
+38	229	ST	2	205	3	Farm labourer	3
+38	230	ST	2	205	3	Farm labourer	3
+38	231	General	4	401	3	Farm land-owner	2
+38	232	SC	1	206	3	Farm labourer	3
+38	233	SC	1	206	3	Farm labourer	3
+38	234	OBC	3	301	3	Private services	9
+38	236	OBC	3	206	3	Pensioner	17
+38	237	General	4	401	5	Private services	9
+38	238	OBC	3	401	3	Farm land-owner	2
+38	239	General	4	401	3	Private services	9
+38	240	General	4	401	3	Farm labourer	3
+38	241	OBC	3	411	2	Farm labourer	3
+38	242	OBC	3	401	5	Farm land-owner	2
+38	243	General	4	401	1	Farm land-owner	2
+38	244	SC	1	209	3	Industry/factory worker(brick making etc)	10
+38	245	OBC	3	401	5	Farm labourer	3
+38	246	OBC	3	401	3	Domestic help/cook/casual	15
+38	247	SC	1	201	5	Industrialist	11
+38	248	ST	2	309	2	Industry/factory worker(brick making etc)	10
+38	249	OBC	3	401	3	Farm land-owner	2
+38	250	OBC	3	401	3	Farm land-owner	2
+38	251	General	4	401	4	Farm land-owner	2
+38	252	General	4	401	4	Farm land-owner	2
+38	253	General	4	401	4	Farm land-owner	2
+38	254	ST	2	309	2	Farm land-owner	2
+38	255	OBC	3	401	3	Farm land-owner	2
+38	256	General	4	401	5	Small business (shop, etc.)	1
+38	258	OBC	3	401	5	Farm land-owner	2

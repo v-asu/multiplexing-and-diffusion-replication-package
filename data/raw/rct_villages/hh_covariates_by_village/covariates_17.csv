@@ -1,0 +1,233 @@
+villageid	hh_id	caste_category_label	caste_category	subcaste	roof_type	occupation_label	occupation
+17	101	SC	1	201	1	Farm labourer	3
+17	102	ST	2	309	3	Farm labourer	3
+17	103	SC	1	201	3	Farm labourer	3
+17	104	SC	1	207	3	Farm labourer	3
+17	105	SC	1	201	3	Farm labourer	3
+17	106	SC	1	201	3	Small business (shop, etc.)	1
+17	107	SC	1	201	3	Small business (shop, etc.)	1
+17	108	SC	1	201	3	Farm labourer	3
+17	109	SC	1	201	3	Farm labourer	3
+17	110	SC	1	201	3	Farm labourer	3
+17	111	SC	1	201	3	Farm labourer	3
+17	112	SC	1	201	3	Pensioner	17
+17	113	SC	1	201	3	Farm labourer	3
+17	114	SC	1	201	3	Private services	9
+17	115	SC	1	201	3	Farm labourer	3
+17	116	SC	1	201	3	Industrialist	11
+17	117	SC	1	201	3	Farm labourer	3
+17	118	SC	1	201	3	Pensioner	17
+17	119	SC	1	201	3	Farm labourer	3
+17	120	SC	1	201	3	Farm labourer	3
+17	121	SC	1	201	3	Farm labourer	3
+17	122	SC	1	201	3	Farm labourer	3
+17	123	SC	1	207	3	Farm labourer	3
+17	124	SC	1	201	3	Farm labourer	3
+17	125	SC	1	202	3	Farm labourer	3
+17	126	SC	1	207	3	Farm labourer	3
+17	127	SC	1	207	3	Farm labourer	3
+17	128	SC	1	201	2	Farm labourer	3
+17	129	SC	1	201	3	Farm labourer	3
+17	130	SC	1	201	3	Farm labourer	3
+17	131	SC	1	201	3	Farm labourer	3
+17	132	SC	1	201	3	Farm labourer	3
+17	133	SC	1	201	3	Farm labourer	3
+17	134	SC	1	201	3	Farm labourer	3
+17	135	SC	1	201	3	Pensioner	17
+17	136	SC	1	201	3	Pensioner	17
+17	137	SC	1	207	3	Farm labourer	3
+17	138	SC	1	201	3	Industrialist	11
+17	139	SC	1	201	3	Farm labourer	3
+17	140	SC	1	201	3	Farm labourer	3
+17	141	SC	1	201	3	Farm labourer	3
+17	142	SC	1	201	3	Farm labourer	3
+17	143	SC	1	201	3	Farm labourer	3
+17	144	SC	1	201	3	Farm labourer	3
+17	145	SC	1	201	3	Farm labourer	3
+17	146	SC	1	201	3	Pensioner	17
+17	147	SC	1	201	3	Government services (teacher, etc.)	8
+17	148	SC	1	201	3	Farm labourer	3
+17	149	SC	1	201	3	Farm labourer	3
+17	150	SC	1	201	3	Farm labourer	3
+17	151	SC	1	201	3	Farm labourer	3
+17	152	SC	1	201	3	Farm labourer	3
+17	153	SC	1	201	3	Farm labourer	3
+17	154	SC	1	201	3	Farm labourer	3
+17	155	SC	1	201	3	Farm labourer	3
+17	156	SC	1	201	3	Farm land-owner	2
+17	157	OBC	3	407	3	Farm land-owner	2
+17	158	OBC	3	407	3	Farm land-owner	2
+17	159	OBC	3	407	3	Farm land-owner	2
+17	160	General	4	401	3	Farm land-owner	2
+17	161	General	4	401	3	Pensioner	17
+17	162	General	4	401	3	Farm labourer	3
+17	163	SC	1	201	3	Farm labourer	3
+17	164	General	4	401	3	Farm land-owner	2
+17	165	General	4	401	3	Small business (shop, etc.)	1
+17	166	General	4	401	3	Farm land-owner	2
+17	167	General	4	401	3	Farm land-owner	2
+17	168	General	4	401	3	Farm land-owner	2
+17	169	General	4	401	3	Farm land-owner	2
+17	170	General	4	401	3	Farm land-owner	2
+17	171	General	4	401	5	Farm land-owner	2
+17	172	General	4	401	3	Farm land-owner	2
+17	173	General	4	401	5	Farm land-owner	2
+17	174	General	4	401	5	Private services	9
+17	175	OBC	3	402	3	Farm land-owner	2
+17	176	General	4	401	3	Farm land-owner	2
+17	177	General	4	401	3	Pensioner	17
+17	178	General	4	401	3	Farm land-owner	2
+17	179	SC	1	206	4	Farm labourer	3
+17	180	General	4	401	3	Farm land-owner	2
+17	181	General	4	401	5	Farm land-owner	2
+17	182	General	4	401	3	Government services (teacher, etc.)	8
+17	183	General	4	401	3	Farm land-owner	2
+17	184	General	4	401	3	Farm land-owner	2
+17	185	General	4	401	3	Farm land-owner	2
+17	186	General	4	401	3	Farm land-owner	2
+17	187	General	4	401	3	Farm labourer	3
+17	188	General	4	401	3	Industrialist	11
+17	189	General	4	401	3	Farm land-owner	2
+17	190	OBC	3	-333	3	Farm labourer	3
+17	191	General	4	401	3	Farm land-owner	2
+17	192	OBC	3	401	3	Farm land-owner	2
+17	193	SC	1	202	3	Farm labourer	3
+17	194	General	4	401	3	Private services	9
+17	195	General	4	401	3	Farm land-owner	2
+17	196	General	4	401	3	Farm labourer	3
+17	197	General	4	401	3	Farm land-owner	2
+17	198	General	4	401	3	Farm land-owner	2
+17	199	SC	1	-333	5	Pensioner	17
+17	200	ST	2	309	3	Pensioner	17
+17	201	ST	2	309	1	Pensioner	17
+17	202	SC	1	201	3	Farm labourer	3
+17	203	SC	1	202	3	Farm labourer	3
+17	204	SC	1	-333	3	Farm labourer	3
+17	205	SC	1	202	5	Industry/factory worker(brick making etc)	10
+17	206	ST	2	309	3	Farm land-owner	2
+17	207	ST	2	309	3	Farm labourer	3
+17	208	ST	2	309	3	Pensioner	17
+17	209	ST	2	309	3	Farm labourer	3
+17	210	SC	1	202	3	Farm labourer	3
+17	211	SC	1	202	3	Farm labourer	3
+17	212	SC	1	202	3	Farm labourer	3
+17	213	SC	1	309	3	Farm land-owner	2
+17	214	SC	1	309	3	Farm land-owner	2
+17	215	SC	1	202	3	Farm labourer	3
+17	216	SC	1	202	3	Farm labourer	3
+17	217	SC	1	202	3	Farm labourer	3
+17	218	ST	2	309	5	Government services (teacher, etc.)	8
+17	219	ST	2	309	3	Farm labourer	3
+17	220	ST	2	309	3	Farm labourer	3
+17	221	ST	2	309	3	Dairy/cattle rearing	5
+17	222	ST	2	309	3	Farm labourer	3
+17	223	SC	1	201	3	Farm labourer	3
+17	224	SC	1	201	3	Farm labourer	3
+17	225	SC	1	202	3	Farm labourer	3
+17	226	SC	1	401	3	Private services	9
+17	227	General	4	401	5	Farm land-owner	2
+17	228	General	4	401	3	Farm land-owner	2
+17	229	General	4	401	3	Pensioner	17
+17	230	ST	2	309	3	Farm labourer	3
+17	231	ST	2	309	3	Farm labourer	3
+17	232	General	4	102	3	Farm labourer	3
+17	233	General	4	401	3	Farm labourer	3
+17	234	ST	2	309	3	Farm land-owner	2
+17	235	ST	2	309	3	Farm labourer	3
+17	236	General	4	401	3	Farm land-owner	2
+17	237	General	4	102	3	Private services	9
+17	238	General	4	401	3	Farm labourer	3
+17	239	General	4	401	3	Farm land-owner	2
+17	240	General	4	401	3	Farm land-owner	2
+17	241	General	4	401	3	Farm labourer	3
+17	242	SC	1	309	3	Farm labourer	3
+17	243	General	4	401	3	Farm land-owner	2
+17	244	General	4	401	3	Government services (teacher, etc.)	8
+17	245	General	4	401	2	Farm labourer	3
+17	246	General	4	401	3	Farm labourer	3
+17	247	General	4	401	3	Farm land-owner	2
+17	248	General	4	401	3	Farm land-owner	2
+17	249	General	4	401	3	Farm labourer	3
+17	250	General	4	401	3	Pensioner	17
+17	251	ST	2	309	3	Farm labourer	3
+17	252	ST	2	309	3	Farm labourer	3
+17	253	ST	2	309	3	Farm labourer	3
+17	254	General	4	103	3	Pensioner	17
+17	255	SC	1	309	2	Farm land-owner	2
+17	256	SC	1	309	3	Farm land-owner	2
+17	257	SC	1	309	3	Farm land-owner	2
+17	258	SC	1	201	3	Farm land-owner	2
+17	259	ST	2	309	3	Farm labourer	3
+17	260	ST	2	309	3	Farm labourer	3
+17	261	SC	1	309	5	Farm land-owner	2
+17	262	SC	1	309	3	Farm land-owner	2
+17	263	SC	1	309	3	Farm land-owner	2
+17	264	SC	1	309	5	Farm land-owner	2
+17	265	SC	1	309	3	Farm land-owner	2
+17	266	SC	1	309	3	Farm land-owner	2
+17	267	Religious Minority	5	501	3	Farm labourer	3
+17	268	Religious Minority	5	206	3	Farm land-owner	2
+17	269	OBC	3	-333	3	Farm labourer	3
+17	270	ST	2	407	3	Farm land-owner	2
+17	271	General	4	401	3	Farm land-owner	2
+17	272	General	4	401	3	Farm land-owner	2
+17	273	OBC	3	102	3	Farm land-owner	2
+17	274	General	4	102	3	Pensioner	17
+17	275	OBC	3	-333	3	Pensioner	17
+17	276	ST	2	309	3	Pensioner	17
+17	277	General	4	401	3	Industrialist	11
+17	278	ST	2	-333	3	Farm labourer	3
+17	279	General	4	401	3	Farm labourer	3
+17	280	Religious Minority	5	-333	3	Farm labourer	3
+17	281	General	4	401	3	Farm labourer	3
+17	282	ST	2	-333	5	Farm land-owner	2
+17	283	General	4	401	3	Farm land-owner	2
+17	284	General	4	401	3	Pensioner	17
+17	285	General	4	401	3	Government services (teacher, etc.)	8
+17	286	General	4	401	3	Farm land-owner	2
+17	287	General	4	401	3	Farm land-owner	2
+17	288	General	4	401	3	Farm land-owner	2
+17	289	General	4	401	3	Farm land-owner	2
+17	290	General	4	207	3	Pensioner	17
+17	291	SC	1	207	3	Farm labourer	3
+17	292	SC	1	201	3	Government services (teacher, etc.)	8
+17	293	SC	1	201	3	Small business (shop, etc.)	1
+17	294	SC	1	201	3	Farm labourer	3
+17	295	SC	1	201	3	Farm land-owner	2
+17	296	ST	2	201	3	Farm land-owner	2
+17	297	ST	2	201	3	Farm land-owner	2
+17	298	General	4	202	3	Farm labourer	3
+17	299	SC	1	201	3	Farm labourer	3
+17	300	SC	1	201	3	Farm labourer	3
+17	301	SC	1	201	3	Farm labourer	3
+17	302	SC	1	201	3	Farm labourer	3
+17	303	SC	1	201	3	Farm labourer	3
+17	304	ST	2	201	3	Farm labourer	3
+17	305	SC	1	201	3	Private services	9
+17	306	SC	1	201	3	Farm labourer	3
+17	307	SC	1	201	3	Farm labourer	3
+17	308	SC	1	207	3	Government services (teacher, etc.)	8
+17	309	SC	1	207	3	Farm labourer	3
+17	310	ST	2	201	5	Farm land-owner	2
+17	311	ST	2	201	3	Farm labourer	3
+17	312	ST	2	201	3	Farm land-owner	2
+17	313	SC	1	207	3	Farm labourer	3
+17	315	SC	1	201	3	Farm labourer	3
+17	316	SC	1	201	3	Farm labourer	3
+17	317	SC	1	201	3	Farm land-owner	2
+17	318	SC	1	201	3	Farm labourer	3
+17	319	SC	1	201	3	Farm labourer	3
+17	320	SC	1	201	3	Farm labourer	3
+17	321	SC	1	201	3	Farm labourer	3
+17	322	ST	2	201	3	Farm land-owner	2
+17	323	SC	1	201	5	OTHERS, SPECIFY	-333
+17	324	SC	1	201	5	Farm land-owner	2
+17	325	SC	1	201	3	Farm labourer	3
+17	326	SC	1	201	3	Farm labourer	3
+17	327	SC	1	201	3	Farm labourer	3
+17	328	ST	2	201	4	Farm land-owner	2
+17	329	SC	1	201	5	Government services (teacher, etc.)	8
+17	330	SC	1	201	3	Farm labourer	3
+17	331	SC	1	201	3	Farm labourer	3
+17	332	SC	1	201	3	Farm labourer	3
+17	333	ST	2	201	5	Farm land-owner	2

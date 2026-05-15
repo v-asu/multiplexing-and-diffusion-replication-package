@@ -1,0 +1,200 @@
+villageid	hh_id	caste_category_label	caste_category	subcaste	roof_type	occupation_label	occupation
+64	101	OBC	3	401	5	Farm land-owner	2
+64	102	General	4	401	4	Farm land-owner	2
+64	103	OBC	3	401	3	Farm land-owner	2
+64	104	OBC	3	401	3	Farm land-owner	2
+64	105	SC	1	201	3	Farm land-owner	2
+64	106	OBC	3	308	3	Farm land-owner	2
+64	107	SC	1	201	3	Farm labourer	3
+64	108	General	4	401	3	Farm labourer	3
+64	109	General	4	401	5	Farm land-owner	2
+64	110	OBC	3	401	3	Pensioner	17
+64	111	OBC	3	401	3	Farm land-owner	2
+64	112	OBC	3	401	5	Farm land-owner	2
+64	113	OBC	3	401	3	Farm labourer	3
+64	114	General	4	401	5	Farm land-owner	2
+64	115	General	4	401	5	Farm labourer	3
+64	116	OBC	3	401	3	Farm labourer	3
+64	117	OBC	3	401	5	Farm labourer	3
+64	118	General	4	401	5	Farm land-owner	2
+64	119	OBC	3	401	3	Farm labourer	3
+64	120	OBC	3	401	5	Private services	9
+64	121	OBC	3	401	3	Industrialist	11
+64	122	OBC	3	401	3	Farm land-owner	2
+64	123	OBC	3	401	4	Farm land-owner	2
+64	124	OBC	3	401	3	Government services (teacher, etc.)	8
+64	125	OBC	3	401	5	Farm land-owner	2
+64	126	General	4	401	3	Farm land-owner	2
+64	127	OBC	3	401	3	Farm land-owner	2
+64	128	SC	1	201	3	Farm labourer	3
+64	129	SC	1	201	4	Farm labourer	3
+64	130	SC	1	201	4	Farm labourer	3
+64	131	SC	1	201	3	Farm labourer	3
+64	132	SC	1	201	3	Private services	9
+64	133	SC	1	201	5	Private services	9
+64	134	SC	1	201	3	Farm labourer	3
+64	135	SC	1	201	5	Farm land-owner	2
+64	136	SC	1	201	3	Farm labourer	3
+64	137	SC	1	201	3	OTHERS, SPECIFY	-333
+64	138	SC	1	201	2	Private services	9
+64	139	SC	1	201	2	Pensioner	17
+64	140	SC	1	201	3	Government services (teacher, etc.)	8
+64	141	OBC	3	401	5	Farm labourer	3
+64	142	General	4	401	3	Farm labourer	3
+64	143	General	4	401	3	Farm labourer	3
+64	144	OBC	3	401	3	Farm land-owner	2
+64	145	OBC	3	401	3	Dairy/cattle rearing	5
+64	146	OBC	3	401	5	Government services (teacher, etc.)	8
+64	147	OBC	3	401	3	Farm labourer	3
+64	148	OBC	3	401	3	Pensioner	17
+64	149	OBC	3	401	1	Farm land-owner	2
+64	150	OBC	3	401	3	Government services (teacher, etc.)	8
+64	151	General	4	401	3	Farm labourer	3
+64	152	General	4	401	5	Farm labourer	3
+64	153	OBC	3	401	3	Farm labourer	3
+64	154	General	4	401	3	Farm land-owner	2
+64	155	OBC	3	401	3	Farm labourer	3
+64	156	General	4	401	3	Farm land-owner	2
+64	157	General	4	401	3	Farm land-owner	2
+64	158	Religious Minority	5	413	3	Farm labourer	3
+64	159	General	4	401	3	Farm land-owner	2
+64	160	OBC	3	401	5	Farm land-owner	2
+64	161	General	4	401	3	Farm land-owner	2
+64	162	OBC	3	401	3	Private services	9
+64	163	General	4	401	3	Farm land-owner	2
+64	164	General	4	401	3	Farm land-owner	2
+64	165	General	4	401	3	Industry/factory worker(brick making etc)	10
+64	166	OBC	3	401	5	Farm land-owner	2
+64	167	OBC	3	401	3	Farm labourer	3
+64	168	OBC	3	401	3	Farm labourer	3
+64	169	OBC	3	401	5	Farm land-owner	2
+64	170	OBC	3	401	3	Farm labourer	3
+64	171	General	4	401	3	Industry/factory worker(brick making etc)	10
+64	172	General	4	102	3	Farm land-owner	2
+64	173	General	4	102	3	Farm land-owner	2
+64	174	General	4	102	3	Farm land-owner	2
+64	175	OBC	3	401	5	Government services (teacher, etc.)	8
+64	176	General	4	401	3	Farm land-owner	2
+64	177	OBC	3	401	3	Farm land-owner	2
+64	178	OBC	3	401	5	Industrialist	11
+64	179	OBC	3	401	5	Farm land-owner	2
+64	180	SC	1	206	1	Farm labourer	3
+64	181	SC	1	206	3	Farm labourer	3
+64	182	General	4	401	3	Domestic help/cook/casual	15
+64	183	Religious Minority	5	413	3	Industrialist	11
+64	184	OBC	3	408	3	Farm labourer	3
+64	185	Religious Minority	5	413	3	Farm labourer	3
+64	186	OBC	3	409	5	Industrialist	11
+64	187	OBC	3	408	3	Industry/factory worker(brick making etc)	10
+64	188	ST	2	408	3	Farm labourer	3
+64	189	OBC	3	409	5	Farm land-owner	2
+64	190	Religious Minority	5	413	3	Industrialist	11
+64	191	OBC	3	402	3	Farm land-owner	2
+64	192	General	4	401	3	Farm land-owner	2
+64	193	SC	1	201	4	Farm labourer	3
+64	194	Religious Minority	5	413	4	OTHERS, SPECIFY	-333
+64	195	Religious Minority	5	413	3	OTHERS, SPECIFY	-333
+64	196	SC	1	201	1	Farm labourer	3
+64	197	SC	1	201	4	Farm labourer	3
+64	198	SC	1	201	3	Private services	9
+64	199	SC	1	201	3	Farm labourer	3
+64	200	Religious Minority	5	413	3	Domestic help/cook/casual	15
+64	201	Religious Minority	5	413	3	Government services (teacher, etc.)	8
+64	202	Religious Minority	5	413	3	Farm land-owner	2
+64	203	OBC	3	408	3	Industrialist	11
+64	204	OBC	3	401	5	Industrialist	11
+64	205	General	4	401	5	Industry/factory worker(brick making etc)	10
+64	206	OBC	3	401	5	Industrialist	11
+64	207	General	4	401	3	Industrialist	11
+64	208	OBC	3	401	3	Farm land-owner	2
+64	209	OBC	3	401	3	Farm land-owner	2
+64	210	General	4	401	3	Industry/factory worker(brick making etc)	10
+64	211	General	4	401	3	Farm land-owner	2
+64	212	OBC	3	401	3	Farm land-owner	2
+64	213	General	4	401	5	Farm land-owner	2
+64	214	OBC	3	401	3	Industrialist	11
+64	215	OBC	3	401	3	Industrialist	11
+64	216	OBC	3	401	3	Farm land-owner	2
+64	217	OBC	3	401	3	Industrialist	11
+64	218	OBC	3	401	3	Farm land-owner	2
+64	219	OBC	3	-333	3	Farm land-owner	2
+64	220	OBC	3	-333	3	Farm land-owner	2
+64	221	OBC	3	410	3	Farm labourer	3
+64	222	OBC	3	410	3	Farm labourer	3
+64	223	OBC	3	410	5	Farm labourer	3
+64	224	OBC	3	410	5	Farm labourer	3
+64	225	OBC	3	410	3	Pensioner	17
+64	226	OBC	3	410	3	Farm labourer	3
+64	227	OBC	3	-333	3	Pensioner	17
+64	228	OBC	3	-333	3	Farm land-owner	2
+64	229	OBC	3	401	3	Farm labourer	3
+64	230	General	4	401	3	Farm land-owner	2
+64	231	General	4	401	3	Farm land-owner	2
+64	232	General	4	401	3	Farm labourer	3
+64	233	General	4	401	5	Farm labourer	3
+64	234	General	4	401	3	Farm labourer	3
+64	235	OBC	3	401	3	Farm land-owner	2
+64	236	OBC	3	401	3	Farm land-owner	2
+64	237	OBC	3	401	3	Farm land-owner	2
+64	238	Religious Minority	5	413	3	Farm labourer	3
+64	239	Religious Minority	5	413	5	Government services (teacher, etc.)	8
+64	240	OBC	3	401	3	Farm land-owner	2
+64	241	General	4	401	5	Farm land-owner	2
+64	242	General	4	401	5	Farm land-owner	2
+64	243	General	4	401	3	Private services	9
+64	244	General	4	401	5	Farm land-owner	2
+64	246	General	4	401	3	Farm land-owner	2
+64	247	General	4	401	3	Farm land-owner	2
+64	248	General	4	401	3	Farm land-owner	2
+64	249	OBC	3	401	3	Farm land-owner	2
+64	250	OBC	3	401	3	Farm land-owner	2
+64	251	OBC	3	401	3	Farm labourer	3
+64	252	SC	1	202	3	Farm labourer	3
+64	253	SC	1	202	3	Farm land-owner	2
+64	254	SC	1	202	2	Farm labourer	3
+64	255	SC	1	202	3	Farm labourer	3
+64	256	SC	1	401	3	Farm labourer	3
+64	257	General	4	401	3	Farm land-owner	2
+64	258	SC	1	202	3	Farm labourer	3
+64	259	SC	1	202	3	Government services (teacher, etc.)	8
+64	260	General	4	401	3	Farm labourer	3
+64	261	OBC	3	-333	3	Farm land-owner	2
+64	262	General	4	401	5	Farm land-owner	2
+64	263	SC	1	202	3	Farm labourer	3
+64	264	SC	1	202	3	Farm labourer	3
+64	265	SC	1	202	3	Farm labourer	3
+64	266	SC	1	202	4	OTHERS, SPECIFY	-333
+64	267	SC	1	202	2	Masonry/construction worker	12
+64	268	SC	1	202	3	Farm labourer	3
+64	269	SC	1	202	2	Farm labourer	3
+64	270	SC	1	202	2	Farm labourer	3
+64	271	SC	1	202	4	Government services (teacher, etc.)	8
+64	272	SC	1	202	3	Farm labourer	3
+64	273	SC	1	202	3	Farm labourer	3
+64	274	SC	1	202	3	Farm labourer	3
+64	275	SC	1	202	2	Farm labourer	3
+64	276	SC	1	202	2	Farm labourer	3
+64	277	SC	1	202	2	Farm labourer	3
+64	278	SC	1	202	3	Farm labourer	3
+64	279	SC	1	202	2	Masonry/construction worker	12
+64	280	SC	1	202	3	Farm land-owner	2
+64	281	SC	1	202	4	Farm land-owner	2
+64	282	SC	1	202	3	Farm labourer	3
+64	283	SC	1	202	4	Industry/factory worker(brick making etc)	10
+64	284	SC	1	202	3	Farm labourer	3
+64	285	SC	1	202	3	Farm labourer	3
+64	286	SC	1	202	3	Farm labourer	3
+64	287	SC	1	202	3	Farm labourer	3
+64	288	SC	1	202	3	Pensioner	17
+64	289	SC	1	202	3	Farm labourer	3
+64	290	SC	1	202	3	Private services	9
+64	291	OBC	3	401	3	Farm land-owner	2
+64	292	General	4	401	5	Farm land-owner	2
+64	293	General	4	401	3	Farm land-owner	2
+64	294	OBC	3	401	3	Farm labourer	3
+64	295	OBC	3	401	3	Dairy/cattle rearing	5
+64	296	SC	1	202	3	Government services (teacher, etc.)	8
+64	297	SC	1	209	1	Masonry/construction worker	12
+64	298	SC	1	202	4	Farm labourer	3
+64	299	SC	1	202	4	Farm labourer	3
+64	300	SC	1	202	4	Farm labourer	3

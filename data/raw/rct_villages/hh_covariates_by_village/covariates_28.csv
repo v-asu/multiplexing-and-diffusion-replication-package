@@ -1,0 +1,156 @@
+villageid	hh_id	caste_category_label	caste_category	subcaste	roof_type	occupation_label	occupation
+28	101	SC	1	201	2	Private services	9
+28	102	SC	1	201	2	Private services	9
+28	103	SC	1	201	1	Industry/factory worker(brick making etc)	10
+28	104	OBC	3	206	3	Industrialist	11
+28	105	General	4	-333	4	Farm labourer	3
+28	106	OBC	3	-333	5	Small business (shop, etc.)	1
+28	107	OBC	3	-333	1	Farm labourer	3
+28	108	OBC	3	404	4	Farm land-owner	2
+28	109	OBC	3	401	5	Farm land-owner	2
+28	110	OBC	3	401	1	Housewife	16
+28	111	OBC	3	401	3	Masonry/construction worker	12
+28	112	OBC	3	401	3	Private services	9
+28	113	General	4	401	3	Private services	9
+28	114	General	4	401	3	Farm land-owner	2
+28	115	OBC	3	-333	3	Farm land-owner	2
+28	116	OBC	3	-333	3	Masonry/construction worker	12
+28	117	General	4	401	3	Farm labourer	3
+28	118	OBC	3	-333	3	Farm labourer	3
+28	119	OBC	3	-333	4	Farm labourer	3
+28	120	General	4	401	3	Farm land-owner	2
+28	121	OBC	3	401	3	Farm land-owner	2
+28	122	OBC	3	401	3	Farm land-owner	2
+28	123	OBC	3	-333	3	Farm labourer	3
+28	124	Religious Minority	5	205	5	Domestic help/cook/casual	15
+28	125	OBC	3	404	4	Farm land-owner	2
+28	126	OBC	3	404	1	Farm land-owner	2
+28	127	General	4	401	4	Farm labourer	3
+28	128	General	4	401	2	Farm labourer	3
+28	129	General	4	402	3	Farm labourer	3
+28	130	General	4	402	3	Industrialist	11
+28	131	OBC	3	401	3	Private services	9
+28	132	OBC	3	401	2	Private services	9
+28	133	OBC	3	401	5	Farm land-owner	2
+28	134	OBC	3	402	3	Farm land-owner	2
+28	135	OBC	3	408	3	Government services (teacher, etc.)	8
+28	136	OBC	3	408	3	Farm labourer	3
+28	137	General	4	402	3	Pensioner	17
+28	138	General	4	402	3	Pensioner	17
+28	139	OBC	3	402	3	Farm land-owner	2
+28	140	OBC	3	401	5	Private services	9
+28	141	OBC	3	408	5	Farm land-owner	2
+28	142	General	4	408	3	Farm land-owner	2
+28	143	General	4	408	2	Farm land-owner	2
+28	144	General	4	408	2	Farm labourer	3
+28	145	General	4	408	4	Farm labourer	3
+28	146	General	4	401	3	Small business (shop, etc.)	1
+28	147	OBC	3	401	3	Farm labourer	3
+28	148	General	4	401	1	Farm labourer	3
+28	149	OBC	3	-333	5	Farm labourer	3
+28	150	OBC	3	401	3	Farm land-owner	2
+28	151	OBC	3	401	3	Farm land-owner	2
+28	152	OBC	3	401	5	Farm land-owner	2
+28	153	General	4	409	1	Farm labourer	3
+28	154	OBC	3	409	1	Industrialist	11
+28	155	OBC	3	409	1	Farm labourer	3
+28	156	OBC	3	409	3	Farm labourer	3
+28	157	OBC	3	406	1	Farm labourer	3
+28	158	OBC	3	406	1	Farm labourer	3
+28	159	OBC	3	404	4	Farm land-owner	2
+28	160	OBC	3	404	4	Private services	9
+28	161	OBC	3	409	2	Farm labourer	3
+28	162	OBC	3	404	3	Farm land-owner	2
+28	163	General	4	404	2	OTHERS, SPECIFY	-333
+28	164	General	4	404	4	OTHERS, SPECIFY	-333
+28	165	General	4	404	3	Farm labourer	3
+28	166	General	4	404	3	Farm land-owner	2
+28	167	General	4	404	3	Pensioner	17
+28	168	General	4	404	3	Farm land-owner	2
+28	169	OBC	3	401	3	Private services	9
+28	170	General	4	404	5	Farm land-owner	2
+28	171	OBC	3	404	3	Farm labourer	3
+28	172	OBC	3	404	3	Dairy/cattle rearing	5
+28	173	General	4	404	3	Farm land-owner	2
+28	174	OBC	3	404	3	Industrialist	11
+28	175	General	4	404	4	Dairy/cattle rearing	5
+28	176	OBC	3	401	3	Farm land-owner	2
+28	177	OBC	3	401	3	Farm land-owner	2
+28	179	OBC	3	401	5	Industry/factory worker(brick making etc)	10
+28	180	General	4	408	1	Private services	9
+28	181	OBC	3	408	1	Private services	9
+28	182	OBC	3	401	3	Farm labourer	3
+28	183	General	4	401	1	Small business (shop, etc.)	1
+28	184	OBC	3	401	3	Private services	9
+28	185	OBC	3	401	3	Private services	9
+28	186	OBC	3	404	3	Farm land-owner	2
+28	187	OBC	3	404	1	Farm land-owner	2
+28	188	OBC	3	404	3	Farm land-owner	2
+28	189	General	4	401	3	Industry/factory worker(brick making etc)	10
+28	190	General	4	401	2	Small business (shop, etc.)	1
+28	191	General	4	401	4	Farm land-owner	2
+28	192	OBC	3	401	3	Farm land-owner	2
+28	193	OBC	3	401	2	Farm labourer	3
+28	194	OBC	3	401	3	Private services	9
+28	195	OBC	3	401	3	Private services	9
+28	196	OBC	3	401	4	Farm labourer	3
+28	197	OBC	3	404	4	Farm labourer	3
+28	198	OBC	3	401	3	Farm land-owner	2
+28	199	OBC	3	404	3	Private services	9
+28	200	OBC	3	401	3	Farm labourer	3
+28	201	General	4	404	1	Farm labourer	3
+28	202	OBC	3	401	3	Farm labourer	3
+28	203	OBC	3	401	3	Farm land-owner	2
+28	204	OBC	3	409	1	Farm land-owner	2
+28	205	OBC	3	404	5	Farm land-owner	2
+28	206	SC	1	201	1	Farm labourer	3
+28	207	SC	1	201	3	Farm labourer	3
+28	208	SC	1	201	3	Farm labourer	3
+28	209	SC	1	201	3	Farm labourer	3
+28	210	SC	1	201	4	OTHERS, SPECIFY	-333
+28	211	SC	1	201	3	Farm labourer	3
+28	212	SC	1	201	2	Farm labourer	3
+28	213	SC	1	201	3	Farm land-owner	2
+28	214	SC	1	201	3	Industry/factory worker(brick making etc)	10
+28	215	SC	1	201	3	Farm labourer	3
+28	216	SC	1	201	3	Farm land-owner	2
+28	217	SC	1	201	3	Government services (teacher, etc.)	8
+28	218	SC	1	201	3	Government services (teacher, etc.)	8
+28	219	SC	1	201	3	Masonry/construction worker	12
+28	220	SC	1	201	1	Farm land-owner	2
+28	221	SC	1	201	1	Domestic help/cook/casual	15
+28	222	ST	2	209	1	Farm land-owner	2
+28	223	SC	1	201	4	Farm labourer	3
+28	224	SC	1	201	3	Farm labourer	3
+28	225	SC	1	404	3	Farm labourer	3
+28	226	OBC	3	404	1	Farm labourer	3
+28	227	OBC	3	404	3	Farm labourer	3
+28	228	OBC	3	404	3	Farm labourer	3
+28	229	OBC	3	404	4	Farm labourer	3
+28	230	OBC	3	301	3	Farm labourer	3
+28	231	OBC	3	301	3	Farm labourer	3
+28	232	SC	1	201	2	Industry/factory worker(brick making etc)	10
+28	233	SC	1	201	2	Farm labourer	3
+28	234	SC	1	201	4	Farm land-owner	2
+28	235	SC	1	201	5	Farm labourer	3
+28	236	OBC	3	404	3	Farm labourer	3
+28	237	OBC	3	401	3	Farm labourer	3
+28	238	OBC	3	404	3	Farm labourer	3
+28	239	SC	1	-333	2	Farm labourer	3
+28	240	ST	2	202	4	Industrialist	11
+28	241	SC	1	201	5	Small business (shop, etc.)	1
+28	242	SC	1	201	3	Farm labourer	3
+28	243	SC	1	201	3	Industrialist	11
+28	244	OBC	3	404	5	Industrialist	11
+28	245	Missing	-666	-666	-666	Missing	-666
+28	246	SC	1	201	3	Masonry/construction worker	12
+28	247	SC	1	201	1	Domestic help/cook/casual	15
+28	248	OBC	3	404	3	Farm labourer	3
+28	249	OBC	3	404	3	Farm land-owner	2
+28	250	OBC	3	404	3	Housewife	16
+28	251	OBC	3	401	5	Private services	9
+28	252	ST	2	404	5	Farm land-owner	2
+28	253	ST	2	404	5	Farm labourer	3
+28	254	ST	2	201	2	Farm labourer	3
+28	255	ST	2	404	5	Farm labourer	3
+28	256	General	4	401	5	Government services (teacher, etc.)	8

@@ -1,0 +1,153 @@
+villageid	hh_id	caste_category_label	caste_category	subcaste	roof_type	occupation_label	occupation
+36	101	General	4	-333	3	Dairy/cattle rearing	5
+36	102	OBC	3	402	3	Farm land-owner	2
+36	103	General	4	401	3	Farm land-owner	2
+36	104	General	4	401	4	Farm land-owner	2
+36	105	General	4	401	5	Farm labourer	3
+36	106	General	4	402	3	Farm labourer	3
+36	107	General	4	402	3	Farm labourer	3
+36	108	General	4	401	3	Farm labourer	3
+36	109	General	4	401	3	Farm land-owner	2
+36	110	General	4	401	3	Farm land-owner	2
+36	111	General	4	401	3	Farm land-owner	2
+36	112	General	4	401	5	Farm land-owner	2
+36	113	General	4	401	3	Farm land-owner	2
+36	114	General	4	401	5	Farm land-owner	2
+36	115	General	4	401	5	Farm land-owner	2
+36	116	General	4	401	3	Farm labourer	3
+36	118	General	4	401	4	Farm labourer	3
+36	119	OBC	3	102	5	Pensioner	17
+36	120	General	4	401	3	Farm labourer	3
+36	121	General	4	401	3	Farm land-owner	2
+36	122	General	4	401	3	Farm land-owner	2
+36	123	General	4	401	3	Farm land-owner	2
+36	124	General	4	401	3	Farm labourer	3
+36	125	General	4	401	3	Farm land-owner	2
+36	126	General	4	401	2	Dairy/cattle rearing	5
+36	127	SC	1	201	3	Domestic help/cook/casual	15
+36	128	SC	1	201	3	Farm labourer	3
+36	129	SC	1	201	2	Farm labourer	3
+36	130	SC	1	201	3	Domestic help/cook/casual	15
+36	131	SC	1	201	5	Farm labourer	3
+36	132	SC	1	201	3	Farm labourer	3
+36	133	SC	1	201	3	Farm labourer	3
+36	134	SC	1	201	3	Private services	9
+36	135	General	4	401	5	Farm land-owner	2
+36	136	General	4	401	3	Farm land-owner	2
+36	137	General	4	401	3	Private services	9
+36	138	General	4	401	3	Government services (teacher, etc.)	8
+36	139	General	4	401	3	Government services (teacher, etc.)	8
+36	140	OBC	3	-333	3	Private services	9
+36	141	General	4	401	2	Farm land-owner	2
+36	142	General	4	401	3	Farm labourer	3
+36	143	General	4	401	3	Farm land-owner	2
+36	144	General	4	401	3	Farm land-owner	2
+36	145	General	4	401	3	Farm land-owner	2
+36	146	General	4	401	-333	Farm land-owner	2
+36	147	General	4	401	2	Farm labourer	3
+36	148	General	4	401	3	Farm land-owner	2
+36	149	General	4	401	3	Farm labourer	3
+36	150	General	4	102	1	Farm labourer	3
+36	151	Religious Minority	5	413	3	Farm labourer	3
+36	152	ST	2	309	1	Farm labourer	3
+36	153	ST	2	309	3	Farm labourer	3
+36	154	ST	2	309	3	Farm land-owner	2
+36	155	General	4	401	3	Farm labourer	3
+36	156	General	4	401	3	Farm labourer	3
+36	157	ST	2	309	4	Dairy/cattle rearing	5
+36	158	General	4	401	1	Farm labourer	3
+36	159	General	4	401	3	Farm labourer	3
+36	160	General	4	401	1	Pensioner	17
+36	161	General	4	401	1	Farm land-owner	2
+36	162	General	4	401	3	Farm labourer	3
+36	163	General	4	401	3	Farm land-owner	2
+36	164	General	4	401	5	Farm land-owner	2
+36	165	General	4	401	3	Farm land-owner	2
+36	166	Religious Minority	5	413	3	Farm labourer	3
+36	167	Religious Minority	5	413	3	Farm labourer	3
+36	168	General	4	401	3	Farm land-owner	2
+36	169	General	4	401	3	Farm land-owner	2
+36	170	General	4	401	3	Dairy/cattle rearing	5
+36	171	General	4	401	3	Farm labourer	3
+36	172	General	4	401	3	Farm labourer	3
+36	173	General	4	401	3	Farm labourer	3
+36	174	General	4	401	3	Farm land-owner	2
+36	175	General	4	401	3	Farm land-owner	2
+36	176	General	4	401	3	Farming(tenancy)	4
+36	177	General	4	401	5	Farm land-owner	2
+36	178	General	4	401	3	Farm land-owner	2
+36	179	General	4	401	5	Farm labourer	3
+36	180	General	4	401	3	Farm land-owner	2
+36	181	General	4	401	5	Farm land-owner	2
+36	182	General	4	401	3	Farm land-owner	2
+36	183	General	4	401	3	Farm land-owner	2
+36	184	General	4	401	5	Farm land-owner	2
+36	185	General	4	401	3	Farm land-owner	2
+36	186	General	4	401	3	Farm labourer	3
+36	187	General	4	401	3	Farm land-owner	2
+36	188	General	4	401	3	Farm land-owner	2
+36	189	General	4	401	3	Farm labourer	3
+36	190	General	4	401	1	Farm labourer	3
+36	191	General	4	401	3	Farm land-owner	2
+36	192	General	4	401	3	Farm labourer	3
+36	193	General	4	401	5	Farm land-owner	2
+36	194	General	4	401	3	Farm labourer	3
+36	195	Religious Minority	5	413	3	Small business (shop, etc.)	1
+36	196	OBC	3	408	3	Farm labourer	3
+36	197	OBC	3	408	3	Farm labourer	3
+36	198	General	4	401	3	Farm land-owner	2
+36	199	Religious Minority	5	413	3	Farm labourer	3
+36	200	ST	2	309	5	Farm labourer	3
+36	201	SC	1	201	3	Domestic help/cook/casual	15
+36	202	SC	1	201	3	Farm labourer	3
+36	203	SC	1	201	3	Farm labourer	3
+36	204	General	4	401	4	Farm labourer	3
+36	205	OBC	3	413	3	Farm labourer	3
+36	206	OBC	3	413	3	Farm labourer	3
+36	207	Religious Minority	5	413	3	Pensioner	17
+36	208	Religious Minority	5	413	3	Farm land-owner	2
+36	209	Religious Minority	5	413	3	Farm labourer	3
+36	210	General	4	401	2	Farm labourer	3
+36	211	General	4	401	5	Farm land-owner	2
+36	212	ST	2	309	3	Farm land-owner	2
+36	213	SC	1	206	3	Farm labourer	3
+36	214	General	4	401	3	Farm land-owner	2
+36	215	General	4	401	3	Farm labourer	3
+36	216	OBC	3	102	5	Private services	9
+36	217	General	4	401	3	Farm labourer	3
+36	218	General	4	401	3	Farm land-owner	2
+36	219	General	4	401	3	Farm labourer	3
+36	220	ST	2	309	3	Farm land-owner	2
+36	221	OBC	3	309	3	Dairy/cattle rearing	5
+36	222	OBC	3	309	3	Farm labourer	3
+36	223	Religious Minority	5	413	3	Industrialist	11
+36	224	Religious Minority	5	413	3	Government services (teacher, etc.)	8
+36	225	General	4	401	3	Farm labourer	3
+36	226	General	4	401	3	Farm labourer	3
+36	227	General	4	401	3	Dairy/cattle rearing	5
+36	228	OBC	3	-333	4	Farm labourer	3
+36	229	OBC	3	-333	4	Small business (shop, etc.)	1
+36	230	General	4	204	3	Dairy/cattle rearing	5
+36	231	OBC	3	-333	3	Farm land-owner	2
+36	232	OBC	3	-333	3	Dairy/cattle rearing	5
+36	233	General	4	401	3	Farm labourer	3
+36	234	General	4	401	3	Farm labourer	3
+36	235	General	4	401	5	Farm land-owner	2
+36	236	General	4	401	3	Farm land-owner	2
+36	237	ST	2	309	3	Farm labourer	3
+36	238	SC	1	201	3	Farm labourer	3
+36	239	General	4	401	3	Farm land-owner	2
+36	240	General	4	401	3	Farm land-owner	2
+36	241	General	4	401	3	Sericulture owner	6
+36	242	General	4	401	3	Farm land-owner	2
+36	243	General	4	401	3	Farm land-owner	2
+36	244	General	4	401	3	Farm labourer	3
+36	245	General	4	401	3	Government services (teacher, etc.)	8
+36	246	General	4	401	3	Farm land-owner	2
+36	247	SC	1	201	3	Farm labourer	3
+36	248	SC	1	201	3	Government services (teacher, etc.)	8
+36	249	SC	1	206	3	Farm labourer	3
+36	250	General	4	401	3	Farm land-owner	2
+36	251	General	4	401	3	Farm labourer	3
+36	252	General	4	401	3	Farm land-owner	2
+36	253	ST	2	309	5	Dairy/cattle rearing	5

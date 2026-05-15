@@ -1,0 +1,158 @@
+villageid	hh_id	caste_category_label	caste_category	subcaste	roof_type	occupation_label	occupation
+70	101	SC	1	201	3	Farm land-owner	2
+70	102	SC	1	201	3	Farm land-owner	2
+70	103	SC	1	201	3	Farm land-owner	2
+70	104	Religious Minority	5	-333	3	Farm labourer	3
+70	105	General	4	401	3	Farm land-owner	2
+70	106	General	4	401	3	Private services	9
+70	107	General	4	401	3	Farm land-owner	2
+70	108	General	4	401	3	Farm land-owner	2
+70	109	General	4	401	3	Farm land-owner	2
+70	110	General	4	401	3	Farm land-owner	2
+70	111	General	4	401	3	Dairy/cattle rearing	5
+70	112	General	4	401	3	Industrialist	11
+70	113	General	4	401	3	Farm land-owner	2
+70	114	ST	2	309	4	Farm labourer	3
+70	115	ST	2	309	3	Farm labourer	3
+70	116	Religious Minority	5	413	3	Government services (teacher, etc.)	8
+70	117	General	4	402	3	Small business (shop, etc.)	1
+70	118	ST	2	309	3	Farm labourer	3
+70	119	General	4	401	3	Farm labourer	3
+70	120	General	4	401	3	Farm land-owner	2
+70	121	General	4	401	3	Private services	9
+70	122	General	4	401	3	Farm land-owner	2
+70	123	General	4	401	3	Farm land-owner	2
+70	124	General	4	401	3	Farm land-owner	2
+70	125	General	4	401	3	Farm land-owner	2
+70	126	General	4	401	3	Farm land-owner	2
+70	127	General	4	401	3	Farm labourer	3
+70	128	General	4	401	3	Farm land-owner	2
+70	129	General	4	401	3	Farm land-owner	2
+70	130	ST	2	309	3	Pensioner	17
+70	131	ST	2	309	3	Farm labourer	3
+70	132	ST	2	309	3	Private services	9
+70	133	General	4	401	3	Farm land-owner	2
+70	134	General	4	401	3	Private services	9
+70	135	General	4	401	3	Private services	9
+70	136	General	4	401	3	Private services	9
+70	137	General	4	401	3	Private services	9
+70	138	General	4	401	3	Farm labourer	3
+70	139	General	4	401	3	Farm land-owner	2
+70	140	General	4	104	3	Pensioner	17
+70	141	General	4	401	3	Pensioner	17
+70	142	General	4	309	3	Small business (shop, etc.)	1
+70	143	General	4	402	3	Pensioner	17
+70	144	General	4	402	2	Farm labourer	3
+70	145	Religious Minority	5	-333	3	Farm labourer	3
+70	146	OTHERS, SPECIFY	-333	-333	3	Farm labourer	3
+70	147	General	4	-333	3	Farm labourer	3
+70	148	ST	2	309	4	Farm land-owner	2
+70	149	SC	1	209	3	Government services (teacher, etc.)	8
+70	150	SC	1	201	3	Private services	9
+70	151	SC	1	201	3	Farm labourer	3
+70	152	SC	1	201	3	Masonry/construction worker	12
+70	153	SC	1	201	3	Masonry/construction worker	12
+70	154	SC	1	201	3	Farm labourer	3
+70	155	General	4	407	3	Government services (teacher, etc.)	8
+70	156	General	4	407	3	Private services	9
+70	157	General	4	401	3	Pensioner	17
+70	158	General	4	401	3	Farm labourer	3
+70	159	General	4	401	3	Farm labourer	3
+70	160	General	4	401	3	Farm labourer	3
+70	161	ST	2	309	3	Farm land-owner	2
+70	162	SC	1	207	3	Farm labourer	3
+70	163	SC	1	207	3	Farm labourer	3
+70	164	SC	1	207	3	Farm labourer	3
+70	165	SC	1	201	3	Farm labourer	3
+70	166	SC	1	201	1	Industrialist	11
+70	167	General	4	401	3	Farm land-owner	2
+70	168	SC	1	201	2	Farm labourer	3
+70	169	SC	1	201	2	Farm labourer	3
+70	170	SC	1	201	2	Farm labourer	3
+70	171	SC	1	202	1	Farm labourer	3
+70	172	SC	1	202	3	Farm labourer	3
+70	173	SC	1	202	3	Private services	9
+70	174	SC	1	202	3	Farm labourer	3
+70	175	SC	1	202	1	Farm labourer	3
+70	176	SC	1	201	3	Dairy/cattle rearing	5
+70	177	SC	1	201	3	Masonry/construction worker	12
+70	178	SC	1	201	3	Industry/factory worker(brick making etc)	10
+70	179	SC	1	201	3	Masonry/construction worker	12
+70	180	SC	1	201	4	Masonry/construction worker	12
+70	181	SC	1	207	3	Pensioner	17
+70	182	SC	1	202	3	Private services	9
+70	183	SC	1	202	3	Masonry/construction worker	12
+70	184	SC	1	202	3	Masonry/construction worker	12
+70	185	SC	1	207	2	Farm labourer	3
+70	186	General	4	202	2	Farm labourer	3
+70	187	SC	1	202	1	Farm labourer	3
+70	188	SC	1	201	1	Farm labourer	3
+70	189	SC	1	201	3	Farm labourer	3
+70	190	SC	1	202	1	Farm labourer	3
+70	191	SC	1	201	1	Masonry/construction worker	12
+70	192	SC	1	201	1	Farm labourer	3
+70	193	SC	1	201	1	Farm labourer	3
+70	194	SC	1	201	3	Farm labourer	3
+70	195	SC	1	202	3	Farm labourer	3
+70	196	SC	1	201	3	Farm labourer	3
+70	197	SC	1	202	3	Farm labourer	3
+70	198	SC	1	202	1	Farm labourer	3
+70	199	SC	1	202	3	Farm labourer	3
+70	200	General	4	401	3	Farm labourer	3
+70	201	General	4	401	3	Farm land-owner	2
+70	202	SC	1	207	3	Farm labourer	3
+70	203	General	4	401	3	Farm labourer	3
+70	204	SC	1	201	3	Farm labourer	3
+70	205	General	4	201	2	Farm labourer	3
+70	206	SC	1	201	2	Farm labourer	3
+70	207	General	4	402	3	Masonry/construction worker	12
+70	208	General	4	402	3	Farm land-owner	2
+70	209	General	4	402	3	Farm land-owner	2
+70	210	General	4	402	3	Farm land-owner	2
+70	211	SC	1	-333	3	Farm land-owner	2
+70	212	ST	2	309	3	Farm labourer	3
+70	213	SC	1	-333	3	Pensioner	17
+70	214	OBC	3	-333	3	Small business (shop, etc.)	1
+70	215	SC	1	-333	3	Farm labourer	3
+70	216	General	4	-333	3	Farm labourer	3
+70	217	General	4	-333	3	Industrialist	11
+70	218	General	4	102	3	Farm labourer	3
+70	219	General	4	102	3	Farm land-owner	2
+70	220	SC	1	309	3	Farm labourer	3
+70	221	ST	2	309	4	Farm labourer	3
+70	222	ST	2	309	3	Farm labourer	3
+70	223	ST	2	309	3	Private services	9
+70	224	General	4	401	3	Farm land-owner	2
+70	225	General	4	401	3	Farm land-owner	2
+70	226	SC	1	201	3	Dairy/cattle rearing	5
+70	227	SC	1	201	4	Farm labourer	3
+70	228	SC	1	-333	3	Farm land-owner	2
+70	229	SC	1	201	4	Farm labourer	3
+70	230	SC	1	201	1	Farm labourer	3
+70	231	SC	1	-333	4	Industrialist	11
+70	232	SC	1	201	3	Farm labourer	3
+70	233	SC	1	201	4	Farm labourer	3
+70	234	SC	1	201	4	Farm labourer	3
+70	235	ST	2	309	4	Farm labourer	3
+70	236	ST	2	309	3	Industry/factory worker(brick making etc)	10
+70	237	SC	1	209	3	Farm labourer	3
+70	238	SC	1	201	1	Farm labourer	3
+70	239	SC	1	201	1	Farm labourer	3
+70	240	ST	2	309	3	Masonry/construction worker	12
+70	241	ST	2	309	3	Farm labourer	3
+70	242	ST	2	309	3	Industry/factory worker(brick making etc)	10
+70	243	ST	2	309	1	Farm labourer	3
+70	244	SC	1	-333	1	Farm labourer	3
+70	245	SC	1	-333	1	Farm labourer	3
+70	246	SC	1	207	3	Farm labourer	3
+70	247	SC	1	401	3	OTHERS, SPECIFY	-333
+70	248	SC	1	201	3	Farm labourer	3
+70	249	SC	1	401	3	Farm labourer	3
+70	250	SC	1	401	3	Dairy/cattle rearing	5
+70	251	General	4	402	3	Small business (shop, etc.)	1
+70	252	General	4	402	3	Small business (shop, etc.)	1
+70	253	SC	1	201	1	Farm labourer	3
+70	254	ST	2	309	3	Small business (shop, etc.)	1
+70	255	General	4	402	3	Small business (shop, etc.)	1
+70	256	SC	1	201	3	Farm labourer	3
+70	257	SC	1	201	4	Farm labourer	3

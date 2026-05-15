@@ -1,0 +1,203 @@
+villageid	hh_id	caste_category_label	caste_category	subcaste	roof_type	occupation_label	occupation
+1	101	OBC	3	404	5	Domestic help/cook/casual	15
+1	102	OBC	3	404	4	Farm land-owner	2
+1	103	OBC	3	404	3	Farm land-owner	2
+1	104	General	4	404	3	Farm land-owner	2
+1	105	OBC	3	404	3	Farm land-owner	2
+1	106	OBC	3	404	3	Farm land-owner	2
+1	107	OBC	3	404	3	Masonry/construction worker	12
+1	108	ST	2	309	3	Private services	9
+1	109	SC	1	206	5	Farm land-owner	2
+1	110	OBC	3	404	5	Farm land-owner	2
+1	111	OBC	3	404	5	Farm land-owner	2
+1	112	OBC	3	405	5	Farm labourer	3
+1	113	SC	1	201	4	Farm labourer	3
+1	114	SC	1	201	4	Farm labourer	3
+1	115	SC	1	201	4	Farm labourer	3
+1	116	OBC	3	404	3	Farm land-owner	2
+1	117	OBC	3	404	5	Small business (shop, etc.)	1
+1	118	OBC	3	404	4	Farm labourer	3
+1	119	OBC	3	404	4	Farm labourer	3
+1	120	SC	1	206	2	Industry/factory worker(brick making etc)	10
+1	121	SC	1	206	2	Masonry/construction worker	12
+1	122	ST	2	206	3	Farm labourer	3
+1	123	General	4	404	3	Industry/factory worker(brick making etc)	10
+1	124	OBC	3	404	3	Private services	9
+1	125	OBC	3	404	3	Industry/factory worker(brick making etc)	10
+1	126	ST	2	206	4	Farm labourer	3
+1	127	SC	1	206	4	Farm labourer	3
+1	128	SC	1	206	4	Farm labourer	3
+1	129	SC	1	206	2	Farm labourer	3
+1	130	OBC	3	405	3	Farm labourer	3
+1	131	SC	1	201	2	Farm labourer	3
+1	132	SC	1	201	3	Farm labourer	3
+1	133	SC	1	201	3	Farm labourer	3
+1	134	SC	1	201	4	Farm labourer	3
+1	135	SC	1	201	4	Farm land-owner	2
+1	136	SC	1	201	4	Farm labourer	3
+1	137	SC	1	201	3	Farm land-owner	2
+1	138	SC	1	201	2	Industry/factory worker(brick making etc)	10
+1	139	SC	1	201	3	Industrialist	11
+1	140	SC	1	201	3	Farm labourer	3
+1	141	SC	1	201	3	Farm labourer	3
+1	142	SC	1	201	3	Farm labourer	3
+1	143	SC	1	201	3	Farm labourer	3
+1	144	SC	1	201	3	Farm labourer	3
+1	145	SC	1	201	5	Industry/factory worker(brick making etc)	10
+1	146	SC	1	201	1	Farm labourer	3
+1	147	SC	1	201	1	Masonry/construction worker	12
+1	148	SC	1	201	4	Farm labourer	3
+1	149	SC	1	201	2	Masonry/construction worker	12
+1	150	SC	1	201	1	Masonry/construction worker	12
+1	151	SC	1	201	4	Industrialist	11
+1	152	SC	1	201	4	Industry/factory worker(brick making etc)	10
+1	153	SC	1	201	4	Farm land-owner	2
+1	154	SC	1	201	5	Private services	9
+1	155	General	4	407	4	Farm labourer	3
+1	156	SC	1	201	3	Industrialist	11
+1	157	SC	1	201	3	Farm labourer	3
+1	158	SC	1	201	4	Farm labourer	3
+1	159	SC	1	201	4	Farm labourer	3
+1	160	SC	1	201	4	Farm labourer	3
+1	161	SC	1	201	4	Farm labourer	3
+1	162	SC	1	201	3	Farm land-owner	2
+1	163	SC	1	201	3	Farm labourer	3
+1	164	SC	1	201	3	Farm labourer	3
+1	165	SC	1	201	4	Farm labourer	3
+1	166	SC	1	201	4	Farm labourer	3
+1	167	SC	1	201	4	Farm labourer	3
+1	168	SC	1	201	4	Farm labourer	3
+1	169	SC	1	201	2	Farm land-owner	2
+1	170	SC	1	201	4	Farm labourer	3
+1	171	SC	1	201	1	Farm land-owner	2
+1	172	SC	1	201	3	Masonry/construction worker	12
+1	173	SC	1	201	3	Farm labourer	3
+1	174	SC	1	201	2	Farm labourer	3
+1	175	SC	1	201	1	Farm labourer	3
+1	176	SC	1	201	1	Industrialist	11
+1	177	SC	1	201	4	Farm labourer	3
+1	178	SC	1	201	4	Farm labourer	3
+1	179	SC	1	201	4	Private services	9
+1	180	SC	1	201	4	Farm labourer	3
+1	181	SC	1	201	4	Farm labourer	3
+1	182	SC	1	201	3	Farm land-owner	2
+1	183	SC	1	201	3	Farm labourer	3
+1	184	SC	1	201	3	Farm labourer	3
+1	186	SC	1	201	1	Farm labourer	3
+1	187	SC	1	201	5	Farm labourer	3
+1	188	SC	1	201	3	Farm labourer	3
+1	189	SC	1	201	3	Small business (shop, etc.)	1
+1	190	SC	1	201	4	Private services	9
+1	191	SC	1	201	2	Farm labourer	3
+1	192	SC	1	201	1	Farm land-owner	2
+1	193	SC	1	201	4	Farm labourer	3
+1	194	SC	1	201	2	Private services	9
+1	195	SC	1	201	2	Farm labourer	3
+1	196	SC	1	201	4	Farm labourer	3
+1	197	SC	1	201	3	Farm labourer	3
+1	198	SC	1	201	4	Farm land-owner	2
+1	199	SC	1	201	2	Farm land-owner	2
+1	200	SC	1	201	3	Farm labourer	3
+1	201	SC	1	201	5	Farm labourer	3
+1	202	SC	1	201	3	Farm labourer	3
+1	203	SC	1	201	3	Farm labourer	3
+1	204	SC	1	206	3	Farm labourer	3
+1	205	SC	1	206	2	Farm labourer	3
+1	206	ST	2	206	2	Farm labourer	3
+1	207	OBC	3	405	2	Farm land-owner	2
+1	208	OBC	3	405	1	Farm labourer	3
+1	209	OBC	3	405	1	Farm labourer	3
+1	210	OBC	3	404	2	Farm labourer	3
+1	211	OBC	3	404	5	Small business (shop, etc.)	1
+1	212	OBC	3	404	5	Farm labourer	3
+1	213	OBC	3	301	2	Farm labourer	3
+1	214	OBC	3	404	3	Farm labourer	3
+1	215	OBC	3	404	3	Farm labourer	3
+1	216	General	4	404	2	Farm labourer	3
+1	217	OBC	3	404	1	Farm labourer	3
+1	218	OBC	3	404	2	Farm labourer	3
+1	219	OBC	3	404	2	Farm labourer	3
+1	220	OBC	3	404	2	Dairy/cattle rearing	5
+1	221	General	4	404	4	Farm land-owner	2
+1	222	OBC	3	404	3	Farm labourer	3
+1	223	OBC	3	404	1	Farm labourer	3
+1	224	OBC	3	404	1	Farm labourer	3
+1	225	OBC	3	404	1	Industrialist	11
+1	226	OBC	3	404	2	Farm land-owner	2
+1	227	General	4	404	2	Small business (shop, etc.)	1
+1	228	ST	2	309	2	Farm labourer	3
+1	229	ST	2	309	4	Farm labourer	3
+1	230	ST	2	309	2	Farm labourer	3
+1	231	ST	2	309	4	Dairy/cattle rearing	5
+1	232	ST	2	309	4	Masonry/construction worker	12
+1	233	ST	2	309	4	Farm labourer	3
+1	234	ST	2	309	2	Pensioner	17
+1	235	OBC	3	309	2	Masonry/construction worker	12
+1	236	ST	2	309	2	Masonry/construction worker	12
+1	237	OBC	3	404	3	Farm labourer	3
+1	238	OBC	3	404	5	Farm land-owner	2
+1	239	OBC	3	404	1	Farm labourer	3
+1	240	General	4	404	2	Farm labourer	3
+1	241	OBC	3	404	4	OTHERS, SPECIFY	-333
+1	242	OBC	3	404	3	Farm labourer	3
+1	243	General	4	404	2	Farm labourer	3
+1	244	OBC	3	404	5	Farm land-owner	2
+1	245	OBC	3	301	3	Farm labourer	3
+1	246	OBC	3	301	3	Farm labourer	3
+1	247	General	4	401	4	Farm land-owner	2
+1	248	General	4	401	4	Farm land-owner	2
+1	249	General	4	401	2	Farm land-owner	2
+1	250	OBC	3	404	4	Farm labourer	3
+1	251	OBC	3	404	3	Farm labourer	3
+1	252	OBC	3	407	3	OTHERS, SPECIFY	-333
+1	253	SC	1	201	3	Masonry/construction worker	12
+1	254	SC	1	201	3	Government services (teacher, etc.)	8
+1	255	General	4	404	2	Farm labourer	3
+1	256	OBC	3	404	4	Farm labourer	3
+1	257	SC	1	206	3	Masonry/construction worker	12
+1	258	SC	1	206	1	Government services (teacher, etc.)	8
+1	259	SC	1	206	5	Government services (teacher, etc.)	8
+1	260	SC	1	206	3	Farm labourer	3
+1	261	OBC	3	404	2	Farm labourer	3
+1	262	OBC	3	405	2	Farm labourer	3
+1	263	OBC	3	404	4	Farm labourer	3
+1	264	OBC	3	407	1	Farm labourer	3
+1	265	OBC	3	405	2	Farm labourer	3
+1	266	OBC	3	404	1	Farm labourer	3
+1	267	SC	1	206	1	Farm labourer	3
+1	268	OBC	3	206	2	Farm labourer	3
+1	269	SC	1	206	2	Pensioner	17
+1	270	SC	1	206	2	Farm land-owner	2
+1	271	OBC	3	404	4	Farm labourer	3
+1	272	SC	1	206	4	Farm labourer	3
+1	273	OBC	3	405	3	Masonry/construction worker	12
+1	274	SC	1	206	4	Farm labourer	3
+1	275	SC	1	206	4	Farm labourer	3
+1	276	SC	1	206	4	Dairy/cattle rearing	5
+1	277	General	4	405	3	Farm land-owner	2
+1	278	OBC	3	405	2	Farm labourer	3
+1	279	OBC	3	404	3	Farm labourer	3
+1	280	OBC	3	405	2	Farm labourer	3
+1	281	OBC	3	405	2	Farm labourer	3
+1	282	OBC	3	405	2	Farm land-owner	2
+1	283	General	4	405	2	Masonry/construction worker	12
+1	284	SC	1	206	1	Farm labourer	3
+1	285	OBC	3	404	2	Dairy/cattle rearing	5
+1	286	OBC	3	404	2	Farm land-owner	2
+1	287	OBC	3	404	2	Farm labourer	3
+1	288	OBC	3	405	3	Farm land-owner	2
+1	289	OBC	3	404	3	Government services (teacher, etc.)	8
+1	290	General	4	404	5	Government services (teacher, etc.)	8
+1	291	General	4	404	2	Farm land-owner	2
+1	292	General	4	404	4	Government services (teacher, etc.)	8
+1	293	OBC	3	404	3	Farm labourer	3
+1	294	General	4	404	3	Pensioner	17
+1	295	OBC	3	404	1	Pensioner	17
+1	296	OBC	3	404	5	Farm land-owner	2
+1	297	General	4	404	3	Farm land-owner	2
+1	298	General	4	404	3	Farm land-owner	2
+1	299	SC	1	206	5	Farm land-owner	2
+1	300	OBC	3	404	3	Farm land-owner	2
+1	301	General	4	404	3	Farm land-owner	2
+1	302	OBC	3	206	3	Farm labourer	3
+1	303	OBC	3	405	2	Farm labourer	3

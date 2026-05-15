@@ -1,0 +1,151 @@
+villageid	hh_id	caste_category_label	caste_category	subcaste	roof_type	occupation_label	occupation
+46	101	OBC	3	401	5	Farm land-owner	2
+46	102	OBC	3	401	5	Government services (teacher, etc.)	8
+46	103	OBC	3	401	3	Farm land-owner	2
+46	104	OBC	3	401	3	Dairy/cattle rearing	5
+46	105	General	4	402	4	Small business (shop, etc.)	1
+46	106	General	4	401	3	Farm land-owner	2
+46	107	General	4	401	3	Sericulture owner	6
+46	108	OBC	3	402	3	Farm land-owner	2
+46	109	OBC	3	402	3	Farm land-owner	2
+46	110	ST	2	205	3	Private services	9
+46	111	General	4	402	5	Government services (teacher, etc.)	8
+46	112	General	4	401	3	Farm labourer	3
+46	113	OBC	3	401	5	Private services	9
+46	114	OBC	3	409	5	Government services (teacher, etc.)	8
+46	115	OBC	3	-333	2	Domestic help/cook/casual	15
+46	116	OBC	3	409	5	Domestic help/cook/casual	15
+46	117	OBC	3	409	1	Domestic help/cook/casual	15
+46	118	ST	2	309	5	Farm labourer	3
+46	119	ST	2	309	3	Domestic help/cook/casual	15
+46	120	ST	2	309	3	Farm labourer	3
+46	121	ST	2	309	2	Farm land-owner	2
+46	122	Missing	-666	-666	-666	Missing	-666
+46	123	General	4	401	3	Government services (teacher, etc.)	8
+46	124	SC	1	201	2	Domestic help/cook/casual	15
+46	125	SC	1	201	4	Domestic help/cook/casual	15
+46	126	General	4	410	4	Private services	9
+46	127	SC	1	201	4	Farm labourer	3
+46	128	General	4	411	3	Farm labourer	3
+46	129	General	4	411	3	Farm labourer	3
+46	130	Missing	-666	-666	-666	Missing	-666
+46	131	General	4	402	3	Pensioner	17
+46	132	OBC	3	401	3	Domestic help/cook/casual	15
+46	133	OBC	3	401	1	Farm land-owner	2
+46	134	OBC	3	401	1	Domestic help/cook/casual	15
+46	135	OBC	3	401	3	Farm land-owner	2
+46	136	OBC	3	401	2	Pensioner	17
+46	137	OBC	3	102	3	Government services (teacher, etc.)	8
+46	138	OBC	3	401	4	Domestic help/cook/casual	15
+46	139	SC	1	-333	2	Domestic help/cook/casual	15
+46	140	OBC	3	-333	5	Domestic help/cook/casual	15
+46	141	ST	2	309	3	Farm labourer	3
+46	142	General	4	401	3	Farm land-owner	2
+46	143	OBC	3	401	3	Farm land-owner	2
+46	144	General	4	401	3	Industrialist	11
+46	145	General	4	402	4	Small business (shop, etc.)	1
+46	146	General	4	102	2	Domestic help/cook/casual	15
+46	147	SC	1	202	4	Farm labourer	3
+46	148	SC	1	202	2	Farm labourer	3
+46	149	SC	1	202	3	Farm labourer	3
+46	150	SC	1	202	3	Farm labourer	3
+46	151	SC	1	202	3	Farm labourer	3
+46	152	SC	1	202	3	Farm labourer	3
+46	153	SC	1	202	1	Farm labourer	3
+46	154	SC	1	202	1	Pensioner	17
+46	155	SC	1	202	2	Farm labourer	3
+46	156	SC	1	202	2	Farm labourer	3
+46	157	SC	1	202	3	Farm labourer	3
+46	158	SC	1	202	5	Farm labourer	3
+46	159	SC	1	201	1	Domestic help/cook/casual	15
+46	160	SC	1	202	5	Farm labourer	3
+46	161	SC	1	202	3	Farm labourer	3
+46	162	SC	1	202	5	Farm labourer	3
+46	163	OBC	3	202	5	Farm labourer	3
+46	164	General	4	411	3	Small business (shop, etc.)	1
+46	165	General	4	411	3	OTHERS, SPECIFY	-333
+46	166	General	4	411	3	Small business (shop, etc.)	1
+46	167	General	4	411	3	Small business (shop, etc.)	1
+46	168	SC	1	411	3	Masonry/construction worker	12
+46	169	SC	1	411	3	Small business (shop, etc.)	1
+46	170	General	4	411	2	Small business (shop, etc.)	1
+46	171	OBC	3	411	1	Farm land-owner	2
+46	172	OBC	3	411	3	Farm labourer	3
+46	173	General	4	411	3	Farm labourer	3
+46	174	General	4	411	4	Industrialist	11
+46	175	General	4	411	4	Industrialist	11
+46	176	General	4	411	4	Farm labourer	3
+46	177	General	4	411	3	Pensioner	17
+46	178	General	4	411	1	Domestic help/cook/casual	15
+46	179	General	4	411	1	Domestic help/cook/casual	15
+46	180	OBC	3	411	1	Domestic help/cook/casual	15
+46	181	General	4	411	3	Industrialist	11
+46	182	General	4	411	3	Farm labourer	3
+46	183	General	4	411	3	Farm labourer	3
+46	184	General	4	411	3	Farm labourer	3
+46	185	General	4	413	3	Industrialist	11
+46	186	Religious Minority	5	413	3	Small business (shop, etc.)	1
+46	187	General	4	401	2	Farm labourer	3
+46	189	Religious Minority	5	413	2	Farm labourer	3
+46	190	Religious Minority	5	413	4	Farm labourer	3
+46	191	Religious Minority	5	413	4	Farm labourer	3
+46	192	OBC	3	411	2	Industrialist	11
+46	193	Religious Minority	5	502	3	Industrialist	11
+46	194	Religious Minority	5	413	3	Private services	9
+46	195	OBC	3	411	3	Farm labourer	3
+46	196	General	4	411	3	Farm labourer	3
+46	197	General	4	411	3	Industrialist	11
+46	198	General	4	411	3	Farm labourer	3
+46	199	General	4	411	3	Pensioner	17
+46	200	General	4	411	3	Farm labourer	3
+46	201	General	4	411	3	Private services	9
+46	202	General	4	411	3	Farm labourer	3
+46	203	SC	1	411	3	Industry/factory worker(brick making etc)	10
+46	204	SC	1	411	3	Pensioner	17
+46	205	OBC	3	411	5	Private services	9
+46	206	OBC	3	411	5	Farm labourer	3
+46	207	OBC	3	411	2	Private services	9
+46	208	General	4	411	3	Government services (teacher, etc.)	8
+46	209	General	4	411	3	Government services (teacher, etc.)	8
+46	210	General	4	411	3	Government services (teacher, etc.)	8
+46	211	General	4	411	4	Pensioner	17
+46	212	OBC	3	104	3	Small business (shop, etc.)	1
+46	213	OBC	3	401	4	Farm labourer	3
+46	214	Religious Minority	5	413	3	OTHERS, SPECIFY	-333
+46	215	General	4	401	3	Farm land-owner	2
+46	216	General	4	401	3	Pensioner	17
+46	217	General	4	407	2	Small business (shop, etc.)	1
+46	218	General	4	402	2	Private services	9
+46	219	General	4	402	3	Industry/factory worker(brick making etc)	10
+46	220	General	4	401	3	Farm land-owner	2
+46	221	General	4	411	3	Farm labourer	3
+46	222	General	4	411	3	Farm labourer	3
+46	223	General	4	401	3	Farm labourer	3
+46	224	General	4	401	2	Farm land-owner	2
+46	225	General	4	402	3	Farm land-owner	2
+46	226	General	4	401	2	Private services	9
+46	227	General	4	-333	2	Farm land-owner	2
+46	228	General	4	401	4	Farm labourer	3
+46	229	General	4	401	3	Farm labourer	3
+46	230	OBC	3	102	1	Domestic help/cook/casual	15
+46	231	OBC	3	401	3	Farm land-owner	2
+46	232	OBC	3	401	3	Farm land-owner	2
+46	233	General	4	401	2	Farm labourer	3
+46	234	General	4	401	3	Farm land-owner	2
+46	235	General	4	401	3	Farm labourer	3
+46	236	General	4	401	2	Pensioner	17
+46	237	General	4	401	3	Dairy/cattle rearing	5
+46	238	General	4	401	3	Industrialist	11
+46	239	OBC	3	401	3	Government services (teacher, etc.)	8
+46	240	General	4	401	3	Pensioner	17
+46	241	General	4	401	3	Government services (teacher, etc.)	8
+46	242	OBC	3	401	3	Government services (teacher, etc.)	8
+46	243	OBC	3	401	4	Farm land-owner	2
+46	244	OBC	3	401	5	Farm land-owner	2
+46	245	General	4	401	3	Farm land-owner	2
+46	246	ST	2	309	2	Farm labourer	3
+46	247	OBC	3	401	5	Farm land-owner	2
+46	248	OBC	3	401	3	Farm land-owner	2
+46	249	ST	2	309	3	Government services (teacher, etc.)	8
+46	250	General	4	401	3	Farm land-owner	2
+46	251	OBC	3	411	3	Farm labourer	3

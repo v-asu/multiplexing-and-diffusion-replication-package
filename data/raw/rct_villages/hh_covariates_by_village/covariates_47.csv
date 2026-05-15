@@ -1,0 +1,195 @@
+villageid	hh_id	caste_category_label	caste_category	subcaste	roof_type	occupation_label	occupation
+47	101	OBC	3	401	3	Dairy/cattle rearing	5
+47	102	OBC	3	401	3	Farm land-owner	2
+47	103	OBC	3	103	3	Private services	9
+47	104	General	4	403	3	Farm labourer	3
+47	105	OBC	3	403	3	Masonry/construction worker	12
+47	106	General	4	403	3	Dairy/cattle rearing	5
+47	107	General	4	403	3	Farm labourer	3
+47	108	General	4	403	3	Farm land-owner	2
+47	109	OBC	3	403	5	Farm labourer	3
+47	110	ST	2	403	5	Farm labourer	3
+47	111	General	4	403	3	Farm labourer	3
+47	112	SC	1	403	3	Farm labourer	3
+47	113	General	4	403	3	Farm labourer	3
+47	114	General	4	401	3	Farm land-owner	2
+47	115	General	4	-333	3	Industrialist	11
+47	116	OBC	3	-333	3	Private services	9
+47	117	General	4	104	3	Pensioner	17
+47	118	General	4	-333	3	Farm labourer	3
+47	119	General	4	-333	2	Industry/factory worker(brick making etc)	10
+47	120	General	4	401	5	Farm labourer	3
+47	121	General	4	401	5	OTHERS, SPECIFY	-333
+47	122	General	4	401	5	OTHERS, SPECIFY	-333
+47	123	OBC	3	401	3	Farm land-owner	2
+47	124	General	4	-333	3	Farm labourer	3
+47	125	General	4	104	2	Industrialist	11
+47	126	General	4	401	3	Farm labourer	3
+47	127	General	4	401	3	Farm labourer	3
+47	128	General	4	401	3	Farm labourer	3
+47	129	General	4	401	3	Farm land-owner	2
+47	130	General	4	401	3	Farm land-owner	2
+47	131	OBC	3	401	3	Private services	9
+47	132	General	4	403	3	Farm labourer	3
+47	133	General	4	403	3	Pensioner	17
+47	134	General	4	403	3	Farm labourer	3
+47	135	General	4	101	3	Farm land-owner	2
+47	136	General	4	101	3	Farm land-owner	2
+47	137	OBC	3	101	3	Housewife	16
+47	138	OBC	3	101	3	Government services (teacher, etc.)	8
+47	139	OBC	3	401	3	Farm land-owner	2
+47	140	General	4	101	3	Farm land-owner	2
+47	141	General	4	104	3	Industrialist	11
+47	142	General	4	104	3	Industrialist	11
+47	143	OBC	3	-333	5	Private services	9
+47	144	OBC	3	-333	3	Industrialist	11
+47	145	OBC	3	-333	2	Farm land-owner	2
+47	146	OBC	3	-333	2	Farm labourer	3
+47	147	SC	1	-333	3	Farm land-owner	2
+47	148	General	4	-333	3	Farm land-owner	2
+47	149	OBC	3	-333	3	Government services (teacher, etc.)	8
+47	150	General	4	401	5	Government services (teacher, etc.)	8
+47	151	OBC	3	402	5	Farm land-owner	2
+47	152	OBC	3	401	3	Farm land-owner	2
+47	153	OBC	3	401	4	Farm land-owner	2
+47	154	Religious Minority	5	403	4	Farm labourer	3
+47	155	General	4	211	3	Small business (shop, etc.)	1
+47	156	General	4	101	5	Pensioner	17
+47	157	General	4	401	3	Farm land-owner	2
+47	158	General	4	401	5	Farm land-owner	2
+47	159	General	4	401	3	Dairy/cattle rearing	5
+47	160	OBC	3	401	3	Domestic help/cook/casual	15
+47	161	General	4	401	3	Farm labourer	3
+47	162	General	4	401	3	Farm labourer	3
+47	163	OBC	3	401	3	Farm labourer	3
+47	164	General	4	401	3	Pensioner	17
+47	165	OBC	3	401	4	Farm labourer	3
+47	166	OBC	3	401	5	Farm land-owner	2
+47	167	OBC	3	401	2	Farm labourer	3
+47	168	General	4	401	3	Government services (teacher, etc.)	8
+47	169	General	4	401	3	Farm labourer	3
+47	170	General	4	408	2	Housewife	16
+47	171	General	4	403	3	Farm land-owner	2
+47	172	General	4	401	5	Farm land-owner	2
+47	173	SC	1	201	2	Farm labourer	3
+47	174	SC	1	201	2	Farm labourer	3
+47	175	SC	1	201	2	Farm labourer	3
+47	176	SC	1	201	3	Farm labourer	3
+47	177	SC	1	201	2	Farm labourer	3
+47	178	SC	1	201	3	Private services	9
+47	179	Religious Minority	5	403	5	Farm land-owner	2
+47	180	OBC	3	401	3	Domestic help/cook/casual	15
+47	181	SC	1	403	3	Farm labourer	3
+47	182	OBC	3	403	3	Farm labourer	3
+47	183	ST	2	403	3	Farm land-owner	2
+47	184	OBC	3	401	3	Farm land-owner	2
+47	185	General	4	403	3	Farm labourer	3
+47	186	SC	1	403	3	Dairy/cattle rearing	5
+47	187	OBC	3	-333	3	Farm land-owner	2
+47	188	OBC	3	403	3	Dairy/cattle rearing	5
+47	189	OBC	3	403	3	Farm labourer	3
+47	190	General	4	-333	2	Farm land-owner	2
+47	191	OBC	3	408	5	Farm land-owner	2
+47	192	General	4	101	3	Dairy/cattle rearing	5
+47	193	General	4	101	3	Farm land-owner	2
+47	194	General	4	101	3	Domestic help/cook/casual	15
+47	195	OBC	3	401	3	Farm land-owner	2
+47	196	General	4	401	2	Farm land-owner	2
+47	197	General	4	411	3	Industry/factory worker(brick making etc)	10
+47	198	OBC	3	411	5	Farm land-owner	2
+47	199	General	4	401	3	Government services (teacher, etc.)	8
+47	200	General	4	401	3	Farm land-owner	2
+47	201	General	4	401	3	Farm land-owner	2
+47	202	General	4	401	3	Farm land-owner	2
+47	203	OBC	3	101	3	Industry/factory worker(brick making etc)	10
+47	204	General	4	101	3	Farm land-owner	2
+47	205	General	4	401	5	Farm labourer	3
+47	206	SC	1	201	2	Farm labourer	3
+47	207	SC	1	201	2	Masonry/construction worker	12
+47	208	SC	1	201	3	Farm labourer	3
+47	209	SC	1	201	3	Farm land-owner	2
+47	210	SC	1	201	3	Dairy/cattle rearing	5
+47	211	General	4	103	5	Farm labourer	3
+47	212	OBC	3	103	4	Farm labourer	3
+47	213	SC	1	201	3	Farm labourer	3
+47	214	SC	1	201	3	Farm labourer	3
+47	215	SC	1	201	4	Pensioner	17
+47	216	General	4	403	3	Farm land-owner	2
+47	217	General	4	401	3	Dairy/cattle rearing	5
+47	218	General	4	401	-333	Dairy/cattle rearing	5
+47	219	SC	1	201	3	Farm labourer	3
+47	220	SC	1	201	3	Farm labourer	3
+47	221	General	4	101	4	Pensioner	17
+47	222	OBC	3	401	5	Private services	9
+47	223	General	4	101	2	Farm labourer	3
+47	224	OBC	3	-333	2	Domestic help/cook/casual	15
+47	225	General	4	-333	2	Masonry/construction worker	12
+47	226	SC	1	201	3	Farm labourer	3
+47	227	SC	1	206	3	Masonry/construction worker	12
+47	228	SC	1	-333	3	Dairy/cattle rearing	5
+47	229	SC	1	201	5	Farm labourer	3
+47	230	SC	1	201	3	Industrialist	11
+47	231	SC	1	201	3	Masonry/construction worker	12
+47	232	Missing	-666	-666	-666	Missing	-666
+47	233	SC	1	201	3	Masonry/construction worker	12
+47	234	SC	1	201	4	Farm land-owner	2
+47	235	OBC	3	206	2	Masonry/construction worker	12
+47	236	ST	2	206	2	Farm labourer	3
+47	237	General	4	101	5	Farm labourer	3
+47	238	General	4	101	4	Farm land-owner	2
+47	239	OBC	3	-333	2	OTHERS, SPECIFY	-333
+47	240	OBC	3	-333	3	OTHERS, SPECIFY	-333
+47	241	SC	1	201	3	Masonry/construction worker	12
+47	242	SC	1	201	2	Farm labourer	3
+47	243	SC	1	201	2	Private services	9
+47	244	SC	1	-333	3	Farm labourer	3
+47	245	General	4	-333	3	Farm labourer	3
+47	246	SC	1	-333	3	Farm labourer	3
+47	247	SC	1	-333	2	Masonry/construction worker	12
+47	248	SC	1	-333	3	Farm labourer	3
+47	249	SC	1	201	5	Farm labourer	3
+47	250	SC	1	201	3	Masonry/construction worker	12
+47	251	OBC	3	-333	3	Industrialist	11
+47	252	SC	1	-333	3	Farm labourer	3
+47	253	General	4	104	4	Farm labourer	3
+47	254	General	4	101	4	Farm labourer	3
+47	255	SC	1	201	5	Industrialist	11
+47	256	SC	1	-333	3	Masonry/construction worker	12
+47	257	General	4	104	3	Farm labourer	3
+47	258	SC	1	-333	3	Farm labourer	3
+47	259	SC	1	201	4	Industrialist	11
+47	260	SC	1	-333	5	Farm labourer	3
+47	261	SC	1	206	5	Government services (teacher, etc.)	8
+47	262	OBC	3	-333	4	Industrialist	11
+47	263	SC	1	-333	2	Farm labourer	3
+47	264	SC	1	-333	3	Farm labourer	3
+47	265	SC	1	201	4	Masonry/construction worker	12
+47	266	SC	1	201	3	Masonry/construction worker	12
+47	267	SC	1	-333	2	Farm labourer	3
+47	268	SC	1	-333	2	Farm labourer	3
+47	269	SC	1	201	3	Industrialist	11
+47	270	General	4	401	3	Dairy/cattle rearing	5
+47	271	General	4	101	3	Government services (teacher, etc.)	8
+47	272	General	4	401	3	Farm land-owner	2
+47	273	General	4	401	3	Farm land-owner	2
+47	274	General	4	101	5	OTHERS, SPECIFY	-333
+47	275	General	4	101	2	Farm labourer	3
+47	276	General	4	101	3	Pensioner	17
+47	277	General	4	101	3	Farm land-owner	2
+47	278	General	4	401	3	Farm land-owner	2
+47	279	General	4	401	3	Farm land-owner	2
+47	280	General	4	401	3	Farm land-owner	2
+47	281	Missing	-666	-666	-666	Missing	-666
+47	282	General	4	401	3	Farm land-owner	2
+47	283	General	4	401	3	Farm land-owner	2
+47	284	General	4	403	5	Farm labourer	3
+47	285	General	4	403	3	Farm labourer	3
+47	286	General	4	403	3	Farm land-owner	2
+47	287	SC	1	201	3	Farm land-owner	2
+47	288	General	4	401	2	Farm land-owner	2
+47	289	OBC	3	401	2	Farm land-owner	2
+47	290	OBC	3	401	2	Farm land-owner	2
+47	291	General	4	403	3	Government services (teacher, etc.)	8
+47	292	General	4	403	2	Farm land-owner	2
+47	293	General	4	403	3	Farm land-owner	2
+47	294	General	4	401	3	Farm land-owner	2

@@ -1,0 +1,139 @@
+villageid	hh_id	caste_category_label	caste_category	subcaste	roof_type	occupation_label	occupation
+58	101	OBC	3	406	3	Farm labourer	3
+58	102	OBC	3	406	5	Industrialist	11
+58	103	General	4	401	4	Dairy/cattle rearing	5
+58	104	SC	1	201	1	Farm land-owner	2
+58	105	SC	1	201	3	Farm land-owner	2
+58	106	SC	1	201	1	Private services	9
+58	107	SC	1	209	3	Farm labourer	3
+58	108	SC	1	201	3	Farm labourer	3
+58	109	SC	1	201	1	Farm labourer	3
+58	110	SC	1	201	3	Farm labourer	3
+58	111	SC	1	201	3	Farm labourer	3
+58	112	SC	1	201	-333	Farm labourer	3
+58	113	SC	1	201	3	Farm labourer	3
+58	114	SC	1	201	3	Farm labourer	3
+58	115	SC	1	201	3	Farm labourer	3
+58	116	SC	1	202	3	Farm land-owner	2
+58	117	SC	1	202	-333	Farm land-owner	2
+58	118	SC	1	201	3	Masonry/construction worker	12
+58	119	SC	1	201	3	Farm labourer	3
+58	120	SC	1	201	3	OTHERS, SPECIFY	-333
+58	121	SC	1	201	3	Farm labourer	3
+58	122	SC	1	201	3	Farm labourer	3
+58	123	SC	1	201	3	Farm land-owner	2
+58	124	SC	1	201	3	Industrialist	11
+58	125	SC	1	201	3	Farm labourer	3
+58	126	SC	1	201	3	Farm labourer	3
+58	127	SC	1	201	3	Small business (shop, etc.)	1
+58	128	SC	1	201	3	Private services	9
+58	129	SC	1	201	3	Farm land-owner	2
+58	130	SC	1	201	3	Farm land-owner	2
+58	131	General	4	201	3	Farm labourer	3
+58	132	SC	1	201	3	Farm labourer	3
+58	133	SC	1	201	3	Farm land-owner	2
+58	134	SC	1	201	3	Farm land-owner	2
+58	135	SC	1	201	3	Farm labourer	3
+58	136	SC	1	209	3	Pensioner	17
+58	137	OBC	3	406	3	Farm land-owner	2
+58	138	SC	1	202	3	Farm land-owner	2
+58	139	SC	1	201	3	Farm labourer	3
+58	140	General	4	401	3	Housewife	16
+58	141	SC	1	206	3	OTHERS, SPECIFY	-333
+58	142	Religious Minority	5	413	3	Farm labourer	3
+58	143	Religious Minority	5	413	3	Farm land-owner	2
+58	144	Religious Minority	5	413	3	Farm labourer	3
+58	145	SC	1	206	3	Farm labourer	3
+58	146	SC	1	206	3	Farm labourer	3
+58	147	ST	2	206	3	Private services	9
+58	148	General	4	401	3	Farm labourer	3
+58	149	General	4	401	4	Farm land-owner	2
+58	150	General	4	401	4	Farm land-owner	2
+58	151	General	4	401	3	Farm land-owner	2
+58	152	General	4	401	3	Farm land-owner	2
+58	153	General	4	401	3	Industrialist	11
+58	154	General	4	401	3	Private services	9
+58	155	General	4	-333	3	Farm land-owner	2
+58	156	General	4	406	3	Farm land-owner	2
+58	157	OBC	3	406	3	Farm land-owner	2
+58	158	General	4	401	3	Farm labourer	3
+58	159	General	4	401	3	Industrialist	11
+58	160	General	4	401	3	Farm land-owner	2
+58	161	General	4	401	2	Government services (teacher, etc.)	8
+58	162	General	4	401	3	Farm labourer	3
+58	163	ST	2	309	3	Dairy/cattle rearing	5
+58	164	SC	1	206	3	Masonry/construction worker	12
+58	165	SC	1	206	3	OTHERS, SPECIFY	-333
+58	166	SC	1	206	3	OTHERS, SPECIFY	-333
+58	167	SC	1	206	3	Farm labourer	3
+58	168	SC	1	206	3	Small business (shop, etc.)	1
+58	169	SC	1	201	3	Farm land-owner	2
+58	170	OBC	3	407	4	Farm labourer	3
+58	171	OBC	3	407	3	Farm labourer	3
+58	172	OBC	3	407	3	Industrialist	11
+58	173	OBC	3	407	3	Industrialist	11
+58	174	General	4	407	3	Farm land-owner	2
+58	175	General	4	407	3	Farm land-owner	2
+58	176	General	4	401	3	Pensioner	17
+58	177	ST	2	309	3	Farm land-owner	2
+58	178	SC	1	309	3	Farm land-owner	2
+58	179	Religious Minority	5	413	3	Industrialist	11
+58	180	Religious Minority	5	413	3	Industrialist	11
+58	181	General	4	401	3	Farm land-owner	2
+58	182	General	4	401	3	Farm land-owner	2
+58	183	General	4	401	3	Farm land-owner	2
+58	184	General	4	401	3	Farm labourer	3
+58	185	General	4	401	3	Farm land-owner	2
+58	186	General	4	401	5	Farm land-owner	2
+58	187	OBC	3	401	3	Farm land-owner	2
+58	188	General	4	401	3	Farm labourer	3
+58	189	General	4	401	3	Farm land-owner	2
+58	190	General	4	401	3	Farm land-owner	2
+58	191	OBC	3	401	3	Farm labourer	3
+58	192	General	4	401	2	Farm labourer	3
+58	193	General	4	401	5	Pensioner	17
+58	194	General	4	401	5	Farm land-owner	2
+58	195	General	4	401	3	Farm labourer	3
+58	196	General	4	401	3	Small business (shop, etc.)	1
+58	197	General	4	401	3	Farm land-owner	2
+58	198	OBC	3	406	3	Farm labourer	3
+58	199	General	4	401	3	Farm land-owner	2
+58	200	General	4	-333	5	Industrialist	11
+58	201	General	4	401	3	Farm land-owner	2
+58	202	General	4	401	3	Farm land-owner	2
+58	203	General	4	401	3	Farm land-owner	2
+58	204	General	4	401	3	Farm land-owner	2
+58	205	Religious Minority	5	413	3	Pensioner	17
+58	206	OBC	3	401	3	Farm land-owner	2
+58	207	OBC	3	401	3	Farm land-owner	2
+58	208	Religious Minority	5	413	3	Farm labourer	3
+58	209	Religious Minority	5	413	3	Farm labourer	3
+58	210	Religious Minority	5	413	3	Pensioner	17
+58	211	General	4	401	3	Farm land-owner	2
+58	212	General	4	401	3	Farm land-owner	2
+58	213	OBC	3	401	3	Farm labourer	3
+58	214	OBC	3	409	2	Masonry/construction worker	12
+58	215	OBC	3	406	3	Farm labourer	3
+58	216	SC	1	206	3	Farm land-owner	2
+58	217	General	4	407	3	Farm land-owner	2
+58	218	General	4	407	3	Farm land-owner	2
+58	219	SC	1	201	3	Farm land-owner	2
+58	220	SC	1	201	1	OTHERS, SPECIFY	-333
+58	221	General	4	407	2	Industrialist	11
+58	222	SC	1	201	3	Farm labourer	3
+58	223	SC	1	201	3	Farm labourer	3
+58	224	SC	1	201	3	Private services	9
+58	225	SC	1	201	3	Farm labourer	3
+58	226	Religious Minority	5	413	3	Farm land-owner	2
+58	227	General	4	407	3	Dairy/cattle rearing	5
+58	228	SC	1	206	3	Farm land-owner	2
+58	229	SC	1	201	3	Dairy/cattle rearing	5
+58	230	SC	1	201	1	Farm labourer	3
+58	231	SC	1	201	3	Farm labourer	3
+58	232	SC	1	201	3	Small business (shop, etc.)	1
+58	233	General	4	401	3	Government services (teacher, etc.)	8
+58	234	SC	1	201	3	Farm labourer	3
+58	235	SC	1	201	3	Farm land-owner	2
+58	236	SC	1	201	3	Farm labourer	3
+58	237	General	4	407	3	Dairy/cattle rearing	5
+58	258	Missing	-666	-666	-666	Missing	-666

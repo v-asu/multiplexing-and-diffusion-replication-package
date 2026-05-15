@@ -1,0 +1,253 @@
+villageid	hh_id	caste_category_label	caste_category	subcaste	roof_type	occupation_label	occupation
+18	101	SC	1	309	3	Farm labourer	3
+18	102	OBC	3	402	3	Pensioner	17
+18	103	SC	1	402	3	Farm labourer	3
+18	104	OBC	3	409	3	Farm labourer	3
+18	105	OBC	3	-333	3	Farm land-owner	2
+18	106	SC	1	305	3	Farm labourer	3
+18	107	OBC	3	-333	3	Farm land-owner	2
+18	108	Religious Minority	5	413	3	Farm land-owner	2
+18	109	Religious Minority	5	501	3	Farm labourer	3
+18	110	Religious Minority	5	413	3	Farm labourer	3
+18	111	Religious Minority	5	413	3	Farm labourer	3
+18	112	Religious Minority	5	413	3	Farm labourer	3
+18	113	Religious Minority	5	413	3	Farm land-owner	2
+18	114	Religious Minority	5	413	3	Farm labourer	3
+18	115	Religious Minority	5	413	3	Farm labourer	3
+18	116	Religious Minority	5	413	3	Farm labourer	3
+18	117	Religious Minority	5	501	3	Farm labourer	3
+18	118	SC	1	201	3	Small business (shop, etc.)	1
+18	119	Religious Minority	5	413	3	Farm labourer	3
+18	120	OBC	3	409	3	Pensioner	17
+18	121	OBC	3	409	3	Farm labourer	3
+18	122	OBC	3	-333	3	Domestic help/cook/casual	15
+18	123	OBC	3	409	3	Farm labourer	3
+18	124	OBC	3	-333	3	Small business (shop, etc.)	1
+18	125	OBC	3	-333	3	Pensioner	17
+18	126	SC	1	-333	3	Farm labourer	3
+18	127	SC	1	309	3	Farm labourer	3
+18	128	SC	1	309	3	Farm labourer	3
+18	129	SC	1	309	3	Domestic help/cook/casual	15
+18	130	SC	1	309	3	Farm labourer	3
+18	131	SC	1	309	3	Farm labourer	3
+18	132	SC	1	309	3	Farm labourer	3
+18	133	SC	1	309	3	Farm labourer	3
+18	134	SC	1	309	3	Farm labourer	3
+18	135	SC	1	309	3	Farm labourer	3
+18	136	SC	1	309	3	Pensioner	17
+18	137	SC	1	309	3	Farm labourer	3
+18	138	SC	1	309	3	Farm labourer	3
+18	139	OBC	3	409	3	Farm labourer	3
+18	140	OBC	3	408	3	Farm labourer	3
+18	141	OBC	3	408	3	Farm labourer	3
+18	142	OBC	3	408	3	Farm labourer	3
+18	143	SC	1	309	3	Farm labourer	3
+18	144	SC	1	309	3	Farm land-owner	2
+18	145	SC	1	309	3	Sericulture owner	6
+18	146	SC	1	309	3	Farm labourer	3
+18	147	SC	1	309	3	Farm labourer	3
+18	148	SC	1	309	3	Farm labourer	3
+18	149	SC	1	309	3	Farm labourer	3
+18	150	SC	1	309	3	Farm labourer	3
+18	151	SC	1	309	3	Farm labourer	3
+18	152	OBC	3	309	3	Farm land-owner	2
+18	153	OBC	3	309	3	Farm land-owner	2
+18	154	SC	1	309	3	Farm land-owner	2
+18	155	SC	1	309	3	Farm land-owner	2
+18	156	SC	1	309	3	Pensioner	17
+18	157	SC	1	309	3	Farm labourer	3
+18	158	ST	2	309	3	Farm land-owner	2
+18	159	ST	2	309	3	Farm labourer	3
+18	160	OBC	3	-333	3	Small business (shop, etc.)	1
+18	161	OBC	3	-333	3	Farm labourer	3
+18	162	SC	1	-333	3	Masonry/construction worker	12
+18	163	SC	1	-333	3	Masonry/construction worker	12
+18	164	SC	1	402	3	Farm labourer	3
+18	165	OBC	3	309	3	Farm land-owner	2
+18	166	OBC	3	309	3	Farm land-owner	2
+18	167	SC	1	309	3	Farm labourer	3
+18	168	SC	1	309	3	Farm land-owner	2
+18	170	SC	1	309	3	Domestic help/cook/casual	15
+18	171	OBC	3	309	3	Farm land-owner	2
+18	172	OBC	3	309	3	Farm land-owner	2
+18	173	SC	1	309	3	Farm labourer	3
+18	174	ST	2	309	3	Farm land-owner	2
+18	175	ST	2	309	3	Farm land-owner	2
+18	176	SC	1	-333	3	Masonry/construction worker	12
+18	177	SC	1	-333	3	Industry/factory worker(brick making etc)	10
+18	178	OBC	3	-333	3	Farm land-owner	2
+18	179	SC	1	309	3	Farm labourer	3
+18	180	SC	1	-333	1	Farm labourer	3
+18	181	SC	1	-333	3	Farm labourer	3
+18	182	OBC	3	-333	3	Farm labourer	3
+18	183	OBC	3	402	3	Farm land-owner	2
+18	184	OBC	3	409	3	Private services	9
+18	185	OBC	3	409	3	Industry/factory worker(brick making etc)	10
+18	186	OBC	3	409	3	Farm labourer	3
+18	187	OBC	3	402	3	Farm land-owner	2
+18	188	OBC	3	402	3	Pensioner	17
+18	189	SC	1	-333	3	Farm land-owner	2
+18	190	OBC	3	-333	3	Government services (teacher, etc.)	8
+18	191	OBC	3	402	3	Farm labourer	3
+18	192	OBC	3	402	3	Pensioner	17
+18	193	SC	1	402	3	Farm labourer	3
+18	194	OBC	3	409	3	Farm labourer	3
+18	195	OBC	3	409	3	Farm labourer	3
+18	196	OBC	3	402	3	Farm land-owner	2
+18	197	OBC	3	101	3	Government services (teacher, etc.)	8
+18	198	General	4	102	3	Industrialist	11
+18	199	SC	1	309	3	Masonry/construction worker	12
+18	200	OBC	3	402	3	Farm land-owner	2
+18	201	OBC	3	402	3	Farm labourer	3
+18	202	OBC	3	402	3	Pensioner	17
+18	203	Religious Minority	5	413	3	Farm labourer	3
+18	204	Religious Minority	5	413	3	Industrialist	11
+18	205	OBC	3	402	3	Farm land-owner	2
+18	206	OBC	3	409	3	Farm labourer	3
+18	207	OBC	3	409	3	Small business (shop, etc.)	1
+18	208	OBC	3	409	3	Farm labourer	3
+18	209	SC	1	402	3	Farm labourer	3
+18	210	OBC	3	402	3	Government services (teacher, etc.)	8
+18	211	SC	1	402	3	Farm labourer	3
+18	212	General	4	101	3	Farm labourer	3
+18	213	General	4	101	3	Farm labourer	3
+18	214	OBC	3	-333	3	Pensioner	17
+18	216	Religious Minority	5	413	3	Farm land-owner	2
+18	217	Religious Minority	5	413	3	Industrialist	11
+18	218	Religious Minority	5	413	3	Farm labourer	3
+18	219	Religious Minority	5	501	3	Farm labourer	3
+18	220	OBC	3	402	3	Small business (shop, etc.)	1
+18	221	OBC	3	408	3	Government services (teacher, etc.)	8
+18	222	OBC	3	409	3	Farm labourer	3
+18	223	Religious Minority	5	413	3	Farm labourer	3
+18	224	Religious Minority	5	413	3	Farm land-owner	2
+18	225	Religious Minority	5	413	3	Farm labourer	3
+18	226	General	4	-333	4	Farm land-owner	2
+18	227	OBC	3	-333	3	Farm labourer	3
+18	228	OBC	3	-333	3	Farm labourer	3
+18	229	General	4	410	3	Farm land-owner	2
+18	230	SC	1	-333	3	Farm labourer	3
+18	231	Religious Minority	5	501	3	Farm land-owner	2
+18	232	OBC	3	402	3	Private services	9
+18	233	ST	2	309	3	Farm labourer	3
+18	234	OBC	3	102	3	Pensioner	17
+18	235	OBC	3	102	3	Government services (teacher, etc.)	8
+18	236	General	4	102	3	Industrialist	11
+18	237	OBC	3	-333	3	Industrialist	11
+18	238	OBC	3	-333	3	Farm labourer	3
+18	239	SC	1	-333	3	Small business (shop, etc.)	1
+18	240	OBC	3	102	3	Private services	9
+18	241	SC	1	309	3	Private services	9
+18	242	SC	1	309	3	Dairy/cattle rearing	5
+18	243	ST	2	309	3	Farm land-owner	2
+18	244	OBC	3	309	3	Farm land-owner	2
+18	245	SC	1	309	3	Farm land-owner	2
+18	246	ST	2	309	3	Farm labourer	3
+18	247	ST	2	207	3	Domestic help/cook/casual	15
+18	248	ST	2	207	3	Domestic help/cook/casual	15
+18	249	SC	1	201	3	Farm labourer	3
+18	250	SC	1	201	3	Farm labourer	3
+18	251	ST	2	207	3	Farm labourer	3
+18	252	SC	1	201	3	Farm labourer	3
+18	253	SC	1	201	3	Farm labourer	3
+18	254	SC	1	201	4	Farm labourer	3
+18	255	SC	1	201	4	Pensioner	17
+18	256	ST	2	207	3	Farm labourer	3
+18	257	SC	1	309	3	Sericulture owner	6
+18	258	SC	1	201	3	Farm labourer	3
+18	259	SC	1	201	3	Farm land-owner	2
+18	260	SC	1	201	3	Farm land-owner	2
+18	261	SC	1	201	3	Domestic help/cook/casual	15
+18	262	SC	1	201	3	Farm land-owner	2
+18	263	SC	1	201	3	Farm land-owner	2
+18	264	SC	1	201	3	Farm labourer	3
+18	265	SC	1	201	3	Farm labourer	3
+18	266	SC	1	207	3	Farm labourer	3
+18	267	SC	1	207	3	Dairy/cattle rearing	5
+18	268	SC	1	201	3	Farm labourer	3
+18	269	SC	1	201	3	Farm land-owner	2
+18	270	SC	1	207	1	Farm labourer	3
+18	271	SC	1	207	3	Domestic help/cook/casual	15
+18	272	SC	1	201	3	Farm land-owner	2
+18	273	SC	1	201	3	Farm labourer	3
+18	274	SC	1	201	3	Farm labourer	3
+18	275	OBC	3	410	3	Industrialist	11
+18	276	ST	2	309	3	Farm labourer	3
+18	277	SC	1	309	3	Farm labourer	3
+18	278	SC	1	309	3	Farm labourer	3
+18	279	SC	1	201	3	Farm labourer	3
+18	280	ST	2	309	3	Farm land-owner	2
+18	281	ST	2	309	3	Farm land-owner	2
+18	282	SC	1	309	3	Farm labourer	3
+18	283	SC	1	309	3	Farm labourer	3
+18	284	ST	2	309	3	Farm land-owner	2
+18	285	SC	1	309	3	Farm labourer	3
+18	286	ST	2	309	3	Farm land-owner	2
+18	287	SC	1	309	3	Farm labourer	3
+18	288	ST	2	309	3	Farm land-owner	2
+18	289	ST	2	309	3	Farm labourer	3
+18	290	SC	1	309	3	Farm labourer	3
+18	291	SC	1	309	3	Farm labourer	3
+18	292	SC	1	309	2	Farm labourer	3
+18	293	ST	2	309	3	Farm land-owner	2
+18	294	SC	1	-333	3	Farm labourer	3
+18	295	SC	1	309	1	Farm labourer	3
+18	296	SC	1	-333	3	Farm labourer	3
+18	297	Religious Minority	5	413	3	Industrialist	11
+18	298	General	4	104	3	Farm labourer	3
+18	299	ST	2	309	3	Farm labourer	3
+18	300	ST	2	309	3	Farm land-owner	2
+18	301	ST	2	309	3	Farm land-owner	2
+18	302	ST	2	309	3	Farm land-owner	2
+18	303	ST	2	309	3	Farm land-owner	2
+18	304	OBC	3	401	3	Farm labourer	3
+18	305	OBC	3	408	3	Farm labourer	3
+18	306	General	4	102	3	Farm labourer	3
+18	307	General	4	102	3	Farm labourer	3
+18	308	Religious Minority	5	501	3	Farm land-owner	2
+18	309	Religious Minority	5	501	3	Farm labourer	3
+18	310	Religious Minority	5	413	3	Farm land-owner	2
+18	311	General	4	410	3	Industrialist	11
+18	312	General	4	104	3	Small business (shop, etc.)	1
+18	313	Religious Minority	5	413	3	Farm labourer	3
+18	314	Religious Minority	5	413	3	Industrialist	11
+18	315	Religious Minority	5	413	3	Farm labourer	3
+18	316	Religious Minority	5	413	3	Farm labourer	3
+18	317	Religious Minority	5	413	3	Farm land-owner	2
+18	318	Religious Minority	5	413	3	Farm labourer	3
+18	319	OBC	3	-333	3	Small business (shop, etc.)	1
+18	320	Religious Minority	5	501	3	Farm land-owner	2
+18	321	Religious Minority	5	413	3	Farm land-owner	2
+18	322	Religious Minority	5	413	3	Farm labourer	3
+18	323	Religious Minority	5	413	3	Farm labourer	3
+18	324	Religious Minority	5	413	3	Farm labourer	3
+18	325	Religious Minority	5	501	3	Farm land-owner	2
+18	326	Religious Minority	5	501	3	Farm land-owner	2
+18	327	General	4	414	3	Farm land-owner	2
+18	328	Religious Minority	5	501	3	Farm land-owner	2
+18	329	Religious Minority	5	501	3	Farm land-owner	2
+18	330	Religious Minority	5	501	3	Private services	9
+18	331	OBC	3	412	3	Farm labourer	3
+18	332	Religious Minority	5	413	3	Farm labourer	3
+18	333	Religious Minority	5	413	3	Farm labourer	3
+18	334	Religious Minority	5	413	3	Farm labourer	3
+18	335	OBC	3	-333	3	Farm land-owner	2
+18	336	OBC	3	-333	3	Farm labourer	3
+18	337	Religious Minority	5	501	3	Industry/factory worker(brick making etc)	10
+18	338	Religious Minority	5	413	3	Farm labourer	3
+18	339	SC	1	-333	3	Farm land-owner	2
+18	340	Religious Minority	5	413	1	Farm labourer	3
+18	341	Religious Minority	5	413	3	Farm labourer	3
+18	342	OBC	3	-333	3	Industrialist	11
+18	343	SC	1	202	3	Street vendor/hawker	13
+18	344	SC	1	202	3	Farm labourer	3
+18	345	SC	1	202	3	Farm labourer	3
+18	346	SC	1	202	3	Farm land-owner	2
+18	347	ST	2	202	3	Farm land-owner	2
+18	348	Religious Minority	5	501	3	Farm labourer	3
+18	349	Religious Minority	5	501	3	Farm labourer	3
+18	350	Religious Minority	5	413	3	Farm labourer	3
+18	351	Religious Minority	5	413	3	Farm land-owner	2
+18	352	Religious Minority	5	413	3	Farm labourer	3
+18	353	Religious Minority	5	413	3	Farm labourer	3
+18	354	Religious Minority	5	413	3	Farm labourer	3

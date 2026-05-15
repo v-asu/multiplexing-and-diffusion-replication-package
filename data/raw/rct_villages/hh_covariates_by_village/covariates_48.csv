@@ -1,0 +1,201 @@
+villageid	hh_id	caste_category_label	caste_category	subcaste	roof_type	occupation_label	occupation
+48	101	SC	1	201	2	Farm labourer	3
+48	102	SC	1	201	2	Farm labourer	3
+48	103	SC	1	201	4	Farm labourer	3
+48	104	SC	1	201	4	Farm labourer	3
+48	105	SC	1	201	4	Farm labourer	3
+48	106	SC	1	201	5	Masonry/construction worker	12
+48	107	SC	1	201	2	Farm labourer	3
+48	108	General	4	407	3	Private services	9
+48	109	General	4	407	3	Farm land-owner	2
+48	110	General	4	401	3	Farm land-owner	2
+48	112	SC	1	201	2	Private services	9
+48	113	SC	1	201	2	Farm labourer	3
+48	114	SC	1	201	4	Farm labourer	3
+48	115	SC	1	201	4	Masonry/construction worker	12
+48	116	SC	1	201	4	Farm labourer	3
+48	117	SC	1	201	3	Farm labourer	3
+48	118	SC	1	201	1	Farm labourer	3
+48	119	SC	1	201	4	Farm labourer	3
+48	120	SC	1	201	4	Masonry/construction worker	12
+48	121	SC	1	201	4	Domestic help/cook/casual	15
+48	122	SC	1	201	1	Pensioner	17
+48	123	SC	1	201	1	Domestic help/cook/casual	15
+48	124	SC	1	201	2	Farm labourer	3
+48	125	SC	1	201	4	Housewife	16
+48	126	SC	1	201	4	Farm labourer	3
+48	127	SC	1	201	4	Farm labourer	3
+48	128	SC	1	201	2	Farm labourer	3
+48	129	SC	1	201	2	Farm labourer	3
+48	130	SC	1	201	2	Farm labourer	3
+48	131	SC	1	201	4	Farm labourer	3
+48	132	SC	1	201	3	Farm labourer	3
+48	133	SC	1	201	3	Farming(tenancy)	4
+48	134	SC	1	201	4	Masonry/construction worker	12
+48	135	SC	1	201	4	Masonry/construction worker	12
+48	136	General	4	401	4	Farm land-owner	2
+48	137	SC	1	201	3	Farm land-owner	2
+48	138	SC	1	201	3	Farm labourer	3
+48	139	SC	1	201	3	Farm labourer	3
+48	140	SC	1	201	4	Private services	9
+48	141	SC	1	201	2	Farm labourer	3
+48	142	SC	1	201	4	Farm labourer	3
+48	143	SC	1	201	2	Private services	9
+48	144	SC	1	201	2	Private services	9
+48	145	SC	1	201	2	Farm labourer	3
+48	146	SC	1	201	2	Farm labourer	3
+48	147	SC	1	201	1	Farm labourer	3
+48	148	SC	1	201	1	Domestic help/cook/casual	15
+48	149	SC	1	201	3	Domestic help/cook/casual	15
+48	150	SC	1	201	3	Farm labourer	3
+48	151	SC	1	201	2	Masonry/construction worker	12
+48	152	SC	1	201	3	Masonry/construction worker	12
+48	154	SC	1	201	3	Pensioner	17
+48	155	SC	1	201	4	Farm labourer	3
+48	156	SC	1	201	2	Farm labourer	3
+48	157	SC	1	201	4	Farm labourer	3
+48	158	SC	1	201	3	Farm land-owner	2
+48	159	SC	1	201	3	Private services	9
+48	160	SC	1	201	4	Farm labourer	3
+48	161	SC	1	201	3	Domestic help/cook/casual	15
+48	162	SC	1	201	4	Domestic help/cook/casual	15
+48	163	SC	1	201	4	Farm labourer	3
+48	164	SC	1	201	3	Private services	9
+48	165	SC	1	201	2	Masonry/construction worker	12
+48	166	SC	1	201	4	Farm labourer	3
+48	167	SC	1	201	3	Farm labourer	3
+48	168	SC	1	201	2	Farm labourer	3
+48	169	SC	1	201	4	Farm labourer	3
+48	170	SC	1	201	4	Farm labourer	3
+48	171	SC	1	201	4	Pensioner	17
+48	172	SC	1	201	2	Private services	9
+48	174	SC	1	201	5	Farm land-owner	2
+48	175	SC	1	201	1	Masonry/construction worker	12
+48	176	SC	1	201	2	Farm labourer	3
+48	177	SC	1	201	1	Farm labourer	3
+48	178	SC	1	201	2	Farm labourer	3
+48	179	SC	1	201	2	Farm labourer	3
+48	180	SC	1	201	3	Government services (teacher, etc.)	8
+48	181	SC	1	201	3	Industrialist	11
+48	182	SC	1	201	4	Farm labourer	3
+48	183	SC	1	201	1	Farm labourer	3
+48	184	SC	1	201	4	Domestic help/cook/casual	15
+48	185	SC	1	201	2	Farm land-owner	2
+48	186	SC	1	201	3	Farm land-owner	2
+48	187	General	4	401	3	Farm land-owner	2
+48	188	SC	1	201	2	Farm labourer	3
+48	189	SC	1	201	2	Farm labourer	3
+48	190	SC	1	201	4	Farm labourer	3
+48	191	SC	1	201	4	Farm labourer	3
+48	192	SC	1	201	3	Farm land-owner	2
+48	193	SC	1	201	2	Masonry/construction worker	12
+48	194	SC	1	201	1	Masonry/construction worker	12
+48	195	SC	1	201	2	Farm labourer	3
+48	196	SC	1	201	1	Domestic help/cook/casual	15
+48	197	SC	1	201	4	Domestic help/cook/casual	15
+48	198	SC	1	201	2	Farm labourer	3
+48	199	SC	1	201	2	Farm labourer	3
+48	200	OBC	3	401	3	Farm land-owner	2
+48	201	SC	1	201	2	Private services	9
+48	202	General	4	401	3	Farm land-owner	2
+48	203	General	4	401	3	Government services (teacher, etc.)	8
+48	204	General	4	401	3	Farm labourer	3
+48	205	General	4	401	3	Farm labourer	3
+48	206	General	4	401	3	Sericulture owner	6
+48	207	General	4	401	3	Farm labourer	3
+48	208	General	4	401	5	Farm land-owner	2
+48	209	General	4	401	3	Farm land-owner	2
+48	210	General	4	401	3	Industrialist	11
+48	211	OBC	3	401	3	Farm land-owner	2
+48	212	General	4	401	3	Industrialist	11
+48	213	OBC	3	401	4	Private services	9
+48	214	OBC	3	401	3	Housewife	16
+48	215	OBC	3	401	3	Farm land-owner	2
+48	216	OBC	3	401	3	Private services	9
+48	217	OBC	3	401	3	Farm land-owner	2
+48	218	General	4	401	3	Farm labourer	3
+48	219	SC	1	201	4	Farm labourer	3
+48	220	General	4	407	3	Pensioner	17
+48	221	General	4	401	3	Farm land-owner	2
+48	222	General	4	409	3	Farm labourer	3
+48	223	SC	1	201	4	Farm labourer	3
+48	224	SC	1	201	1	Farm labourer	3
+48	225	SC	1	201	4	Domestic help/cook/casual	15
+48	226	SC	1	201	4	Domestic help/cook/casual	15
+48	227	SC	1	201	3	OTHERS, SPECIFY	-333
+48	228	SC	1	201	4	Domestic help/cook/casual	15
+48	229	SC	1	201	4	Domestic help/cook/casual	15
+48	230	SC	1	201	3	Farm land-owner	2
+48	231	General	4	407	3	OTHERS, SPECIFY	-333
+48	232	General	4	407	3	Farm land-owner	2
+48	233	General	4	407	3	Farm land-owner	2
+48	234	General	4	401	3	Farm land-owner	2
+48	235	General	4	401	3	Farm land-owner	2
+48	236	OBC	3	401	3	Farm land-owner	2
+48	237	OBC	3	403	3	Dairy/cattle rearing	5
+48	238	OBC	3	402	2	Farm labourer	3
+48	239	OBC	3	403	4	Farm labourer	3
+48	240	OBC	3	401	2	Farm land-owner	2
+48	241	General	4	401	2	Farm land-owner	2
+48	243	OBC	3	401	4	Farm land-owner	2
+48	244	OBC	3	403	3	Farm labourer	3
+48	245	General	4	401	3	Farm labourer	3
+48	246	OBC	3	401	2	Farm land-owner	2
+48	247	General	4	409	3	Sericulture owner	6
+48	248	General	4	409	3	Sericulture owner	6
+48	249	OBC	3	409	3	Farm labourer	3
+48	250	General	4	401	3	Farm land-owner	2
+48	252	OBC	3	401	3	Dairy/cattle rearing	5
+48	253	OBC	3	401	5	Farm land-owner	2
+48	254	OBC	3	401	3	Farm labourer	3
+48	255	OBC	3	401	3	Farm land-owner	2
+48	256	OBC	3	401	2	Farm land-owner	2
+48	257	General	4	401	4	Farm labourer	3
+48	258	General	4	401	3	Industrialist	11
+48	259	OBC	3	401	3	OTHERS, SPECIFY	-333
+48	260	OBC	3	401	2	Farm land-owner	2
+48	261	General	4	401	4	Industrialist	11
+48	262	General	4	401	3	Farm labourer	3
+48	263	OBC	3	401	3	Farm land-owner	2
+48	264	General	4	401	3	Farm labourer	3
+48	265	OBC	3	401	3	Farm land-owner	2
+48	266	OBC	3	401	5	Farm labourer	3
+48	267	OBC	3	401	3	Farm land-owner	2
+48	268	General	4	102	2	Pensioner	17
+48	269	General	4	102	2	Farming(tenancy)	4
+48	270	General	4	401	3	Dairy/cattle rearing	5
+48	271	General	4	401	3	Industrialist	11
+48	272	OBC	3	407	2	Dairy/cattle rearing	5
+48	273	OBC	3	409	3	Farm land-owner	2
+48	274	General	4	401	3	Private services	9
+48	275	General	4	401	3	Industrialist	11
+48	276	OBC	3	401	3	Farm land-owner	2
+48	277	OBC	3	401	3	Small business (shop, etc.)	1
+48	278	OBC	3	401	2	Dairy/cattle rearing	5
+48	279	OBC	3	401	3	Farm land-owner	2
+48	280	OBC	3	-333	2	Pensioner	17
+48	281	General	4	209	4	Industrialist	11
+48	282	General	4	401	3	Farm labourer	3
+48	283	General	4	-333	4	Farm labourer	3
+48	284	General	4	401	1	Pensioner	17
+48	285	General	4	401	3	Pensioner	17
+48	286	General	4	401	3	Industrialist	11
+48	287	General	4	401	3	Industrialist	11
+48	288	OBC	3	401	3	OTHERS, SPECIFY	-333
+48	289	OBC	3	401	3	Farm land-owner	2
+48	290	OBC	3	401	2	Farm land-owner	2
+48	291	OBC	3	401	2	Farm land-owner	2
+48	292	OBC	3	401	-333	Farm land-owner	2
+48	293	OBC	3	401	2	Farm labourer	3
+48	294	OBC	3	401	3	Farm land-owner	2
+48	295	General	4	401	4	Farm labourer	3
+48	296	General	4	401	2	Farm labourer	3
+48	297	OBC	3	408	3	Industrialist	11
+48	298	OBC	3	408	4	Farm labourer	3
+48	299	OBC	3	408	3	Private services	9
+48	300	ST	2	-333	2	Artist	14
+48	301	General	4	401	3	Government services (teacher, etc.)	8
+48	302	General	4	401	3	Sericulture owner	6
+48	303	General	4	401	3	Industrialist	11
+48	304	SC	1	201	3	Farm labourer	3
+48	305	OBC	3	401	3	Farm labourer	3

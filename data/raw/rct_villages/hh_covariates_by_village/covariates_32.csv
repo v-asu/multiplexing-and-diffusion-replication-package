@@ -1,0 +1,196 @@
+villageid	hh_id	caste_category_label	caste_category	subcaste	roof_type	occupation_label	occupation
+32	101	General	4	401	5	Private services	9
+32	102	General	4	401	5	Farm land-owner	2
+32	103	General	4	401	5	Farm land-owner	2
+32	104	OBC	3	401	4	Farm land-owner	2
+32	105	OBC	3	401	4	Farm land-owner	2
+32	106	General	4	401	4	Farm land-owner	2
+32	107	OBC	3	401	5	Farm land-owner	2
+32	108	OBC	3	401	5	Private services	9
+32	109	ST	2	309	3	OTHERS, SPECIFY	-333
+32	110	General	4	401	4	Farm land-owner	2
+32	111	General	4	401	3	Farm land-owner	2
+32	112	ST	2	204	5	Farm labourer	3
+32	113	SC	1	204	5	Private services	9
+32	114	General	4	401	5	Government services (teacher, etc.)	8
+32	115	SC	1	-333	5	Farm land-owner	2
+32	116	ST	2	309	5	Farm labourer	3
+32	117	ST	2	204	4	OTHERS, SPECIFY	-333
+32	118	OBC	3	309	5	Government services (teacher, etc.)	8
+32	119	General	4	401	1	Farm land-owner	2
+32	120	SC	1	-333	4	OTHERS, SPECIFY	-333
+32	121	SC	1	-333	4	Farm land-owner	2
+32	122	SC	1	207	4	OTHERS, SPECIFY	-333
+32	123	SC	1	201	5	OTHERS, SPECIFY	-333
+32	124	SC	1	201	5	OTHERS, SPECIFY	-333
+32	125	SC	1	207	3	OTHERS, SPECIFY	-333
+32	126	SC	1	201	5	Government services (teacher, etc.)	8
+32	127	ST	2	201	5	OTHERS, SPECIFY	-333
+32	128	SC	1	201	4	Industry/factory worker(brick making etc)	10
+32	129	SC	1	201	3	Private services	9
+32	130	ST	2	201	4	Private services	9
+32	131	ST	2	201	4	Private services	9
+32	132	SC	1	201	3	Private services	9
+32	133	SC	1	201	3	Farming(tenancy)	4
+32	134	SC	1	201	1	OTHERS, SPECIFY	-333
+32	135	SC	1	201	4	OTHERS, SPECIFY	-333
+32	136	SC	1	207	3	OTHERS, SPECIFY	-333
+32	137	SC	1	201	5	OTHERS, SPECIFY	-333
+32	138	ST	2	201	5	OTHERS, SPECIFY	-333
+32	139	SC	1	201	4	Domestic help/cook/casual	15
+32	140	SC	1	201	5	OTHERS, SPECIFY	-333
+32	141	SC	1	207	3	Private services	9
+32	142	SC	1	207	3	Industrialist	11
+32	143	SC	1	201	5	Industrialist	11
+32	144	SC	1	201	1	Farming(tenancy)	4
+32	145	SC	1	201	3	Farming(tenancy)	4
+32	146	SC	1	201	4	OTHERS, SPECIFY	-333
+32	147	SC	1	201	5	OTHERS, SPECIFY	-333
+32	148	SC	1	201	5	Industry/factory worker(brick making etc)	10
+32	149	SC	1	201	5	Domestic help/cook/casual	15
+32	150	SC	1	201	5	Government services (teacher, etc.)	8
+32	151	SC	1	207	4	OTHERS, SPECIFY	-333
+32	152	SC	1	207	3	OTHERS, SPECIFY	-333
+32	153	ST	2	201	3	OTHERS, SPECIFY	-333
+32	154	SC	1	201	5	Small business (shop, etc.)	1
+32	155	General	4	401	3	Farm land-owner	2
+32	156	OTHERS, SPECIFY	-333	104	5	OTHERS, SPECIFY	-333
+32	157	OBC	3	104	3	Farm land-owner	2
+32	158	SC	1	309	4	OTHERS, SPECIFY	-333
+32	159	ST	2	309	5	Industry/factory worker(brick making etc)	10
+32	160	ST	2	309	5	Private services	9
+32	161	ST	2	309	5	Street vendor/hawker	13
+32	162	General	4	401	4	Farm land-owner	2
+32	163	General	4	-333	4	Dairy/cattle rearing	5
+32	164	OBC	3	104	5	OTHERS, SPECIFY	-333
+32	165	ST	2	-333	5	Dairy/cattle rearing	5
+32	166	General	4	401	5	Dairy/cattle rearing	5
+32	167	OBC	3	401	5	Farm land-owner	2
+32	168	ST	2	309	3	Private services	9
+32	169	ST	2	205	5	OTHERS, SPECIFY	-333
+32	170	ST	2	309	4	Farming(tenancy)	4
+32	171	ST	2	-333	4	Domestic help/cook/casual	15
+32	172	ST	2	309	5	Domestic help/cook/casual	15
+32	173	ST	2	309	4	OTHERS, SPECIFY	-333
+32	174	SC	1	201	5	OTHERS, SPECIFY	-333
+32	175	SC	1	201	5	Government services (teacher, etc.)	8
+32	177	SC	1	201	3	OTHERS, SPECIFY	-333
+32	178	SC	1	201	5	Industry/factory worker(brick making etc)	10
+32	179	ST	2	201	5	Farm land-owner	2
+32	180	SC	1	201	1	Farming(tenancy)	4
+32	181	SC	1	201	1	OTHERS, SPECIFY	-333
+32	182	SC	1	201	5	Farming(tenancy)	4
+32	183	SC	1	201	5	OTHERS, SPECIFY	-333
+32	184	SC	1	201	5	Farming(tenancy)	4
+32	185	ST	2	201	5	OTHERS, SPECIFY	-333
+32	186	SC	1	201	5	OTHERS, SPECIFY	-333
+32	187	SC	1	201	5	Masonry/construction worker	12
+32	188	SC	1	201	5	OTHERS, SPECIFY	-333
+32	189	SC	1	201	5	Private services	9
+32	190	SC	1	201	5	Farm land-owner	2
+32	191	ST	2	201	5	Farm land-owner	2
+32	192	SC	1	201	5	OTHERS, SPECIFY	-333
+32	193	ST	2	201	5	Masonry/construction worker	12
+32	194	SC	1	201	1	OTHERS, SPECIFY	-333
+32	195	SC	1	201	3	Domestic help/cook/casual	15
+32	196	SC	1	201	3	Domestic help/cook/casual	15
+32	197	General	4	304	1	Farming(tenancy)	4
+32	198	ST	2	309	5	Farm land-owner	2
+32	199	ST	2	309	1	Industrialist	11
+32	200	ST	2	205	1	OTHERS, SPECIFY	-333
+32	201	ST	2	309	1	OTHERS, SPECIFY	-333
+32	202	ST	2	309	1	OTHERS, SPECIFY	-333
+32	203	ST	2	309	1	OTHERS, SPECIFY	-333
+32	204	ST	2	309	1	OTHERS, SPECIFY	-333
+32	205	General	4	401	5	Farming(tenancy)	4
+32	206	General	4	401	5	OTHERS, SPECIFY	-333
+32	207	General	4	401	5	Farm land-owner	2
+32	208	General	4	401	5	Farm land-owner	2
+32	209	General	4	401	3	Industrialist	11
+32	210	General	4	401	3	Farm land-owner	2
+32	211	OBC	3	401	3	Farming(tenancy)	4
+32	212	General	4	401	-333	Farming(tenancy)	4
+32	213	General	4	401	1	Farming(tenancy)	4
+32	214	General	4	401	1	Farming(tenancy)	4
+32	215	OBC	3	401	-333	OTHERS, SPECIFY	-333
+32	216	OBC	3	401	4	Farming(tenancy)	4
+32	217	OBC	3	401	4	Farm land-owner	2
+32	218	OBC	3	401	1	Farming(tenancy)	4
+32	219	General	4	401	4	Domestic help/cook/casual	15
+32	220	General	4	401	5	OTHERS, SPECIFY	-333
+32	221	General	4	401	3	Farm land-owner	2
+32	222	General	4	401	3	Farm land-owner	2
+32	223	OBC	3	401	5	Industrialist	11
+32	224	SC	1	309	5	Farming(tenancy)	4
+32	225	ST	2	205	4	OTHERS, SPECIFY	-333
+32	226	SC	1	309	4	Private services	9
+32	227	ST	2	309	1	Dairy/cattle rearing	5
+32	228	General	4	401	3	Dairy/cattle rearing	5
+32	229	General	4	401	-333	Dairy/cattle rearing	5
+32	230	General	4	401	3	Domestic help/cook/casual	15
+32	231	General	4	401	5	Farm land-owner	2
+32	232	OBC	3	401	5	Farm land-owner	2
+32	233	OBC	3	-333	4	Farming(tenancy)	4
+32	234	SC	1	204	3	OTHERS, SPECIFY	-333
+32	235	General	4	-333	4	Government services (teacher, etc.)	8
+32	236	OBC	3	401	5	Farm land-owner	2
+32	237	OBC	3	401	3	Masonry/construction worker	12
+32	238	SC	1	-333	3	Industry/factory worker(brick making etc)	10
+32	239	OBC	3	-333	3	Masonry/construction worker	12
+32	240	General	4	-333	3	Small business (shop, etc.)	1
+32	241	OBC	3	-333	1	Street vendor/hawker	13
+32	242	SC	1	309	5	Farm land-owner	2
+32	243	SC	1	201	1	Private services	9
+32	244	OBC	3	204	1	Farm land-owner	2
+32	245	ST	2	204	5	OTHERS, SPECIFY	-333
+32	246	SC	1	203	3	Industrialist	11
+32	247	ST	2	204	3	Farm land-owner	2
+32	248	OBC	3	407	1	Farm land-owner	2
+32	249	ST	2	309	3	Farm land-owner	2
+32	250	ST	2	309	4	Farming(tenancy)	4
+32	251	SC	1	201	3	OTHERS, SPECIFY	-333
+32	252	SC	1	201	1	OTHERS, SPECIFY	-333
+32	253	SC	1	201	1	OTHERS, SPECIFY	-333
+32	254	SC	1	201	3	OTHERS, SPECIFY	-333
+32	255	SC	1	201	5	Domestic help/cook/casual	15
+32	256	SC	1	201	5	Farm land-owner	2
+32	257	ST	2	207	1	Farm land-owner	2
+32	258	SC	1	201	1	Farming(tenancy)	4
+32	259	SC	1	201	3	OTHERS, SPECIFY	-333
+32	260	SC	1	201	1	Farm land-owner	2
+32	261	General	4	207	5	OTHERS, SPECIFY	-333
+32	262	ST	2	201	5	OTHERS, SPECIFY	-333
+32	263	SC	1	201	5	Government services (teacher, etc.)	8
+32	264	SC	1	201	5	Government services (teacher, etc.)	8
+32	265	SC	1	201	1	Farm land-owner	2
+32	267	SC	1	201	1	Farm labourer	3
+32	268	SC	1	201	1	Farm labourer	3
+32	269	SC	1	201	5	Industrialist	11
+32	270	SC	1	201	4	Farming(tenancy)	4
+32	271	OBC	3	-333	3	Masonry/construction worker	12
+32	272	ST	2	309	4	Farm land-owner	2
+32	273	ST	2	309	4	Private services	9
+32	274	SC	1	309	5	Farming(tenancy)	4
+32	275	ST	2	309	3	Farm land-owner	2
+32	276	ST	2	309	3	Private services	9
+32	277	OBC	3	401	5	Farm land-owner	2
+32	278	General	4	401	4	Private services	9
+32	279	OBC	3	401	3	Farming(tenancy)	4
+32	280	General	4	401	3	Farm land-owner	2
+32	281	SC	1	201	3	Farm land-owner	2
+32	282	SC	1	201	3	Private services	9
+32	283	SC	1	201	4	Private services	9
+32	284	SC	1	201	3	Farming(tenancy)	4
+32	285	SC	1	201	3	Private services	9
+32	286	SC	1	201	1	Masonry/construction worker	12
+32	287	SC	1	202	3	Private services	9
+32	288	SC	1	202	4	Masonry/construction worker	12
+32	289	SC	1	201	3	Farming(tenancy)	4
+32	290	SC	1	201	3	Masonry/construction worker	12
+32	291	SC	1	309	4	Private services	9
+32	292	General	4	401	4	Farm labourer	3
+32	293	SC	1	201	3	Farm land-owner	2
+32	295	SC	1	201	3	Farm labourer	3
+32	296	SC	1	201	3	Farm labourer	3
+32	297	SC	1	201	3	Farm labourer	3
+32	298	OBC	3	401	3	Farm land-owner	2

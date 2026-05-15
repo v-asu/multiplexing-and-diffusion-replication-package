@@ -1,0 +1,195 @@
+villageid	hh_id	caste_category_label	caste_category	subcaste	roof_type	occupation_label	occupation
+30	101	OBC	3	404	2	Farm land-owner	2
+30	102	General	4	404	2	Farming(tenancy)	4
+30	103	SC	1	201	3	Farm land-owner	2
+30	104	SC	1	201	5	OTHERS, SPECIFY	-333
+30	105	SC	1	201	5	Masonry/construction worker	12
+30	106	OBC	3	404	3	Farm land-owner	2
+30	107	General	4	404	3	Farm land-owner	2
+30	108	General	4	404	3	Farm land-owner	2
+30	109	ST	2	404	3	Small business (shop, etc.)	1
+30	110	OBC	3	404	3	Street vendor/hawker	13
+30	111	General	4	404	3	Farm labourer	3
+30	112	General	4	401	5	Industrialist	11
+30	113	General	4	404	3	Pensioner	17
+30	114	General	4	404	5	Private services	9
+30	115	OBC	3	301	3	Government services (teacher, etc.)	8
+30	116	General	4	-333	4	Private services	9
+30	117	OBC	3	301	3	Private services	9
+30	118	SC	1	206	3	Private services	9
+30	119	General	4	102	5	Private services	9
+30	120	OBC	3	404	5	Domestic help/cook/casual	15
+30	121	General	4	102	5	Private services	9
+30	122	Missing	-666	-666	-666	Missing	-666
+30	123	OBC	3	404	3	Pensioner	17
+30	124	General	4	404	4	Private services	9
+30	125	General	4	404	4	Private services	9
+30	126	SC	1	206	3	Masonry/construction worker	12
+30	127	SC	1	206	3	Masonry/construction worker	12
+30	128	SC	1	206	4	Masonry/construction worker	12
+30	129	OBC	3	404	3	Government services (teacher, etc.)	8
+30	130	OBC	3	404	3	Government services (teacher, etc.)	8
+30	131	General	4	401	3	Farm labourer	3
+30	132	OBC	3	404	2	Farm labourer	3
+30	133	Religious Minority	5	404	4	Pensioner	17
+30	134	OBC	3	404	2	Private services	9
+30	135	OBC	3	404	3	Private services	9
+30	136	OBC	3	404	4	Farm land-owner	2
+30	137	Religious Minority	5	404	3	Farm labourer	3
+30	138	General	4	401	3	Masonry/construction worker	12
+30	139	OBC	3	404	4	Housewife	16
+30	140	Religious Minority	5	404	4	Private services	9
+30	141	Religious Minority	5	404	4	Industrialist	11
+30	142	OBC	3	404	3	Private services	9
+30	143	OBC	3	404	3	Masonry/construction worker	12
+30	144	OBC	3	404	4	Masonry/construction worker	12
+30	145	OBC	3	404	3	Farm labourer	3
+30	146	OBC	3	404	4	Farm labourer	3
+30	147	Religious Minority	5	404	3	Masonry/construction worker	12
+30	148	Religious Minority	5	404	2	Masonry/construction worker	12
+30	149	OBC	3	404	4	Domestic help/cook/casual	15
+30	150	OBC	3	404	3	Private services	9
+30	151	OBC	3	404	3	OTHERS, SPECIFY	-333
+30	152	OBC	3	404	3	Masonry/construction worker	12
+30	153	OBC	3	404	3	Masonry/construction worker	12
+30	154	Religious Minority	5	404	2	Masonry/construction worker	12
+30	155	Religious Minority	5	404	2	Masonry/construction worker	12
+30	156	OBC	3	404	3	Farm land-owner	2
+30	157	OBC	3	404	4	Masonry/construction worker	12
+30	158	OBC	3	404	3	Private services	9
+30	159	OBC	3	404	3	Farm labourer	3
+30	160	Religious Minority	5	404	3	Private services	9
+30	161	OBC	3	404	3	Masonry/construction worker	12
+30	162	Religious Minority	5	404	3	Farm labourer	3
+30	163	Religious Minority	5	404	4	Farm labourer	3
+30	164	OBC	3	404	3	Masonry/construction worker	12
+30	165	OBC	3	404	3	Farm land-owner	2
+30	166	General	4	404	3	Farm labourer	3
+30	167	OBC	3	404	5	Masonry/construction worker	12
+30	168	OBC	3	404	3	Masonry/construction worker	12
+30	169	General	4	404	4	Farm labourer	3
+30	170	OBC	3	404	3	Industrialist	11
+30	171	OBC	3	404	2	Domestic help/cook/casual	15
+30	172	Religious Minority	5	414	2	Farm labourer	3
+30	173	OBC	3	401	3	Masonry/construction worker	12
+30	174	OBC	3	404	3	Masonry/construction worker	12
+30	175	OBC	3	404	2	Housewife	16
+30	176	OBC	3	206	3	Masonry/construction worker	12
+30	177	General	4	404	2	Farm labourer	3
+30	178	OBC	3	404	5	Farm labourer	3
+30	179	OBC	3	404	3	Farm land-owner	2
+30	180	OBC	3	404	3	Government services (teacher, etc.)	8
+30	181	General	4	404	3	Farm labourer	3
+30	182	OBC	3	404	2	Farm labourer	3
+30	183	General	4	404	3	Masonry/construction worker	12
+30	184	OBC	3	404	4	Domestic help/cook/casual	15
+30	185	General	4	404	2	Farm labourer	3
+30	186	General	4	404	2	Pensioner	17
+30	187	OBC	3	404	2	Industry/factory worker(brick making etc)	10
+30	188	OBC	3	404	2	Masonry/construction worker	12
+30	189	OBC	3	404	2	Industry/factory worker(brick making etc)	10
+30	190	OBC	3	404	5	Pensioner	17
+30	191	OBC	3	404	2	Masonry/construction worker	12
+30	192	General	4	404	3	Private services	9
+30	193	General	4	404	3	Private services	9
+30	194	OBC	3	404	3	Dairy/cattle rearing	5
+30	195	OBC	3	404	4	Domestic help/cook/casual	15
+30	196	OBC	3	404	5	Farm labourer	3
+30	197	General	4	404	3	Private services	9
+30	198	SC	1	201	5	Private services	9
+30	199	SC	1	201	1	Domestic help/cook/casual	15
+30	200	SC	1	201	3	Industrialist	11
+30	201	General	4	404	3	Industry/factory worker(brick making etc)	10
+30	202	General	4	407	3	Masonry/construction worker	12
+30	203	OBC	3	404	3	Government services (teacher, etc.)	8
+30	204	OBC	3	404	4	Government services (teacher, etc.)	8
+30	205	OBC	3	404	3	Farm land-owner	2
+30	206	General	4	404	2	Farm labourer	3
+30	207	ST	2	404	4	Farm labourer	3
+30	208	General	4	404	3	Private services	9
+30	209	OBC	3	404	3	Private services	9
+30	210	OBC	3	404	4	Farm land-owner	2
+30	211	General	4	404	3	Farm labourer	3
+30	212	General	4	404	3	Farm labourer	3
+30	213	General	4	404	3	Farm labourer	3
+30	214	OBC	3	404	5	Private services	9
+30	215	ST	2	404	5	Farm labourer	3
+30	216	General	4	404	3	Masonry/construction worker	12
+30	217	General	4	404	3	Private services	9
+30	218	OBC	3	404	3	Housewife	16
+30	219	OBC	3	404	2	Masonry/construction worker	12
+30	220	OBC	3	404	2	Domestic help/cook/casual	15
+30	221	OBC	3	404	3	Government services (teacher, etc.)	8
+30	222	ST	2	404	2	Farm land-owner	2
+30	223	OBC	3	404	3	Government services (teacher, etc.)	8
+30	224	OBC	3	404	3	Farm land-owner	2
+30	225	OBC	3	404	5	Government services (teacher, etc.)	8
+30	226	OBC	3	101	3	Government services (teacher, etc.)	8
+30	227	OBC	3	404	3	Private services	9
+30	228	OBC	3	404	3	Industry/factory worker(brick making etc)	10
+30	229	ST	2	404	5	Farm labourer	3
+30	230	General	4	404	3	Industrialist	11
+30	231	General	4	404	3	Private services	9
+30	232	SC	1	201	3	Masonry/construction worker	12
+30	233	SC	1	201	3	Masonry/construction worker	12
+30	234	OBC	3	206	4	Farm labourer	3
+30	235	OBC	3	404	3	Industrialist	11
+30	236	OBC	3	404	2	Private services	9
+30	237	OBC	3	404	2	Private services	9
+30	238	OBC	3	404	3	Farm labourer	3
+30	239	OBC	3	404	3	Masonry/construction worker	12
+30	240	OBC	3	404	3	Farm labourer	3
+30	241	ST	2	404	5	Masonry/construction worker	12
+30	242	General	4	404	3	Farm labourer	3
+30	243	General	4	404	4	Dairy/cattle rearing	5
+30	244	General	4	404	3	Masonry/construction worker	12
+30	245	General	4	403	3	Private services	9
+30	246	ST	2	404	5	Masonry/construction worker	12
+30	247	OBC	3	404	3	Farm land-owner	2
+30	248	General	4	404	4	Private services	9
+30	249	General	4	404	4	Masonry/construction worker	12
+30	250	ST	2	404	5	Masonry/construction worker	12
+30	251	ST	2	404	5	Farm labourer	3
+30	253	OBC	3	404	3	Farm land-owner	2
+30	254	OBC	3	404	3	Artist	14
+30	255	General	4	404	5	Farm labourer	3
+30	256	ST	2	404	5	Housewife	16
+30	257	ST	2	404	3	Farm labourer	3
+30	258	OBC	3	404	3	Masonry/construction worker	12
+30	259	General	4	404	2	Farm land-owner	2
+30	260	OBC	3	404	5	Masonry/construction worker	12
+30	261	OBC	3	404	3	Pensioner	17
+30	262	General	4	404	3	Farm land-owner	2
+30	263	OBC	3	404	3	Private services	9
+30	264	OBC	3	404	2	Industry/factory worker(brick making etc)	10
+30	265	OBC	3	-333	3	Private services	9
+30	266	OBC	3	402	3	Small business (shop, etc.)	1
+30	267	General	4	405	3	Private services	9
+30	268	OBC	3	404	3	Government services (teacher, etc.)	8
+30	269	OBC	3	404	5	Private services	9
+30	270	General	4	404	3	Industry/factory worker(brick making etc)	10
+30	271	General	4	404	3	Farm land-owner	2
+30	272	General	4	404	4	Farm labourer	3
+30	273	ST	2	404	5	Farm land-owner	2
+30	274	OBC	3	404	3	Pensioner	17
+30	275	General	4	404	3	Farm labourer	3
+30	276	ST	2	404	5	Government services (teacher, etc.)	8
+30	277	ST	2	404	5	Private services	9
+30	278	OBC	3	404	3	Private services	9
+30	279	OBC	3	404	3	Private services	9
+30	280	General	4	404	3	Dairy/cattle rearing	5
+30	281	SC	1	206	4	Government services (teacher, etc.)	8
+30	282	OBC	3	404	3	Industry/factory worker(brick making etc)	10
+30	283	OBC	3	404	4	Masonry/construction worker	12
+30	284	OBC	3	404	3	Private services	9
+30	285	OBC	3	404	3	Industrialist	11
+30	286	General	4	404	3	Government services (teacher, etc.)	8
+30	287	ST	2	404	4	OTHERS, SPECIFY	-333
+30	288	ST	2	404	4	OTHERS, SPECIFY	-333
+30	289	OBC	3	402	3	Pensioner	17
+30	290	OBC	3	404	3	Private services	9
+30	291	General	4	404	3	Private services	9
+30	292	General	4	404	3	Masonry/construction worker	12
+30	293	General	4	404	2	Farm labourer	3
+30	295	General	4	404	3	Farm land-owner	2
+30	296	General	4	404	3	Farm land-owner	2

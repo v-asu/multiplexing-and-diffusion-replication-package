@@ -1,0 +1,216 @@
+villageid	hh_id	caste_category_label	caste_category	subcaste	roof_type	occupation_label	occupation
+59	101	SC	1	207	2	Farm labourer	3
+59	102	ST	2	202	3	Farm labourer	3
+59	103	SC	1	201	4	Farm labourer	3
+59	104	SC	1	201	5	Farm labourer	3
+59	105	SC	1	207	3	Farm labourer	3
+59	106	SC	1	207	1	Farm labourer	3
+59	107	SC	1	207	3	Farm labourer	3
+59	108	SC	1	207	3	Farm labourer	3
+59	109	SC	1	202	3	Masonry/construction worker	12
+59	110	SC	1	202	3	Farm labourer	3
+59	111	SC	1	207	3	Farm labourer	3
+59	112	OBC	3	405	3	Farm land-owner	2
+59	113	OBC	3	405	4	Farm land-owner	2
+59	114	OBC	3	405	5	Farm labourer	3
+59	115	OBC	3	405	3	Farm land-owner	2
+59	116	ST	2	405	2	Farm land-owner	2
+59	117	ST	2	405	3	Farm land-owner	2
+59	118	General	4	405	3	Private services	9
+59	119	OBC	3	409	3	Farm land-owner	2
+59	120	OBC	3	409	3	Farm land-owner	2
+59	121	OBC	3	409	3	Farm labourer	3
+59	122	ST	2	405	5	Farm labourer	3
+59	123	OBC	3	405	5	Farm labourer	3
+59	124	OBC	3	405	5	Farm labourer	3
+59	127	OBC	3	405	3	Farm labourer	3
+59	128	ST	2	206	5	Farm land-owner	2
+59	129	General	4	405	4	Farm land-owner	2
+59	130	General	4	405	3	Farm labourer	3
+59	131	OBC	3	405	3	Dairy/cattle rearing	5
+59	132	SC	1	206	3	Farm labourer	3
+59	133	SC	1	206	4	Farm land-owner	2
+59	134	ST	2	206	3	Farm land-owner	2
+59	135	SC	1	206	3	Industrialist	11
+59	136	SC	1	206	3	Farm labourer	3
+59	137	SC	1	207	3	Farm labourer	3
+59	138	SC	1	207	3	Farm labourer	3
+59	139	ST	2	206	5	Farm labourer	3
+59	140	ST	2	206	3	Farm labourer	3
+59	141	SC	1	206	3	Private services	9
+59	142	OBC	3	405	5	Government services (teacher, etc.)	8
+59	143	OBC	3	206	4	Farm land-owner	2
+59	144	SC	1	206	3	Farm land-owner	2
+59	145	ST	2	206	5	Farm land-owner	2
+59	146	ST	2	206	4	Industry/factory worker(brick making etc)	10
+59	147	SC	1	206	3	Farm labourer	3
+59	148	SC	1	206	5	Farm land-owner	2
+59	149	SC	1	206	3	Masonry/construction worker	12
+59	150	SC	1	206	3	Farm land-owner	2
+59	151	SC	1	206	5	Farm labourer	3
+59	152	SC	1	206	3	Farm labourer	3
+59	153	OBC	3	206	3	Masonry/construction worker	12
+59	154	SC	1	206	3	Private services	9
+59	155	ST	2	206	3	Farm labourer	3
+59	156	Missing	-666	-666	-666	Missing	-666
+59	157	OBC	3	405	3	Domestic help/cook/casual	15
+59	158	ST	2	206	3	Private services	9
+59	159	SC	1	206	3	Farm labourer	3
+59	160	SC	1	206	3	Farm land-owner	2
+59	161	SC	1	206	2	Farm labourer	3
+59	162	SC	1	206	4	Farm land-owner	2
+59	163	SC	1	206	3	Farm labourer	3
+59	165	SC	1	206	3	Farm labourer	3
+59	166	SC	1	206	5	Farm land-owner	2
+59	167	OBC	3	405	5	Farm labourer	3
+59	168	OBC	3	405	3	Farm labourer	3
+59	169	OBC	3	405	3	Farm labourer	3
+59	170	OBC	3	405	5	Farm land-owner	2
+59	171	ST	2	405	5	Farm labourer	3
+59	172	ST	2	405	5	Small business (shop, etc.)	1
+59	173	SC	1	206	3	Farm labourer	3
+59	174	OBC	3	206	3	Masonry/construction worker	12
+59	175	OBC	3	409	3	Farm labourer	3
+59	176	OBC	3	409	3	Farm land-owner	2
+59	177	General	4	413	3	Industrialist	11
+59	178	OBC	3	405	3	Farm labourer	3
+59	179	OBC	3	405	5	Farm land-owner	2
+59	180	Religious Minority	5	413	3	Pensioner	17
+59	181	Religious Minority	5	413	5	OTHERS, SPECIFY	-333
+59	182	SC	1	206	2	Farm labourer	3
+59	183	General	4	405	3	Farm land-owner	2
+59	184	OBC	3	405	3	Farm labourer	3
+59	185	Religious Minority	5	413	3	OTHERS, SPECIFY	-333
+59	186	SC	1	206	3	Farm land-owner	2
+59	187	Religious Minority	5	413	3	Farm labourer	3
+59	188	General	4	304	3	Farm labourer	3
+59	189	OBC	3	409	4	Farm labourer	3
+59	190	General	4	409	3	Farm land-owner	2
+59	191	SC	1	405	5	Farm land-owner	2
+59	192	OBC	3	405	4	Farm labourer	3
+59	193	ST	2	405	5	Farm land-owner	2
+59	194	OBC	3	405	5	Farm land-owner	2
+59	195	OBC	3	405	3	Farm land-owner	2
+59	196	OBC	3	405	3	Farm labourer	3
+59	197	OBC	3	405	3	Industrialist	11
+59	198	OBC	3	405	3	Farm land-owner	2
+59	199	ST	2	405	5	Industry/factory worker(brick making etc)	10
+59	200	ST	2	405	5	Private services	9
+59	201	OBC	3	405	3	Farm labourer	3
+59	202	OBC	3	405	3	Farm labourer	3
+59	203	General	4	405	3	Farm land-owner	2
+59	204	SC	1	206	5	Domestic help/cook/casual	15
+59	205	SC	1	309	3	Farm labourer	3
+59	206	General	4	302	3	Farm labourer	3
+59	207	OBC	3	405	3	Farm labourer	3
+59	208	OBC	3	405	3	Small business (shop, etc.)	1
+59	209	Religious Minority	5	413	3	Small business (shop, etc.)	1
+59	210	Missing	-666	-666	-666	Missing	-666
+59	211	OBC	3	206	3	Farm labourer	3
+59	212	OBC	3	405	5	Farm land-owner	2
+59	213	General	4	405	3	Farm land-owner	2
+59	214	OBC	3	405	3	Domestic help/cook/casual	15
+59	215	OBC	3	405	3	Farm land-owner	2
+59	218	OBC	3	405	5	Farm land-owner	2
+59	219	OBC	3	405	5	Government services (teacher, etc.)	8
+59	220	OBC	3	405	3	Domestic help/cook/casual	15
+59	221	OBC	3	405	3	Farm labourer	3
+59	222	General	4	405	3	Farm labourer	3
+59	223	SC	1	206	5	Industrialist	11
+59	224	OBC	3	405	3	Farm land-owner	2
+59	225	OBC	3	206	3	Masonry/construction worker	12
+59	226	OBC	3	405	3	Farm labourer	3
+59	227	OBC	3	206	3	Farm land-owner	2
+59	228	OBC	3	206	3	Private services	9
+59	229	ST	2	405	4	Masonry/construction worker	12
+59	230	General	4	413	3	Masonry/construction worker	12
+59	231	SC	1	206	3	Domestic help/cook/casual	15
+59	232	Religious Minority	5	413	3	Domestic help/cook/casual	15
+59	233	General	4	413	3	Farm labourer	3
+59	234	Religious Minority	5	413	3	Industrialist	11
+59	235	Religious Minority	5	413	3	Farm labourer	3
+59	236	Religious Minority	5	413	3	Farm labourer	3
+59	237	ST	2	405	3	Farm labourer	3
+59	238	ST	2	206	3	Farm labourer	3
+59	239	OBC	3	206	3	Domestic help/cook/casual	15
+59	240	OBC	3	405	2	Domestic help/cook/casual	15
+59	241	General	4	405	3	Farm labourer	3
+59	242	General	4	402	3	Farm land-owner	2
+59	243	ST	2	206	5	Dairy/cattle rearing	5
+59	244	Religious Minority	5	413	2	Domestic help/cook/casual	15
+59	245	SC	1	206	3	Domestic help/cook/casual	15
+59	246	Religious Minority	5	413	3	Farm labourer	3
+59	247	Religious Minority	5	413	3	Farm labourer	3
+59	248	OBC	3	206	3	Private services	9
+59	249	ST	2	206	5	Housewife	16
+59	250	OBC	3	206	4	Farm labourer	3
+59	251	Religious Minority	5	413	3	Farm labourer	3
+59	252	General	4	413	3	Industrialist	11
+59	253	ST	2	405	5	Dairy/cattle rearing	5
+59	254	OBC	3	206	3	Farm labourer	3
+59	255	OBC	3	206	3	Farm labourer	3
+59	256	OBC	3	405	4	Domestic help/cook/casual	15
+59	257	OBC	3	405	3	Artist	14
+59	258	SC	1	206	3	Domestic help/cook/casual	15
+59	259	Religious Minority	5	413	3	Domestic help/cook/casual	15
+59	260	ST	2	309	5	Domestic help/cook/casual	15
+59	261	General	4	206	3	Masonry/construction worker	12
+59	262	ST	2	206	1	Farm land-owner	2
+59	263	OBC	3	206	3	Farm labourer	3
+59	264	OBC	3	405	3	Industrialist	11
+59	265	OBC	3	405	3	Farm labourer	3
+59	266	General	4	405	3	Farm land-owner	2
+59	267	General	4	405	3	Government services (teacher, etc.)	8
+59	268	OBC	3	405	3	Farm land-owner	2
+59	269	Religious Minority	5	413	3	Domestic help/cook/casual	15
+59	270	SC	1	202	3	Farm labourer	3
+59	271	SC	1	201	3	Farm labourer	3
+59	272	SC	1	201	3	Farm labourer	3
+59	273	SC	1	202	3	Farm labourer	3
+59	274	General	4	405	3	Farm labourer	3
+59	275	SC	1	206	3	Farm labourer	3
+59	276	OBC	3	206	3	Dairy/cattle rearing	5
+59	277	OBC	3	405	3	Farm land-owner	2
+59	278	ST	2	202	3	Farm labourer	3
+59	279	ST	2	202	3	Farm labourer	3
+59	280	SC	1	206	3	OTHERS, SPECIFY	-333
+59	281	SC	1	206	3	Farm labourer	3
+59	282	ST	2	207	3	Farm labourer	3
+59	283	SC	1	207	3	Farm labourer	3
+59	284	SC	1	207	3	Farm labourer	3
+59	285	SC	1	207	4	Farm labourer	3
+59	286	OBC	3	405	3	Farm labourer	3
+59	287	SC	1	201	3	Farm labourer	3
+59	288	SC	1	201	4	Farm labourer	3
+59	289	ST	2	202	3	Farm labourer	3
+59	290	SC	1	207	3	Farm labourer	3
+59	291	SC	1	202	3	Government services (teacher, etc.)	8
+59	292	SC	1	202	3	Private services	9
+59	293	General	4	206	3	Farm labourer	3
+59	294	OBC	3	413	4	Farm labourer	3
+59	295	OBC	3	405	4	Industrialist	11
+59	296	OBC	3	206	3	Farm land-owner	2
+59	297	OBC	3	405	3	Industrialist	11
+59	298	OBC	3	405	3	Farm labourer	3
+59	299	OBC	3	405	3	Farm land-owner	2
+59	300	OBC	3	402	3	Small business (shop, etc.)	1
+59	301	General	4	405	3	Farm land-owner	2
+59	302	OBC	3	402	3	Domestic help/cook/casual	15
+59	303	SC	1	207	3	Dairy/cattle rearing	5
+59	304	General	4	206	1	Farm labourer	3
+59	305	OBC	3	206	3	Pensioner	17
+59	306	SC	1	206	3	Masonry/construction worker	12
+59	307	OBC	3	206	3	Farm land-owner	2
+59	308	OBC	3	405	3	Farm land-owner	2
+59	309	OBC	3	405	5	Farm land-owner	2
+59	310	OBC	3	405	3	Farm labourer	3
+59	311	SC	1	206	3	Masonry/construction worker	12
+59	312	SC	1	206	3	Farm labourer	3
+59	313	OBC	3	405	3	Farm land-owner	2
+59	314	OBC	3	405	3	Farm land-owner	2
+59	315	OBC	3	405	3	Farm land-owner	2
+59	316	OBC	3	405	5	Domestic help/cook/casual	15
+59	317	OBC	3	405	3	Farm labourer	3
+59	318	OBC	3	405	5	Domestic help/cook/casual	15
+59	319	OBC	3	405	5	Farm land-owner	2
+59	320	OBC	3	405	3	Farm land-owner	2

@@ -1,0 +1,305 @@
+villageid	hh_id	caste_category_label	caste_category	subcaste	roof_type	occupation_label	occupation
+42	101	General	4	401	5	Farm land-owner	2
+42	102	OBC	3	401	3	Private services	9
+42	103	General	4	401	5	Farm land-owner	2
+42	104	General	4	401	3	Farm land-owner	2
+42	105	SC	1	201	3	Farm labourer	3
+42	106	General	4	401	3	Farm land-owner	2
+42	107	General	4	401	3	Farm land-owner	2
+42	109	SC	1	205	2	Farm labourer	3
+42	110	ST	2	211	2	Farm labourer	3
+42	111	ST	2	211	3	Farm labourer	3
+42	112	General	4	401	5	Farm land-owner	2
+42	113	General	4	404	3	Farm land-owner	2
+42	114	General	4	-333	3	Farm labourer	3
+42	115	General	4	-333	3	Farm labourer	3
+42	116	SC	1	201	2	Farming(tenancy)	4
+42	117	General	4	408	3	Farm labourer	3
+42	118	General	4	408	3	Industrialist	11
+42	119	General	4	402	3	Private services	9
+42	120	General	4	401	3	Farm land-owner	2
+42	121	SC	1	201	3	Farm land-owner	2
+42	122	SC	1	201	3	Industry/factory worker(brick making etc)	10
+42	123	SC	1	201	1	Domestic help/cook/casual	15
+42	124	SC	1	201	3	Farming(tenancy)	4
+42	125	SC	1	201	3	Farm labourer	3
+42	126	SC	1	201	1	Farm labourer	3
+42	127	SC	1	209	3	Farm labourer	3
+42	128	SC	1	209	3	Farm labourer	3
+42	129	SC	1	209	5	Masonry/construction worker	12
+42	130	SC	1	209	5	Government services (teacher, etc.)	8
+42	131	SC	1	201	5	Domestic help/cook/casual	15
+42	132	SC	1	201	4	Farm labourer	3
+42	133	SC	1	201	1	Domestic help/cook/casual	15
+42	134	SC	1	201	3	Farm labourer	3
+42	135	SC	1	201	3	Masonry/construction worker	12
+42	136	SC	1	201	3	Farm land-owner	2
+42	137	SC	1	201	3	Farm labourer	3
+42	138	SC	1	201	3	Farm labourer	3
+42	139	SC	1	201	5	Masonry/construction worker	12
+42	141	SC	1	201	3	Farm labourer	3
+42	142	SC	1	201	3	Farm labourer	3
+42	143	SC	1	209	3	Farm labourer	3
+42	144	SC	1	209	5	Farm labourer	3
+42	145	SC	1	209	3	Farm labourer	3
+42	146	SC	1	201	4	Farm labourer	3
+42	147	SC	1	201	5	Domestic help/cook/casual	15
+42	148	SC	1	201	5	Farm labourer	3
+42	149	SC	1	201	1	Domestic help/cook/casual	15
+42	150	General	4	401	5	Farm land-owner	2
+42	151	General	4	401	5	Farm land-owner	2
+42	152	General	4	401	5	Farm land-owner	2
+42	153	General	4	401	5	Farm land-owner	2
+42	154	General	4	401	3	Farm labourer	3
+42	155	General	4	401	3	Farm labourer	3
+42	156	OBC	3	401	3	Farm labourer	3
+42	157	SC	1	404	5	Masonry/construction worker	12
+42	158	OBC	3	404	5	Dairy/cattle rearing	5
+42	159	General	4	404	3	Farm land-owner	2
+42	160	General	4	402	3	Farm labourer	3
+42	161	General	4	401	3	Pensioner	17
+42	162	Religious Minority	5	413	3	Street vendor/hawker	13
+42	163	General	4	401	3	Farm land-owner	2
+42	164	General	4	401	5	Farm land-owner	2
+42	165	SC	1	209	3	Farm labourer	3
+42	166	Missing	-666	-666	-666	Missing	-666
+42	167	SC	1	210	5	Government services (teacher, etc.)	8
+42	168	SC	1	201	5	Farm land-owner	2
+42	169	SC	1	201	5	Dairy/cattle rearing	5
+42	170	SC	1	201	2	Farm labourer	3
+42	171	SC	1	201	3	Farm labourer	3
+42	172	SC	1	201	3	Masonry/construction worker	12
+42	173	SC	1	201	3	Masonry/construction worker	12
+42	174	SC	1	201	3	Farm labourer	3
+42	175	SC	1	201	3	Masonry/construction worker	12
+42	176	SC	1	201	3	Government services (teacher, etc.)	8
+42	177	SC	1	201	3	Farm labourer	3
+42	178	SC	1	209	3	OTHERS, SPECIFY	-333
+42	179	SC	1	201	5	Masonry/construction worker	12
+42	180	SC	1	201	5	Domestic help/cook/casual	15
+42	181	SC	1	201	5	Domestic help/cook/casual	15
+42	182	SC	1	209	5	Farm labourer	3
+42	183	SC	1	201	4	Farm labourer	3
+42	184	SC	1	201	4	Farm labourer	3
+42	185	SC	1	201	3	Private services	9
+42	186	SC	1	201	2	Pensioner	17
+42	187	SC	1	209	3	Farm labourer	3
+42	188	SC	1	209	3	Farm labourer	3
+42	189	SC	1	201	1	Masonry/construction worker	12
+42	190	SC	1	201	3	Masonry/construction worker	12
+42	191	SC	1	201	3	Farm labourer	3
+42	192	SC	1	201	3	Farm labourer	3
+42	193	OBC	3	413	5	Farm land-owner	2
+42	194	OBC	3	413	5	Industrialist	11
+42	195	OBC	3	413	5	Farm labourer	3
+42	196	General	4	404	4	Farm land-owner	2
+42	197	OBC	3	402	2	Farm labourer	3
+42	198	General	4	404	3	Farm land-owner	2
+42	199	OBC	3	401	3	Farm land-owner	2
+42	200	General	4	404	3	Pensioner	17
+42	201	ST	2	404	3	Masonry/construction worker	12
+42	202	OBC	3	413	4	Farm labourer	3
+42	203	OBC	3	413	3	Farm labourer	3
+42	204	General	4	401	5	Farm labourer	3
+42	205	General	4	401	3	Farm labourer	3
+42	206	SC	1	201	3	Masonry/construction worker	12
+42	207	SC	1	201	3	Masonry/construction worker	12
+42	208	SC	1	201	4	Pensioner	17
+42	209	SC	1	201	3	Masonry/construction worker	12
+42	210	SC	1	201	3	Farm labourer	3
+42	211	OBC	3	401	3	Farm land-owner	2
+42	212	SC	1	209	5	Farm labourer	3
+42	213	SC	1	209	2	Industry/factory worker(brick making etc)	10
+42	214	SC	1	209	4	Masonry/construction worker	12
+42	215	SC	1	209	2	Farm labourer	3
+42	216	SC	1	209	2	Farm labourer	3
+42	217	SC	1	201	3	OTHERS, SPECIFY	-333
+42	218	SC	1	201	3	Government services (teacher, etc.)	8
+42	219	SC	1	201	2	Pensioner	17
+42	220	SC	1	201	3	Farm labourer	3
+42	221	SC	1	201	4	Farm labourer	3
+42	223	OBC	3	407	3	Industrialist	11
+42	224	OBC	3	407	3	Domestic help/cook/casual	15
+42	225	OBC	3	401	3	Farm land-owner	2
+42	226	OBC	3	401	5	Farm land-owner	2
+42	227	SC	1	201	4	Private services	9
+42	228	SC	1	201	4	Domestic help/cook/casual	15
+42	229	General	4	401	3	Farm land-owner	2
+42	230	OBC	3	413	1	Small business (shop, etc.)	1
+42	231	OBC	3	413	-333	Private services	9
+42	232	OBC	3	413	3	Farm labourer	3
+42	233	General	4	401	3	Farm labourer	3
+42	234	General	4	402	3	Farm land-owner	2
+42	235	General	4	402	3	Farm labourer	3
+42	236	General	4	401	3	Farm land-owner	2
+42	237	Religious Minority	5	413	3	Government services (teacher, etc.)	8
+42	238	General	4	401	3	Small business (shop, etc.)	1
+42	239	General	4	401	3	Farm land-owner	2
+42	240	General	4	404	3	Farm land-owner	2
+42	241	OBC	3	404	4	Farm land-owner	2
+42	242	OBC	3	401	3	Domestic help/cook/casual	15
+42	243	OBC	3	402	3	Government services (teacher, etc.)	8
+42	244	OBC	3	402	3	Domestic help/cook/casual	15
+42	245	OBC	3	402	3	Farm land-owner	2
+42	246	OBC	3	402	3	Farming(tenancy)	4
+42	247	OBC	3	402	-333	Farm labourer	3
+42	248	General	4	401	4	Farm land-owner	2
+42	249	General	4	401	3	Farm labourer	3
+42	250	General	4	401	-333	Farm land-owner	2
+42	251	OBC	3	401	5	Farm land-owner	2
+42	252	General	4	401	4	Industrialist	11
+42	253	Missing	-666	-666	-666	Missing	-666
+42	254	General	4	401	3	Farm labourer	3
+42	255	General	4	401	1	Farm labourer	3
+42	256	General	4	401	3	Farm labourer	3
+42	257	General	4	404	1	Farm labourer	3
+42	258	OBC	3	401	3	Farm land-owner	2
+42	259	OBC	3	404	3	Farm land-owner	2
+42	260	OBC	3	205	1	Domestic help/cook/casual	15
+42	261	OBC	3	402	3	Farm labourer	3
+42	262	OBC	3	404	3	Farm land-owner	2
+42	263	OBC	3	404	1	Farm labourer	3
+42	264	OBC	3	404	1	Farm land-owner	2
+42	265	General	4	401	3	Farm labourer	3
+42	266	OBC	3	402	5	Farm land-owner	2
+42	267	Religious Minority	5	408	3	Domestic help/cook/casual	15
+42	268	OBC	3	401	3	Farm land-owner	2
+42	269	OBC	3	401	5	Government services (teacher, etc.)	8
+42	270	General	4	401	3	Farm labourer	3
+42	271	General	4	402	3	Small business (shop, etc.)	1
+42	272	General	4	413	4	Farm labourer	3
+42	274	OBC	3	413	1	Farm labourer	3
+42	275	OBC	3	-333	3	Private services	9
+42	276	OBC	3	402	3	Farm land-owner	2
+42	277	General	4	401	3	Farm land-owner	2
+42	278	General	4	401	3	Farm labourer	3
+42	279	General	4	401	3	Farm land-owner	2
+42	280	General	4	402	3	Domestic help/cook/casual	15
+42	281	OBC	3	407	3	Government services (teacher, etc.)	8
+42	282	General	4	-333	2	Industrialist	11
+42	283	General	4	402	3	Farm land-owner	2
+42	284	OBC	3	401	3	Farm land-owner	2
+42	285	General	4	413	4	Farm labourer	3
+42	286	OBC	3	-333	3	Artist	14
+42	287	OBC	3	413	3	Masonry/construction worker	12
+42	288	OBC	3	413	3	Farm labourer	3
+42	289	OBC	3	413	3	Farm land-owner	2
+42	290	Religious Minority	5	413	4	Domestic help/cook/casual	15
+42	291	General	4	404	2	Masonry/construction worker	12
+42	292	OBC	3	404	3	Farm land-owner	2
+42	293	General	4	402	3	Farm labourer	3
+42	294	General	4	413	3	Small business (shop, etc.)	1
+42	295	OBC	3	401	5	Industrialist	11
+42	296	OBC	3	404	5	Domestic help/cook/casual	15
+42	297	OBC	3	401	5	Farm land-owner	2
+42	298	OBC	3	413	3	Small business (shop, etc.)	1
+42	299	OBC	3	413	4	Small business (shop, etc.)	1
+42	300	OBC	3	413	-333	Farm labourer	3
+42	301	OBC	3	413	-333	Farm labourer	3
+42	302	OBC	3	402	3	Street vendor/hawker	13
+42	303	OBC	3	402	3	Farm labourer	3
+42	304	Religious Minority	5	408	3	Farming(tenancy)	4
+42	305	OBC	3	401	3	Farm land-owner	2
+42	306	General	4	104	3	Farm land-owner	2
+42	307	General	4	104	3	Farm labourer	3
+42	308	General	4	411	3	Industrialist	11
+42	309	General	4	402	4	Artist	14
+42	310	General	4	401	3	Farm land-owner	2
+42	311	General	4	404	3	Farm labourer	3
+42	312	General	4	404	3	Farm labourer	3
+42	313	General	4	404	3	Farm labourer	3
+42	314	General	4	404	3	Masonry/construction worker	12
+42	315	Religious Minority	5	413	3	Farm labourer	3
+42	316	OBC	3	411	5	Industrialist	11
+42	317	General	4	404	5	Farm land-owner	2
+42	318	General	4	404	5	Farm land-owner	2
+42	319	General	4	404	5	Farm land-owner	2
+42	320	General	4	404	4	Farm labourer	3
+42	321	General	4	404	3	Industry/factory worker(brick making etc)	10
+42	322	General	4	404	3	Farm labourer	3
+42	323	General	4	404	3	Farm labourer	3
+42	324	OBC	3	404	3	Pensioner	17
+42	325	General	4	404	3	Farm labourer	3
+42	326	General	4	402	3	Industrialist	11
+42	327	General	4	402	3	Small business (shop, etc.)	1
+42	328	General	4	-333	5	Farm land-owner	2
+42	329	OBC	3	-333	4	Domestic help/cook/casual	15
+42	330	OBC	3	413	3	Small business (shop, etc.)	1
+42	331	Religious Minority	5	413	3	Masonry/construction worker	12
+42	332	Religious Minority	5	413	3	Masonry/construction worker	12
+42	333	Religious Minority	5	413	3	Masonry/construction worker	12
+42	334	OBC	3	413	4	Farm labourer	3
+42	335	OBC	3	413	3	Masonry/construction worker	12
+42	336	OBC	3	413	3	Small business (shop, etc.)	1
+42	337	General	4	413	3	Masonry/construction worker	12
+42	338	General	4	404	5	Industrialist	11
+42	339	General	4	102	3	Farm land-owner	2
+42	340	Religious Minority	5	-333	3	Industrialist	11
+42	341	SC	1	-333	3	Industrialist	11
+42	342	Religious Minority	5	-333	3	Farm labourer	3
+42	343	Religious Minority	5	-333	3	Industrialist	11
+42	344	General	4	413	5	Domestic help/cook/casual	15
+42	345	General	4	413	3	Industrialist	11
+42	346	General	4	413	4	Industrialist	11
+42	347	SC	1	211	2	Farm land-owner	2
+42	348	SC	1	211	1	Domestic help/cook/casual	15
+42	349	SC	1	-333	1	Farm labourer	3
+42	350	SC	1	211	5	Domestic help/cook/casual	15
+42	351	ST	2	211	3	Industrialist	11
+42	352	ST	2	211	4	Domestic help/cook/casual	15
+42	353	SC	1	-333	2	Farm labourer	3
+42	354	General	4	102	5	Small business (shop, etc.)	1
+42	355	General	4	102	5	Government services (teacher, etc.)	8
+42	356	General	4	401	3	Farm land-owner	2
+42	357	OBC	3	401	3	Farm land-owner	2
+42	358	OBC	3	401	3	Farm land-owner	2
+42	359	General	4	401	2	Farm land-owner	2
+42	360	OBC	3	402	3	Farm labourer	3
+42	361	General	4	402	3	Private services	9
+42	362	Religious Minority	5	413	3	Private services	9
+42	363	General	4	402	3	Industry/factory worker(brick making etc)	10
+42	364	OBC	3	401	3	Farm land-owner	2
+42	365	General	4	401	3	Farm land-owner	2
+42	366	General	4	404	3	Industry/factory worker(brick making etc)	10
+42	367	General	4	401	3	Farm labourer	3
+42	368	General	4	404	3	Farm labourer	3
+42	369	General	4	-333	4	Farm labourer	3
+42	370	General	4	401	4	Small business (shop, etc.)	1
+42	371	OBC	3	401	3	Farm labourer	3
+42	372	OBC	3	401	3	Farm labourer	3
+42	373	OBC	3	402	5	Small business (shop, etc.)	1
+42	374	OBC	3	402	3	Farm labourer	3
+42	375	OBC	3	401	5	Private services	9
+42	376	OBC	3	402	5	Farm land-owner	2
+42	377	OBC	3	401	3	Farm land-owner	2
+42	378	General	4	402	3	Industrialist	11
+42	379	General	4	402	3	Masonry/construction worker	12
+42	380	General	4	404	3	Farm labourer	3
+42	381	OBC	3	411	3	Industrialist	11
+42	382	OBC	3	401	3	Government services (teacher, etc.)	8
+42	383	General	4	205	4	Domestic help/cook/casual	15
+42	384	OBC	3	205	2	Domestic help/cook/casual	15
+42	385	General	4	205	5	Small business (shop, etc.)	1
+42	386	General	4	-333	3	Small business (shop, etc.)	1
+42	387	General	4	-333	3	Government services (teacher, etc.)	8
+42	388	General	4	404	3	Farm labourer	3
+42	389	General	4	404	4	Farm labourer	3
+42	390	General	4	404	4	Farm labourer	3
+42	391	General	4	404	4	Farm labourer	3
+42	392	General	4	404	3	Farm labourer	3
+42	393	General	4	402	3	Industrialist	11
+42	394	General	4	413	3	Industrialist	11
+42	395	OBC	3	401	3	Farm labourer	3
+42	396	General	4	402	3	Private services	9
+42	397	OBC	3	401	3	Farm land-owner	2
+42	398	OBC	3	404	5	Domestic help/cook/casual	15
+42	399	SC	1	209	4	Farm land-owner	2
+42	400	OBC	3	401	4	Farm land-owner	2
+42	401	General	4	401	3	Small business (shop, etc.)	1
+42	402	General	4	402	3	Small business (shop, etc.)	1
+42	403	General	4	402	3	Farm land-owner	2
+42	404	OBC	3	402	3	Farm land-owner	2
+42	405	General	4	401	4	Farm labourer	3
+42	406	SC	1	201	4	Farm labourer	3
+42	407	SC	1	201	3	Farm labourer	3
+42	408	SC	1	201	3	Farm labourer	3

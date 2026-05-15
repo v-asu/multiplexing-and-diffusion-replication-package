@@ -1,0 +1,117 @@
+villageid	hh_id	caste_category_label	caste_category	subcaste	roof_type	occupation_label	occupation
+41	101	SC	1	201	5	Farm land-owner	2
+41	102	SC	1	207	5	Farm land-owner	2
+41	103	ST	2	206	5	Government services (teacher, etc.)	8
+41	104	SC	1	206	5	Farm land-owner	2
+41	105	SC	1	206	5	Farm labourer	3
+41	106	ST	2	206	3	Farm land-owner	2
+41	107	SC	1	206	3	Farm land-owner	2
+41	108	SC	1	206	5	Farm labourer	3
+41	109	ST	2	309	3	Farm land-owner	2
+41	110	ST	2	309	3	Farm land-owner	2
+41	111	OBC	3	401	3	Farm land-owner	2
+41	112	General	4	401	5	Farming(tenancy)	4
+41	113	SC	1	407	5	Farm land-owner	2
+41	114	General	4	401	-333	Dairy/cattle rearing	5
+41	115	OBC	3	401	1	Farm land-owner	2
+41	116	ST	2	309	4	Private services	9
+41	117	General	4	401	4	Farm land-owner	2
+41	118	General	4	401	4	Farm land-owner	2
+41	119	General	4	401	5	Farm land-owner	2
+41	120	General	4	401	3	Dairy/cattle rearing	5
+41	121	General	4	401	3	Farm land-owner	2
+41	122	OBC	3	411	1	Farm land-owner	2
+41	123	OBC	3	410	3	Farm land-owner	2
+41	124	General	4	401	3	Farm land-owner	2
+41	125	General	4	401	4	Private services	9
+41	127	General	4	401	3	Farming(tenancy)	4
+41	128	General	4	407	3	Private services	9
+41	129	OBC	3	407	5	Farm land-owner	2
+41	130	SC	1	206	3	Dairy/cattle rearing	5
+41	131	SC	1	207	4	Farm land-owner	2
+41	132	OBC	3	407	5	Farm land-owner	2
+41	133	SC	1	201	3	Farm land-owner	2
+41	134	SC	1	201	1	Farming(tenancy)	4
+41	135	SC	1	201	5	Farm land-owner	2
+41	136	SC	1	201	3	Private services	9
+41	137	SC	1	201	3	Private services	9
+41	138	SC	1	201	5	Farming(tenancy)	4
+41	139	SC	1	207	5	Farm land-owner	2
+41	140	ST	2	209	1	Farm labourer	3
+41	141	ST	2	209	5	Farm labourer	3
+41	143	SC	1	201	3	Farming(tenancy)	4
+41	144	OBC	3	411	3	Dairy/cattle rearing	5
+41	145	General	4	407	3	Farm land-owner	2
+41	146	OBC	3	408	5	Industrialist	11
+41	147	SC	1	206	5	Private services	9
+41	148	SC	1	206	1	Industry/factory worker(brick making etc)	10
+41	149	General	4	401	3	Farm land-owner	2
+41	150	General	4	401	5	Farming(tenancy)	4
+41	151	SC	1	206	3	Farm labourer	3
+41	152	SC	1	206	5	Farm land-owner	2
+41	153	OBC	3	408	4	Farm labourer	3
+41	154	General	4	401	1	OTHERS, SPECIFY	-333
+41	156	General	4	401	3	Farm land-owner	2
+41	157	ST	2	309	3	Farm labourer	3
+41	158	ST	2	309	4	Domestic help/cook/casual	15
+41	159	General	4	309	-333	Farm labourer	3
+41	160	ST	2	309	4	Farm labourer	3
+41	161	General	4	309	4	Farm labourer	3
+41	162	General	4	401	4	Farm labourer	3
+41	163	General	4	411	5	Farm land-owner	2
+41	164	General	4	206	1	Farm land-owner	2
+41	165	OBC	3	401	5	Farm land-owner	2
+41	166	General	4	401	3	Private services	9
+41	167	General	4	401	3	Private services	9
+41	168	SC	1	207	3	Farm labourer	3
+41	169	General	4	401	4	Farm land-owner	2
+41	170	General	4	411	5	Farm labourer	3
+41	171	SC	1	201	5	Farm labourer	3
+41	173	SC	1	201	3	OTHERS, SPECIFY	-333
+41	174	SC	1	209	4	Farm labourer	3
+41	175	SC	1	201	4	Private services	9
+41	176	ST	2	309	4	Farm labourer	3
+41	177	SC	1	309	4	Farm land-owner	2
+41	178	SC	1	-333	3	OTHERS, SPECIFY	-333
+41	179	General	4	204	3	Farm labourer	3
+41	180	SC	1	201	1	Farm land-owner	2
+41	181	OBC	3	410	5	Small business (shop, etc.)	1
+41	182	SC	1	206	3	OTHERS, SPECIFY	-333
+41	183	General	4	-888	5	Farm labourer	3
+41	184	General	4	309	4	Farm labourer	3
+41	185	General	4	309	3	OTHERS, SPECIFY	-333
+41	186	ST	2	309	3	Farm labourer	3
+41	187	SC	1	207	3	Farm labourer	3
+41	188	General	4	-333	3	Private services	9
+41	189	ST	2	309	1	Farm labourer	3
+41	190	ST	2	309	4	Farm labourer	3
+41	191	SC	1	206	3	Private services	9
+41	192	SC	1	309	4	Private services	9
+41	193	OBC	3	-333	1	OTHERS, SPECIFY	-333
+41	194	General	4	201	5	Small business (shop, etc.)	1
+41	195	SC	1	201	3	Farm labourer	3
+41	196	SC	1	206	3	Private services	9
+41	197	SC	1	206	3	Farm labourer	3
+41	198	General	4	401	5	Farm land-owner	2
+41	199	General	4	411	1	Street vendor/hawker	13
+41	200	SC	1	201	3	Farm land-owner	2
+41	201	SC	1	201	3	Private services	9
+41	202	SC	1	201	1	OTHERS, SPECIFY	-333
+41	204	SC	1	207	3	OTHERS, SPECIFY	-333
+41	205	SC	1	201	5	Farm labourer	3
+41	206	SC	1	309	4	Farm labourer	3
+41	207	General	4	401	4	Farm labourer	3
+41	208	General	4	401	5	Farm land-owner	2
+41	209	SC	1	201	4	Private services	9
+41	210	SC	1	201	3	Farm land-owner	2
+41	211	General	4	411	5	Industrialist	11
+41	212	General	4	401	3	Farm land-owner	2
+41	213	General	4	401	3	Farm land-owner	2
+41	214	General	4	401	5	Sericulture owner	6
+41	215	SC	1	201	1	Farm labourer	3
+41	216	SC	1	201	3	Private services	9
+41	217	SC	1	201	5	OTHERS, SPECIFY	-333
+41	218	General	4	401	3	Farm land-owner	2
+41	219	General	4	401	3	Farm land-owner	2
+41	220	General	4	401	3	Industrialist	11
+41	221	General	4	401	3	Farm labourer	3

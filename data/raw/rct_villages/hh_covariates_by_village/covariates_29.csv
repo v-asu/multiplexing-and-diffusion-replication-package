@@ -1,0 +1,239 @@
+villageid	hh_id	caste_category_label	caste_category	subcaste	roof_type	occupation_label	occupation
+29	101	OBC	3	407	3	Industrialist	11
+29	102	General	4	401	3	Farm labourer	3
+29	103	General	4	401	5	Government services (teacher, etc.)	8
+29	104	General	4	404	4	Farm land-owner	2
+29	105	General	4	404	3	Private services	9
+29	106	General	4	409	1	Pensioner	17
+29	107	OBC	3	404	1	Farm land-owner	2
+29	108	OBC	3	402	3	Farm land-owner	2
+29	109	OBC	3	-333	-333	Pensioner	17
+29	110	General	4	404	3	OTHERS, SPECIFY	-333
+29	111	ST	2	404	4	Farming(tenancy)	4
+29	112	SC	1	404	4	Private services	9
+29	113	OBC	3	404	3	Domestic help/cook/casual	15
+29	114	OBC	3	404	3	Private services	9
+29	115	OBC	3	407	3	Government services (teacher, etc.)	8
+29	116	SC	1	408	3	Farming(tenancy)	4
+29	117	General	4	402	5	Private services	9
+29	118	OBC	3	-333	1	Farm land-owner	2
+29	119	General	4	403	4	Farm labourer	3
+29	120	OBC	3	402	5	Farm land-owner	2
+29	121	OBC	3	401	3	Farm labourer	3
+29	122	OBC	3	401	1	Farm labourer	3
+29	123	OBC	3	401	4	Farming(tenancy)	4
+29	124	OBC	3	401	3	Farm land-owner	2
+29	125	SC	1	403	5	Farming(tenancy)	4
+29	126	SC	1	305	3	Farming(tenancy)	4
+29	127	SC	1	201	1	Farm land-owner	2
+29	128	General	4	-333	3	Domestic help/cook/casual	15
+29	129	General	4	402	3	Industrialist	11
+29	130	General	4	401	3	Farm land-owner	2
+29	131	OBC	3	401	3	Farm land-owner	2
+29	132	General	4	401	4	Dairy/cattle rearing	5
+29	133	General	4	401	3	Farm land-owner	2
+29	134	General	4	401	3	Farming(tenancy)	4
+29	135	OBC	3	407	3	Farm labourer	3
+29	136	ST	2	-333	3	Farm land-owner	2
+29	137	General	4	-333	3	Farm land-owner	2
+29	138	General	4	-333	3	Farm land-owner	2
+29	139	OBC	3	401	3	Farm labourer	3
+29	140	OBC	3	401	4	Farm labourer	3
+29	141	General	4	401	5	Farm land-owner	2
+29	142	SC	1	-333	3	Private services	9
+29	143	OBC	3	407	5	Industrialist	11
+29	144	SC	1	201	4	Private services	9
+29	145	General	4	402	3	Masonry/construction worker	12
+29	146	SC	1	201	1	Farm labourer	3
+29	147	SC	1	201	4	Farm labourer	3
+29	148	SC	1	201	3	Farm labourer	3
+29	149	SC	1	201	4	Private services	9
+29	150	SC	1	201	4	Industry/factory worker(brick making etc)	10
+29	151	SC	1	201	5	Masonry/construction worker	12
+29	152	SC	1	206	-333	Masonry/construction worker	12
+29	153	SC	1	206	3	Farming(tenancy)	4
+29	154	SC	1	201	4	Farm labourer	3
+29	155	SC	1	201	3	Farm labourer	3
+29	156	SC	1	201	4	Farm labourer	3
+29	157	SC	1	201	3	Masonry/construction worker	12
+29	158	SC	1	201	3	Farm labourer	3
+29	159	SC	1	201	4	Domestic help/cook/casual	15
+29	160	SC	1	201	3	Masonry/construction worker	12
+29	161	SC	1	201	4	Farming(tenancy)	4
+29	162	SC	1	201	4	Farm labourer	3
+29	163	SC	1	201	5	Farm labourer	3
+29	164	SC	1	201	1	Private services	9
+29	165	SC	1	201	3	Farming(tenancy)	4
+29	166	SC	1	201	3	Masonry/construction worker	12
+29	167	SC	1	201	3	Farming(tenancy)	4
+29	168	SC	1	201	3	Farming(tenancy)	4
+29	169	SC	1	201	3	Farming(tenancy)	4
+29	170	SC	1	201	5	Masonry/construction worker	12
+29	171	OBC	3	401	5	Farm land-owner	2
+29	172	SC	1	201	3	Private services	9
+29	173	SC	1	201	3	Domestic help/cook/casual	15
+29	174	SC	1	301	3	Masonry/construction worker	12
+29	175	SC	1	201	3	Domestic help/cook/casual	15
+29	176	SC	1	201	3	Farm labourer	3
+29	177	SC	1	201	3	Masonry/construction worker	12
+29	178	SC	1	201	5	Masonry/construction worker	12
+29	179	SC	1	201	3	Domestic help/cook/casual	15
+29	180	SC	1	201	3	Farm labourer	3
+29	181	SC	1	201	3	Farm labourer	3
+29	182	SC	1	201	3	Private services	9
+29	183	SC	1	201	3	Private services	9
+29	184	SC	1	201	3	Farm labourer	3
+29	185	SC	1	201	3	Farm labourer	3
+29	186	SC	1	201	3	Farm land-owner	2
+29	187	SC	1	201	5	Farm labourer	3
+29	188	SC	1	201	5	Domestic help/cook/casual	15
+29	189	SC	1	201	3	Farming(tenancy)	4
+29	190	SC	1	201	3	Farming(tenancy)	4
+29	191	SC	1	201	3	Dairy/cattle rearing	5
+29	192	SC	1	201	3	Farming(tenancy)	4
+29	193	SC	1	201	3	Farm labourer	3
+29	194	SC	1	201	3	Farm labourer	3
+29	195	SC	1	201	3	Farm labourer	3
+29	196	SC	1	201	3	Private services	9
+29	197	SC	1	201	3	Masonry/construction worker	12
+29	198	SC	1	201	3	Industry/factory worker(brick making etc)	10
+29	199	SC	1	201	3	Private services	9
+29	201	SC	1	201	3	Farming(tenancy)	4
+29	202	SC	1	201	3	Farming(tenancy)	4
+29	203	SC	1	201	3	Farming(tenancy)	4
+29	204	SC	1	201	3	Farming(tenancy)	4
+29	205	SC	1	201	3	Industrialist	11
+29	206	SC	1	201	3	OTHERS, SPECIFY	-333
+29	207	SC	1	201	3	Farm labourer	3
+29	208	SC	1	201	3	Farming(tenancy)	4
+29	209	SC	1	201	3	Farm labourer	3
+29	210	SC	1	201	3	Farm land-owner	2
+29	211	SC	1	201	3	Private services	9
+29	212	SC	1	201	3	Masonry/construction worker	12
+29	213	SC	1	201	3	Masonry/construction worker	12
+29	214	SC	1	201	4	Masonry/construction worker	12
+29	215	SC	1	201	3	Private services	9
+29	216	SC	1	201	4	Farm labourer	3
+29	217	SC	1	201	3	Farm labourer	3
+29	218	SC	1	201	3	Farm labourer	3
+29	219	SC	1	201	5	Dairy/cattle rearing	5
+29	220	SC	1	201	3	Farm labourer	3
+29	221	SC	1	201	3	Farm labourer	3
+29	222	SC	1	201	3	Farm land-owner	2
+29	223	SC	1	201	3	Private services	9
+29	224	SC	1	201	4	Masonry/construction worker	12
+29	225	SC	1	201	3	Domestic help/cook/casual	15
+29	226	SC	1	201	3	Domestic help/cook/casual	15
+29	227	SC	1	201	3	Masonry/construction worker	12
+29	228	SC	1	201	3	Masonry/construction worker	12
+29	229	SC	1	201	3	Masonry/construction worker	12
+29	230	OBC	3	401	3	Masonry/construction worker	12
+29	231	OBC	3	401	3	Government services (teacher, etc.)	8
+29	232	OBC	3	302	3	Private services	9
+29	233	OBC	3	302	4	Farming(tenancy)	4
+29	234	OBC	3	401	5	Farm labourer	3
+29	235	SC	1	201	5	Industrialist	11
+29	236	SC	1	201	5	Masonry/construction worker	12
+29	237	SC	1	201	5	Masonry/construction worker	12
+29	238	SC	1	201	3	Domestic help/cook/casual	15
+29	239	SC	1	201	3	Farm labourer	3
+29	240	SC	1	201	3	Domestic help/cook/casual	15
+29	241	General	4	401	3	Farm land-owner	2
+29	242	General	4	401	3	Farm land-owner	2
+29	243	General	4	401	3	Industry/factory worker(brick making etc)	10
+29	244	OBC	3	401	5	Farm land-owner	2
+29	245	General	4	401	3	Industry/factory worker(brick making etc)	10
+29	246	General	4	401	3	Farm land-owner	2
+29	247	General	4	401	3	Farming(tenancy)	4
+29	248	General	4	401	3	Farm land-owner	2
+29	249	General	4	401	3	Private services	9
+29	250	General	4	401	3	Industrialist	11
+29	251	General	4	401	3	Farm land-owner	2
+29	252	General	4	401	3	Masonry/construction worker	12
+29	253	OBC	3	401	3	Farm land-owner	2
+29	254	OBC	3	401	5	Government services (teacher, etc.)	8
+29	255	OBC	3	401	5	Farm land-owner	2
+29	256	OBC	3	401	5	Farm land-owner	2
+29	257	OBC	3	401	5	Farm land-owner	2
+29	258	General	4	401	3	Government services (teacher, etc.)	8
+29	259	General	4	401	4	Dairy/cattle rearing	5
+29	260	General	4	401	3	Farm land-owner	2
+29	261	General	4	401	3	Dairy/cattle rearing	5
+29	262	OBC	3	401	5	Farm land-owner	2
+29	263	General	4	401	3	Government services (teacher, etc.)	8
+29	264	OBC	3	401	3	Industrialist	11
+29	265	General	4	401	3	Farming(tenancy)	4
+29	266	General	4	401	3	Farm land-owner	2
+29	267	General	4	401	3	Private services	9
+29	268	General	4	401	3	Dairy/cattle rearing	5
+29	269	SC	1	201	4	Farm labourer	3
+29	270	SC	1	201	3	Farm labourer	3
+29	271	SC	1	201	3	Farm labourer	3
+29	272	SC	1	201	4	Private services	9
+29	273	SC	1	201	3	Farm labourer	3
+29	274	SC	1	201	3	Farm labourer	3
+29	275	SC	1	201	5	Domestic help/cook/casual	15
+29	276	SC	1	201	3	Masonry/construction worker	12
+29	277	SC	1	201	3	Masonry/construction worker	12
+29	278	SC	1	201	5	Industrialist	11
+29	279	SC	1	201	4	Farming(tenancy)	4
+29	280	SC	1	201	5	Farm land-owner	2
+29	281	SC	1	201	5	Industry/factory worker(brick making etc)	10
+29	282	SC	1	201	5	Masonry/construction worker	12
+29	283	SC	1	201	5	Masonry/construction worker	12
+29	284	SC	1	201	5	Masonry/construction worker	12
+29	285	SC	1	201	3	Masonry/construction worker	12
+29	286	SC	1	201	3	Farm labourer	3
+29	287	General	4	401	3	Farm land-owner	2
+29	288	General	4	403	3	Farm labourer	3
+29	289	OBC	3	401	5	Farm land-owner	2
+29	290	General	4	401	3	Industrialist	11
+29	291	OBC	3	401	3	Farm land-owner	2
+29	292	General	4	401	3	Farm land-owner	2
+29	293	General	4	401	3	Farm land-owner	2
+29	294	General	4	401	3	Farm land-owner	2
+29	295	General	4	401	3	Farm land-owner	2
+29	296	General	4	401	3	Farm land-owner	2
+29	297	OBC	3	401	5	Farm land-owner	2
+29	298	General	4	401	3	Private services	9
+29	299	General	4	401	3	Government services (teacher, etc.)	8
+29	300	OBC	3	401	3	Farm land-owner	2
+29	301	OBC	3	401	3	Dairy/cattle rearing	5
+29	302	OBC	3	401	3	Private services	9
+29	303	General	4	102	3	Farm land-owner	2
+29	304	OBC	3	401	3	Farm land-owner	2
+29	305	General	4	402	3	Farm land-owner	2
+29	306	General	4	401	3	Private services	9
+29	307	General	4	401	3	Government services (teacher, etc.)	8
+29	308	OBC	3	401	5	Farm land-owner	2
+29	309	OBC	3	404	5	Farm labourer	3
+29	310	OBC	3	404	3	Masonry/construction worker	12
+29	311	OBC	3	404	3	Farm labourer	3
+29	313	General	4	-333	3	Farm land-owner	2
+29	314	General	4	404	3	Farm land-owner	2
+29	315	General	4	404	3	Masonry/construction worker	12
+29	316	General	4	404	3	Farm land-owner	2
+29	317	General	4	404	3	Farm land-owner	2
+29	318	General	4	404	3	Masonry/construction worker	12
+29	319	SC	1	202	1	Industry/factory worker(brick making etc)	10
+29	320	SC	1	202	4	Dairy/cattle rearing	5
+29	321	SC	1	202	1	Industrialist	11
+29	322	ST	2	202	4	Dairy/cattle rearing	5
+29	323	ST	2	202	3	Private services	9
+29	324	ST	2	202	3	Masonry/construction worker	12
+29	325	General	4	404	3	Masonry/construction worker	12
+29	326	ST	2	202	4	Farm labourer	3
+29	328	OBC	3	-333	3	Farming(tenancy)	4
+29	329	OBC	3	-333	5	Farm labourer	3
+29	330	General	4	401	3	Farm land-owner	2
+29	331	General	4	401	3	Private services	9
+29	332	OBC	3	401	3	Private services	9
+29	333	OBC	3	401	3	Farm land-owner	2
+29	334	OBC	3	401	5	Farm land-owner	2
+29	335	General	4	-333	3	Farm labourer	3
+29	336	OBC	3	401	5	Farm land-owner	2
+29	337	General	4	-333	3	Government services (teacher, etc.)	8
+29	339	SC	1	201	3	Private services	9
+29	340	SC	1	201	3	Industry/factory worker(brick making etc)	10
+29	341	SC	1	201	1	Industrialist	11
+29	342	SC	1	201	3	Farm labourer	3

@@ -1,0 +1,140 @@
+villageid	hh_id	caste_category_label	caste_category	subcaste	roof_type	occupation_label	occupation
+57	101	General	4	404	5	Farm land-owner	2
+57	102	OBC	3	401	3	Government services (teacher, etc.)	8
+57	103	OBC	3	401	3	Pensioner	17
+57	104	OBC	3	401	3	Farm land-owner	2
+57	105	General	4	401	4	Farm land-owner	2
+57	106	General	4	401	4	Farm land-owner	2
+57	107	OBC	3	401	3	Farm land-owner	2
+57	108	OBC	3	401	5	Farm land-owner	2
+57	109	OBC	3	401	4	Farm land-owner	2
+57	110	General	4	401	3	Farm land-owner	2
+57	111	General	4	401	3	Farm land-owner	2
+57	112	General	4	401	3	Farm land-owner	2
+57	113	General	4	401	3	Farm land-owner	2
+57	114	General	4	401	3	Farm land-owner	2
+57	115	General	4	401	3	Farm land-owner	2
+57	116	General	4	401	3	Farm land-owner	2
+57	117	General	4	404	2	Farm labourer	3
+57	118	General	4	404	3	Farm labourer	3
+57	119	General	4	409	3	Dairy/cattle rearing	5
+57	120	OBC	3	405	3	Farm labourer	3
+57	121	OBC	3	405	3	Government services (teacher, etc.)	8
+57	122	General	4	404	3	Farm land-owner	2
+57	123	OBC	3	404	3	Farm land-owner	2
+57	124	General	4	404	3	Government services (teacher, etc.)	8
+57	125	General	4	404	3	Farm land-owner	2
+57	126	OBC	3	405	5	Farm labourer	3
+57	127	OBC	3	405	5	Government services (teacher, etc.)	8
+57	128	SC	1	405	3	Farm land-owner	2
+57	129	General	4	404	3	Government services (teacher, etc.)	8
+57	130	General	4	404	3	Government services (teacher, etc.)	8
+57	131	General	4	404	3	Farm land-owner	2
+57	132	General	4	404	3	Farm land-owner	2
+57	133	SC	1	204	3	Farm land-owner	2
+57	134	SC	1	204	3	Farm labourer	3
+57	135	SC	1	204	3	Industry/factory worker(brick making etc)	10
+57	136	General	4	404	3	Farm land-owner	2
+57	137	General	4	404	3	Government services (teacher, etc.)	8
+57	138	General	4	404	3	Government services (teacher, etc.)	8
+57	139	OBC	3	405	3	Farm labourer	3
+57	140	OBC	3	404	5	OTHERS, SPECIFY	-333
+57	141	General	4	401	3	Farm land-owner	2
+57	142	General	4	401	3	Farm land-owner	2
+57	143	General	4	401	3	Farm land-owner	2
+57	144	General	4	401	2	Farm labourer	3
+57	145	OBC	3	401	5	Government services (teacher, etc.)	8
+57	146	OBC	3	401	1	Farm land-owner	2
+57	147	General	4	401	3	Government services (teacher, etc.)	8
+57	148	General	4	401	3	Farm land-owner	2
+57	149	General	4	401	3	Farm land-owner	2
+57	150	General	4	401	3	Farm land-owner	2
+57	151	General	4	401	3	Farm land-owner	2
+57	152	General	4	401	3	Farm land-owner	2
+57	153	OBC	3	401	2	Farm labourer	3
+57	154	General	4	401	2	Farm land-owner	2
+57	155	General	4	401	3	Government services (teacher, etc.)	8
+57	156	General	4	401	5	Government services (teacher, etc.)	8
+57	157	General	4	401	3	Government services (teacher, etc.)	8
+57	158	General	4	401	3	Farm land-owner	2
+57	159	General	4	401	3	Farm land-owner	2
+57	160	OBC	3	401	5	Farm land-owner	2
+57	161	General	4	401	3	Farm land-owner	2
+57	162	General	4	401	3	Farm labourer	3
+57	163	General	4	401	5	Farm labourer	3
+57	164	General	4	401	3	Farm land-owner	2
+57	165	OBC	3	401	1	Farm land-owner	2
+57	166	OBC	3	401	3	Farm land-owner	2
+57	167	OBC	3	401	3	Farm land-owner	2
+57	168	General	4	401	3	Farm labourer	3
+57	169	General	4	407	3	Small business (shop, etc.)	1
+57	170	General	4	401	2	Farm labourer	3
+57	171	General	4	401	2	Farm labourer	3
+57	172	OBC	3	401	1	Farm labourer	3
+57	173	OBC	3	401	3	Farm land-owner	2
+57	174	OBC	3	401	3	Farm land-owner	2
+57	175	General	4	-333	2	Farm labourer	3
+57	176	SC	1	206	3	Farm labourer	3
+57	177	SC	1	206	3	Farm labourer	3
+57	178	SC	1	206	2	Farm labourer	3
+57	179	OBC	3	204	1	Pensioner	17
+57	180	OBC	3	204	2	Farm labourer	3
+57	181	OBC	3	204	3	Farm labourer	3
+57	182	General	4	408	3	Farm labourer	3
+57	183	SC	1	-333	3	Masonry/construction worker	12
+57	184	SC	1	201	2	Farm labourer	3
+57	185	SC	1	201	3	Farm labourer	3
+57	186	SC	1	207	2	OTHERS, SPECIFY	-333
+57	187	SC	1	207	4	Farm labourer	3
+57	188	SC	1	201	1	Farm labourer	3
+57	189	ST	2	206	3	Private services	9
+57	190	SC	1	201	1	Farm labourer	3
+57	191	SC	1	201	1	Farm labourer	3
+57	192	SC	1	201	3	Pensioner	17
+57	193	SC	1	201	3	Farm labourer	3
+57	194	SC	1	201	3	Farm labourer	3
+57	195	General	4	201	3	Dairy/cattle rearing	5
+57	196	SC	1	206	3	Farm labourer	3
+57	197	SC	1	201	3	Private services	9
+57	198	SC	1	207	3	Farm labourer	3
+57	199	SC	1	201	3	Government services (teacher, etc.)	8
+57	200	SC	1	201	3	Farm labourer	3
+57	201	SC	1	201	2	Dairy/cattle rearing	5
+57	202	SC	1	201	3	Private services	9
+57	203	SC	1	202	3	Farm labourer	3
+57	204	SC	1	202	3	Farm labourer	3
+57	205	SC	1	207	1	Farm labourer	3
+57	206	General	4	407	3	Farm labourer	3
+57	207	General	4	408	3	Farm labourer	3
+57	208	SC	1	206	5	Farm land-owner	2
+57	209	SC	1	206	5	Farm labourer	3
+57	211	SC	1	206	3	Farm labourer	3
+57	212	SC	1	206	3	Farm labourer	3
+57	213	SC	1	206	3	Government services (teacher, etc.)	8
+57	214	General	4	206	3	Farm labourer	3
+57	215	OBC	3	401	3	Farm land-owner	2
+57	216	General	4	401	3	Pensioner	17
+57	217	General	4	401	3	Farm land-owner	2
+57	218	General	4	401	5	Farm land-owner	2
+57	219	OBC	3	401	3	Farm land-owner	2
+57	220	OBC	3	401	5	Farm land-owner	2
+57	221	General	4	404	3	Farm land-owner	2
+57	222	General	4	404	3	Farm land-owner	2
+57	223	General	4	404	3	Farm labourer	3
+57	224	General	4	401	3	Small business (shop, etc.)	1
+57	225	OBC	3	404	3	Farm land-owner	2
+57	226	OBC	3	404	3	Farm labourer	3
+57	227	OBC	3	404	3	Farm labourer	3
+57	228	General	4	404	3	Farm labourer	3
+57	229	OBC	3	404	3	Farm labourer	3
+57	230	OBC	3	404	3	Pensioner	17
+57	231	OBC	3	401	3	Farm labourer	3
+57	232	General	4	404	3	Farm land-owner	2
+57	235	OBC	3	404	3	Farm land-owner	2
+57	236	OBC	3	404	3	Farm labourer	3
+57	237	OBC	3	404	3	Farm labourer	3
+57	238	Missing	-666	-666	-666	Missing	-666
+57	239	General	4	405	3	Private services	9
+57	240	OBC	3	405	3	Farm labourer	3
+57	241	General	4	401	3	Farm land-owner	2
+57	242	General	4	401	5	Farm land-owner	2

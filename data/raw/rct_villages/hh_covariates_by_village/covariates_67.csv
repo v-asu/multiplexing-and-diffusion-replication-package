@@ -1,0 +1,171 @@
+villageid	hh_id	caste_category_label	caste_category	subcaste	roof_type	occupation_label	occupation
+67	101	OBC	3	402	3	Farm land-owner	2
+67	102	OBC	3	402	5	Farm land-owner	2
+67	103	OBC	3	402	3	Farm labourer	3
+67	104	OBC	3	402	3	Farm labourer	3
+67	105	OBC	3	402	3	Farm land-owner	2
+67	106	OBC	3	402	3	Farm land-owner	2
+67	107	OBC	3	407	4	Farm labourer	3
+67	108	OBC	3	402	3	Farm labourer	3
+67	109	OBC	3	402	3	Farm land-owner	2
+67	110	OBC	3	410	3	Pensioner	17
+67	111	OBC	3	410	3	Government services (teacher, etc.)	8
+67	112	OBC	3	410	3	Small business (shop, etc.)	1
+67	113	OBC	3	401	5	Farm land-owner	2
+67	114	OBC	3	402	3	Pensioner	17
+67	115	OBC	3	402	3	Farm land-owner	2
+67	116	OBC	3	402	3	Farm land-owner	2
+67	117	OBC	3	402	3	Farm land-owner	2
+67	118	OBC	3	402	3	Farm land-owner	2
+67	119	OBC	3	402	3	Farm land-owner	2
+67	120	OBC	3	402	3	Farm land-owner	2
+67	121	OBC	3	402	3	Farm land-owner	2
+67	122	OBC	3	402	5	Pensioner	17
+67	123	OBC	3	402	3	Farm land-owner	2
+67	124	OBC	3	402	3	Farm land-owner	2
+67	125	OBC	3	402	3	Farm labourer	3
+67	126	OBC	3	402	3	Dairy/cattle rearing	5
+67	127	OBC	3	402	3	Farm labourer	3
+67	128	OBC	3	402	3	Farm land-owner	2
+67	129	OBC	3	402	3	Farm land-owner	2
+67	130	OBC	3	402	3	Farm land-owner	2
+67	131	OBC	3	402	3	Farm land-owner	2
+67	132	OBC	3	402	-333	Pensioner	17
+67	133	OBC	3	402	3	Dairy/cattle rearing	5
+67	134	OBC	3	402	3	Farm labourer	3
+67	135	SC	1	205	5	Government services (teacher, etc.)	8
+67	136	ST	2	205	3	Government services (teacher, etc.)	8
+67	137	General	4	402	3	Farm labourer	3
+67	138	OBC	3	407	3	Small business (shop, etc.)	1
+67	139	OBC	3	402	3	Farm labourer	3
+67	140	OBC	3	402	3	Private services	9
+67	141	OBC	3	402	4	Farm labourer	3
+67	142	OBC	3	402	3	Pensioner	17
+67	143	OBC	3	402	3	Private services	9
+67	144	OBC	3	402	3	Farm labourer	3
+67	145	General	4	401	3	Industry/factory worker(brick making etc)	10
+67	146	OBC	3	401	-333	Farm labourer	3
+67	147	OBC	3	402	3	Farm land-owner	2
+67	148	OBC	3	401	3	Farm labourer	3
+67	149	OBC	3	-333	4	Farm land-owner	2
+67	150	OBC	3	-333	3	Pensioner	17
+67	151	OBC	3	-333	3	Pensioner	17
+67	152	SC	1	201	3	Government services (teacher, etc.)	8
+67	153	SC	1	201	3	Farm labourer	3
+67	154	OBC	3	402	3	Farm labourer	3
+67	155	OBC	3	409	5	Government services (teacher, etc.)	8
+67	156	OBC	3	407	2	Pensioner	17
+67	157	OBC	3	402	3	Farm land-owner	2
+67	158	OBC	3	402	2	Farm land-owner	2
+67	159	OBC	3	402	5	Farm land-owner	2
+67	160	OBC	3	402	3	Private services	9
+67	161	General	4	401	3	Farm labourer	3
+67	162	General	4	401	2	Farm land-owner	2
+67	163	OBC	3	401	4	Farm land-owner	2
+67	164	General	4	401	4	Government services (teacher, etc.)	8
+67	165	OBC	3	402	5	Farm land-owner	2
+67	166	OBC	3	401	3	Pensioner	17
+67	167	OBC	3	402	3	Pensioner	17
+67	168	OBC	3	402	3	Government services (teacher, etc.)	8
+67	169	OBC	3	402	3	Farm labourer	3
+67	170	OBC	3	402	3	Farm land-owner	2
+67	171	OBC	3	402	3	Farm labourer	3
+67	173	OBC	3	402	5	Government services (teacher, etc.)	8
+67	174	General	4	402	3	Farm land-owner	2
+67	175	SC	1	201	5	Government services (teacher, etc.)	8
+67	176	SC	1	201	3	Government services (teacher, etc.)	8
+67	177	SC	1	201	3	Masonry/construction worker	12
+67	178	OBC	3	402	5	Farm land-owner	2
+67	179	OBC	3	402	3	Farm land-owner	2
+67	180	OBC	3	402	3	Farm labourer	3
+67	181	SC	1	201	2	Masonry/construction worker	12
+67	182	SC	1	201	4	Farm labourer	3
+67	183	SC	1	201	3	Pensioner	17
+67	184	SC	1	201	3	Government services (teacher, etc.)	8
+67	185	SC	1	201	-333	Private services	9
+67	186	SC	1	201	3	Farm land-owner	2
+67	187	SC	1	201	3	Farm labourer	3
+67	188	SC	1	201	5	Farm labourer	3
+67	189	SC	1	201	3	Farm labourer	3
+67	190	SC	1	201	3	Farm labourer	3
+67	191	SC	1	201	5	Government services (teacher, etc.)	8
+67	192	SC	1	201	3	Farm labourer	3
+67	193	SC	1	201	3	Farm labourer	3
+67	194	SC	1	201	2	Farm labourer	3
+67	195	SC	1	201	3	Government services (teacher, etc.)	8
+67	196	SC	1	201	3	Farm labourer	3
+67	198	SC	1	201	3	Farm labourer	3
+67	199	SC	1	201	3	Farm labourer	3
+67	200	OBC	3	402	3	Farm land-owner	2
+67	201	OBC	3	401	3	Farm land-owner	2
+67	202	SC	1	201	3	Farm labourer	3
+67	203	General	4	104	3	Private services	9
+67	204	OBC	3	402	3	Pensioner	17
+67	205	OBC	3	401	3	Private services	9
+67	206	OBC	3	402	3	Farm land-owner	2
+67	207	ST	2	309	3	Farm labourer	3
+67	208	OBC	3	401	3	Farm land-owner	2
+67	209	General	4	401	5	Farm land-owner	2
+67	210	General	4	401	5	Farm land-owner	2
+67	211	OBC	3	402	3	Farm labourer	3
+67	212	OBC	3	402	3	Small business (shop, etc.)	1
+67	213	OBC	3	402	3	Farm land-owner	2
+67	214	OBC	3	306	3	Farm land-owner	2
+67	215	OBC	3	401	5	Government services (teacher, etc.)	8
+67	216	OBC	3	402	3	Pensioner	17
+67	217	OBC	3	402	3	Farm labourer	3
+67	218	General	4	401	3	Farm land-owner	2
+67	219	SC	1	201	3	Farm land-owner	2
+67	220	OBC	3	-333	3	Farm labourer	3
+67	222	OBC	3	-333	4	Farm labourer	3
+67	223	ST	2	309	3	Farm labourer	3
+67	224	ST	2	309	3	Farm labourer	3
+67	225	General	4	401	3	Farm labourer	3
+67	226	General	4	401	5	Farm land-owner	2
+67	227	OBC	3	401	5	Farm land-owner	2
+67	228	General	4	401	3	Farm land-owner	2
+67	229	SC	1	201	3	Farm labourer	3
+67	230	SC	1	201	3	Farm labourer	3
+67	231	SC	1	201	3	Farm labourer	3
+67	232	SC	1	201	3	Masonry/construction worker	12
+67	233	OBC	3	-333	3	Farm labourer	3
+67	234	ST	2	309	3	Government services (teacher, etc.)	8
+67	235	OBC	3	-333	2	Farm labourer	3
+67	236	SC	1	201	3	Farm labourer	3
+67	237	SC	1	201	4	Farm labourer	3
+67	238	SC	1	201	3	Farm labourer	3
+67	239	SC	1	201	3	Farm labourer	3
+67	240	SC	1	201	3	Farm labourer	3
+67	241	SC	1	201	4	Farm land-owner	2
+67	242	OBC	3	-333	3	Farm labourer	3
+67	243	OBC	3	-333	3	Farm labourer	3
+67	244	SC	1	201	5	Farm land-owner	2
+67	245	OBC	3	401	3	Farm labourer	3
+67	246	OBC	3	401	3	Farm labourer	3
+67	247	General	4	401	3	Farm labourer	3
+67	248	OBC	3	401	3	Farm land-owner	2
+67	249	OBC	3	401	3	Pensioner	17
+67	250	SC	1	201	3	Farm labourer	3
+67	251	SC	1	201	1	Farm labourer	3
+67	252	SC	1	201	1	Farm labourer	3
+67	253	SC	1	201	5	Farm land-owner	2
+67	254	SC	1	201	5	Farm land-owner	2
+67	255	SC	1	201	4	Farm land-owner	2
+67	256	SC	1	201	2	Pensioner	17
+67	257	SC	1	209	3	Farm labourer	3
+67	258	SC	1	201	1	Farm labourer	3
+67	259	SC	1	201	3	Farm labourer	3
+67	260	SC	1	201	4	Farm labourer	3
+67	261	SC	1	201	4	Farm labourer	3
+67	262	OBC	3	402	5	Farm labourer	3
+67	263	OBC	3	201	4	Farm labourer	3
+67	264	SC	1	201	1	Farm labourer	3
+67	265	SC	1	201	3	Farm labourer	3
+67	266	SC	1	201	3	Farm labourer	3
+67	267	SC	1	201	3	Farm labourer	3
+67	268	SC	1	201	3	Farm land-owner	2
+67	269	SC	1	201	3	Farm labourer	3
+67	270	SC	1	201	3	Farm labourer	3
+67	271	SC	1	201	3	Farm labourer	3
+67	272	OBC	3	402	3	Small business (shop, etc.)	1
+67	273	OBC	3	401	3	Farm land-owner	2

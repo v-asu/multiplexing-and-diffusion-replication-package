@@ -1,0 +1,145 @@
+villageid	hh_id	caste_category_label	caste_category	subcaste	roof_type	occupation_label	occupation
+45	101	General	4	401	5	Sericulture owner	6
+45	102	General	4	401	4	Farm labourer	3
+45	103	General	4	401	3	Sericulture owner	6
+45	104	General	4	401	3	Sericulture owner	6
+45	105	General	4	401	3	Dairy/cattle rearing	5
+45	106	OBC	3	401	3	Farm labourer	3
+45	107	OBC	3	401	3	Farm land-owner	2
+45	108	OBC	3	401	3	Farm land-owner	2
+45	109	OBC	3	401	3	Farm land-owner	2
+45	110	OBC	3	401	3	Farm labourer	3
+45	111	General	4	401	3	Farm land-owner	2
+45	112	General	4	401	3	Farm land-owner	2
+45	113	General	4	401	3	Farm land-owner	2
+45	114	OBC	3	401	3	Farm land-owner	2
+45	115	General	4	401	3	Domestic help/cook/casual	15
+45	116	General	4	401	3	Farm labourer	3
+45	117	General	4	401	3	Domestic help/cook/casual	15
+45	118	General	4	401	3	Farm land-owner	2
+45	119	General	4	401	3	Farm land-owner	2
+45	120	General	4	401	3	Farm land-owner	2
+45	121	OBC	3	401	3	Farm land-owner	2
+45	122	OBC	3	401	3	Farm land-owner	2
+45	123	OBC	3	401	3	Farm land-owner	2
+45	124	General	4	102	3	Domestic help/cook/casual	15
+45	125	General	4	102	3	Domestic help/cook/casual	15
+45	126	General	4	401	3	Farm labourer	3
+45	127	General	4	401	3	Farm labourer	3
+45	128	OBC	3	401	3	Farm land-owner	2
+45	129	General	4	401	3	Farm land-owner	2
+45	130	General	4	401	3	Dairy/cattle rearing	5
+45	131	General	4	401	3	Farm labourer	3
+45	132	General	4	401	3	Farm labourer	3
+45	133	OBC	3	401	5	Farm land-owner	2
+45	134	OBC	3	401	5	Farm land-owner	2
+45	135	OBC	3	401	5	Farm land-owner	2
+45	136	General	4	401	3	Sericulture labourer	7
+45	137	General	4	401	3	Sericulture owner	6
+45	138	General	4	401	4	Sericulture owner	6
+45	139	General	4	401	3	Farm labourer	3
+45	140	General	4	401	3	Small business (shop, etc.)	1
+45	141	General	4	401	3	Dairy/cattle rearing	5
+45	142	General	4	401	3	Farm land-owner	2
+45	143	General	4	401	3	Farm labourer	3
+45	144	General	4	401	3	Farm land-owner	2
+45	145	Missing	-666	-666	-666	Missing	-666
+45	146	General	4	401	3	Farm labourer	3
+45	147	General	4	401	3	Farm labourer	3
+45	148	General	4	401	3	Farm labourer	3
+45	149	General	4	102	3	Domestic help/cook/casual	15
+45	150	General	4	102	3	Domestic help/cook/casual	15
+45	151	General	4	102	3	Domestic help/cook/casual	15
+45	152	General	4	102	3	Domestic help/cook/casual	15
+45	153	General	4	102	3	Domestic help/cook/casual	15
+45	154	General	4	403	3	Sericulture owner	6
+45	155	General	4	403	3	Sericulture owner	6
+45	156	General	4	102	3	Pensioner	17
+45	157	General	4	401	2	Industry/factory worker(brick making etc)	10
+45	158	General	4	401	3	Farm labourer	3
+45	159	OBC	3	403	3	Farm land-owner	2
+45	160	Missing	-666	-666	-666	Missing	-666
+45	161	OBC	3	401	4	Farm land-owner	2
+45	162	General	4	401	3	Farm land-owner	2
+45	163	General	4	401	3	Farm labourer	3
+45	164	General	4	403	5	Farm land-owner	2
+45	165	General	4	403	3	Farm land-owner	2
+45	166	SC	1	403	3	Farm labourer	3
+45	167	SC	1	201	3	Sericulture labourer	7
+45	168	SC	1	209	3	Farm labourer	3
+45	169	SC	1	209	4	Farm labourer	3
+45	170	SC	1	201	3	Farm labourer	3
+45	171	SC	1	201	4	OTHERS, SPECIFY	-333
+45	172	SC	1	201	4	OTHERS, SPECIFY	-333
+45	173	SC	1	201	3	Farm labourer	3
+45	174	SC	1	201	3	Farm labourer	3
+45	175	SC	1	201	3	Domestic help/cook/casual	15
+45	176	SC	1	201	3	Farm labourer	3
+45	177	SC	1	201	3	Farm labourer	3
+45	178	SC	1	201	3	Farm land-owner	2
+45	179	SC	1	201	3	Masonry/construction worker	12
+45	180	SC	1	201	3	Industrialist	11
+45	181	SC	1	201	4	Masonry/construction worker	12
+45	182	SC	1	201	4	Masonry/construction worker	12
+45	183	SC	1	201	3	Private services	9
+45	184	SC	1	201	3	Farm labourer	3
+45	185	SC	1	201	4	Farm labourer	3
+45	186	SC	1	201	3	Farm labourer	3
+45	187	SC	1	201	3	Farm labourer	3
+45	188	SC	1	201	3	Farm labourer	3
+45	189	SC	1	201	3	Government services (teacher, etc.)	8
+45	190	SC	1	201	4	Farm labourer	3
+45	191	SC	1	209	4	Farm labourer	3
+45	192	SC	1	209	4	Masonry/construction worker	12
+45	193	Religious Minority	5	302	4	Pensioner	17
+45	194	SC	1	201	3	Street vendor/hawker	13
+45	195	SC	1	201	4	Domestic help/cook/casual	15
+45	196	SC	1	201	3	Private services	9
+45	197	SC	1	201	3	Street vendor/hawker	13
+45	198	SC	1	209	4	Farm labourer	3
+45	199	SC	1	209	3	Farm labourer	3
+45	200	SC	1	201	3	Farm labourer	3
+45	201	SC	1	201	4	Pensioner	17
+45	202	SC	1	201	3	Industry/factory worker(brick making etc)	10
+45	203	SC	1	201	5	Farm land-owner	2
+45	204	SC	1	201	4	Farm labourer	3
+45	205	SC	1	201	4	Government services (teacher, etc.)	8
+45	206	SC	1	201	3	Farm labourer	3
+45	207	SC	1	201	3	Government services (teacher, etc.)	8
+45	208	SC	1	201	3	Pensioner	17
+45	209	SC	1	201	3	Farm labourer	3
+45	210	SC	1	201	3	Farm labourer	3
+45	211	SC	1	201	3	Farm labourer	3
+45	212	SC	1	201	3	Industry/factory worker(brick making etc)	10
+45	213	SC	1	201	3	Farm labourer	3
+45	214	SC	1	201	3	Farm labourer	3
+45	215	SC	1	201	3	Farm labourer	3
+45	216	SC	1	201	4	Farm labourer	3
+45	217	SC	1	201	3	Farm labourer	3
+45	218	SC	1	201	3	Masonry/construction worker	12
+45	219	SC	1	201	3	Farm labourer	3
+45	220	SC	1	209	3	Farm labourer	3
+45	221	SC	1	209	3	Industry/factory worker(brick making etc)	10
+45	222	SC	1	201	3	Farm labourer	3
+45	223	SC	1	201	3	Farm labourer	3
+45	224	SC	1	201	3	Government services (teacher, etc.)	8
+45	225	SC	1	201	3	Farm labourer	3
+45	226	SC	1	201	3	Farm labourer	3
+45	227	SC	1	201	3	Industrialist	11
+45	228	OBC	3	413	3	Industry/factory worker(brick making etc)	10
+45	229	SC	1	201	3	Industry/factory worker(brick making etc)	10
+45	230	SC	1	201	3	Masonry/construction worker	12
+45	232	SC	1	201	3	Masonry/construction worker	12
+45	233	SC	1	201	3	Sericulture labourer	7
+45	234	SC	1	201	3	Industrialist	11
+45	235	SC	1	201	3	Sericulture labourer	7
+45	236	General	4	401	3	Farm labourer	3
+45	237	General	4	102	3	Domestic help/cook/casual	15
+45	239	General	4	102	3	Government services (teacher, etc.)	8
+45	240	SC	1	-333	3	Masonry/construction worker	12
+45	241	General	4	401	3	Sericulture owner	6
+45	242	General	4	401	3	Sericulture owner	6
+45	243	SC	1	201	3	Private services	9
+45	244	SC	1	201	3	Farm labourer	3
+45	245	OBC	3	401	3	Farm land-owner	2
+45	246	SC	1	210	3	Farm labourer	3

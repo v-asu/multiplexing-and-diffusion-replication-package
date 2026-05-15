@@ -1,0 +1,202 @@
+villageid	hh_id	caste_category_label	caste_category	subcaste	roof_type	occupation_label	occupation
+13	101	SC	1	-333	3	Pensioner	17
+13	102	SC	1	-333	3	Farm labourer	3
+13	103	SC	1	202	3	Farm labourer	3
+13	104	OBC	3	401	3	Farm land-owner	2
+13	105	OBC	3	401	3	Farm land-owner	2
+13	106	OBC	3	401	3	Farm land-owner	2
+13	107	OBC	3	401	3	Farm land-owner	2
+13	108	ST	2	404	3	Farm land-owner	2
+13	109	OBC	3	401	3	Farm labourer	3
+13	110	General	4	204	3	Farm labourer	3
+13	111	SC	1	204	3	Farm labourer	3
+13	112	SC	1	201	3	Farm labourer	3
+13	113	SC	1	201	3	Farm labourer	3
+13	115	SC	1	201	3	Farm labourer	3
+13	116	SC	1	201	3	Farm labourer	3
+13	117	SC	1	201	3	Farm labourer	3
+13	118	ST	2	202	4	Government services (teacher, etc.)	8
+13	119	SC	1	201	3	Small business (shop, etc.)	1
+13	120	ST	2	202	3	Farm labourer	3
+13	122	ST	2	202	3	Government services (teacher, etc.)	8
+13	123	ST	2	207	3	Farm land-owner	2
+13	124	SC	1	201	3	Farm labourer	3
+13	125	SC	1	201	3	Farm labourer	3
+13	126	SC	1	201	3	Farm labourer	3
+13	127	SC	1	201	3	Farm labourer	3
+13	128	SC	1	201	3	Dairy/cattle rearing	5
+13	129	OBC	3	-333	3	Farm labourer	3
+13	130	OBC	3	408	3	Farm labourer	3
+13	131	OBC	3	-333	3	Farm labourer	3
+13	132	OBC	3	-333	3	Pensioner	17
+13	133	OBC	3	-333	3	Farm labourer	3
+13	134	OBC	3	-333	3	Industrialist	11
+13	135	OBC	3	-333	3	Farm labourer	3
+13	136	SC	1	207	3	Farm labourer	3
+13	137	ST	2	-333	3	Farm labourer	3
+13	138	OBC	3	-333	3	Sericulture owner	6
+13	139	SC	1	201	3	Farm labourer	3
+13	140	OBC	3	-333	3	Sericulture owner	6
+13	141	General	4	-333	3	Farm labourer	3
+13	142	OBC	3	-333	3	Sericulture labourer	7
+13	143	ST	2	204	3	Farm land-owner	2
+13	144	SC	1	207	3	Farm labourer	3
+13	145	SC	1	201	3	Farm labourer	3
+13	146	SC	1	201	3	Farm land-owner	2
+13	147	SC	1	201	3	Farm land-owner	2
+13	148	SC	1	201	3	Farm labourer	3
+13	149	OBC	3	401	3	Farm land-owner	2
+13	150	General	4	411	3	Farm land-owner	2
+13	151	OBC	3	411	3	Industrialist	11
+13	152	OBC	3	404	3	Farm land-owner	2
+13	153	OBC	3	401	3	Farm land-owner	2
+13	154	General	4	401	3	Farm labourer	3
+13	155	OBC	3	401	3	Farm land-owner	2
+13	156	General	4	402	3	Farm labourer	3
+13	157	OBC	3	401	3	Farm land-owner	2
+13	158	ST	2	309	3	Farm land-owner	2
+13	159	SC	1	201	3	Farm labourer	3
+13	160	SC	1	201	3	Farm labourer	3
+13	161	SC	1	201	3	Farm labourer	3
+13	162	SC	1	201	3	Farm labourer	3
+13	163	SC	1	201	3	Farm labourer	3
+13	164	SC	1	201	3	Farm labourer	3
+13	165	SC	1	201	3	Farm labourer	3
+13	166	SC	1	201	3	Farm land-owner	2
+13	167	OBC	3	401	3	Farm land-owner	2
+13	168	General	4	404	3	Farm labourer	3
+13	169	General	4	404	3	Industrialist	11
+13	170	OBC	3	404	3	Farm labourer	3
+13	171	OBC	3	404	3	Farm labourer	3
+13	172	General	4	404	3	Farm land-owner	2
+13	173	General	4	404	3	Farm land-owner	2
+13	174	OBC	3	404	3	Farm land-owner	2
+13	175	OBC	3	-333	3	Farm land-owner	2
+13	176	General	4	404	3	Farm labourer	3
+13	177	General	4	404	3	Farm labourer	3
+13	178	General	4	404	3	Farm labourer	3
+13	179	General	4	404	3	Farm labourer	3
+13	180	OBC	3	404	3	Farm land-owner	2
+13	181	OBC	3	401	3	Farm land-owner	2
+13	182	General	4	404	3	Farm land-owner	2
+13	183	OBC	3	404	3	Farm land-owner	2
+13	184	OBC	3	-333	3	Farm labourer	3
+13	185	OBC	3	404	3	Farm land-owner	2
+13	186	OBC	3	404	3	Farm labourer	3
+13	187	General	4	404	3	Farm labourer	3
+13	188	General	4	404	3	Farm land-owner	2
+13	189	General	4	-333	3	Farm labourer	3
+13	190	OBC	3	401	3	Farm land-owner	2
+13	191	General	4	404	3	Farm land-owner	2
+13	192	SC	1	202	3	Farm labourer	3
+13	193	SC	1	201	3	Farm labourer	3
+13	194	SC	1	202	3	Farm labourer	3
+13	195	General	4	408	3	Farm land-owner	2
+13	196	OBC	3	401	3	Farm land-owner	2
+13	197	OBC	3	-333	3	Farm land-owner	2
+13	198	SC	1	202	3	Farm labourer	3
+13	199	SC	1	202	3	Private services	9
+13	200	OBC	3	-333	3	Industrialist	11
+13	201	General	4	402	3	Farm labourer	3
+13	202	SC	1	-333	3	OTHERS, SPECIFY	-333
+13	203	General	4	-333	1	Pensioner	17
+13	204	General	4	404	3	Farm land-owner	2
+13	205	SC	1	204	3	Farm labourer	3
+13	206	General	4	404	3	Farm land-owner	2
+13	207	OBC	3	-333	3	Government services (teacher, etc.)	8
+13	208	OBC	3	-333	3	Farm land-owner	2
+13	209	OBC	3	404	3	Farm land-owner	2
+13	210	General	4	-333	3	Farm land-owner	2
+13	211	OBC	3	401	3	Farm land-owner	2
+13	212	OBC	3	401	3	Farm labourer	3
+13	213	OBC	3	411	3	Farm labourer	3
+13	214	OBC	3	411	3	Farm labourer	3
+13	215	General	4	404	3	Farm land-owner	2
+13	216	General	4	404	3	Private services	9
+13	217	General	4	404	3	Farm labourer	3
+13	218	General	4	404	3	Farm labourer	3
+13	219	General	4	401	3	Farm labourer	3
+13	220	General	4	404	3	Farm land-owner	2
+13	221	OBC	3	404	3	Farm land-owner	2
+13	222	OBC	3	404	3	Farm land-owner	2
+13	223	OBC	3	-333	3	Farm labourer	3
+13	224	General	4	-333	3	Industrialist	11
+13	225	General	4	-333	3	Farm labourer	3
+13	226	General	4	-333	3	Industrialist	11
+13	227	General	4	-333	3	Farm labourer	3
+13	228	General	4	-333	3	Farm labourer	3
+13	229	General	4	-333	3	Farm labourer	3
+13	230	OBC	3	-333	3	Farm labourer	3
+13	231	OBC	3	-333	3	Farm labourer	3
+13	232	OBC	3	-333	3	Farm labourer	3
+13	233	OBC	3	401	3	Farm labourer	3
+13	234	OBC	3	-333	3	Farm labourer	3
+13	235	OBC	3	-333	3	Farm labourer	3
+13	236	General	4	-333	3	Farm labourer	3
+13	237	General	4	-333	3	Farm labourer	3
+13	238	General	4	-333	3	Farm labourer	3
+13	239	SC	1	102	3	OTHERS, SPECIFY	-333
+13	240	SC	1	102	3	OTHERS, SPECIFY	-333
+13	241	OBC	3	401	3	Farm land-owner	2
+13	242	OBC	3	401	3	Small business (shop, etc.)	1
+13	243	OBC	3	407	3	Masonry/construction worker	12
+13	244	General	4	401	3	Farm labourer	3
+13	245	OBC	3	401	3	Farm labourer	3
+13	246	General	4	102	3	OTHERS, SPECIFY	-333
+13	247	General	4	-333	3	Farm labourer	3
+13	248	OBC	3	401	3	Private services	9
+13	249	OBC	3	-333	3	Farm labourer	3
+13	250	General	4	104	3	Farm land-owner	2
+13	251	OBC	3	204	3	Farm land-owner	2
+13	252	General	4	-333	3	Government services (teacher, etc.)	8
+13	253	OBC	3	401	3	Farm labourer	3
+13	254	OBC	3	401	3	Farm land-owner	2
+13	255	OBC	3	401	3	Farm land-owner	2
+13	256	OBC	3	401	3	Farm land-owner	2
+13	257	OBC	3	401	3	Farm land-owner	2
+13	258	General	4	408	3	Farm labourer	3
+13	259	General	4	408	3	Farm labourer	3
+13	260	OBC	3	401	3	Farm labourer	3
+13	261	OBC	3	-333	3	OTHERS, SPECIFY	-333
+13	262	SC	1	206	3	Farm land-owner	2
+13	263	General	4	408	3	Industrialist	11
+13	264	OBC	3	408	3	Farm labourer	3
+13	265	General	4	408	3	Farm labourer	3
+13	266	OBC	3	401	3	Farm labourer	3
+13	267	General	4	-333	3	OTHERS, SPECIFY	-333
+13	268	OBC	3	-333	3	Farm land-owner	2
+13	269	OBC	3	401	3	Farm land-owner	2
+13	270	General	4	401	3	Farm land-owner	2
+13	271	OBC	3	401	3	Farm land-owner	2
+13	272	OBC	3	401	3	Farm land-owner	2
+13	273	OBC	3	411	3	Industrialist	11
+13	274	General	4	401	3	Farm land-owner	2
+13	275	General	4	401	3	Pensioner	17
+13	276	General	4	401	3	Farm land-owner	2
+13	277	OBC	3	401	3	Farm land-owner	2
+13	278	General	4	401	3	Farm land-owner	2
+13	279	OBC	3	401	3	Private services	9
+13	280	OBC	3	401	3	Farm land-owner	2
+13	281	OBC	3	411	3	Farm labourer	3
+13	282	OBC	3	401	3	Farm land-owner	2
+13	283	OBC	3	-333	3	Industry/factory worker(brick making etc)	10
+13	284	OBC	3	-333	3	Farm land-owner	2
+13	285	OBC	3	401	3	Farm land-owner	2
+13	286	OBC	3	401	3	Dairy/cattle rearing	5
+13	287	OBC	3	401	3	Government services (teacher, etc.)	8
+13	288	General	4	401	5	Farm land-owner	2
+13	289	OBC	3	401	3	Farm land-owner	2
+13	290	General	4	401	3	Farm land-owner	2
+13	291	OBC	3	401	3	Industrialist	11
+13	292	General	4	401	3	Farm land-owner	2
+13	293	OBC	3	411	3	Farm land-owner	2
+13	294	General	4	401	5	Farm land-owner	2
+13	295	General	4	401	3	Farm land-owner	2
+13	296	General	4	401	3	Farm land-owner	2
+13	297	OBC	3	401	3	Farm land-owner	2
+13	298	OBC	3	401	3	Farm land-owner	2
+13	300	General	4	401	3	Farm land-owner	2
+13	301	General	4	401	3	Farm land-owner	2
+13	302	OBC	3	-333	3	Government services (teacher, etc.)	8
+13	303	OBC	3	404	3	Farm labourer	3
+13	305	OBC	3	401	3	Farm land-owner	2

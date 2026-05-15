@@ -1,0 +1,212 @@
+villageid	hh_id	caste_category_label	caste_category	subcaste	roof_type	occupation_label	occupation
+33	101	General	4	401	5	Farm land-owner	2
+33	102	SC	1	206	4	Government services (teacher, etc.)	8
+33	103	ST	2	206	5	Artist	14
+33	104	General	4	401	3	Farm labourer	3
+33	105	OBC	3	409	4	Farm labourer	3
+33	106	SC	1	409	4	Farm land-owner	2
+33	107	OBC	3	409	4	Farm labourer	3
+33	108	General	4	402	5	Farm land-owner	2
+33	109	General	4	-333	5	Farm land-owner	2
+33	110	General	4	-333	5	Farm land-owner	2
+33	111	ST	2	309	2	Farm labourer	3
+33	112	ST	2	309	2	Farm labourer	3
+33	113	OBC	3	309	2	Farm labourer	3
+33	114	SC	1	206	4	Farm labourer	3
+33	115	OBC	3	408	2	Industrialist	11
+33	116	OBC	3	408	3	Farm labourer	3
+33	117	ST	2	309	2	Farm land-owner	2
+33	118	ST	2	309	2	Farm land-owner	2
+33	119	General	4	401	2	Farm land-owner	2
+33	120	General	4	401	2	Farm land-owner	2
+33	121	General	4	401	4	Farm labourer	3
+33	122	General	4	401	2	Farm land-owner	2
+33	123	General	4	402	5	Small business (shop, etc.)	1
+33	124	General	4	102	5	Private services	9
+33	125	General	4	-333	4	Private services	9
+33	126	General	4	402	3	Domestic help/cook/casual	15
+33	127	OBC	3	402	4	Domestic help/cook/casual	15
+33	128	OBC	3	-333	4	Domestic help/cook/casual	15
+33	129	General	4	401	2	Farm land-owner	2
+33	130	ST	2	206	5	Farm labourer	3
+33	131	ST	2	206	4	Farm land-owner	2
+33	132	General	4	402	3	Farm land-owner	2
+33	133	General	4	402	3	Farm labourer	3
+33	134	SC	1	201	2	Private services	9
+33	135	General	4	401	2	Farm land-owner	2
+33	136	SC	1	206	5	Government services (teacher, etc.)	8
+33	137	OBC	3	403	5	Masonry/construction worker	12
+33	138	General	4	401	2	Farm labourer	3
+33	139	General	4	104	3	Private services	9
+33	140	General	4	104	3	Industrialist	11
+33	141	OBC	3	401	3	Farm labourer	3
+33	142	General	4	401	5	Industrialist	11
+33	143	General	4	401	5	Government services (teacher, etc.)	8
+33	144	OBC	3	206	2	Farm labourer	3
+33	145	General	4	206	3	Farm labourer	3
+33	146	SC	1	206	2	Domestic help/cook/casual	15
+33	147	General	4	104	4	Industrialist	11
+33	148	General	4	402	4	Industrialist	11
+33	149	General	4	401	4	Small business (shop, etc.)	1
+33	150	General	4	-333	5	Farm land-owner	2
+33	151	ST	2	-333	2	Farm land-owner	2
+33	152	General	4	407	2	Industry/factory worker(brick making etc)	10
+33	153	General	4	102	3	Government services (teacher, etc.)	8
+33	154	General	4	102	3	OTHERS, SPECIFY	-333
+33	155	OBC	3	-333	4	Private services	9
+33	156	SC	1	201	3	Domestic help/cook/casual	15
+33	157	SC	1	201	4	Farm labourer	3
+33	158	General	4	407	3	Domestic help/cook/casual	15
+33	159	General	4	102	3	Small business (shop, etc.)	1
+33	160	General	4	102	2	Government services (teacher, etc.)	8
+33	161	General	4	401	2	Farm labourer	3
+33	162	General	4	401	2	Farm land-owner	2
+33	163	OBC	3	-333	3	Pensioner	17
+33	164	General	4	205	4	Pensioner	17
+33	165	General	4	401	4	Industrialist	11
+33	166	OBC	3	402	4	Farm labourer	3
+33	167	General	4	401	3	Private services	9
+33	168	General	4	401	4	Pensioner	17
+33	169	General	4	-333	2	Masonry/construction worker	12
+33	170	General	4	401	5	Dairy/cattle rearing	5
+33	171	ST	2	403	4	Farm labourer	3
+33	172	ST	2	206	3	Farm labourer	3
+33	173	SC	1	201	5	Farm labourer	3
+33	174	OBC	3	-333	5	Farm labourer	3
+33	175	SC	1	201	5	Farm labourer	3
+33	176	SC	1	201	3	OTHERS, SPECIFY	-333
+33	177	SC	1	201	2	Farm labourer	3
+33	178	SC	1	201	2	OTHERS, SPECIFY	-333
+33	179	SC	1	201	2	Farm labourer	3
+33	180	SC	1	201	3	Farm labourer	3
+33	181	SC	1	201	2	Farm labourer	3
+33	182	SC	1	201	2	Farm labourer	3
+33	183	SC	1	201	2	Farm labourer	3
+33	184	SC	1	201	2	Farm labourer	3
+33	185	SC	1	201	3	Farm labourer	3
+33	186	SC	1	201	2	Farm labourer	3
+33	187	SC	1	201	4	OTHERS, SPECIFY	-333
+33	188	SC	1	201	2	Farm labourer	3
+33	189	General	4	401	2	Farm land-owner	2
+33	190	General	4	401	2	Farm land-owner	2
+33	191	General	4	401	2	Farm land-owner	2
+33	192	General	4	401	2	Domestic help/cook/casual	15
+33	193	SC	1	201	3	Farm land-owner	2
+33	194	SC	1	201	4	Dairy/cattle rearing	5
+33	195	SC	1	201	3	Farm labourer	3
+33	196	SC	1	201	2	Private services	9
+33	197	SC	1	201	2	Farm labourer	3
+33	198	SC	1	201	2	Farm labourer	3
+33	199	SC	1	201	3	Pensioner	17
+33	200	General	4	401	3	Farm land-owner	2
+33	201	SC	1	201	2	Farm land-owner	2
+33	202	SC	1	201	2	Farm land-owner	2
+33	203	SC	1	201	5	Farm labourer	3
+33	204	SC	1	201	2	Farm labourer	3
+33	205	SC	1	201	1	Farm labourer	3
+33	206	SC	1	201	3	Farm labourer	3
+33	207	SC	1	201	4	Farm labourer	3
+33	208	SC	1	201	2	Farm labourer	3
+33	209	SC	1	201	2	Housewife	16
+33	210	SC	1	201	4	Dairy/cattle rearing	5
+33	211	SC	1	201	4	Farm land-owner	2
+33	212	SC	1	201	3	Farm land-owner	2
+33	213	SC	1	201	2	Farm labourer	3
+33	214	SC	1	201	2	Farm labourer	3
+33	215	SC	1	201	3	Farm labourer	3
+33	216	SC	1	201	4	Farm labourer	3
+33	217	SC	1	201	3	Farm labourer	3
+33	218	SC	1	201	1	Farm labourer	3
+33	219	General	4	402	3	Farm labourer	3
+33	220	General	4	402	3	Private services	9
+33	221	General	4	401	4	Farm labourer	3
+33	222	SC	1	201	4	Private services	9
+33	223	SC	1	201	4	Domestic help/cook/casual	15
+33	224	SC	1	201	2	Farm labourer	3
+33	225	SC	1	201	2	Farm labourer	3
+33	226	SC	1	201	3	Farm labourer	3
+33	227	General	4	401	2	Farm land-owner	2
+33	228	SC	1	201	3	Farm labourer	3
+33	229	SC	1	201	2	Farm labourer	3
+33	230	SC	1	201	4	Farm labourer	3
+33	231	SC	1	201	2	Farm labourer	3
+33	232	SC	1	201	3	Farm labourer	3
+33	233	SC	1	201	3	Industrialist	11
+33	234	SC	1	201	3	Artist	14
+33	235	SC	1	201	1	Industrialist	11
+33	236	SC	1	201	3	Farm labourer	3
+33	237	General	4	401	5	Farm land-owner	2
+33	238	General	4	401	3	Farm land-owner	2
+33	239	General	4	210	4	Farm labourer	3
+33	240	General	4	401	2	Farm labourer	3
+33	241	General	4	401	3	Farm labourer	3
+33	242	General	4	401	3	Farm labourer	3
+33	243	General	4	401	3	Farm labourer	3
+33	244	General	4	401	3	Farm labourer	3
+33	245	General	4	401	3	Farm labourer	3
+33	246	General	4	401	5	Farm labourer	3
+33	247	General	4	401	3	Farm labourer	3
+33	248	General	4	402	3	Farm labourer	3
+33	249	General	4	-333	3	Dairy/cattle rearing	5
+33	250	SC	1	402	3	Farm labourer	3
+33	251	SC	1	-333	4	Masonry/construction worker	12
+33	252	SC	1	-333	2	Farm labourer	3
+33	253	SC	1	-333	2	Farm labourer	3
+33	254	SC	1	-333	2	Farm labourer	3
+33	255	SC	1	-333	2	Farm labourer	3
+33	256	General	4	401	5	Farm land-owner	2
+33	257	Religious Minority	5	-333	5	Farm labourer	3
+33	258	ST	2	-333	5	Government services (teacher, etc.)	8
+33	259	General	4	401	4	Farm labourer	3
+33	260	General	4	-333	3	Farm labourer	3
+33	261	Missing	-666	-666	-666	Missing	-666
+33	262	SC	1	206	3	Farm labourer	3
+33	263	Religious Minority	5	-333	3	Farm labourer	3
+33	264	General	4	401	5	Farm land-owner	2
+33	265	OBC	3	-333	5	Farm land-owner	2
+33	266	General	4	401	3	Domestic help/cook/casual	15
+33	267	OBC	3	401	3	Farm labourer	3
+33	268	General	4	401	3	Farm land-owner	2
+33	269	General	4	401	3	Farm land-owner	2
+33	270	General	4	102	2	Small business (shop, etc.)	1
+33	271	General	4	-333	3	Government services (teacher, etc.)	8
+33	272	General	4	-333	2	Farm labourer	3
+33	273	SC	1	201	3	Farm labourer	3
+33	274	OBC	3	-333	3	Farm land-owner	2
+33	275	General	4	-333	3	Masonry/construction worker	12
+33	276	General	4	-333	4	Private services	9
+33	277	ST	2	309	3	Farm labourer	3
+33	278	ST	2	309	2	Farm labourer	3
+33	279	SC	1	309	4	Farm labourer	3
+33	280	SC	1	201	4	Farm land-owner	2
+33	281	SC	1	201	2	Farm land-owner	2
+33	282	SC	1	202	5	Farm labourer	3
+33	283	SC	1	202	5	Farm labourer	3
+33	284	ST	2	-333	1	Farm labourer	3
+33	285	SC	1	201	1	Farm labourer	3
+33	286	SC	1	201	2	Farm labourer	3
+33	287	General	4	402	3	Farm labourer	3
+33	288	General	4	402	3	Farm labourer	3
+33	289	General	4	402	5	Farm labourer	3
+33	290	SC	1	402	3	Farm labourer	3
+33	291	SC	1	402	2	Farm labourer	3
+33	292	SC	1	402	2	Farm labourer	3
+33	293	SC	1	404	4	Farm labourer	3
+33	294	General	4	402	3	Farm land-owner	2
+33	295	General	4	402	3	OTHERS, SPECIFY	-333
+33	296	General	4	402	3	Masonry/construction worker	12
+33	297	SC	1	206	3	Farm land-owner	2
+33	298	General	4	401	4	Farm labourer	3
+33	299	SC	1	401	2	Farm labourer	3
+33	300	General	4	401	4	Farm land-owner	2
+33	301	General	4	401	2	Farm labourer	3
+33	302	General	4	401	5	Industry/factory worker(brick making etc)	10
+33	303	General	4	401	2	Farm land-owner	2
+33	304	General	4	401	4	Farm labourer	3
+33	305	OBC	3	409	5	Farm labourer	3
+33	306	General	4	401	5	Farm land-owner	2
+33	307	ST	2	-333	5	Domestic help/cook/casual	15
+33	308	General	4	-333	5	Domestic help/cook/casual	15
+33	309	General	4	402	3	Farm labourer	3
+33	310	General	4	402	3	Farm labourer	3
+33	311	OBC	3	-333	3	Farm land-owner	2

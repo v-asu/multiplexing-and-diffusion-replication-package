@@ -1,0 +1,137 @@
+villageid	hh_id	caste_category_label	caste_category	subcaste	roof_type	occupation_label	occupation
+26	101	General	4	402	3	Small business (shop, etc.)	1
+26	102	ST	2	402	3	Farm land-owner	2
+26	103	General	4	402	3	Farm labourer	3
+26	104	ST	2	402	3	Farm land-owner	2
+26	105	General	4	402	3	Farm land-owner	2
+26	106	General	4	402	3	Pensioner	17
+26	107	General	4	402	3	Farm land-owner	2
+26	108	ST	2	402	3	Farm land-owner	2
+26	109	General	4	402	3	Small business (shop, etc.)	1
+26	110	ST	2	402	3	Farm land-owner	2
+26	111	General	4	402	3	Farm labourer	3
+26	112	ST	2	402	3	Farm land-owner	2
+26	113	ST	2	309	2	Masonry/construction worker	12
+26	114	General	4	402	3	Farm land-owner	2
+26	115	ST	2	402	3	Farm land-owner	2
+26	116	ST	2	309	3	Farm labourer	3
+26	117	ST	2	309	3	Farm labourer	3
+26	118	OBC	3	407	-333	Farm labourer	3
+26	119	General	4	401	3	Farm land-owner	2
+26	120	General	4	402	4	Farm labourer	3
+26	121	ST	2	202	4	Farm labourer	3
+26	122	General	4	401	3	Farm land-owner	2
+26	123	General	4	401	3	Farm labourer	3
+26	124	General	4	401	5	Farm land-owner	2
+26	125	General	4	402	4	Government services (teacher, etc.)	8
+26	126	SC	1	309	3	Farm labourer	3
+26	127	SC	1	309	2	Farm land-owner	2
+26	128	ST	2	309	4	Farm labourer	3
+26	129	ST	2	309	5	Masonry/construction worker	12
+26	130	ST	2	309	5	Masonry/construction worker	12
+26	131	ST	2	309	3	Farm labourer	3
+26	132	SC	1	309	3	Farm land-owner	2
+26	133	SC	1	309	3	Farm land-owner	2
+26	134	ST	2	309	3	Small business (shop, etc.)	1
+26	135	ST	2	309	3	Pensioner	17
+26	136	ST	2	309	3	Farm labourer	3
+26	137	SC	1	309	3	Farm labourer	3
+26	138	ST	2	402	3	Farm labourer	3
+26	139	ST	2	309	3	Farm land-owner	2
+26	140	OBC	3	401	3	Farm labourer	3
+26	141	General	4	401	3	Farm land-owner	2
+26	142	General	4	401	3	Farm land-owner	2
+26	143	ST	2	405	3	Farm land-owner	2
+26	144	General	4	401	3	Farm land-owner	2
+26	145	OBC	3	401	3	Farm land-owner	2
+26	146	OBC	3	405	3	Farm land-owner	2
+26	147	OBC	3	405	3	Farm land-owner	2
+26	148	ST	2	402	5	Farm labourer	3
+26	149	ST	2	402	3	Farm land-owner	2
+26	150	SC	1	309	3	Farm land-owner	2
+26	151	General	4	401	3	Farm land-owner	2
+26	152	General	4	401	3	Farm land-owner	2
+26	153	OBC	3	401	3	Pensioner	17
+26	154	General	4	401	3	Farm land-owner	2
+26	155	General	4	401	3	Farm land-owner	2
+26	156	General	4	407	3	Farm land-owner	2
+26	157	SC	1	309	3	Farm land-owner	2
+26	158	OBC	3	401	3	Farm land-owner	2
+26	159	General	4	401	3	Farm land-owner	2
+26	160	General	4	401	3	Farm land-owner	2
+26	161	General	4	401	3	Farm land-owner	2
+26	162	General	4	401	3	Farm land-owner	2
+26	163	General	4	407	3	Farm land-owner	2
+26	164	OBC	3	401	3	Farm land-owner	2
+26	165	OBC	3	407	3	Artist	14
+26	166	General	4	407	3	Farm labourer	3
+26	167	General	4	407	3	Farm labourer	3
+26	168	General	4	407	4	Farm land-owner	2
+26	169	General	4	407	3	Farm labourer	3
+26	170	OBC	3	407	3	Farm land-owner	2
+26	171	General	4	407	3	Farm land-owner	2
+26	172	ST	2	309	3	Farm labourer	3
+26	173	ST	2	309	-333	Farm land-owner	2
+26	174	ST	2	309	-333	Farm land-owner	2
+26	175	ST	2	309	-333	Pensioner	17
+26	176	ST	2	309	-333	Pensioner	17
+26	177	General	4	401	3	Farm labourer	3
+26	178	General	4	401	4	Farm land-owner	2
+26	179	General	4	401	4	Farm land-owner	2
+26	180	General	4	401	3	Farm land-owner	2
+26	181	General	4	401	3	Farm land-owner	2
+26	182	General	4	401	3	Farm land-owner	2
+26	183	SC	1	309	3	Farm land-owner	2
+26	184	SC	1	309	3	Farm land-owner	2
+26	185	General	4	404	-333	Farm land-owner	2
+26	186	General	4	401	4	Farm land-owner	2
+26	187	Religious Minority	5	408	3	Farm land-owner	2
+26	188	OBC	3	407	3	Farm land-owner	2
+26	189	OBC	3	407	3	Farm labourer	3
+26	190	SC	1	309	3	Masonry/construction worker	12
+26	191	General	4	401	5	Farm land-owner	2
+26	192	General	4	401	-333	Farm land-owner	2
+26	193	OBC	3	401	3	Farm land-owner	2
+26	194	General	4	407	4	OTHERS, SPECIFY	-333
+26	195	Religious Minority	5	407	3	Farm land-owner	2
+26	196	General	4	401	5	Farm land-owner	2
+26	197	ST	2	407	3	Farm land-owner	2
+26	198	OBC	3	407	3	Pensioner	17
+26	199	ST	2	402	3	Farm land-owner	2
+26	200	General	4	401	3	Farm land-owner	2
+26	201	General	4	401	3	Farm labourer	3
+26	202	General	4	401	3	Farm land-owner	2
+26	203	General	4	401	5	Farm labourer	3
+26	204	General	4	401	4	Farm land-owner	2
+26	205	Religious Minority	5	407	4	Farm land-owner	2
+26	206	SC	1	309	3	Farm land-owner	2
+26	207	General	4	401	5	Farm land-owner	2
+26	208	General	4	401	3	Farm land-owner	2
+26	209	General	4	401	3	Farm land-owner	2
+26	210	SC	1	309	2	Farm labourer	3
+26	211	SC	1	309	5	Farm land-owner	2
+26	212	SC	1	309	5	Farm land-owner	2
+26	213	SC	1	309	5	Farm land-owner	2
+26	214	General	4	401	5	Farm land-owner	2
+26	215	General	4	401	5	Farm land-owner	2
+26	216	General	4	401	5	Farm land-owner	2
+26	217	General	4	401	5	Farm land-owner	2
+26	218	SC	1	401	5	Farm labourer	3
+26	219	General	4	401	4	Farm land-owner	2
+26	220	SC	1	309	3	Farm labourer	3
+26	221	ST	2	309	3	Farm labourer	3
+26	222	ST	2	309	4	Farm labourer	3
+26	223	ST	2	309	3	Farm land-owner	2
+26	224	Religious Minority	5	-333	3	Farm land-owner	2
+26	225	Religious Minority	5	-333	3	Farm labourer	3
+26	226	General	4	401	3	Farm land-owner	2
+26	227	ST	2	309	3	Farm land-owner	2
+26	228	ST	2	309	3	Farm land-owner	2
+26	229	ST	2	309	3	Farm land-owner	2
+26	230	ST	2	309	3	Farm land-owner	2
+26	231	ST	2	309	3	Farm labourer	3
+26	232	ST	2	309	3	Farm land-owner	2
+26	233	ST	2	309	4	Farm labourer	3
+26	234	ST	2	309	3	Farm land-owner	2
+26	235	ST	2	309	3	Farm land-owner	2
+26	236	Religious Minority	5	402	3	Private services	9

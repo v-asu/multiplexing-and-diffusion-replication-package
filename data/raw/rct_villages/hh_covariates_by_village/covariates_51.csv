@@ -1,0 +1,167 @@
+villageid	hh_id	caste_category_label	caste_category	subcaste	roof_type	occupation_label	occupation
+51	101	General	4	401	3	Pensioner	17
+51	102	General	4	402	3	Government services (teacher, etc.)	8
+51	103	General	4	401	3	Farm land-owner	2
+51	104	General	4	401	3	Farm land-owner	2
+51	105	General	4	401	3	Dairy/cattle rearing	5
+51	106	General	4	401	3	Private services	9
+51	107	General	4	401	3	Pensioner	17
+51	108	General	4	401	3	Farm labourer	3
+51	109	OBC	3	408	3	Farm labourer	3
+51	110	OBC	3	408	3	Pensioner	17
+51	111	General	4	401	3	Dairy/cattle rearing	5
+51	112	General	4	402	3	Farm land-owner	2
+51	113	General	4	401	3	Farm land-owner	2
+51	114	General	4	401	3	Farm land-owner	2
+51	115	General	4	401	3	Farm land-owner	2
+51	116	OBC	3	402	3	Farm labourer	3
+51	117	OBC	3	401	3	Farm land-owner	2
+51	118	OBC	3	401	3	Masonry/construction worker	12
+51	119	OBC	3	401	3	Private services	9
+51	120	OBC	3	401	3	Masonry/construction worker	12
+51	121	General	4	401	3	Private services	9
+51	122	General	4	401	3	Government services (teacher, etc.)	8
+51	123	General	4	402	3	Housewife	16
+51	124	General	4	401	3	Farm land-owner	2
+51	125	SC	1	201	3	Private services	9
+51	126	SC	1	201	3	Farm labourer	3
+51	127	SC	1	201	3	Farm labourer	3
+51	128	SC	1	201	4	Industrialist	11
+51	129	SC	1	201	3	Farm labourer	3
+51	130	SC	1	201	3	Masonry/construction worker	12
+51	131	SC	1	201	3	Farm labourer	3
+51	132	General	4	201	3	Farm labourer	3
+51	133	General	4	201	3	Farm labourer	3
+51	134	General	4	201	3	Farm labourer	3
+51	135	SC	1	201	3	Farm labourer	3
+51	136	SC	1	201	3	Masonry/construction worker	12
+51	137	SC	1	201	3	Private services	9
+51	138	SC	1	201	3	Private services	9
+51	139	SC	1	201	3	Masonry/construction worker	12
+51	140	SC	1	201	2	Farm labourer	3
+51	141	SC	1	201	3	Farm labourer	3
+51	142	SC	1	201	3	Farm labourer	3
+51	143	SC	1	201	3	Farm labourer	3
+51	144	SC	1	201	3	Farm labourer	3
+51	145	SC	1	201	3	Farm labourer	3
+51	146	SC	1	201	4	Industry/factory worker(brick making etc)	10
+51	147	SC	1	201	3	Farm labourer	3
+51	148	SC	1	201	1	Farm labourer	3
+51	149	SC	1	201	3	Pensioner	17
+51	150	SC	1	201	3	Farm labourer	3
+51	151	SC	1	201	3	Farm labourer	3
+51	152	General	4	401	3	Farm labourer	3
+51	153	General	4	201	3	Farm labourer	3
+51	154	SC	1	201	3	Domestic help/cook/casual	15
+51	155	SC	1	201	3	Farm labourer	3
+51	156	SC	1	201	5	Private services	9
+51	157	SC	1	201	3	Masonry/construction worker	12
+51	158	SC	1	201	3	Industrialist	11
+51	159	SC	1	201	3	Farm labourer	3
+51	160	SC	1	201	2	Farm labourer	3
+51	161	General	4	414	2	Farm labourer	3
+51	162	SC	1	201	3	Farm labourer	3
+51	163	SC	1	201	3	Farm labourer	3
+51	164	SC	1	201	3	Farm labourer	3
+51	165	SC	1	201	3	Farm labourer	3
+51	166	SC	1	201	3	Pensioner	17
+51	167	SC	1	201	3	Farm labourer	3
+51	168	OBC	3	-333	3	Industrialist	11
+51	169	OBC	3	-333	4	Farm labourer	3
+51	170	OBC	3	407	3	Industrialist	11
+51	171	OBC	3	407	3	Industrialist	11
+51	172	SC	1	201	3	Masonry/construction worker	12
+51	173	SC	1	201	3	Farm labourer	3
+51	174	SC	1	201	4	Domestic help/cook/casual	15
+51	175	General	4	201	3	Farm labourer	3
+51	176	SC	1	201	3	Masonry/construction worker	12
+51	177	SC	1	201	3	Government services (teacher, etc.)	8
+51	178	SC	1	201	3	Masonry/construction worker	12
+51	179	SC	1	201	3	Masonry/construction worker	12
+51	180	SC	1	201	3	Private services	9
+51	181	General	4	401	3	Farm labourer	3
+51	182	General	4	401	3	Private services	9
+51	183	General	4	401	3	Farm labourer	3
+51	184	General	4	401	3	Farm land-owner	2
+51	185	General	4	401	3	Farm labourer	3
+51	186	General	4	401	3	Farm land-owner	2
+51	187	General	4	401	3	Farm labourer	3
+51	188	General	4	401	3	Farm land-owner	2
+51	189	General	4	401	3	Private services	9
+51	190	General	4	402	3	Artist	14
+51	191	General	4	401	3	Private services	9
+51	192	General	4	401	3	Farm land-owner	2
+51	193	General	4	401	3	Farm land-owner	2
+51	194	General	4	401	3	Government services (teacher, etc.)	8
+51	195	General	4	401	3	Farm land-owner	2
+51	196	General	4	401	5	Dairy/cattle rearing	5
+51	197	General	4	401	3	Farm labourer	3
+51	198	General	4	401	3	Government services (teacher, etc.)	8
+51	199	General	4	401	3	Farm land-owner	2
+51	200	General	4	401	2	Dairy/cattle rearing	5
+51	201	General	4	401	3	Private services	9
+51	202	General	4	401	3	Farm labourer	3
+51	203	General	4	401	3	Masonry/construction worker	12
+51	204	General	4	401	3	Farm land-owner	2
+51	205	General	4	102	3	OTHERS, SPECIFY	-333
+51	206	General	4	401	3	Farm labourer	3
+51	207	General	4	401	3	Farm land-owner	2
+51	208	General	4	401	3	OTHERS, SPECIFY	-333
+51	209	General	4	401	3	Farm labourer	3
+51	210	General	4	401	3	Government services (teacher, etc.)	8
+51	211	General	4	401	3	Farm labourer	3
+51	212	General	4	401	3	Private services	9
+51	213	General	4	401	3	Farm land-owner	2
+51	214	General	4	401	3	Farm labourer	3
+51	215	General	4	401	3	Farm labourer	3
+51	216	General	4	401	3	Farm labourer	3
+51	217	General	4	401	3	Government services (teacher, etc.)	8
+51	218	General	4	401	3	Farm land-owner	2
+51	219	General	4	401	3	Farm labourer	3
+51	220	General	4	-333	3	Government services (teacher, etc.)	8
+51	221	General	4	-333	3	Farm land-owner	2
+51	222	General	4	401	3	Farm land-owner	2
+51	223	General	4	401	5	OTHERS, SPECIFY	-333
+51	224	General	4	401	3	Private services	9
+51	225	General	4	401	3	Farm land-owner	2
+51	226	General	4	401	3	Private services	9
+51	227	General	4	401	3	Farm land-owner	2
+51	228	General	4	401	3	Farm land-owner	2
+51	229	General	4	401	3	Farm land-owner	2
+51	230	General	4	401	3	Small business (shop, etc.)	1
+51	231	General	4	401	3	Industrialist	11
+51	232	General	4	402	3	Farm labourer	3
+51	233	General	4	401	3	Private services	9
+51	234	General	4	401	3	Farm land-owner	2
+51	235	General	4	401	3	Private services	9
+51	236	General	4	-333	3	Small business (shop, etc.)	1
+51	237	General	4	401	3	Farm labourer	3
+51	238	General	4	402	3	Farm labourer	3
+51	239	General	4	401	3	Farm land-owner	2
+51	240	General	4	401	3	Farm land-owner	2
+51	241	General	4	402	3	Farm land-owner	2
+51	242	General	4	402	3	Private services	9
+51	243	General	4	-333	3	Private services	9
+51	244	General	4	-333	3	Industrialist	11
+51	245	General	4	408	3	Private services	9
+51	246	General	4	401	3	Farm labourer	3
+51	247	General	4	-333	3	Pensioner	17
+51	248	General	4	-333	3	Farm labourer	3
+51	249	General	4	401	3	Farm labourer	3
+51	250	General	4	401	3	Farm labourer	3
+51	251	General	4	401	3	Farm land-owner	2
+51	254	General	4	401	3	Farm labourer	3
+51	255	General	4	401	3	Farm labourer	3
+51	256	General	4	401	3	Farm land-owner	2
+51	257	General	4	402	3	Farm land-owner	2
+51	258	General	4	401	3	Farm labourer	3
+51	259	General	4	401	3	Industrialist	11
+51	260	General	4	401	3	Masonry/construction worker	12
+51	261	General	4	401	3	Farm labourer	3
+51	262	General	4	401	3	Farm labourer	3
+51	263	General	4	401	2	Government services (teacher, etc.)	8
+51	264	General	4	401	3	Farm labourer	3
+51	265	General	4	401	3	Farm labourer	3
+51	266	General	4	401	3	Farm labourer	3
+51	267	General	4	401	3	Government services (teacher, etc.)	8
+51	268	OTHERS, SPECIFY	-333	-333	3	Small business (shop, etc.)	1

@@ -1,0 +1,50 @@
+\begin{table}
+\centering
+\caption{Seed Set Diffusion Centrality (No-jati aggregate layers)}
+\centering
+\begin{tabular}[t]{lccccccccc}
+\toprule
+\multicolumn{1}{c}{ } & \multicolumn{9}{c}{No. Calls Received} \\
+\cmidrule(l{3pt}r{3pt}){2-10}
+  & 1 & 2 & 3 & 4 & 5 & 6 & 7 & 8 & 9\\
+\midrule
+Social & \num{4.266} &  &  &  &  &  &  &  & \\
+ & (\num{1.820}) &  &  &  &  &  &  &  & \\
+ & {}[\num{0.022}] &  &  &  &  &  &  &  & \\
+Kero/Rice &  & \num{5.466} &  &  &  &  &  &  & \\
+ &  & (\num{2.326}) &  &  &  &  &  &  & \\
+ &  & {}[\num{0.022}] &  &  &  &  &  &  & \\
+Advice &  &  & \num{6.410} &  &  &  &  &  & \\
+ &  &  & (\num{2.416}) &  &  &  &  &  & \\
+ &  &  & {}[\num{0.010}] &  &  &  &  &  & \\
+Decision &  &  &  & \num{3.137} &  &  &  &  & \\
+ &  &  &  & (\num{2.226}) &  &  &  &  & \\
+ &  &  &  & {}[\num{0.164}] &  &  &  &  & \\
+Jati &  &  &  &  & \num{1.161} &  &  &  & \\
+ &  &  &  &  & (\num{1.559}) &  &  &  & \\
+ &  &  &  &  & {}[\num{0.459}] &  &  &  & \\
+Union &  &  &  &  &  & \num{2.868} &  &  & \\
+ &  &  &  &  &  & (\num{1.994}) &  &  & \\
+ &  &  &  &  &  & {}[\num{0.155}] &  &  & \\
+Intersection &  &  &  &  &  &  & \num{4.492} &  & \\
+ &  &  &  &  &  &  & (\num{1.996}) &  & \\
+ &  &  &  &  &  &  & {}[\num{0.028}] &  & \\
+Backbone &  &  &  &  &  &  &  & \num{5.851} & \\
+ &  &  &  &  &  &  &  & (\num{2.575}) & \\
+ &  &  &  &  &  &  &  & {}[\num{0.027}] & \\
+Total Links &  &  &  &  &  &  &  &  & \num{2.158}\\
+ &  &  &  &  &  &  &  &  & (\num{1.453})\\
+ &  &  &  &  &  &  &  &  & {}[\num{0.143}]\\
+\midrule
+Num.Obs. & \num{68} & \num{68} & \num{68} & \num{68} & \num{68} & \num{68} & \num{68} & \num{68} & \num{68}\\
+R2 & \num{0.194} & \num{0.254} & \num{0.313} & \num{0.161} & \num{0.110} & \num{0.145} & \num{0.227} & \num{0.263} & \num{0.131}\\
+Dep Var mean & \num{8.691} & \num{8.691} & \num{8.691} & \num{8.691} & \num{8.691} & \num{8.691} & \num{8.691} & \num{8.691} & \num{8.691}\\
+\bottomrule
+\multicolumn{10}{l}{\rule{0pt}{1em}\textit{Note: }}\\
+\multicolumn{10}{l}{\rule{0pt}{1em}Robust Std.Err are given in paranthesis, while p-values are given in square brackets.}\\
+\multicolumn{10}{l}{\rule{0pt}{1em}Controls added for number of Households and its powers, and a dummy for number of seeds in the village}\\
+\multicolumn{10}{l}{\rule{0pt}{1em}Union, intersection, and backbone layers are constructed without jati; the other layers are unchanged.}\\
+\multicolumn{10}{l}{\rule{0pt}{1em}Exog variables are the sum of Diffusion Centrality for seeds in each village for the layer}\\
+\multicolumn{10}{l}{\rule{0pt}{1em}Exog variables have been standardized}\\
+\end{tabular}
+\end{table}

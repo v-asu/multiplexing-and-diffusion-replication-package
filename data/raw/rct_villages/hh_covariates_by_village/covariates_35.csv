@@ -1,0 +1,252 @@
+villageid	hh_id	caste_category_label	caste_category	subcaste	roof_type	occupation_label	occupation
+35	101	General	4	401	3	Private services	9
+35	102	General	4	401	3	Farm labourer	3
+35	103	SC	1	201	3	Farm labourer	3
+35	104	General	4	401	3	Farm land-owner	2
+35	105	General	4	401	3	Private services	9
+35	106	OBC	3	401	3	Private services	9
+35	107	OBC	3	401	3	Private services	9
+35	108	OBC	3	401	3	Dairy/cattle rearing	5
+35	109	OBC	3	-333	3	Farm labourer	3
+35	110	SC	1	201	4	Private services	9
+35	111	OBC	3	401	3	Farm land-owner	2
+35	112	OBC	3	404	3	Private services	9
+35	113	OBC	3	401	3	Government services (teacher, etc.)	8
+35	114	OBC	3	401	3	Private services	9
+35	115	SC	1	201	3	Farm labourer	3
+35	116	SC	1	201	3	Farm labourer	3
+35	117	SC	1	201	3	Farm labourer	3
+35	118	SC	1	201	1	Farm land-owner	2
+35	119	OBC	3	201	1	Farm land-owner	2
+35	120	SC	1	201	1	Farm labourer	3
+35	121	SC	1	201	3	Farm labourer	3
+35	122	SC	1	201	3	Industrialist	11
+35	123	SC	1	201	3	Farm labourer	3
+35	124	General	4	403	3	Private services	9
+35	125	General	4	401	3	Farm labourer	3
+35	126	OBC	3	401	3	Farming(tenancy)	4
+35	127	OBC	3	401	3	Farm land-owner	2
+35	128	OBC	3	401	3	Farm land-owner	2
+35	129	General	4	404	3	Dairy/cattle rearing	5
+35	130	OBC	3	401	3	Farm land-owner	2
+35	131	General	4	401	3	Housewife	16
+35	132	General	4	401	3	Industrialist	11
+35	133	General	4	401	3	Farm land-owner	2
+35	134	General	4	401	3	Pensioner	17
+35	135	General	4	401	3	Farm land-owner	2
+35	136	General	4	401	3	Farm labourer	3
+35	137	General	4	401	3	Farm labourer	3
+35	138	General	4	102	3	Private services	9
+35	139	OBC	3	401	3	Farm land-owner	2
+35	140	OBC	3	401	3	Domestic help/cook/casual	15
+35	141	OBC	3	-333	3	OTHERS, SPECIFY	-333
+35	142	General	4	401	3	Farm land-owner	2
+35	143	General	4	411	3	Industrialist	11
+35	144	OBC	3	411	3	Government services (teacher, etc.)	8
+35	145	General	4	411	3	Housewife	16
+35	146	General	4	404	3	Dairy/cattle rearing	5
+35	147	General	4	404	3	Dairy/cattle rearing	5
+35	148	OBC	3	404	3	Private services	9
+35	149	OBC	3	404	1	Farm land-owner	2
+35	150	OBC	3	401	3	Domestic help/cook/casual	15
+35	151	OBC	3	401	3	Farm land-owner	2
+35	152	OBC	3	401	3	Pensioner	17
+35	153	OBC	3	401	3	Private services	9
+35	154	OBC	3	401	3	Private services	9
+35	155	General	4	411	4	Farm labourer	3
+35	156	OBC	3	401	3	Farm labourer	3
+35	157	OBC	3	401	3	Sericulture owner	6
+35	158	OBC	3	401	5	Sericulture owner	6
+35	159	OBC	3	401	3	Government services (teacher, etc.)	8
+35	160	General	4	401	3	Farm land-owner	2
+35	161	General	4	401	3	Farm land-owner	2
+35	162	General	4	401	3	Farm labourer	3
+35	163	General	4	401	3	Farm labourer	3
+35	164	General	4	401	3	Farm land-owner	2
+35	165	OBC	3	401	3	Farm land-owner	2
+35	166	OBC	3	401	1	Farm land-owner	2
+35	167	General	4	404	3	Farm labourer	3
+35	168	OBC	3	401	3	Farm labourer	3
+35	169	OBC	3	401	3	Farm labourer	3
+35	170	OBC	3	401	5	Farm land-owner	2
+35	171	General	4	401	3	Farm land-owner	2
+35	172	General	4	-333	3	Industrialist	11
+35	173	OBC	3	401	3	Farm land-owner	2
+35	174	OBC	3	401	2	Farm land-owner	2
+35	175	OBC	3	401	1	Farm land-owner	2
+35	176	General	4	401	3	Sericulture owner	6
+35	177	General	4	401	1	Industry/factory worker(brick making etc)	10
+35	178	General	4	401	2	Housewife	16
+35	179	OBC	3	401	3	Farm land-owner	2
+35	180	OBC	3	401	4	Farm land-owner	2
+35	181	OBC	3	401	1	Sericulture owner	6
+35	182	OBC	3	401	1	Sericulture owner	6
+35	183	OBC	3	401	3	Farm land-owner	2
+35	184	OBC	3	401	5	Farm land-owner	2
+35	185	General	4	401	3	Farm land-owner	2
+35	186	General	4	401	5	Government services (teacher, etc.)	8
+35	187	OBC	3	401	5	Housewife	16
+35	188	General	4	401	3	Sericulture owner	6
+35	189	OBC	3	401	3	Farm labourer	3
+35	191	OBC	3	401	3	Farm land-owner	2
+35	192	OBC	3	401	3	Farm land-owner	2
+35	193	OBC	3	401	3	Sericulture owner	6
+35	194	OBC	3	401	2	Industrialist	11
+35	195	OBC	3	401	3	Farm labourer	3
+35	196	General	4	401	2	Farm land-owner	2
+35	197	General	4	401	3	Farm land-owner	2
+35	198	General	4	401	3	Farming(tenancy)	4
+35	199	OBC	3	211	5	Farm land-owner	2
+35	200	SC	1	211	3	Farm labourer	3
+35	201	OBC	3	401	2	Farm labourer	3
+35	202	General	4	401	3	Sericulture owner	6
+35	203	General	4	401	3	Farm labourer	3
+35	204	General	4	401	3	Farm labourer	3
+35	205	OBC	3	401	5	Farm land-owner	2
+35	206	OBC	3	401	3	Farm land-owner	2
+35	207	OBC	3	410	5	Farm land-owner	2
+35	208	OBC	3	401	3	Private services	9
+35	209	OBC	3	401	2	Farm labourer	3
+35	210	General	4	401	1	Farm land-owner	2
+35	211	General	4	401	3	Sericulture owner	6
+35	212	General	4	211	3	Farm labourer	3
+35	213	OBC	3	401	4	Dairy/cattle rearing	5
+35	214	OBC	3	401	4	Masonry/construction worker	12
+35	215	General	4	206	3	Farm labourer	3
+35	216	SC	1	206	2	Dairy/cattle rearing	5
+35	217	OBC	3	401	3	Farm labourer	3
+35	218	OBC	3	401	4	Pensioner	17
+35	219	OBC	3	401	3	Farm labourer	3
+35	220	OBC	3	401	3	Private services	9
+35	221	General	4	401	3	Small business (shop, etc.)	1
+35	222	General	4	401	4	Farm labourer	3
+35	223	General	4	401	3	Private services	9
+35	224	ST	2	309	3	Industrialist	11
+35	225	ST	2	-333	2	Masonry/construction worker	12
+35	226	General	4	401	3	Farm land-owner	2
+35	227	SC	1	211	5	Farm labourer	3
+35	228	SC	1	211	5	Farm labourer	3
+35	229	Missing	-666	-666	-666	Missing	-666
+35	230	General	4	401	3	Farm labourer	3
+35	231	SC	1	206	3	Dairy/cattle rearing	5
+35	232	SC	1	206	3	Masonry/construction worker	12
+35	233	SC	1	206	3	Masonry/construction worker	12
+35	234	General	4	401	3	Small business (shop, etc.)	1
+35	235	OBC	3	401	3	Industrialist	11
+35	236	OBC	3	401	3	Industrialist	11
+35	237	OBC	3	401	3	Dairy/cattle rearing	5
+35	238	General	4	401	3	Farm labourer	3
+35	239	SC	1	201	3	Farm labourer	3
+35	240	SC	1	201	2	Industrialist	11
+35	241	Missing	-666	-666	-666	Missing	-666
+35	242	OBC	3	401	3	Farm land-owner	2
+35	243	General	4	401	3	Farm land-owner	2
+35	244	General	4	401	3	Farm land-owner	2
+35	245	General	4	401	3	Pensioner	17
+35	246	ST	2	-333	3	Farm land-owner	2
+35	247	ST	2	-333	3	Domestic help/cook/casual	15
+35	248	SC	1	211	1	Farm land-owner	2
+35	249	SC	1	211	3	Farm labourer	3
+35	250	General	4	-333	4	Industrialist	11
+35	251	General	4	211	3	Private services	9
+35	252	SC	1	211	3	Farm labourer	3
+35	253	SC	1	211	3	Farm labourer	3
+35	254	General	4	201	3	Industrialist	11
+35	255	ST	2	309	4	Industrialist	11
+35	256	SC	1	201	4	Farm labourer	3
+35	257	SC	1	201	3	Private services	9
+35	258	SC	1	201	3	Farm labourer	3
+35	260	General	4	401	3	Farm land-owner	2
+35	261	OBC	3	401	3	Industrialist	11
+35	262	SC	1	201	3	Pensioner	17
+35	263	SC	1	201	3	Farm labourer	3
+35	264	SC	1	201	3	Private services	9
+35	265	SC	1	201	3	Domestic help/cook/casual	15
+35	266	SC	1	201	3	Farm land-owner	2
+35	267	SC	1	201	3	Private services	9
+35	268	SC	1	201	3	Farm land-owner	2
+35	269	SC	1	201	3	Housewife	16
+35	270	SC	1	201	5	Farm land-owner	2
+35	271	SC	1	201	3	Farm labourer	3
+35	272	General	4	201	3	Sericulture owner	6
+35	273	SC	1	201	3	Farm labourer	3
+35	274	SC	1	201	3	Farm labourer	3
+35	275	General	4	401	3	Sericulture owner	6
+35	276	General	4	401	5	Sericulture owner	6
+35	277	General	4	401	3	Sericulture owner	6
+35	278	General	4	401	3	Sericulture owner	6
+35	279	General	4	401	3	Sericulture owner	6
+35	280	SC	1	201	3	Farm land-owner	2
+35	281	SC	1	201	3	Farm labourer	3
+35	282	SC	1	201	3	Farm land-owner	2
+35	283	SC	1	201	3	Farm land-owner	2
+35	284	SC	1	201	3	Farm labourer	3
+35	285	General	4	201	3	Farm labourer	3
+35	286	SC	1	201	3	Farm labourer	3
+35	287	SC	1	201	3	Farm labourer	3
+35	288	SC	1	201	3	Farm labourer	3
+35	289	SC	1	201	3	Sericulture labourer	7
+35	290	SC	1	201	3	Industrialist	11
+35	291	SC	1	201	3	Farm labourer	3
+35	292	SC	1	201	3	Private services	9
+35	293	SC	1	201	2	Farm labourer	3
+35	294	SC	1	201	3	Farm labourer	3
+35	295	SC	1	201	3	Farm labourer	3
+35	296	SC	1	201	3	Farm labourer	3
+35	297	SC	1	201	5	Masonry/construction worker	12
+35	298	ST	2	209	3	Domestic help/cook/casual	15
+35	299	OBC	3	401	5	Farm land-owner	2
+35	300	OBC	3	401	3	Farm land-owner	2
+35	301	General	4	401	3	Farm labourer	3
+35	302	OBC	3	401	3	Private services	9
+35	303	OBC	3	401	2	Farm labourer	3
+35	304	OBC	3	401	3	Private services	9
+35	305	OBC	3	401	3	Housewife	16
+35	306	SC	1	211	3	Private services	9
+35	307	OBC	3	401	2	Farm labourer	3
+35	308	General	4	401	3	Industrialist	11
+35	309	General	4	401	3	Housewife	16
+35	310	General	4	401	3	Farm land-owner	2
+35	311	General	4	401	3	Private services	9
+35	312	General	4	401	3	Farm labourer	3
+35	313	General	4	401	3	Farm land-owner	2
+35	314	General	4	102	3	OTHERS, SPECIFY	-333
+35	315	General	4	401	3	Farm labourer	3
+35	316	General	4	401	3	Farm labourer	3
+35	317	General	4	401	3	Farm land-owner	2
+35	318	General	4	401	3	Farm land-owner	2
+35	319	General	4	401	3	Farm labourer	3
+35	320	General	4	401	3	Private services	9
+35	321	General	4	401	3	Pensioner	17
+35	322	General	4	401	4	Farm land-owner	2
+35	323	General	4	401	3	Pensioner	17
+35	324	General	4	401	3	Farm land-owner	2
+35	325	General	4	401	2	Private services	9
+35	326	General	4	401	3	Farm land-owner	2
+35	327	General	4	401	3	Private services	9
+35	328	General	4	401	2	Farm labourer	3
+35	329	General	4	401	3	Farm land-owner	2
+35	330	Missing	-666	-666	-666	Missing	-666
+35	331	General	4	401	3	Farm labourer	3
+35	332	General	4	408	3	Industrialist	11
+35	333	General	4	401	3	Farm land-owner	2
+35	334	General	4	401	3	Farm land-owner	2
+35	335	General	4	411	3	Domestic help/cook/casual	15
+35	336	General	4	411	4	Private services	9
+35	337	General	4	401	3	Farm labourer	3
+35	338	General	4	401	4	Farm labourer	3
+35	339	General	4	401	2	Farm land-owner	2
+35	340	General	4	401	3	Private services	9
+35	341	General	4	401	3	OTHERS, SPECIFY	-333
+35	342	General	4	401	3	OTHERS, SPECIFY	-333
+35	343	General	4	401	3	Farm labourer	3
+35	344	General	4	401	3	Private services	9
+35	345	General	4	401	3	OTHERS, SPECIFY	-333
+35	346	General	4	401	3	Farm land-owner	2
+35	347	General	4	401	3	Farm land-owner	2
+35	348	General	4	401	3	Government services (teacher, etc.)	8
+35	349	General	4	401	2	Farm labourer	3
+35	350	General	4	401	3	Housewife	16
+35	351	General	4	401	4	Farm labourer	3
+35	352	OBC	3	401	3	Farm land-owner	2
+35	353	OBC	3	401	3	Farm labourer	3

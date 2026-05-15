@@ -1,0 +1,378 @@
+villageid	hh_id	caste_category_label	caste_category	subcaste	roof_type	occupation_label	occupation
+43	101	General	4	401	5	Farm land-owner	2
+43	102	OBC	3	401	3	Private services	9
+43	103	General	4	401	3	Farm land-owner	2
+43	104	General	4	401	4	Farm land-owner	2
+43	105	OBC	3	401	5	Farm land-owner	2
+43	106	General	4	401	5	Farm land-owner	2
+43	107	General	4	401	5	Farm land-owner	2
+43	108	General	4	403	3	Farm labourer	3
+43	109	OBC	3	403	3	Domestic help/cook/casual	15
+43	110	OBC	3	403	3	Domestic help/cook/casual	15
+43	111	OBC	3	403	5	Industry/factory worker(brick making etc)	10
+43	112	General	4	403	3	Farm land-owner	2
+43	113	OBC	3	410	3	OTHERS, SPECIFY	-333
+43	115	General	4	101	3	Private services	9
+43	116	General	4	401	1	Farm land-owner	2
+43	117	OBC	3	401	3	Farm labourer	3
+43	118	General	4	401	5	Government services (teacher, etc.)	8
+43	119	OBC	3	409	5	Small business (shop, etc.)	1
+43	120	General	4	403	5	Farm land-owner	2
+43	121	General	4	401	5	Farm land-owner	2
+43	122	General	4	401	5	Farm land-owner	2
+43	123	General	4	-333	3	Farm land-owner	2
+43	124	OBC	3	403	5	Pensioner	17
+43	125	OBC	3	403	5	Farm land-owner	2
+43	126	OBC	3	403	5	OTHERS, SPECIFY	-333
+43	127	General	4	501	5	Farm labourer	3
+43	128	General	4	501	4	Farm labourer	3
+43	129	OBC	3	401	5	Industrialist	11
+43	130	General	4	401	5	Farm labourer	3
+43	131	General	4	401	4	Farm labourer	3
+43	132	OBC	3	403	1	Farm labourer	3
+43	133	General	4	401	5	Farm labourer	3
+43	134	General	4	401	5	Farm land-owner	2
+43	135	SC	1	201	5	Farm labourer	3
+43	137	OBC	3	302	5	Street vendor/hawker	13
+43	138	General	4	401	5	Farm land-owner	2
+43	139	General	4	401	5	Farm land-owner	2
+43	140	General	4	401	5	Farm land-owner	2
+43	141	General	4	403	4	Masonry/construction worker	12
+43	142	SC	1	209	1	Farm labourer	3
+43	143	SC	1	201	4	Farm labourer	3
+43	144	General	4	201	1	Farm labourer	3
+43	146	SC	1	201	5	Farm land-owner	2
+43	147	SC	1	201	3	Farm labourer	3
+43	148	SC	1	201	3	OTHERS, SPECIFY	-333
+43	149	SC	1	201	5	Domestic help/cook/casual	15
+43	150	SC	1	201	5	Farm labourer	3
+43	151	SC	1	201	5	Government services (teacher, etc.)	8
+43	152	SC	1	201	5	Farm land-owner	2
+43	153	SC	1	201	4	OTHERS, SPECIFY	-333
+43	154	SC	1	201	-333	OTHERS, SPECIFY	-333
+43	155	SC	1	207	3	Farm labourer	3
+43	156	SC	1	201	-333	Masonry/construction worker	12
+43	158	SC	1	201	1	OTHERS, SPECIFY	-333
+43	159	General	4	401	5	Domestic help/cook/casual	15
+43	160	SC	1	201	5	OTHERS, SPECIFY	-333
+43	161	SC	1	201	5	Housewife	16
+43	162	SC	1	201	3	Farm labourer	3
+43	163	SC	1	201	-333	Masonry/construction worker	12
+43	164	SC	1	201	1	OTHERS, SPECIFY	-333
+43	165	SC	1	201	4	Farm labourer	3
+43	166	SC	1	201	1	Farm labourer	3
+43	167	SC	1	201	1	OTHERS, SPECIFY	-333
+43	168	SC	1	201	-333	OTHERS, SPECIFY	-333
+43	169	SC	1	201	1	Dairy/cattle rearing	5
+43	170	General	4	201	5	Masonry/construction worker	12
+43	171	SC	1	201	3	OTHERS, SPECIFY	-333
+43	172	SC	1	201	5	OTHERS, SPECIFY	-333
+43	173	SC	1	201	5	Private services	9
+43	174	SC	1	201	3	OTHERS, SPECIFY	-333
+43	175	SC	1	201	1	OTHERS, SPECIFY	-333
+43	176	SC	1	201	4	Domestic help/cook/casual	15
+43	177	SC	1	201	4	Masonry/construction worker	12
+43	178	SC	1	201	1	Farm labourer	3
+43	179	SC	1	201	1	Masonry/construction worker	12
+43	180	SC	1	201	1	Farm labourer	3
+43	181	SC	1	201	4	Farm labourer	3
+43	182	ST	2	209	5	Farm labourer	3
+43	183	SC	1	201	3	Farm labourer	3
+43	184	SC	1	201	1	OTHERS, SPECIFY	-333
+43	185	SC	1	201	5	Farm land-owner	2
+43	186	SC	1	201	5	Farm land-owner	2
+43	187	SC	1	201	1	Farm land-owner	2
+43	188	SC	1	201	5	Farm labourer	3
+43	189	SC	1	201	3	Industry/factory worker(brick making etc)	10
+43	190	SC	1	201	1	Farm labourer	3
+43	191	SC	1	201	4	Farm labourer	3
+43	192	SC	1	201	1	Farm labourer	3
+43	193	SC	1	201	1	Farm labourer	3
+43	194	SC	1	201	1	Housewife	16
+43	196	OBC	3	403	5	Farm labourer	3
+43	197	SC	1	201	3	Farm land-owner	2
+43	198	SC	1	201	4	Farm labourer	3
+43	199	SC	1	201	1	Private services	9
+43	200	SC	1	201	3	Farm labourer	3
+43	201	SC	1	201	5	Private services	9
+43	202	SC	1	201	1	Masonry/construction worker	12
+43	203	SC	1	201	1	Masonry/construction worker	12
+43	205	SC	1	201	5	Government services (teacher, etc.)	8
+43	206	SC	1	201	1	Farm labourer	3
+43	207	SC	1	201	1	Farm labourer	3
+43	208	SC	1	201	3	Farm land-owner	2
+43	209	SC	1	201	5	Farm labourer	3
+43	210	SC	1	201	1	Farm labourer	3
+43	211	SC	1	201	5	Masonry/construction worker	12
+43	212	OBC	3	403	5	Dairy/cattle rearing	5
+43	213	SC	1	201	3	Farm labourer	3
+43	214	SC	1	201	4	Farm labourer	3
+43	215	SC	1	201	1	Farm labourer	3
+43	216	SC	1	201	1	Farm labourer	3
+43	217	SC	1	201	3	Government services (teacher, etc.)	8
+43	218	SC	1	201	1	Masonry/construction worker	12
+43	219	SC	1	201	5	Farm land-owner	2
+43	220	SC	1	201	5	Farm labourer	3
+43	221	SC	1	201	4	Farm labourer	3
+43	222	SC	1	201	4	Masonry/construction worker	12
+43	223	SC	1	201	-333	Farm labourer	3
+43	224	SC	1	201	-333	Farm labourer	3
+43	225	SC	1	201	4	Farm labourer	3
+43	226	SC	1	201	-333	Masonry/construction worker	12
+43	227	SC	1	201	3	Farm labourer	3
+43	228	SC	1	201	1	Farm labourer	3
+43	229	SC	1	201	3	Farm labourer	3
+43	230	SC	1	201	5	Government services (teacher, etc.)	8
+43	231	SC	1	202	4	Masonry/construction worker	12
+43	232	SC	1	201	3	Farm labourer	3
+43	233	SC	1	201	5	Masonry/construction worker	12
+43	234	SC	1	201	5	Dairy/cattle rearing	5
+43	235	SC	1	201	1	Domestic help/cook/casual	15
+43	236	General	4	401	1	Farm labourer	3
+43	237	General	4	401	5	Street vendor/hawker	13
+43	238	General	4	401	4	Farm labourer	3
+43	239	General	4	401	3	Farm labourer	3
+43	240	General	4	401	1	Dairy/cattle rearing	5
+43	241	ST	2	-333	4	Small business (shop, etc.)	1
+43	242	General	4	-333	4	Farm labourer	3
+43	243	General	4	201	-333	Masonry/construction worker	12
+43	245	SC	1	201	5	Government services (teacher, etc.)	8
+43	246	SC	1	201	5	Government services (teacher, etc.)	8
+43	247	SC	1	201	1	Farm labourer	3
+43	248	SC	1	201	3	Masonry/construction worker	12
+43	249	SC	1	201	5	Farm labourer	3
+43	250	SC	1	201	1	Masonry/construction worker	12
+43	251	SC	1	201	3	Farm labourer	3
+43	252	SC	1	201	1	Farm labourer	3
+43	253	SC	1	201	1	Farm labourer	3
+43	254	SC	1	201	1	Pensioner	17
+43	255	SC	1	201	3	Farm land-owner	2
+43	256	SC	1	201	4	Farm labourer	3
+43	257	SC	1	201	4	Farm labourer	3
+43	258	SC	1	201	3	Masonry/construction worker	12
+43	259	SC	1	201	3	Farm labourer	3
+43	261	SC	1	207	3	Farm labourer	3
+43	262	SC	1	209	-333	Farm labourer	3
+43	263	SC	1	201	1	Farm labourer	3
+43	264	SC	1	201	4	Farm labourer	3
+43	266	SC	1	201	1	Farm labourer	3
+43	267	SC	1	201	1	Farm labourer	3
+43	268	SC	1	201	1	Farm labourer	3
+43	269	SC	1	201	3	Farm labourer	3
+43	270	SC	1	201	4	Farm labourer	3
+43	271	SC	1	201	3	Farm labourer	3
+43	272	SC	1	209	3	Private services	9
+43	273	SC	1	201	1	Pensioner	17
+43	274	SC	1	201	5	Masonry/construction worker	12
+43	275	SC	1	201	1	Farm labourer	3
+43	276	SC	1	201	4	Artist	14
+43	277	SC	1	201	1	Farm labourer	3
+43	278	SC	1	201	1	Farm labourer	3
+43	279	SC	1	201	1	Private services	9
+43	280	SC	1	201	3	Farm labourer	3
+43	281	SC	1	201	3	Industrialist	11
+43	282	SC	1	201	5	Pensioner	17
+43	283	SC	1	201	4	Farm labourer	3
+43	284	SC	1	201	3	Farm labourer	3
+43	285	SC	1	201	1	Farm labourer	3
+43	286	SC	1	209	1	Farm labourer	3
+43	287	SC	1	209	1	Farm labourer	3
+43	288	SC	1	209	1	Farm labourer	3
+43	289	SC	1	201	5	Farm labourer	3
+43	290	SC	1	201	5	Farm labourer	3
+43	291	SC	1	201	1	Farm labourer	3
+43	292	SC	1	201	1	Farm labourer	3
+43	293	SC	1	201	3	Pensioner	17
+43	294	SC	1	201	1	Farm land-owner	2
+43	295	SC	1	201	5	Farm labourer	3
+43	296	SC	1	201	5	Farm labourer	3
+43	297	SC	1	201	4	Farm labourer	3
+43	298	SC	1	201	1	Farm labourer	3
+43	299	SC	1	201	3	Farm labourer	3
+43	300	SC	1	201	3	Farm labourer	3
+43	301	SC	1	201	5	Masonry/construction worker	12
+43	302	SC	1	201	1	Farm labourer	3
+43	303	SC	1	201	5	Farm labourer	3
+43	304	SC	1	201	1	Masonry/construction worker	12
+43	305	SC	1	201	5	Farm labourer	3
+43	306	SC	1	201	5	Industry/factory worker(brick making etc)	10
+43	307	SC	1	209	3	Farm labourer	3
+43	308	SC	1	209	1	Farm labourer	3
+43	309	SC	1	201	3	Farm labourer	3
+43	310	SC	1	201	1	Farm labourer	3
+43	311	SC	1	201	5	Farm labourer	3
+43	312	SC	1	201	5	Farm labourer	3
+43	313	SC	1	201	5	Masonry/construction worker	12
+43	314	General	4	401	1	Government services (teacher, etc.)	8
+43	315	General	4	208	1	Farm labourer	3
+43	316	SC	1	208	5	Farm labourer	3
+43	317	SC	1	211	4	Farm labourer	3
+43	318	General	4	403	1	Farm labourer	3
+43	319	SC	1	209	5	Artist	14
+43	320	OBC	3	413	1	Farm labourer	3
+43	321	Religious Minority	5	413	1	Farm labourer	3
+43	322	SC	1	201	3	Masonry/construction worker	12
+43	323	OBC	3	413	1	Farm labourer	3
+43	324	ST	2	403	3	Farm land-owner	2
+43	325	General	4	413	4	Farm labourer	3
+43	326	General	4	102	1	Government services (teacher, etc.)	8
+43	327	General	4	102	5	OTHERS, SPECIFY	-333
+43	328	OBC	3	403	1	Farm land-owner	2
+43	329	General	4	401	1	Farm labourer	3
+43	330	General	4	401	5	Farm labourer	3
+43	331	OBC	3	401	4	Farm labourer	3
+43	332	General	4	401	1	Farm land-owner	2
+43	333	General	4	304	1	Farm labourer	3
+43	334	General	4	501	1	Farm labourer	3
+43	335	OBC	3	413	1	Small business (shop, etc.)	1
+43	336	General	4	401	4	Farm labourer	3
+43	337	General	4	401	3	Industrialist	11
+43	338	ST	2	207	1	Farm labourer	3
+43	339	General	4	-333	4	Farm labourer	3
+43	340	SC	1	403	5	Industrialist	11
+43	341	General	4	407	5	Farm labourer	3
+43	342	General	4	407	3	Farm labourer	3
+43	343	General	4	205	3	Small business (shop, etc.)	1
+43	345	General	4	401	3	Farm labourer	3
+43	346	General	4	401	4	Industrialist	11
+43	347	General	4	401	3	Farm labourer	3
+43	348	General	4	401	3	Farm labourer	3
+43	349	General	4	401	3	Masonry/construction worker	12
+43	350	General	4	401	3	Sericulture owner	6
+43	351	General	4	401	5	Farm land-owner	2
+43	352	General	4	401	5	Farm land-owner	2
+43	353	General	4	403	3	Farm labourer	3
+43	355	General	4	403	3	Pensioner	17
+43	356	General	4	403	4	Private services	9
+43	357	General	4	103	5	Small business (shop, etc.)	1
+43	358	SC	1	403	3	Small business (shop, etc.)	1
+43	359	OBC	3	403	3	Farm labourer	3
+43	360	OBC	3	403	5	Small business (shop, etc.)	1
+43	361	OBC	3	403	5	Small business (shop, etc.)	1
+43	362	OBC	3	403	5	Small business (shop, etc.)	1
+43	363	General	4	403	5	Farm labourer	3
+43	364	General	4	403	1	Farm labourer	3
+43	365	SC	1	403	5	Farm labourer	3
+43	366	General	4	403	1	Farm labourer	3
+43	367	SC	1	403	4	Farm labourer	3
+43	368	SC	1	403	4	Farm labourer	3
+43	369	OBC	3	403	4	Farm labourer	3
+43	370	OBC	3	-333	1	Farm labourer	3
+43	371	OBC	3	403	1	OTHERS, SPECIFY	-333
+43	372	OBC	3	405	1	OTHERS, SPECIFY	-333
+43	373	SC	1	403	1	Farm labourer	3
+43	374	SC	1	403	1	Farm labourer	3
+43	375	General	4	403	5	Farm labourer	3
+43	376	ST	2	403	5	Industrialist	11
+43	377	General	4	102	3	Government services (teacher, etc.)	8
+43	378	OBC	3	102	1	Domestic help/cook/casual	15
+43	379	General	4	102	5	Farm land-owner	2
+43	380	OBC	3	102	4	Industrialist	11
+43	381	OBC	3	102	5	Farm labourer	3
+43	382	General	4	408	5	Farm land-owner	2
+43	383	General	4	408	5	Farm land-owner	2
+43	384	General	4	408	5	Farm labourer	3
+43	385	SC	1	201	3	Government services (teacher, etc.)	8
+43	386	SC	1	201	1	Farm labourer	3
+43	387	SC	1	-333	1	Farm labourer	3
+43	388	SC	1	403	5	Farm labourer	3
+43	389	SC	1	403	1	Farm labourer	3
+43	390	SC	1	403	1	Farm labourer	3
+43	391	SC	1	403	5	Farm labourer	3
+43	392	General	4	401	3	Farm land-owner	2
+43	393	OBC	3	401	5	Farm land-owner	2
+43	394	General	4	401	5	Small business (shop, etc.)	1
+43	395	General	4	401	5	Farm labourer	3
+43	396	SC	1	401	4	Farm land-owner	2
+43	397	OBC	3	401	3	Farm labourer	3
+43	398	General	4	401	1	Farm labourer	3
+43	399	General	4	413	4	Private services	9
+43	400	General	4	413	5	Farm labourer	3
+43	401	General	4	413	5	Industrialist	11
+43	402	General	4	413	5	Artist	14
+43	403	OBC	3	413	4	Pensioner	17
+43	404	OBC	3	413	4	OTHERS, SPECIFY	-333
+43	405	Religious Minority	5	413	4	Farm labourer	3
+43	406	General	4	413	4	Farm labourer	3
+43	407	General	4	413	4	Farm labourer	3
+43	408	General	4	413	5	Street vendor/hawker	13
+43	409	General	4	413	5	Farm land-owner	2
+43	410	OBC	3	413	4	Farm labourer	3
+43	411	General	4	413	1	Farm labourer	3
+43	412	Religious Minority	5	413	1	Farm labourer	3
+43	413	Religious Minority	5	413	1	Farm labourer	3
+43	414	General	4	413	1	Farm labourer	3
+43	415	OBC	3	413	1	Domestic help/cook/casual	15
+43	416	General	4	413	5	Farm labourer	3
+43	417	OBC	3	413	4	Farm labourer	3
+43	418	General	4	413	1	Farm labourer	3
+43	419	Religious Minority	5	413	1	Farm labourer	3
+43	420	General	4	413	1	Farm labourer	3
+43	421	General	4	102	3	Farm land-owner	2
+43	422	General	4	403	3	Farm land-owner	2
+43	423	OBC	3	403	3	Farm labourer	3
+43	424	Religious Minority	5	403	5	Farm labourer	3
+43	425	Religious Minority	5	403	3	Farm labourer	3
+43	426	SC	1	403	3	Farm labourer	3
+43	427	OBC	3	403	3	Pensioner	17
+43	428	OBC	3	403	5	Farm labourer	3
+43	429	General	4	403	1	Farm labourer	3
+43	430	OBC	3	403	1	Farm labourer	3
+43	432	General	4	403	1	Farm labourer	3
+43	433	General	4	403	1	Industrialist	11
+43	434	Religious Minority	5	403	3	Farm land-owner	2
+43	435	Religious Minority	5	403	3	Farm labourer	3
+43	436	OBC	3	403	3	Farm labourer	3
+43	437	SC	1	403	3	Farm labourer	3
+43	438	SC	1	403	4	Farm labourer	3
+43	439	OBC	3	403	4	Farm labourer	3
+43	440	OBC	3	403	1	Farm labourer	3
+43	441	OBC	3	403	5	Farm land-owner	2
+43	442	SC	1	403	5	Farm labourer	3
+43	443	SC	1	403	4	Farm labourer	3
+43	444	OBC	3	403	4	Farm land-owner	2
+43	445	General	4	302	4	Farm labourer	3
+43	446	OBC	3	403	5	Domestic help/cook/casual	15
+43	447	OBC	3	403	3	Domestic help/cook/casual	15
+43	448	OBC	3	403	3	Farm land-owner	2
+43	449	OBC	3	403	4	Domestic help/cook/casual	15
+43	450	OBC	3	403	3	Domestic help/cook/casual	15
+43	451	OBC	3	403	3	Farm labourer	3
+43	452	OBC	3	403	3	Farm labourer	3
+43	453	OBC	3	401	5	Masonry/construction worker	12
+43	454	OBC	3	401	3	Farm labourer	3
+43	455	OBC	3	401	5	Farm land-owner	2
+43	456	Religious Minority	5	413	5	Industrialist	11
+43	457	OBC	3	401	3	Farm land-owner	2
+43	458	General	4	101	1	Domestic help/cook/casual	15
+43	459	General	4	101	1	Industry/factory worker(brick making etc)	10
+43	460	OBC	3	101	-333	Farm land-owner	2
+43	461	OBC	3	401	5	Farm labourer	3
+43	462	General	4	413	2	Farm labourer	3
+43	463	OBC	3	413	3	Farm labourer	3
+43	464	General	4	413	4	Farm labourer	3
+43	465	OBC	3	413	1	Farm labourer	3
+43	466	General	4	401	3	Farm labourer	3
+43	468	General	4	401	3	Farm labourer	3
+43	469	General	4	401	3	Farm land-owner	2
+43	470	OBC	3	-333	3	Farm labourer	3
+43	471	General	4	401	5	Farm land-owner	2
+43	472	General	4	403	3	Farm labourer	3
+43	473	General	4	101	5	Industry/factory worker(brick making etc)	10
+43	474	OBC	3	403	5	Small business (shop, etc.)	1
+43	475	OBC	3	102	1	Domestic help/cook/casual	15
+43	476	General	4	101	5	Farm labourer	3
+43	477	General	4	101	5	Small business (shop, etc.)	1
+43	478	General	4	101	4	Small business (shop, etc.)	1
+43	479	SC	1	101	5	Industrialist	11
+43	480	OBC	3	401	5	Private services	9
+43	481	General	4	401	5	Farm land-owner	2
+43	482	General	4	401	3	Farm land-owner	2
+43	483	General	4	401	3	Farm labourer	3
+43	484	Missing	-666	-666	-666	Missing	-666
+43	485	General	4	401	3	Farm land-owner	2
+43	486	OBC	3	403	3	Farm labourer	3
+43	487	OBC	3	403	1	Farm land-owner	2
+43	488	OBC	3	403	3	Farm labourer	3
+43	489	OBC	3	403	5	Farm labourer	3
+43	490	OBC	3	403	5	Farm land-owner	2

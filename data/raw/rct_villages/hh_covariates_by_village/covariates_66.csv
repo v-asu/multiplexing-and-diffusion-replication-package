@@ -1,0 +1,265 @@
+villageid	hh_id	caste_category_label	caste_category	subcaste	roof_type	occupation_label	occupation
+66	101	General	4	401	4	OTHERS, SPECIFY	-333
+66	102	General	4	401	3	Small business (shop, etc.)	1
+66	103	General	4	401	3	Farm labourer	3
+66	104	General	4	401	3	Dairy/cattle rearing	5
+66	105	SC	1	201	4	Farm labourer	3
+66	106	General	4	401	3	Farm land-owner	2
+66	107	General	4	401	3	Industry/factory worker(brick making etc)	10
+66	108	General	4	401	3	Farm land-owner	2
+66	109	OBC	3	402	3	Dairy/cattle rearing	5
+66	110	OBC	3	402	3	Farm land-owner	2
+66	111	OBC	3	309	4	Private services	9
+66	112	ST	2	309	4	Industrialist	11
+66	113	ST	2	309	3	Dairy/cattle rearing	5
+66	114	OBC	3	309	3	Farm labourer	3
+66	115	OBC	3	405	4	Farm labourer	3
+66	116	Religious Minority	5	-333	3	Farm labourer	3
+66	117	SC	1	201	3	Farm labourer	3
+66	118	General	4	401	3	Farm land-owner	2
+66	119	General	4	402	3	Dairy/cattle rearing	5
+66	120	OBC	3	401	3	Farm land-owner	2
+66	121	OBC	3	401	4	Farm land-owner	2
+66	122	OBC	3	401	3	OTHERS, SPECIFY	-333
+66	123	General	4	401	3	Farm land-owner	2
+66	124	General	4	401	3	Farm labourer	3
+66	125	General	4	401	3	Farm labourer	3
+66	126	General	4	401	5	Farm land-owner	2
+66	127	General	4	411	3	Small business (shop, etc.)	1
+66	128	OBC	3	411	3	Masonry/construction worker	12
+66	129	General	4	401	3	Sericulture owner	6
+66	130	General	4	401	5	Farm labourer	3
+66	131	General	4	401	5	Farm land-owner	2
+66	132	General	4	401	3	Small business (shop, etc.)	1
+66	133	General	4	401	3	Farm land-owner	2
+66	134	OBC	3	401	3	Farm land-owner	2
+66	135	OBC	3	401	5	Farm land-owner	2
+66	136	General	4	401	3	Farm land-owner	2
+66	137	OBC	3	-333	3	Farm land-owner	2
+66	138	General	4	401	3	Small business (shop, etc.)	1
+66	139	General	4	408	3	Government services (teacher, etc.)	8
+66	140	General	4	402	3	Dairy/cattle rearing	5
+66	141	General	4	401	5	Farm land-owner	2
+66	142	General	4	401	3	Farm land-owner	2
+66	143	OBC	3	402	4	Farm labourer	3
+66	144	OBC	3	402	3	Farm land-owner	2
+66	145	OBC	3	402	3	Farm land-owner	2
+66	146	ST	2	210	3	Farm labourer	3
+66	147	ST	2	309	3	Farm labourer	3
+66	148	General	4	411	3	Farm labourer	3
+66	149	OBC	3	405	3	Dairy/cattle rearing	5
+66	150	SC	1	201	4	Farm labourer	3
+66	151	ST	2	202	3	Farm land-owner	2
+66	152	ST	2	202	2	Farm labourer	3
+66	153	ST	2	202	3	Farm land-owner	2
+66	154	ST	2	202	3	Farm labourer	3
+66	155	SC	1	201	3	Farm labourer	3
+66	156	SC	1	201	4	Farm labourer	3
+66	157	SC	1	201	3	Private services	9
+66	158	SC	1	201	2	Farm labourer	3
+66	159	SC	1	201	4	Farm labourer	3
+66	160	SC	1	201	3	Farm labourer	3
+66	161	SC	1	201	3	Farm labourer	3
+66	162	SC	1	201	1	Farm labourer	3
+66	163	SC	1	201	3	Farm labourer	3
+66	164	SC	1	202	2	Farm labourer	3
+66	165	SC	1	202	3	Farm labourer	3
+66	166	SC	1	202	3	Farm labourer	3
+66	167	SC	1	201	3	Farm labourer	3
+66	168	SC	1	201	3	Farm labourer	3
+66	169	SC	1	201	3	Farm labourer	3
+66	170	SC	1	202	3	Industry/factory worker(brick making etc)	10
+66	171	SC	1	201	3	Farm land-owner	2
+66	172	OBC	3	405	3	Farm land-owner	2
+66	173	OBC	3	405	5	Dairy/cattle rearing	5
+66	174	ST	2	202	5	Farm labourer	3
+66	175	ST	2	201	3	Farm labourer	3
+66	176	SC	1	201	3	Farm labourer	3
+66	177	SC	1	202	3	Farm labourer	3
+66	178	SC	1	202	4	Farm labourer	3
+66	179	SC	1	202	1	Farm labourer	3
+66	180	SC	1	201	3	Farm labourer	3
+66	181	SC	1	202	4	Farm labourer	3
+66	182	SC	1	201	3	Artist	14
+66	183	SC	1	201	3	Masonry/construction worker	12
+66	184	OBC	3	405	3	Farm labourer	3
+66	185	OBC	3	405	5	Farm land-owner	2
+66	186	ST	2	202	4	Farm land-owner	2
+66	187	OBC	3	405	5	Farm land-owner	2
+66	188	OBC	3	405	4	Farm land-owner	2
+66	189	OBC	3	405	5	Farm labourer	3
+66	190	OBC	3	405	2	Farm labourer	3
+66	191	OBC	3	401	3	Farm land-owner	2
+66	192	OBC	3	408	3	Farm labourer	3
+66	193	OBC	3	-333	3	Farm labourer	3
+66	194	General	4	401	3	Government services (teacher, etc.)	8
+66	195	General	4	402	3	Farm land-owner	2
+66	196	OBC	3	405	3	Farm labourer	3
+66	197	SC	1	201	4	Farm labourer	3
+66	198	SC	1	201	3	Farm labourer	3
+66	199	SC	1	201	4	Farm labourer	3
+66	200	SC	1	201	3	Farm labourer	3
+66	201	OBC	3	405	3	Domestic help/cook/casual	15
+66	202	OBC	3	405	3	Domestic help/cook/casual	15
+66	203	OBC	3	405	5	Small business (shop, etc.)	1
+66	204	OBC	3	405	5	Farm labourer	3
+66	205	OBC	3	402	3	Farm labourer	3
+66	206	ST	2	205	3	Government services (teacher, etc.)	8
+66	207	OBC	3	405	3	Farm land-owner	2
+66	208	General	4	401	3	Farm land-owner	2
+66	209	General	4	402	3	Farm labourer	3
+66	210	General	4	401	3	Farm labourer	3
+66	211	ST	2	209	5	Farm labourer	3
+66	212	ST	2	202	5	Farm labourer	3
+66	213	ST	2	201	5	Farm labourer	3
+66	214	SC	1	201	3	Masonry/construction worker	12
+66	215	SC	1	201	3	Farm labourer	3
+66	216	SC	1	202	3	Pensioner	17
+66	217	SC	1	201	1	Farm labourer	3
+66	218	SC	1	201	3	Farm labourer	3
+66	219	ST	2	201	3	Farm labourer	3
+66	220	SC	1	201	5	Farm labourer	3
+66	221	SC	1	201	3	Housewife	16
+66	222	SC	1	201	3	Farm land-owner	2
+66	223	ST	2	201	3	Government services (teacher, etc.)	8
+66	224	SC	1	209	4	Farm labourer	3
+66	225	SC	1	209	3	Farming(tenancy)	4
+66	226	ST	2	209	4	Farm labourer	3
+66	227	SC	1	209	3	Farm land-owner	2
+66	228	ST	2	209	3	Farm labourer	3
+66	229	SC	1	201	3	Farm labourer	3
+66	230	ST	2	209	3	Farm labourer	3
+66	231	ST	2	209	3	Farm labourer	3
+66	232	ST	2	201	3	Farm labourer	3
+66	233	SC	1	201	2	Farm labourer	3
+66	234	SC	1	201	3	Government services (teacher, etc.)	8
+66	235	SC	1	201	3	Government services (teacher, etc.)	8
+66	236	SC	1	201	3	Farm labourer	3
+66	237	SC	1	201	3	OTHERS, SPECIFY	-333
+66	238	SC	1	201	3	Farm labourer	3
+66	239	SC	1	201	4	Farm labourer	3
+66	240	OBC	3	405	5	Farm land-owner	2
+66	241	OBC	3	405	5	Farm labourer	3
+66	242	ST	2	-333	3	Farm labourer	3
+66	243	General	4	-333	3	Farm labourer	3
+66	244	ST	2	402	5	Farm land-owner	2
+66	245	ST	2	402	3	Farm land-owner	2
+66	246	SC	1	402	3	Farm labourer	3
+66	247	SC	1	402	1	Pensioner	17
+66	248	OBC	3	-333	3	Industrialist	11
+66	249	OTHERS, SPECIFY	-333	-333	3	Industrialist	11
+66	250	General	4	401	3	Industry/factory worker(brick making etc)	10
+66	251	General	4	405	3	Farm land-owner	2
+66	252	OBC	3	405	3	Farm land-owner	2
+66	253	General	4	401	5	Farm labourer	3
+66	254	General	4	401	5	Government services (teacher, etc.)	8
+66	255	ST	2	405	5	Farm labourer	3
+66	256	OBC	3	405	4	Farm land-owner	2
+66	257	ST	2	405	3	Farm labourer	3
+66	258	ST	2	201	5	Farm labourer	3
+66	259	ST	2	201	5	Farm labourer	3
+66	260	ST	2	405	4	Farm labourer	3
+66	261	OBC	3	405	3	Masonry/construction worker	12
+66	262	OBC	3	405	3	Government services (teacher, etc.)	8
+66	263	General	4	405	3	Farm land-owner	2
+66	264	General	4	401	5	Pensioner	17
+66	265	OBC	3	405	3	Farm land-owner	2
+66	266	OBC	3	405	3	Industry/factory worker(brick making etc)	10
+66	267	OBC	3	405	3	Farm land-owner	2
+66	268	General	4	401	3	Farm land-owner	2
+66	269	General	4	401	3	Farm land-owner	2
+66	270	General	4	401	5	Farm land-owner	2
+66	271	OBC	3	405	3	Farm land-owner	2
+66	272	OBC	3	405	3	Government services (teacher, etc.)	8
+66	273	General	4	401	3	Farm land-owner	2
+66	274	OBC	3	405	3	Farm labourer	3
+66	275	OBC	3	102	3	Farm land-owner	2
+66	276	General	4	401	3	Farm land-owner	2
+66	277	General	4	401	3	Farm labourer	3
+66	278	General	4	401	3	Farm labourer	3
+66	279	OBC	3	405	3	Farm labourer	3
+66	280	General	4	102	3	Farm land-owner	2
+66	281	OBC	3	-333	3	Farm labourer	3
+66	282	OBC	3	405	3	Farm labourer	3
+66	283	OBC	3	401	3	Farm labourer	3
+66	285	OBC	3	408	5	Farm labourer	3
+66	286	ST	2	405	3	Farm labourer	3
+66	287	OBC	3	405	3	Masonry/construction worker	12
+66	288	OBC	3	405	5	Farm labourer	3
+66	289	OBC	3	104	3	Government services (teacher, etc.)	8
+66	290	General	4	104	3	Pensioner	17
+66	291	General	4	402	3	Farm labourer	3
+66	292	General	4	-333	3	Farm labourer	3
+66	293	General	4	-333	3	Farm labourer	3
+66	294	OBC	3	408	5	Farm labourer	3
+66	295	ST	2	402	5	Farm land-owner	2
+66	296	General	4	402	3	Farm labourer	3
+66	297	General	4	402	3	Industry/factory worker(brick making etc)	10
+66	298	OBC	3	402	3	Farm labourer	3
+66	299	ST	2	402	5	Farm labourer	3
+66	300	OBC	3	408	5	Farm labourer	3
+66	301	OBC	3	405	3	Small business (shop, etc.)	1
+66	302	OBC	3	401	3	Government services (teacher, etc.)	8
+66	303	OBC	3	402	1	Farm labourer	3
+66	304	OBC	3	411	3	Masonry/construction worker	12
+66	305	OBC	3	411	3	Masonry/construction worker	12
+66	306	General	4	411	3	Farm land-owner	2
+66	307	OBC	3	411	3	Private services	9
+66	308	ST	2	309	3	Farm labourer	3
+66	309	General	4	401	3	Farm land-owner	2
+66	310	General	4	401	3	Farm labourer	3
+66	311	OBC	3	405	5	Farm labourer	3
+66	312	ST	2	402	5	Private services	9
+66	313	General	4	401	3	Pensioner	17
+66	314	General	4	401	3	Pensioner	17
+66	315	General	4	401	3	Farm land-owner	2
+66	316	General	4	401	5	Dairy/cattle rearing	5
+66	317	General	4	401	5	Farm land-owner	2
+66	318	OBC	3	401	3	Pensioner	17
+66	319	OBC	3	401	3	Farm land-owner	2
+66	320	General	4	401	3	Farm labourer	3
+66	321	General	4	401	5	Farm land-owner	2
+66	322	General	4	401	3	Farm labourer	3
+66	323	OBC	3	401	3	Farm labourer	3
+66	324	OBC	3	401	3	Farm land-owner	2
+66	325	OBC	3	-333	3	Private services	9
+66	326	OBC	3	402	3	Farm land-owner	2
+66	327	ST	2	402	3	Pensioner	17
+66	328	General	4	401	3	Farm labourer	3
+66	329	OBC	3	402	3	Pensioner	17
+66	330	General	4	402	3	Farm labourer	3
+66	331	General	4	402	3	Farm labourer	3
+66	332	General	4	402	3	Private services	9
+66	333	General	4	402	3	Farm labourer	3
+66	334	General	4	402	1	OTHERS, SPECIFY	-333
+66	335	OBC	3	402	1	Farm labourer	3
+66	336	General	4	-333	5	Farm labourer	3
+66	337	General	4	-333	5	Farm labourer	3
+66	338	General	4	-333	5	Farm labourer	3
+66	339	General	4	402	3	Farm land-owner	2
+66	340	OBC	3	-333	3	Masonry/construction worker	12
+66	341	OBC	3	-333	4	Masonry/construction worker	12
+66	342	OBC	3	402	3	Industrialist	11
+66	343	General	4	401	5	Farm labourer	3
+66	344	OBC	3	405	3	Farm labourer	3
+66	345	ST	2	402	5	Farm labourer	3
+66	346	OBC	3	402	3	Farm land-owner	2
+66	347	OBC	3	401	3	Farm land-owner	2
+66	348	General	4	401	3	Farm land-owner	2
+66	351	General	4	401	3	Farm land-owner	2
+66	352	General	4	401	3	Pensioner	17
+66	355	OBC	3	405	3	Farm land-owner	2
+66	356	OBC	3	405	3	Farm land-owner	2
+66	357	General	4	401	5	Dairy/cattle rearing	5
+66	358	General	4	401	3	Small business (shop, etc.)	1
+66	360	OBC	3	401	3	Farm land-owner	2
+66	361	General	4	401	3	Farm land-owner	2
+66	362	General	4	401	5	Farm land-owner	2
+66	363	OBC	3	402	4	Dairy/cattle rearing	5
+66	365	OBC	3	405	3	Farm labourer	3
+66	366	General	4	402	3	Small business (shop, etc.)	1
+66	367	OBC	3	405	5	Government services (teacher, etc.)	8
+66	368	OBC	3	401	3	Farm land-owner	2
+66	369	OBC	3	401	3	Farm labourer	3
+66	370	OBC	3	401	3	Farm land-owner	2
+66	371	OBC	3	401	3	Farm labourer	3

@@ -1,0 +1,300 @@
+villageid	hh_id	caste_category_label	caste_category	subcaste	roof_type	occupation_label	occupation
+52	101	Religious Minority	5	413	4	OTHERS, SPECIFY	-333
+52	102	ST	2	206	3	Private services	9
+52	103	Religious Minority	5	413	3	OTHERS, SPECIFY	-333
+52	104	Religious Minority	5	413	3	Farm labourer	3
+52	105	General	4	413	3	Private services	9
+52	106	Religious Minority	5	413	3	Industrialist	11
+52	107	Religious Minority	5	413	3	Industrialist	11
+52	108	Religious Minority	5	413	3	Industrialist	11
+52	109	General	4	413	3	Farm labourer	3
+52	110	ST	2	206	3	Farm labourer	3
+52	111	SC	1	206	3	Farm labourer	3
+52	112	SC	1	206	3	Farm labourer	3
+52	113	General	4	413	3	Masonry/construction worker	12
+52	114	General	4	413	3	Masonry/construction worker	12
+52	115	Religious Minority	5	413	3	Small business (shop, etc.)	1
+52	116	OBC	3	405	3	Small business (shop, etc.)	1
+52	117	Religious Minority	5	413	3	Masonry/construction worker	12
+52	118	SC	1	206	3	Masonry/construction worker	12
+52	119	Religious Minority	5	413	3	Domestic help/cook/casual	15
+52	120	SC	1	206	3	Farm labourer	3
+52	121	General	4	405	3	Farm labourer	3
+52	122	ST	2	206	3	Private services	9
+52	123	Religious Minority	5	413	3	Masonry/construction worker	12
+52	124	Religious Minority	5	413	3	Masonry/construction worker	12
+52	125	Religious Minority	5	413	3	Industrialist	11
+52	126	Religious Minority	5	413	3	OTHERS, SPECIFY	-333
+52	127	OBC	3	405	3	Farm labourer	3
+52	128	OBC	3	405	3	Masonry/construction worker	12
+52	129	Religious Minority	5	413	4	Farm labourer	3
+52	130	Religious Minority	5	413	3	Farm labourer	3
+52	131	OBC	3	404	3	Farm labourer	3
+52	132	Religious Minority	5	413	3	Industrialist	11
+52	133	SC	1	206	2	Pensioner	17
+52	134	SC	1	206	3	Masonry/construction worker	12
+52	135	SC	1	206	3	Masonry/construction worker	12
+52	136	SC	1	206	3	Masonry/construction worker	12
+52	137	General	4	404	3	Farm land-owner	2
+52	138	SC	1	206	3	Farm labourer	3
+52	139	General	4	404	3	Dairy/cattle rearing	5
+52	140	General	4	404	3	OTHERS, SPECIFY	-333
+52	141	General	4	404	3	Farm labourer	3
+52	142	OBC	3	404	3	Dairy/cattle rearing	5
+52	143	OBC	3	404	3	Masonry/construction worker	12
+52	144	General	4	404	3	Farm labourer	3
+52	145	OBC	3	404	3	Dairy/cattle rearing	5
+52	146	Religious Minority	5	413	3	Farm labourer	3
+52	147	General	4	413	3	Farm labourer	3
+52	148	Religious Minority	5	413	3	Farm labourer	3
+52	149	Religious Minority	5	413	3	Private services	9
+52	150	Religious Minority	5	413	3	Private services	9
+52	151	Religious Minority	5	413	3	OTHERS, SPECIFY	-333
+52	152	Religious Minority	5	413	3	Small business (shop, etc.)	1
+52	153	Religious Minority	5	413	3	Masonry/construction worker	12
+52	154	Religious Minority	5	413	4	Masonry/construction worker	12
+52	155	General	4	413	3	Industrialist	11
+52	156	General	4	413	3	Private services	9
+52	157	General	4	413	3	Masonry/construction worker	12
+52	158	General	4	413	3	Masonry/construction worker	12
+52	159	Religious Minority	5	413	3	Masonry/construction worker	12
+52	160	Religious Minority	5	413	3	Masonry/construction worker	12
+52	161	Religious Minority	5	413	3	Masonry/construction worker	12
+52	162	Religious Minority	5	413	3	Masonry/construction worker	12
+52	163	Religious Minority	5	210	3	OTHERS, SPECIFY	-333
+52	164	Religious Minority	5	413	3	Farm labourer	3
+52	165	Religious Minority	5	413	3	Farm labourer	3
+52	166	Religious Minority	5	413	3	Pensioner	17
+52	167	Religious Minority	5	413	3	Farm labourer	3
+52	168	Religious Minority	5	413	3	Masonry/construction worker	12
+52	169	Religious Minority	5	413	3	Masonry/construction worker	12
+52	170	Religious Minority	5	413	3	Farm land-owner	2
+52	171	Religious Minority	5	413	3	Private services	9
+52	172	Religious Minority	5	413	3	Masonry/construction worker	12
+52	173	Religious Minority	5	413	3	Private services	9
+52	174	Religious Minority	5	413	3	Small business (shop, etc.)	1
+52	175	Religious Minority	5	413	3	Industry/factory worker(brick making etc)	10
+52	176	OBC	3	413	3	Private services	9
+52	178	OBC	3	413	3	Private services	9
+52	179	OBC	3	413	3	Pensioner	17
+52	180	OBC	3	413	3	Private services	9
+52	181	Religious Minority	5	413	3	Masonry/construction worker	12
+52	182	General	4	413	3	Private services	9
+52	183	Religious Minority	5	413	3	Farm labourer	3
+52	184	General	4	413	3	Private services	9
+52	185	Religious Minority	5	413	3	Industrialist	11
+52	186	Religious Minority	5	413	3	Farm labourer	3
+52	187	Religious Minority	5	413	3	Masonry/construction worker	12
+52	188	Religious Minority	5	413	3	Industrialist	11
+52	190	Religious Minority	5	501	3	Farm labourer	3
+52	191	General	4	413	3	Industrialist	11
+52	192	Religious Minority	5	413	3	Industrialist	11
+52	193	Religious Minority	5	413	3	Industrialist	11
+52	194	Religious Minority	5	413	3	Industrialist	11
+52	195	Religious Minority	5	413	3	Masonry/construction worker	12
+52	196	Religious Minority	5	413	3	Industrialist	11
+52	197	Religious Minority	5	413	3	Masonry/construction worker	12
+52	198	Religious Minority	5	413	3	Masonry/construction worker	12
+52	199	Religious Minority	5	413	3	Masonry/construction worker	12
+52	200	Religious Minority	5	413	3	Masonry/construction worker	12
+52	201	OBC	3	413	3	Pensioner	17
+52	202	Religious Minority	5	413	3	Farm land-owner	2
+52	203	General	4	413	3	Pensioner	17
+52	204	SC	1	206	3	Masonry/construction worker	12
+52	205	OBC	3	404	3	Farm labourer	3
+52	206	OBC	3	404	3	Masonry/construction worker	12
+52	207	Religious Minority	5	404	3	Private services	9
+52	208	General	4	404	3	Farm labourer	3
+52	209	General	4	404	3	Pensioner	17
+52	210	General	4	413	3	Farm land-owner	2
+52	211	General	4	413	3	Masonry/construction worker	12
+52	212	General	4	413	3	Masonry/construction worker	12
+52	213	General	4	413	3	Masonry/construction worker	12
+52	214	Religious Minority	5	501	3	Farm labourer	3
+52	216	General	4	404	3	Domestic help/cook/casual	15
+52	217	OBC	3	404	3	Farm labourer	3
+52	218	SC	1	201	3	Government services (teacher, etc.)	8
+52	219	SC	1	206	3	Pensioner	17
+52	220	SC	1	206	3	Farm labourer	3
+52	221	SC	1	206	3	Farm labourer	3
+52	222	SC	1	206	3	Farm labourer	3
+52	223	SC	1	201	3	Private services	9
+52	224	ST	2	405	3	Farm labourer	3
+52	225	ST	2	405	3	Farm land-owner	2
+52	226	ST	2	405	3	Farm land-owner	2
+52	227	OBC	3	405	3	Farm land-owner	2
+52	228	OBC	3	405	3	Farm labourer	3
+52	229	SC	1	206	3	Farm labourer	3
+52	230	SC	1	206	3	Masonry/construction worker	12
+52	231	SC	1	206	3	Private services	9
+52	232	SC	1	206	3	Masonry/construction worker	12
+52	233	SC	1	206	3	Masonry/construction worker	12
+52	234	SC	1	206	3	Masonry/construction worker	12
+52	235	SC	1	201	3	Masonry/construction worker	12
+52	236	SC	1	201	3	Domestic help/cook/casual	15
+52	237	SC	1	201	3	Masonry/construction worker	12
+52	238	SC	1	201	3	Farm labourer	3
+52	239	SC	1	201	3	Masonry/construction worker	12
+52	240	SC	1	201	3	Domestic help/cook/casual	15
+52	241	SC	1	201	3	Masonry/construction worker	12
+52	242	SC	1	201	3	Masonry/construction worker	12
+52	243	SC	1	201	3	Farm labourer	3
+52	244	SC	1	201	3	Masonry/construction worker	12
+52	245	SC	1	201	3	Government services (teacher, etc.)	8
+52	246	SC	1	201	3	Masonry/construction worker	12
+52	247	SC	1	201	3	Masonry/construction worker	12
+52	248	SC	1	201	3	Farm labourer	3
+52	249	SC	1	201	3	Masonry/construction worker	12
+52	250	SC	1	202	3	Farm labourer	3
+52	251	SC	1	201	3	Farm labourer	3
+52	252	SC	1	201	3	Farm labourer	3
+52	253	SC	1	201	3	Farm labourer	3
+52	254	SC	1	201	3	Masonry/construction worker	12
+52	255	SC	1	201	1	Masonry/construction worker	12
+52	256	SC	1	201	3	Government services (teacher, etc.)	8
+52	257	SC	1	201	3	Farm land-owner	2
+52	258	SC	1	201	3	Masonry/construction worker	12
+52	259	SC	1	201	3	Farm labourer	3
+52	260	SC	1	201	3	Domestic help/cook/casual	15
+52	261	SC	1	201	3	Masonry/construction worker	12
+52	262	SC	1	201	3	Farm labourer	3
+52	263	SC	1	201	3	Masonry/construction worker	12
+52	264	SC	1	201	3	Private services	9
+52	265	SC	1	201	3	OTHERS, SPECIFY	-333
+52	266	SC	1	201	3	Masonry/construction worker	12
+52	267	SC	1	201	3	Masonry/construction worker	12
+52	268	SC	1	201	3	Private services	9
+52	269	SC	1	201	3	Farm labourer	3
+52	270	SC	1	201	3	Pensioner	17
+52	271	OBC	3	405	3	Farm land-owner	2
+52	272	OBC	3	405	3	Farm land-owner	2
+52	273	OBC	3	405	3	Farm land-owner	2
+52	274	OBC	3	206	3	Farm land-owner	2
+52	275	SC	1	206	3	Private services	9
+52	276	OBC	3	206	3	Domestic help/cook/casual	15
+52	277	SC	1	201	4	Masonry/construction worker	12
+52	278	SC	1	201	3	Masonry/construction worker	12
+52	279	SC	1	201	3	Farm labourer	3
+52	280	SC	1	201	5	Government services (teacher, etc.)	8
+52	281	SC	1	201	4	Government services (teacher, etc.)	8
+52	282	SC	1	201	3	Farm labourer	3
+52	283	OBC	3	405	3	Farm labourer	3
+52	284	OBC	3	405	3	Farm labourer	3
+52	285	OBC	3	405	3	Pensioner	17
+52	286	OBC	3	405	3	Masonry/construction worker	12
+52	287	OBC	3	405	3	Farm labourer	3
+52	288	SC	1	206	3	Masonry/construction worker	12
+52	289	SC	1	201	3	Farm labourer	3
+52	290	SC	1	408	3	Farm labourer	3
+52	291	OBC	3	408	3	Farm labourer	3
+52	292	OBC	3	408	3	Masonry/construction worker	12
+52	293	OBC	3	408	3	Masonry/construction worker	12
+52	294	OBC	3	206	3	Domestic help/cook/casual	15
+52	295	SC	1	206	3	Domestic help/cook/casual	15
+52	296	SC	1	206	3	Domestic help/cook/casual	15
+52	297	SC	1	206	3	Masonry/construction worker	12
+52	298	SC	1	206	3	Masonry/construction worker	12
+52	299	SC	1	206	3	Masonry/construction worker	12
+52	300	SC	1	206	3	Masonry/construction worker	12
+52	301	OBC	3	405	3	Farm labourer	3
+52	302	SC	1	405	3	Farm land-owner	2
+52	303	SC	1	405	3	Domestic help/cook/casual	15
+52	304	SC	1	405	3	Farm land-owner	2
+52	305	ST	2	405	3	Private services	9
+52	306	SC	1	206	3	Private services	9
+52	307	SC	1	206	3	Private services	9
+52	308	SC	1	206	3	Farm land-owner	2
+52	309	OBC	3	405	3	Farm labourer	3
+52	310	OBC	3	405	3	Farm labourer	3
+52	311	ST	2	206	3	Farm labourer	3
+52	312	ST	2	206	3	Farm labourer	3
+52	313	ST	2	405	3	Private services	9
+52	314	OBC	3	405	3	Farm land-owner	2
+52	315	SC	1	206	3	Masonry/construction worker	12
+52	316	OBC	3	405	3	Government services (teacher, etc.)	8
+52	317	OBC	3	405	3	Farm land-owner	2
+52	318	General	4	405	3	Farm land-owner	2
+52	319	OBC	3	405	3	Farm land-owner	2
+52	320	SC	1	206	3	Masonry/construction worker	12
+52	321	OBC	3	405	3	Farm labourer	3
+52	322	OBC	3	405	3	Farm labourer	3
+52	323	OBC	3	404	3	Farm labourer	3
+52	324	SC	1	206	5	Masonry/construction worker	12
+52	325	OBC	3	405	3	Domestic help/cook/casual	15
+52	326	OBC	3	405	3	Domestic help/cook/casual	15
+52	327	OBC	3	405	3	Masonry/construction worker	12
+52	328	OBC	3	405	3	Farm land-owner	2
+52	329	OBC	3	405	3	Farm labourer	3
+52	330	OBC	3	405	3	Masonry/construction worker	12
+52	331	General	4	405	3	Farm labourer	3
+52	332	General	4	405	3	Farm labourer	3
+52	333	OBC	3	405	3	Farm labourer	3
+52	334	OBC	3	405	3	Domestic help/cook/casual	15
+52	335	OBC	3	405	3	Farm labourer	3
+52	336	OBC	3	-333	3	Farm labourer	3
+52	337	OTHERS, SPECIFY	-333	304	3	Masonry/construction worker	12
+52	338	OTHERS, SPECIFY	-333	-333	3	Farm labourer	3
+52	339	General	4	-333	3	Farm labourer	3
+52	340	OBC	3	405	3	Masonry/construction worker	12
+52	341	OBC	3	405	3	Farm labourer	3
+52	342	OBC	3	405	3	Farm land-owner	2
+52	344	General	4	405	3	OTHERS, SPECIFY	-333
+52	345	General	4	405	3	OTHERS, SPECIFY	-333
+52	346	General	4	405	3	Farm land-owner	2
+52	347	General	4	405	3	Farm land-owner	2
+52	348	OBC	3	405	3	Industry/factory worker(brick making etc)	10
+52	349	OBC	3	405	3	Farm labourer	3
+52	350	OBC	3	405	3	Farm labourer	3
+52	351	OBC	3	405	3	Masonry/construction worker	12
+52	352	OBC	3	405	3	Domestic help/cook/casual	15
+52	353	OBC	3	405	3	Domestic help/cook/casual	15
+52	354	OBC	3	404	3	Domestic help/cook/casual	15
+52	355	OBC	3	404	3	Farm labourer	3
+52	356	SC	1	206	3	Farm labourer	3
+52	357	OBC	3	404	3	Farm labourer	3
+52	358	ST	2	403	3	Farm labourer	3
+52	359	ST	2	403	3	Masonry/construction worker	12
+52	360	Religious Minority	5	413	3	Farm labourer	3
+52	361	Religious Minority	5	413	3	Industrialist	11
+52	362	Religious Minority	5	413	3	Farm labourer	3
+52	363	Religious Minority	5	413	3	Industrialist	11
+52	364	General	4	413	3	Farm labourer	3
+52	365	Religious Minority	5	413	3	Masonry/construction worker	12
+52	366	Religious Minority	5	413	3	Farm labourer	3
+52	367	OBC	3	413	3	Pensioner	17
+52	368	Religious Minority	5	413	3	Domestic help/cook/casual	15
+52	369	Religious Minority	5	413	3	Masonry/construction worker	12
+52	370	Religious Minority	5	413	3	Masonry/construction worker	12
+52	371	Religious Minority	5	413	3	Farm labourer	3
+52	372	OBC	3	413	3	Private services	9
+52	373	OBC	3	413	3	Government services (teacher, etc.)	8
+52	374	OBC	3	413	3	Private services	9
+52	375	Religious Minority	5	413	3	Industrialist	11
+52	376	General	4	404	3	Dairy/cattle rearing	5
+52	377	General	4	404	3	Dairy/cattle rearing	5
+52	378	General	4	404	3	Farm land-owner	2
+52	379	General	4	403	3	Farm labourer	3
+52	380	OBC	3	403	3	Farm land-owner	2
+52	381	OBC	3	405	3	Farm land-owner	2
+52	382	OBC	3	407	3	Farm land-owner	2
+52	383	OBC	3	304	3	Industrialist	11
+52	384	General	4	407	3	Farm labourer	3
+52	385	General	4	407	3	Masonry/construction worker	12
+52	386	OBC	3	403	3	Farm labourer	3
+52	387	OBC	3	403	3	Masonry/construction worker	12
+52	388	OBC	3	403	3	Farm labourer	3
+52	389	OBC	3	206	3	Farm labourer	3
+52	390	OBC	3	206	3	Government services (teacher, etc.)	8
+52	391	SC	1	206	3	Masonry/construction worker	12
+52	392	OBC	3	405	3	Farm labourer	3
+52	393	General	4	405	3	Farm labourer	3
+52	394	OBC	3	206	3	Farm labourer	3
+52	395	SC	1	206	3	Farm labourer	3
+52	396	SC	1	206	3	Masonry/construction worker	12
+52	397	SC	1	206	3	Farm land-owner	2
+52	398	SC	1	206	3	Masonry/construction worker	12
+52	399	SC	1	206	3	Masonry/construction worker	12
+52	400	SC	1	206	3	Farm labourer	3
+52	401	SC	1	206	3	Farm land-owner	2
+52	402	SC	1	206	3	Farm land-owner	2
+52	403	SC	1	206	3	Farm labourer	3

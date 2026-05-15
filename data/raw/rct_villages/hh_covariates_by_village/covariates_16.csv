@@ -1,0 +1,303 @@
+villageid	hh_id	caste_category_label	caste_category	subcaste	roof_type	occupation_label	occupation
+16	101	ST	2	409	3	Farm land-owner	2
+16	102	OBC	3	401	5	Farm land-owner	2
+16	103	General	4	402	3	Small business (shop, etc.)	1
+16	104	General	4	401	3	Farm land-owner	2
+16	105	OBC	3	401	5	Industrialist	11
+16	106	OBC	3	401	5	Farm land-owner	2
+16	107	SC	1	407	3	Farm labourer	3
+16	108	ST	2	408	3	Farm labourer	3
+16	109	ST	2	411	3	Farm labourer	3
+16	110	OBC	3	401	3	Government services (teacher, etc.)	8
+16	111	General	4	402	3	Farm labourer	3
+16	112	ST	2	402	3	Farm labourer	3
+16	113	ST	2	402	3	Farm land-owner	2
+16	114	ST	2	402	3	Farm labourer	3
+16	115	General	4	401	3	Farm labourer	3
+16	116	OBC	3	401	3	Farm labourer	3
+16	117	OBC	3	401	5	Farm land-owner	2
+16	118	General	4	407	3	Artist	14
+16	119	SC	1	201	3	Farm labourer	3
+16	120	SC	1	201	4	Farm labourer	3
+16	121	SC	1	201	3	Farm labourer	3
+16	122	SC	1	201	3	Farm labourer	3
+16	123	SC	1	201	3	Farm labourer	3
+16	124	SC	1	207	3	Farm labourer	3
+16	125	SC	1	207	3	Farm labourer	3
+16	126	SC	1	207	3	Farm labourer	3
+16	127	SC	1	207	3	Farm labourer	3
+16	128	ST	2	201	3	Farm labourer	3
+16	129	SC	1	201	3	Farm labourer	3
+16	130	ST	2	201	3	Farm labourer	3
+16	131	SC	1	201	3	Farm labourer	3
+16	132	OBC	3	401	5	Farm land-owner	2
+16	133	SC	1	201	3	Farm labourer	3
+16	134	SC	1	207	3	Farm labourer	3
+16	135	SC	1	201	3	Farm labourer	3
+16	136	ST	2	201	3	Farm labourer	3
+16	137	SC	1	201	3	Farm labourer	3
+16	138	SC	1	207	3	Farm labourer	3
+16	139	OBC	3	401	3	Farm land-owner	2
+16	140	OBC	3	401	3	Farm land-owner	2
+16	141	General	4	401	5	Farm land-owner	2
+16	142	General	4	401	3	Farm land-owner	2
+16	143	OBC	3	401	3	Farm land-owner	2
+16	144	General	4	409	3	Farm labourer	3
+16	145	OBC	3	401	3	Farm land-owner	2
+16	146	General	4	401	3	Farm land-owner	2
+16	147	OBC	3	401	3	Farm land-owner	2
+16	148	OBC	3	401	3	Farm land-owner	2
+16	149	OBC	3	401	3	Farm labourer	3
+16	150	OBC	3	401	3	Farm labourer	3
+16	151	Religious Minority	5	413	3	Small business (shop, etc.)	1
+16	152	OBC	3	401	3	Farm land-owner	2
+16	153	OBC	3	401	3	Farm land-owner	2
+16	154	ST	2	408	3	Farm labourer	3
+16	155	OBC	3	401	3	Farm labourer	3
+16	156	General	4	408	3	Farm labourer	3
+16	157	General	4	407	4	Farm land-owner	2
+16	158	General	4	407	5	Farm land-owner	2
+16	159	General	4	407	3	Farm labourer	3
+16	160	OBC	3	401	3	Pensioner	17
+16	161	OBC	3	401	3	Farm labourer	3
+16	162	ST	2	402	5	Farm labourer	3
+16	163	ST	2	411	5	Farm land-owner	2
+16	164	ST	2	411	5	Farm land-owner	2
+16	165	General	4	401	3	Farm land-owner	2
+16	166	OBC	3	401	3	Farm land-owner	2
+16	167	ST	2	209	3	Farm labourer	3
+16	168	ST	2	209	3	Government services (teacher, etc.)	8
+16	169	General	4	408	3	Dairy/cattle rearing	5
+16	170	General	4	408	3	Farm labourer	3
+16	171	ST	2	411	3	Farm labourer	3
+16	172	ST	2	411	3	Farm land-owner	2
+16	173	General	4	401	3	Farm labourer	3
+16	174	OBC	3	401	3	Farm land-owner	2
+16	175	OBC	3	401	3	Farm land-owner	2
+16	176	OBC	3	408	3	Farm land-owner	2
+16	177	OBC	3	402	3	Farm land-owner	2
+16	178	OBC	3	401	3	Farm land-owner	2
+16	179	OBC	3	402	3	Farm land-owner	2
+16	180	OBC	3	401	3	Farm land-owner	2
+16	181	General	4	404	3	Dairy/cattle rearing	5
+16	182	General	4	404	3	Farm land-owner	2
+16	183	OBC	3	401	3	Farm land-owner	2
+16	184	OBC	3	401	3	Farm land-owner	2
+16	185	General	4	401	3	Farm land-owner	2
+16	186	General	4	402	3	Farm land-owner	2
+16	187	General	4	402	3	Farm land-owner	2
+16	188	OBC	3	401	3	Farm land-owner	2
+16	189	OBC	3	401	3	Farm land-owner	2
+16	190	OBC	3	404	3	Farm land-owner	2
+16	191	OBC	3	404	3	Farm land-owner	2
+16	192	General	4	404	3	Farm land-owner	2
+16	193	General	4	401	3	Farm labourer	3
+16	194	OBC	3	404	3	Farm labourer	3
+16	195	General	4	404	3	Farm land-owner	2
+16	196	General	4	404	3	Farm labourer	3
+16	197	OBC	3	401	3	Farm land-owner	2
+16	198	OBC	3	404	3	Farm labourer	3
+16	199	OBC	3	404	3	Farm labourer	3
+16	200	OBC	3	404	3	Pensioner	17
+16	201	OBC	3	404	3	Farm labourer	3
+16	202	General	4	102	5	OTHERS, SPECIFY	-333
+16	203	OBC	3	404	-333	Farm land-owner	2
+16	204	General	4	401	3	Farm land-owner	2
+16	205	OBC	3	404	3	Farm land-owner	2
+16	206	General	4	404	3	Farm land-owner	2
+16	207	OBC	3	404	3	Industrialist	11
+16	208	OBC	3	404	3	Farm land-owner	2
+16	209	General	4	402	3	Farm land-owner	2
+16	210	General	4	402	3	Farm land-owner	2
+16	211	OBC	3	402	3	Small business (shop, etc.)	1
+16	212	General	4	402	3	Farm land-owner	2
+16	213	General	4	402	3	Farm land-owner	2
+16	214	General	4	402	3	Farm labourer	3
+16	215	General	4	407	3	Farm land-owner	2
+16	216	OBC	3	407	3	Farm labourer	3
+16	217	General	4	104	3	Housewife	16
+16	218	General	4	407	3	Farm land-owner	2
+16	219	OBC	3	402	3	Farm labourer	3
+16	220	OBC	3	401	3	Farm land-owner	2
+16	221	General	4	401	3	Farm land-owner	2
+16	222	General	4	-333	3	Small business (shop, etc.)	1
+16	223	General	4	-333	3	Farm labourer	3
+16	225	Religious Minority	5	413	3	Small business (shop, etc.)	1
+16	226	Religious Minority	5	413	3	Farm labourer	3
+16	227	General	4	407	3	Industrialist	11
+16	228	OBC	3	413	3	Farm labourer	3
+16	229	General	4	404	3	Farm labourer	3
+16	230	Religious Minority	5	413	3	Farm labourer	3
+16	231	ST	2	-333	3	Pensioner	17
+16	232	ST	2	-333	3	Pensioner	17
+16	233	General	4	407	3	Farm labourer	3
+16	234	General	4	407	3	Farm land-owner	2
+16	235	General	4	401	3	Farm land-owner	2
+16	236	General	4	411	3	Small business (shop, etc.)	1
+16	237	General	4	401	3	Small business (shop, etc.)	1
+16	238	General	4	402	3	Farm land-owner	2
+16	239	General	4	-333	3	Small business (shop, etc.)	1
+16	240	General	4	402	5	Farm land-owner	2
+16	241	General	4	402	5	Industrialist	11
+16	242	General	4	404	3	Farm land-owner	2
+16	243	OBC	3	404	3	Farm land-owner	2
+16	244	General	4	404	3	Farm land-owner	2
+16	245	OBC	3	409	3	Farm labourer	3
+16	246	General	4	404	3	Farm land-owner	2
+16	247	General	4	404	3	Farm land-owner	2
+16	248	General	4	404	3	Farm land-owner	2
+16	249	OBC	3	404	3	Farm land-owner	2
+16	250	General	4	404	3	Dairy/cattle rearing	5
+16	251	OBC	3	404	4	Farm labourer	3
+16	252	OBC	3	402	4	Farm labourer	3
+16	253	Religious Minority	5	413	1	Farm labourer	3
+16	254	OBC	3	402	3	Farm labourer	3
+16	255	General	4	402	3	Farm land-owner	2
+16	256	General	4	402	3	Farm land-owner	2
+16	257	OBC	3	401	3	Private services	9
+16	258	General	4	402	3	Farm land-owner	2
+16	259	SC	1	201	3	Farm labourer	3
+16	260	SC	1	210	3	Farm labourer	3
+16	261	ST	2	201	3	Farm labourer	3
+16	262	SC	1	210	3	Pensioner	17
+16	263	SC	1	210	3	Farm labourer	3
+16	264	SC	1	201	3	Farm labourer	3
+16	265	SC	1	201	3	Masonry/construction worker	12
+16	267	SC	1	202	3	Pensioner	17
+16	268	SC	1	202	3	Government services (teacher, etc.)	8
+16	269	SC	1	202	3	Farm labourer	3
+16	270	SC	1	202	3	Farm land-owner	2
+16	271	ST	2	201	3	Farm labourer	3
+16	272	ST	2	201	3	Housewife	16
+16	273	SC	1	210	3	Farm land-owner	2
+16	274	SC	1	202	3	Farm labourer	3
+16	275	ST	2	201	3	Farm labourer	3
+16	276	SC	1	202	3	Farm labourer	3
+16	277	SC	1	202	3	Farm labourer	3
+16	278	SC	1	202	3	Farm labourer	3
+16	279	SC	1	201	1	Farm labourer	3
+16	280	SC	1	201	3	Private services	9
+16	281	SC	1	201	3	Government services (teacher, etc.)	8
+16	282	SC	1	201	3	Farm land-owner	2
+16	283	SC	1	202	3	Farm land-owner	2
+16	284	SC	1	210	3	Farm labourer	3
+16	285	SC	1	202	3	Farm labourer	3
+16	286	SC	1	210	3	Farm labourer	3
+16	287	SC	1	202	3	Farm labourer	3
+16	288	SC	1	202	3	Farm labourer	3
+16	289	OBC	3	402	5	Farm land-owner	2
+16	290	OBC	3	402	4	Farm labourer	3
+16	291	OBC	3	402	3	Private services	9
+16	292	OBC	3	402	5	Farm land-owner	2
+16	293	General	4	402	3	Farm labourer	3
+16	294	General	4	402	3	Farm land-owner	2
+16	295	OBC	3	402	3	Small business (shop, etc.)	1
+16	296	OBC	3	403	3	Farm labourer	3
+16	297	OBC	3	403	3	Small business (shop, etc.)	1
+16	298	OBC	3	411	3	Farm land-owner	2
+16	299	Religious Minority	5	413	5	Private services	9
+16	300	Religious Minority	5	413	5	Farm land-owner	2
+16	301	General	4	-333	3	Industrialist	11
+16	302	General	4	407	3	Farm labourer	3
+16	303	General	4	-333	3	Pensioner	17
+16	304	OBC	3	408	4	Pensioner	17
+16	305	OBC	3	408	3	Industrialist	11
+16	306	OBC	3	408	3	Farm labourer	3
+16	307	OBC	3	408	3	Farm labourer	3
+16	308	General	4	401	3	Small business (shop, etc.)	1
+16	309	SC	1	201	3	Farm labourer	3
+16	310	General	4	102	3	Industrialist	11
+16	311	OBC	3	413	3	Industrialist	11
+16	312	Religious Minority	5	413	3	Private services	9
+16	313	Religious Minority	5	413	5	Farm labourer	3
+16	314	General	4	104	3	Pensioner	17
+16	315	General	4	104	3	Private services	9
+16	316	SC	1	206	3	Farm labourer	3
+16	317	SC	1	206	3	Government services (teacher, etc.)	8
+16	318	OBC	3	408	3	Farm labourer	3
+16	319	OBC	3	211	3	Farm land-owner	2
+16	320	OBC	3	211	3	Industrialist	11
+16	321	SC	1	-333	3	Farm labourer	3
+16	322	General	4	401	5	Pensioner	17
+16	323	General	4	408	4	Farm labourer	3
+16	324	General	4	404	3	Farm labourer	3
+16	325	General	4	404	3	Farm labourer	3
+16	326	General	4	-333	3	Industrialist	11
+16	327	SC	1	206	3	Farm labourer	3
+16	328	SC	1	211	3	Farm labourer	3
+16	329	SC	1	202	3	Government services (teacher, etc.)	8
+16	330	SC	1	201	3	Government services (teacher, etc.)	8
+16	331	SC	1	201	3	Farm labourer	3
+16	332	SC	1	207	3	Farm labourer	3
+16	333	SC	1	201	3	Farm labourer	3
+16	334	SC	1	201	3	Farm labourer	3
+16	335	SC	1	207	3	Farm labourer	3
+16	336	SC	1	201	3	Farm labourer	3
+16	337	SC	1	201	3	Masonry/construction worker	12
+16	338	SC	1	201	3	Farm labourer	3
+16	339	SC	1	202	3	Farm labourer	3
+16	340	SC	1	202	3	Farm labourer	3
+16	341	General	4	201	3	Farm labourer	3
+16	342	General	4	411	3	OTHERS, SPECIFY	-333
+16	343	SC	1	206	3	Pensioner	17
+16	344	SC	1	206	3	Private services	9
+16	345	General	4	404	3	Farm labourer	3
+16	346	Religious Minority	5	413	3	Industrialist	11
+16	347	Religious Minority	5	413	3	Industrialist	11
+16	348	General	4	407	3	Farm land-owner	2
+16	349	General	4	407	3	Farm land-owner	2
+16	350	General	4	409	3	Farm land-owner	2
+16	351	OBC	3	408	3	Farm labourer	3
+16	352	General	4	102	3	Small business (shop, etc.)	1
+16	353	SC	1	206	3	Farm labourer	3
+16	354	OBC	3	407	3	Farm labourer	3
+16	355	General	4	402	3	Farm labourer	3
+16	356	SC	1	201	3	Farm labourer	3
+16	357	SC	1	207	1	Farm labourer	3
+16	358	SC	1	207	1	Farm labourer	3
+16	359	OBC	3	407	3	Farm labourer	3
+16	360	OBC	3	408	5	Private services	9
+16	361	OBC	3	408	3	Farm land-owner	2
+16	362	OBC	3	408	3	Farm labourer	3
+16	363	SC	1	206	3	Private services	9
+16	364	SC	1	206	3	Farm labourer	3
+16	365	Religious Minority	5	413	3	Masonry/construction worker	12
+16	366	SC	1	201	3	Farm labourer	3
+16	367	SC	1	207	3	Farm labourer	3
+16	368	SC	1	202	1	Farm labourer	3
+16	369	SC	1	207	3	Farm labourer	3
+16	370	SC	1	206	3	Small business (shop, etc.)	1
+16	371	SC	1	206	1	Pensioner	17
+16	372	SC	1	206	3	Farm labourer	3
+16	373	SC	1	209	3	Pensioner	17
+16	374	SC	1	209	3	Farm labourer	3
+16	375	SC	1	201	3	Farm labourer	3
+16	376	SC	1	201	3	Farm labourer	3
+16	377	OBC	3	411	5	Private services	9
+16	378	SC	1	201	5	Private services	9
+16	379	Do Not Know	-999	-666	1	Farm labourer	3
+16	380	SC	1	201	3	Farm land-owner	2
+16	381	SC	1	202	3	Farm labourer	3
+16	382	SC	1	202	3	Farm labourer	3
+16	383	SC	1	202	3	Farm labourer	3
+16	384	General	4	413	3	Industrialist	11
+16	385	OBC	3	402	3	Small business (shop, etc.)	1
+16	386	General	4	402	3	Farm labourer	3
+16	387	SC	1	201	5	Government services (teacher, etc.)	8
+16	388	OBC	3	402	1	Farm land-owner	2
+16	389	SC	1	201	2	Industrialist	11
+16	390	SC	1	201	4	Farm labourer	3
+16	391	OBC	3	404	3	Farm land-owner	2
+16	392	Do Not Know	-999	-666	3	Farm labourer	3
+16	393	OBC	3	409	3	Farm labourer	3
+16	394	General	4	-333	3	Farm labourer	3
+16	395	SC	1	206	3	Farm labourer	3
+16	396	SC	1	206	3	Farm labourer	3
+16	397	OTHERS, SPECIFY	-333	-333	3	Farm labourer	3
+16	398	General	4	102	3	Government services (teacher, etc.)	8
+16	399	General	4	402	3	Small business (shop, etc.)	1
+16	400	OBC	3	402	3	Private services	9
+16	401	General	4	402	3	OTHERS, SPECIFY	-333
+16	402	OBC	3	409	3	Small business (shop, etc.)	1
+16	403	General	4	402	3	Farm labourer	3
+16	404	General	4	402	3	Farm land-owner	2

@@ -1,0 +1,228 @@
+villageid	hh_id	caste_category_label	caste_category	subcaste	roof_type	occupation_label	occupation
+62	101	General	4	401	3	Farm land-owner	2
+62	102	General	4	401	3	Farm land-owner	2
+62	103	General	4	401	3	Farm land-owner	2
+62	104	General	4	401	3	Farm land-owner	2
+62	105	General	4	401	4	Farm land-owner	2
+62	106	General	4	401	3	Farm land-owner	2
+62	107	General	4	401	5	Dairy/cattle rearing	5
+62	108	General	4	401	5	Farm land-owner	2
+62	109	General	4	401	3	Farm land-owner	2
+62	110	General	4	401	3	Farm land-owner	2
+62	111	General	4	401	3	Farm land-owner	2
+62	112	General	4	401	3	Farm labourer	3
+62	113	General	4	401	3	Farm land-owner	2
+62	114	General	4	401	3	Farm labourer	3
+62	115	SC	1	206	3	Industrialist	11
+62	116	SC	1	206	3	Farm labourer	3
+62	117	General	4	401	3	Farm labourer	3
+62	118	General	4	401	3	Farm labourer	3
+62	119	General	4	401	3	Farm land-owner	2
+62	120	General	4	401	5	Farm land-owner	2
+62	121	General	4	401	3	Farm land-owner	2
+62	122	General	4	401	3	Farm land-owner	2
+62	123	General	4	401	3	Farm land-owner	2
+62	124	General	4	401	3	Farm labourer	3
+62	125	General	4	401	3	Farm labourer	3
+62	126	General	4	401	3	Pensioner	17
+62	127	General	4	401	3	Farm labourer	3
+62	128	General	4	401	3	Farm labourer	3
+62	129	General	4	401	3	Farm labourer	3
+62	130	General	4	401	3	Farm labourer	3
+62	131	General	4	401	3	Farm land-owner	2
+62	132	General	4	401	3	Farm land-owner	2
+62	133	General	4	401	3	Farm labourer	3
+62	134	General	4	401	3	Farm labourer	3
+62	135	General	4	401	3	Farm land-owner	2
+62	137	General	4	401	3	Farm labourer	3
+62	138	General	4	401	3	Farm labourer	3
+62	139	General	4	401	3	Farm land-owner	2
+62	140	General	4	401	3	Farm land-owner	2
+62	141	General	4	401	3	Farm labourer	3
+62	142	General	4	102	3	Industrialist	11
+62	143	General	4	102	3	Industrialist	11
+62	144	General	4	401	3	Farm land-owner	2
+62	145	SC	1	201	3	Farm land-owner	2
+62	146	SC	1	201	3	Farm labourer	3
+62	147	General	4	401	3	Farm labourer	3
+62	148	General	4	102	3	Domestic help/cook/casual	15
+62	149	General	4	401	3	Private services	9
+62	150	General	4	401	3	Farm labourer	3
+62	151	General	4	401	3	Farm land-owner	2
+62	152	General	4	401	3	Farm labourer	3
+62	153	SC	1	407	3	Farm labourer	3
+62	154	General	4	401	5	Government services (teacher, etc.)	8
+62	155	General	4	-333	3	Masonry/construction worker	12
+62	156	General	4	401	3	Farm labourer	3
+62	157	General	4	401	5	Farm land-owner	2
+62	158	General	4	401	5	Farm land-owner	2
+62	159	General	4	401	3	Farm land-owner	2
+62	160	OBC	3	211	3	Farm labourer	3
+62	161	General	4	401	5	Industrialist	11
+62	162	OBC	3	401	3	Pensioner	17
+62	163	OBC	3	401	3	Farm land-owner	2
+62	164	OBC	3	401	3	Farm land-owner	2
+62	165	General	4	401	3	Farm land-owner	2
+62	166	General	4	401	5	Farm land-owner	2
+62	167	SC	1	201	4	Farm land-owner	2
+62	168	OBC	3	411	5	Farm land-owner	2
+62	169	ST	2	309	3	Farm land-owner	2
+62	170	OBC	3	411	3	Pensioner	17
+62	171	OBC	3	401	3	Farm land-owner	2
+62	172	OBC	3	-333	3	Farm land-owner	2
+62	173	ST	2	309	3	Farm labourer	3
+62	174	OBC	3	411	5	Farm land-owner	2
+62	175	ST	2	309	5	Farm land-owner	2
+62	177	OTHERS, SPECIFY	-333	-333	3	Industrialist	11
+62	179	General	4	401	3	Farm labourer	3
+62	180	General	4	205	3	Industrialist	11
+62	181	General	4	205	3	Industrialist	11
+62	182	OBC	3	401	3	Farm land-owner	2
+62	183	OBC	3	401	3	Farm land-owner	2
+62	184	OTHERS, SPECIFY	-333	-333	3	Farm labourer	3
+62	185	General	4	401	3	Farm land-owner	2
+62	186	General	4	401	3	Industrialist	11
+62	187	General	4	401	3	Farm land-owner	2
+62	188	General	4	401	3	Farm land-owner	2
+62	189	General	4	401	3	Farm land-owner	2
+62	190	General	4	401	5	Farm land-owner	2
+62	191	General	4	401	3	Farm land-owner	2
+62	192	General	4	201	3	Farm labourer	3
+62	193	General	4	401	3	Farm land-owner	2
+62	194	SC	1	206	3	Farm labourer	3
+62	195	General	4	401	3	Farm land-owner	2
+62	196	General	4	401	3	Farm land-owner	2
+62	197	General	4	401	3	Farm land-owner	2
+62	198	OBC	3	401	3	Farm land-owner	2
+62	199	General	4	401	3	Farm labourer	3
+62	200	General	4	401	3	Farm labourer	3
+62	201	General	4	401	3	Small business (shop, etc.)	1
+62	202	SC	1	201	3	Farm labourer	3
+62	203	General	4	409	3	Government services (teacher, etc.)	8
+62	204	General	4	401	3	Farm labourer	3
+62	205	SC	1	201	3	Pensioner	17
+62	206	OBC	3	411	3	Farm labourer	3
+62	207	General	4	401	3	Farm land-owner	2
+62	208	General	4	401	3	Farm labourer	3
+62	209	General	4	410	3	Private services	9
+62	210	General	4	410	4	Pensioner	17
+62	211	OBC	3	411	3	Farm labourer	3
+62	212	OBC	3	409	3	Farm labourer	3
+62	213	OBC	3	409	3	Pensioner	17
+62	214	OBC	3	409	3	Farm labourer	3
+62	215	OBC	3	409	3	Private services	9
+62	216	OBC	3	411	3	Farm labourer	3
+62	217	OBC	3	-333	3	Farm labourer	3
+62	218	OBC	3	-333	3	Farm labourer	3
+62	219	SC	1	201	3	Private services	9
+62	220	SC	1	309	3	Farm labourer	3
+62	221	OBC	3	407	3	Farm labourer	3
+62	222	OBC	3	407	3	Farm labourer	3
+62	223	General	4	401	3	Sericulture owner	6
+62	224	General	4	401	3	Farm labourer	3
+62	225	General	4	401	3	Farm labourer	3
+62	227	SC	1	309	3	Farm labourer	3
+62	228	General	4	401	3	Farm labourer	3
+62	229	General	4	401	3	Farm labourer	3
+62	230	General	4	401	3	Farm labourer	3
+62	232	General	4	-333	3	Domestic help/cook/casual	15
+62	233	Religious Minority	5	102	3	Domestic help/cook/casual	15
+62	234	OBC	3	411	3	Dairy/cattle rearing	5
+62	235	General	4	401	3	Industrialist	11
+62	236	General	4	401	5	Farm land-owner	2
+62	237	General	4	401	3	Farm labourer	3
+62	238	OBC	3	401	3	Farm labourer	3
+62	239	General	4	401	3	Farm land-owner	2
+62	240	Religious Minority	5	-333	3	Farm labourer	3
+62	241	General	4	-333	3	Pensioner	17
+62	242	SC	1	309	3	Pensioner	17
+62	243	General	4	309	2	Farm land-owner	2
+62	244	General	4	401	3	Farm labourer	3
+62	245	General	4	401	1	Farm labourer	3
+62	246	OBC	3	401	3	Farm land-owner	2
+62	247	OBC	3	-333	3	Industrialist	11
+62	248	General	4	401	3	Farm land-owner	2
+62	249	General	4	401	3	Farm land-owner	2
+62	250	ST	2	309	3	Farm labourer	3
+62	251	OBC	3	-333	3	Pensioner	17
+62	252	General	4	102	3	Domestic help/cook/casual	15
+62	253	OBC	3	-333	3	Farm labourer	3
+62	254	OBC	3	-333	3	Farm labourer	3
+62	255	General	4	401	3	Farm land-owner	2
+62	256	OBC	3	401	3	Farm land-owner	2
+62	257	OBC	3	-333	3	Farm labourer	3
+62	258	OBC	3	-333	3	Farm labourer	3
+62	259	OBC	3	401	3	Farm land-owner	2
+62	260	General	4	401	5	Farm land-owner	2
+62	261	General	4	401	3	Farm labourer	3
+62	262	General	4	401	3	Farm labourer	3
+62	263	General	4	401	3	Farm labourer	3
+62	264	General	4	401	3	Farm labourer	3
+62	265	General	4	401	5	Farm land-owner	2
+62	266	General	4	401	3	Farm land-owner	2
+62	267	SC	1	207	3	Pensioner	17
+62	268	SC	1	207	3	Farm labourer	3
+62	269	SC	1	309	3	Government services (teacher, etc.)	8
+62	270	SC	1	206	3	Farm labourer	3
+62	271	SC	1	309	3	Farm labourer	3
+62	272	SC	1	309	3	Farm labourer	3
+62	273	SC	1	206	3	Farm labourer	3
+62	274	SC	1	309	3	Farm labourer	3
+62	275	SC	1	309	3	Farm labourer	3
+62	276	SC	1	309	3	Farm labourer	3
+62	277	SC	1	309	3	Farm labourer	3
+62	278	SC	1	207	3	Farm labourer	3
+62	279	SC	1	207	3	Farm labourer	3
+62	280	SC	1	202	3	Farm labourer	3
+62	281	SC	1	202	3	Farm labourer	3
+62	282	SC	1	202	3	Farm labourer	3
+62	283	SC	1	207	3	Farm labourer	3
+62	284	SC	1	207	3	Farm labourer	3
+62	285	OBC	3	401	3	Farm labourer	3
+62	286	OBC	3	401	3	Farm land-owner	2
+62	287	General	4	-333	3	Small business (shop, etc.)	1
+62	288	General	4	-333	3	Private services	9
+62	289	OBC	3	401	3	Farm land-owner	2
+62	290	OBC	3	401	3	Farm land-owner	2
+62	292	General	4	401	3	Farm labourer	3
+62	293	General	4	401	3	Farm labourer	3
+62	294	OBC	3	401	3	Farm land-owner	2
+62	295	ST	2	202	3	Domestic help/cook/casual	15
+62	296	ST	2	202	3	Masonry/construction worker	12
+62	297	ST	2	202	3	Domestic help/cook/casual	15
+62	298	SC	1	207	3	Farm labourer	3
+62	299	SC	1	207	1	Farm labourer	3
+62	300	SC	1	201	3	Farm labourer	3
+62	301	SC	1	201	3	Farm labourer	3
+62	302	SC	1	201	3	Farm labourer	3
+62	303	SC	1	202	3	Farm labourer	3
+62	304	SC	1	202	1	Farm labourer	3
+62	305	SC	1	202	1	Farm labourer	3
+62	306	SC	1	202	3	Farm labourer	3
+62	307	SC	1	201	3	Farm labourer	3
+62	308	SC	1	201	3	Farm labourer	3
+62	309	SC	1	202	3	Farm labourer	3
+62	310	SC	1	201	3	Farm labourer	3
+62	311	SC	1	201	3	Farm labourer	3
+62	312	SC	1	207	1	Farm labourer	3
+62	313	SC	1	201	3	Farm labourer	3
+62	314	SC	1	201	3	Farm labourer	3
+62	315	SC	1	202	3	Small business (shop, etc.)	1
+62	316	SC	1	202	3	Farm labourer	3
+62	317	ST	2	206	3	Farm labourer	3
+62	318	SC	1	206	3	Farm labourer	3
+62	319	SC	1	206	3	Farm labourer	3
+62	320	SC	1	202	3	Farm labourer	3
+62	321	SC	1	206	3	Farm labourer	3
+62	322	SC	1	206	3	Farm labourer	3
+62	323	SC	1	206	3	Farm labourer	3
+62	324	SC	1	201	3	Farm labourer	3
+62	325	ST	2	202	3	Farm labourer	3
+62	326	SC	1	201	3	Pensioner	17
+62	327	SC	1	201	3	Farm labourer	3
+62	328	SC	1	202	3	Farm labourer	3
+62	330	OBC	3	-333	3	Farm labourer	3
+62	331	SC	1	309	3	Farm labourer	3
+62	332	SC	1	309	3	Farm labourer	3
+62	333	Do Not Know	-999	-666	3	Farm labourer	3
+62	335	OBC	3	401	3	Farm labourer	3

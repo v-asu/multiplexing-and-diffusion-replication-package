@@ -1,0 +1,181 @@
+villageid	hh_id	caste_category_label	caste_category	subcaste	roof_type	occupation_label	occupation
+22	101	OBC	3	103	4	Farm labourer	3
+22	102	General	4	101	3	Farm land-owner	2
+22	103	General	4	-333	3	Farm labourer	3
+22	104	SC	1	201	3	Farm labourer	3
+22	105	General	4	-333	3	Farm labourer	3
+22	106	ST	2	202	3	Farm labourer	3
+22	107	SC	1	-333	3	Farm labourer	3
+22	108	SC	1	202	3	Farm labourer	3
+22	109	SC	1	202	3	Farm labourer	3
+22	110	SC	1	202	3	Farm labourer	3
+22	111	SC	1	209	3	Farm labourer	3
+22	112	SC	1	201	3	Farm labourer	3
+22	113	SC	1	201	3	Farm labourer	3
+22	114	SC	1	201	3	Farm labourer	3
+22	115	SC	1	-333	3	Government services (teacher, etc.)	8
+22	116	SC	1	202	3	Farm land-owner	2
+22	117	SC	1	201	3	Farm labourer	3
+22	118	SC	1	201	3	Farm labourer	3
+22	119	SC	1	201	3	Small business (shop, etc.)	1
+22	120	SC	1	209	3	Farm labourer	3
+22	121	SC	1	202	3	Private services	9
+22	122	SC	1	201	3	Farm labourer	3
+22	123	SC	1	201	3	Farm labourer	3
+22	124	SC	1	201	3	Farm labourer	3
+22	125	SC	1	201	3	Government services (teacher, etc.)	8
+22	126	SC	1	202	3	Pensioner	17
+22	127	SC	1	202	3	Private services	9
+22	128	SC	1	201	5	Government services (teacher, etc.)	8
+22	129	OBC	3	401	3	Farm land-owner	2
+22	130	SC	1	201	3	Farm land-owner	2
+22	131	ST	2	209	3	Farm labourer	3
+22	132	SC	1	209	3	Farm labourer	3
+22	133	SC	1	201	3	Masonry/construction worker	12
+22	134	ST	2	209	3	Farm labourer	3
+22	135	SC	1	210	2	Private services	9
+22	136	OBC	3	103	3	Small business (shop, etc.)	1
+22	137	General	4	413	3	Industrialist	11
+22	138	Religious Minority	5	413	3	Farm labourer	3
+22	139	Religious Minority	5	413	3	Small business (shop, etc.)	1
+22	140	ST	2	309	3	Farm labourer	3
+22	141	ST	2	309	3	Farm labourer	3
+22	142	ST	2	209	3	Dairy/cattle rearing	5
+22	144	General	4	401	3	Farm labourer	3
+22	145	OBC	3	401	3	Farm labourer	3
+22	146	General	4	101	3	Farm land-owner	2
+22	147	OBC	3	401	3	Farm land-owner	2
+22	148	OBC	3	401	3	Farm labourer	3
+22	149	Religious Minority	5	413	3	Private services	9
+22	150	General	4	401	3	Farm land-owner	2
+22	151	OBC	3	401	3	Farm land-owner	2
+22	152	General	4	401	3	Private services	9
+22	153	General	4	401	3	Farm labourer	3
+22	154	OBC	3	103	3	Masonry/construction worker	12
+22	155	OBC	3	401	3	Farm land-owner	2
+22	156	OBC	3	401	3	Farm labourer	3
+22	157	OBC	3	401	3	Farm land-owner	2
+22	158	General	4	401	3	Private services	9
+22	159	General	4	401	3	Farm labourer	3
+22	160	OBC	3	401	3	Farm labourer	3
+22	161	SC	1	201	3	Farm land-owner	2
+22	162	OBC	3	401	3	Industrialist	11
+22	163	General	4	401	3	Farm labourer	3
+22	164	General	4	401	3	Farm labourer	3
+22	165	OBC	3	401	3	Farm land-owner	2
+22	166	General	4	103	3	Farm labourer	3
+22	167	OBC	3	103	3	Private services	9
+22	168	General	4	401	3	Farm labourer	3
+22	169	General	4	401	3	Pensioner	17
+22	170	General	4	401	3	Farm labourer	3
+22	171	General	4	101	3	Farm land-owner	2
+22	172	General	4	-333	3	Farm labourer	3
+22	173	General	4	103	3	Farm labourer	3
+22	174	Religious Minority	5	413	3	Farm labourer	3
+22	175	Religious Minority	5	413	3	Industrialist	11
+22	176	General	4	103	3	Farm labourer	3
+22	177	OBC	3	401	3	Farm land-owner	2
+22	178	OBC	3	401	3	Farm labourer	3
+22	179	OBC	3	103	3	Farm labourer	3
+22	180	General	4	103	3	Private services	9
+22	181	General	4	401	3	Farm land-owner	2
+22	182	Religious Minority	5	-333	3	Farm land-owner	2
+22	183	Religious Minority	5	-333	3	Private services	9
+22	184	General	4	401	5	Farm land-owner	2
+22	185	Religious Minority	5	413	5	Private services	9
+22	186	Religious Minority	5	413	3	Industrialist	11
+22	187	Religious Minority	5	501	3	Farm labourer	3
+22	188	Religious Minority	5	413	3	Small business (shop, etc.)	1
+22	189	Religious Minority	5	413	3	Small business (shop, etc.)	1
+22	190	Religious Minority	5	501	3	Small business (shop, etc.)	1
+22	191	Religious Minority	5	413	3	Farm labourer	3
+22	192	Religious Minority	5	413	3	Pensioner	17
+22	193	OBC	3	103	5	Industry/factory worker(brick making etc)	10
+22	194	Religious Minority	5	-333	3	Industrialist	11
+22	195	Religious Minority	5	501	3	Government services (teacher, etc.)	8
+22	196	SC	1	201	1	Farm labourer	3
+22	197	SC	1	201	3	Pensioner	17
+22	198	SC	1	201	3	Private services	9
+22	199	Religious Minority	5	501	3	Farm labourer	3
+22	200	Religious Minority	5	501	3	Industrialist	11
+22	201	Religious Minority	5	413	3	Private services	9
+22	202	SC	1	201	3	Private services	9
+22	203	SC	1	201	3	Masonry/construction worker	12
+22	204	SC	1	201	4	Farm labourer	3
+22	205	SC	1	201	3	Farm labourer	3
+22	206	SC	1	207	3	Farm labourer	3
+22	208	Religious Minority	5	413	3	Small business (shop, etc.)	1
+22	209	Religious Minority	5	413	3	Private services	9
+22	210	Religious Minority	5	413	3	Industrialist	11
+22	211	General	4	103	3	Small business (shop, etc.)	1
+22	212	ST	2	405	3	Housewife	16
+22	213	Religious Minority	5	501	3	Small business (shop, etc.)	1
+22	214	Religious Minority	5	413	3	Farm labourer	3
+22	215	Religious Minority	5	413	3	OTHERS, SPECIFY	-333
+22	216	Religious Minority	5	413	3	Industrialist	11
+22	218	Religious Minority	5	413	3	Government services (teacher, etc.)	8
+22	219	Religious Minority	5	413	3	Farm labourer	3
+22	220	Religious Minority	5	413	3	Industrialist	11
+22	221	Religious Minority	5	501	3	Masonry/construction worker	12
+22	222	Religious Minority	5	-333	3	Industrialist	11
+22	223	Religious Minority	5	-333	3	Small business (shop, etc.)	1
+22	224	OBC	3	103	5	Small business (shop, etc.)	1
+22	225	OBC	3	103	5	Small business (shop, etc.)	1
+22	226	SC	1	201	3	Farm labourer	3
+22	227	SC	1	201	1	Farm labourer	3
+22	228	Religious Minority	5	413	3	Private services	9
+22	229	Religious Minority	5	413	3	Private services	9
+22	230	Religious Minority	5	413	3	Private services	9
+22	231	Religious Minority	5	413	3	Industrialist	11
+22	232	Religious Minority	5	413	3	Farm labourer	3
+22	233	Religious Minority	5	501	3	Small business (shop, etc.)	1
+22	234	Religious Minority	5	501	3	Farm labourer	3
+22	235	Religious Minority	5	413	4	Private services	9
+22	236	Religious Minority	5	413	4	Private services	9
+22	237	Religious Minority	5	413	3	Farm labourer	3
+22	238	Religious Minority	5	413	3	Private services	9
+22	239	Religious Minority	5	501	3	Small business (shop, etc.)	1
+22	240	Religious Minority	5	413	5	Industrialist	11
+22	241	Religious Minority	5	413	3	Industrialist	11
+22	242	General	4	103	3	Farm labourer	3
+22	243	SC	1	201	3	Farm labourer	3
+22	244	SC	1	201	3	Farm labourer	3
+22	245	Religious Minority	5	413	3	Private services	9
+22	246	SC	1	207	1	Farm labourer	3
+22	247	SC	1	207	3	Farm land-owner	2
+22	248	SC	1	201	3	Farm labourer	3
+22	249	SC	1	201	3	Farm labourer	3
+22	250	SC	1	201	3	Dairy/cattle rearing	5
+22	251	SC	1	201	3	Farm labourer	3
+22	252	SC	1	201	3	Farm labourer	3
+22	253	SC	1	201	3	Farm labourer	3
+22	254	ST	2	309	3	Farm labourer	3
+22	256	General	4	401	3	Private services	9
+22	257	SC	1	202	3	Farm labourer	3
+22	258	SC	1	202	3	Private services	9
+22	259	General	4	401	3	Domestic help/cook/casual	15
+22	260	Religious Minority	5	413	5	Private services	9
+22	261	Religious Minority	5	413	3	Industrialist	11
+22	262	SC	1	201	3	Farm labourer	3
+22	263	SC	1	202	3	Farm labourer	3
+22	264	SC	1	202	3	Farm labourer	3
+22	265	General	4	401	3	Farm labourer	3
+22	266	Religious Minority	5	413	3	Farm land-owner	2
+22	267	SC	1	201	3	Pensioner	17
+22	268	SC	1	202	3	Farm land-owner	2
+22	269	Religious Minority	5	413	3	Farm land-owner	2
+22	270	Religious Minority	5	413	3	Farm land-owner	2
+22	271	OBC	3	401	3	Farm land-owner	2
+22	272	OBC	3	401	3	Farm land-owner	2
+22	274	SC	1	201	1	Farm labourer	3
+22	275	SC	1	201	1	Farm labourer	3
+22	276	SC	1	201	3	Farm labourer	3
+22	277	SC	1	201	1	Farm labourer	3
+22	278	SC	1	202	3	Farm labourer	3
+22	279	SC	1	201	3	Farm land-owner	2
+22	280	SC	1	201	3	Farm labourer	3
+22	282	General	4	401	3	Farm land-owner	2
+22	283	General	4	401	3	Farm labourer	3
+22	284	General	4	401	5	Farm land-owner	2
+22	285	General	4	401	5	Farm land-owner	2
+22	286	General	4	401	5	Farm land-owner	2

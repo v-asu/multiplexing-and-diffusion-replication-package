@@ -1,0 +1,162 @@
+villageid	hh_id	caste_category_label	caste_category	subcaste	roof_type	occupation_label	occupation
+63	101	SC	1	202	2	Farm labourer	3
+63	102	SC	1	202	3	Private services	9
+63	103	SC	1	206	3	Industrialist	11
+63	104	General	4	-333	3	Industrialist	11
+63	105	General	4	401	3	Farm land-owner	2
+63	106	General	4	401	3	Farm labourer	3
+63	108	OBC	3	-333	3	Farm labourer	3
+63	109	General	4	-333	5	Farm labourer	3
+63	110	SC	1	206	3	Farm land-owner	2
+63	111	SC	1	206	3	Farm labourer	3
+63	112	ST	2	-333	3	Masonry/construction worker	12
+63	113	General	4	401	3	Farm land-owner	2
+63	114	SC	1	210	3	Farm land-owner	2
+63	115	SC	1	202	3	Farm labourer	3
+63	116	General	4	401	3	Farm land-owner	2
+63	117	General	4	401	3	Farm land-owner	2
+63	118	SC	1	201	3	Farm labourer	3
+63	119	General	4	401	3	Government services (teacher, etc.)	8
+63	120	OBC	3	-333	3	Farm labourer	3
+63	121	SC	1	201	3	Farm land-owner	2
+63	122	General	4	201	3	Farm labourer	3
+63	123	General	4	401	3	Farm land-owner	2
+63	124	SC	1	201	3	Farm labourer	3
+63	125	General	4	-333	3	Farm labourer	3
+63	126	SC	1	-333	3	Private services	9
+63	127	General	4	401	3	Private services	9
+63	128	General	4	401	3	Pensioner	17
+63	129	General	4	401	3	Private services	9
+63	130	General	4	401	3	Farm labourer	3
+63	131	General	4	401	3	Farm labourer	3
+63	132	General	4	401	3	Farm labourer	3
+63	133	General	4	401	3	Farm land-owner	2
+63	134	General	4	401	3	Farm land-owner	2
+63	135	General	4	401	3	Farm labourer	3
+63	136	General	4	401	3	Farm land-owner	2
+63	137	General	4	401	3	Farm land-owner	2
+63	138	General	4	401	3	Private services	9
+63	139	General	4	401	3	Farm land-owner	2
+63	140	General	4	401	5	Farm land-owner	2
+63	141	General	4	401	5	Farm land-owner	2
+63	142	General	4	401	5	Farm land-owner	2
+63	143	OBC	3	401	3	Farm land-owner	2
+63	144	General	4	401	3	Farm land-owner	2
+63	145	General	4	401	3	Farm labourer	3
+63	146	General	4	401	3	Farm labourer	3
+63	147	General	4	401	3	Private services	9
+63	148	General	4	401	3	Pensioner	17
+63	149	General	4	401	3	Farm land-owner	2
+63	150	General	4	401	3	Farm land-owner	2
+63	151	General	4	-333	3	Farm land-owner	2
+63	152	General	4	401	3	Farm land-owner	2
+63	153	General	4	401	3	Farm land-owner	2
+63	154	General	4	401	3	Farm land-owner	2
+63	155	General	4	401	3	Farm land-owner	2
+63	156	General	4	401	3	Farm labourer	3
+63	157	General	4	401	3	Farm labourer	3
+63	158	General	4	401	3	Small business (shop, etc.)	1
+63	159	General	4	401	3	Small business (shop, etc.)	1
+63	160	General	4	401	3	Farm labourer	3
+63	161	General	4	401	3	Farm land-owner	2
+63	162	General	4	401	3	Government services (teacher, etc.)	8
+63	164	General	4	401	3	Farm land-owner	2
+63	165	General	4	401	3	Farm labourer	3
+63	166	General	4	401	3	Farm land-owner	2
+63	167	General	4	401	5	Farm land-owner	2
+63	168	General	4	401	3	Farm land-owner	2
+63	169	General	4	401	3	Farm land-owner	2
+63	170	General	4	401	3	Farm land-owner	2
+63	171	General	4	401	3	Farm land-owner	2
+63	172	General	4	401	3	Farm land-owner	2
+63	173	General	4	401	3	Farm labourer	3
+63	174	General	4	401	3	Government services (teacher, etc.)	8
+63	175	General	4	401	3	Farm land-owner	2
+63	176	General	4	401	3	Farm land-owner	2
+63	177	General	4	401	3	Farm land-owner	2
+63	178	General	4	401	3	Industrialist	11
+63	179	General	4	401	2	Farm land-owner	2
+63	180	General	4	401	3	Farm land-owner	2
+63	181	General	4	401	3	Farm labourer	3
+63	182	General	4	401	3	Farm labourer	3
+63	183	General	4	401	3	Farm land-owner	2
+63	184	General	4	401	3	Farm land-owner	2
+63	185	General	4	401	3	Farm land-owner	2
+63	186	General	4	401	3	Farm labourer	3
+63	187	General	4	401	5	Farm land-owner	2
+63	188	General	4	401	5	Farm labourer	3
+63	189	General	4	401	3	Farm land-owner	2
+63	190	General	4	401	3	Farm labourer	3
+63	191	Religious Minority	5	-333	3	Farm labourer	3
+63	192	General	4	401	3	Farm labourer	3
+63	193	General	4	401	3	Farm land-owner	2
+63	194	General	4	401	3	Farm land-owner	2
+63	195	General	4	401	3	Farm labourer	3
+63	196	OBC	3	-333	3	Farm labourer	3
+63	197	OBC	3	-333	3	Farm labourer	3
+63	198	OBC	3	-333	3	Farm labourer	3
+63	199	General	4	401	3	Government services (teacher, etc.)	8
+63	200	General	4	401	3	Farm land-owner	2
+63	201	General	4	401	3	Farm labourer	3
+63	202	General	4	401	3	Farm land-owner	2
+63	204	General	4	401	3	Farm land-owner	2
+63	205	General	4	401	3	Farm land-owner	2
+63	206	General	4	401	3	Farm land-owner	2
+63	207	General	4	401	3	Farm land-owner	2
+63	208	Religious Minority	5	-333	5	Farm labourer	3
+63	209	General	4	401	3	Farm land-owner	2
+63	210	General	4	401	3	Farm land-owner	2
+63	211	General	4	401	3	Farm land-owner	2
+63	212	OBC	3	-333	3	Farm land-owner	2
+63	213	OBC	3	-333	3	Farm land-owner	2
+63	214	General	4	401	3	Farm labourer	3
+63	215	General	4	401	3	Farm labourer	3
+63	216	General	4	401	3	Farm land-owner	2
+63	217	General	4	401	3	Government services (teacher, etc.)	8
+63	218	General	4	401	3	Industrialist	11
+63	219	General	4	401	3	Farm land-owner	2
+63	220	General	4	401	3	Farm land-owner	2
+63	221	General	4	401	3	Farm land-owner	2
+63	222	General	4	401	3	Farm land-owner	2
+63	223	General	4	401	3	Farm land-owner	2
+63	224	General	4	401	3	Farm land-owner	2
+63	225	SC	1	202	3	Farm labourer	3
+63	226	ST	2	202	3	Farm labourer	3
+63	227	General	4	202	3	Farm labourer	3
+63	228	General	4	202	3	Farm labourer	3
+63	229	SC	1	-333	3	Farm labourer	3
+63	230	SC	1	401	3	Farm labourer	3
+63	232	General	4	401	3	Industrialist	11
+63	233	General	4	401	3	Farm land-owner	2
+63	234	SC	1	201	3	Farm labourer	3
+63	235	SC	1	201	3	Industry/factory worker(brick making etc)	10
+63	236	General	4	401	3	Industry/factory worker(brick making etc)	10
+63	237	Religious Minority	5	-333	3	Farm labourer	3
+63	238	General	4	102	3	OTHERS, SPECIFY	-333
+63	239	General	4	401	3	Farm land-owner	2
+63	240	General	4	401	3	Industry/factory worker(brick making etc)	10
+63	241	General	4	401	3	Dairy/cattle rearing	5
+63	242	General	4	401	3	Farm land-owner	2
+63	243	General	4	401	3	Pensioner	17
+63	244	General	4	401	3	Farm labourer	3
+63	245	General	4	401	3	Farm land-owner	2
+63	246	ST	2	209	3	Farm land-owner	2
+63	247	SC	1	201	3	Farm labourer	3
+63	248	General	4	401	3	Farm land-owner	2
+63	249	SC	1	201	3	Farm land-owner	2
+63	250	SC	1	201	3	Farm labourer	3
+63	251	SC	1	210	3	Farm land-owner	2
+63	252	General	4	401	3	Farm labourer	3
+63	253	General	4	401	3	Farm land-owner	2
+63	254	SC	1	201	3	Private services	9
+63	255	SC	1	201	3	Farm land-owner	2
+63	256	General	4	401	5	Farm land-owner	2
+63	257	General	4	401	3	Farm land-owner	2
+63	258	General	4	401	5	Farm land-owner	2
+63	259	General	4	401	3	Farm land-owner	2
+63	260	General	4	401	3	Farm land-owner	2
+63	261	General	4	401	3	Farm land-owner	2
+63	262	General	4	401	3	Farm land-owner	2
+63	263	General	4	401	3	Farm land-owner	2
+63	264	General	4	401	3	Farm land-owner	2
+63	265	General	4	401	3	Farm land-owner	2

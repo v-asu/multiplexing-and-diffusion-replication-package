@@ -1,0 +1,186 @@
+villageid	hh_id	caste_category_label	caste_category	subcaste	roof_type	occupation_label	occupation
+40	101	General	4	401	5	Government services (teacher, etc.)	8
+40	102	General	4	401	5	Farm land-owner	2
+40	103	General	4	401	5	Farm land-owner	2
+40	104	General	4	401	5	Farm land-owner	2
+40	105	SC	1	209	3	Farming(tenancy)	4
+40	106	SC	1	201	3	Farming(tenancy)	4
+40	107	SC	1	201	3	Domestic help/cook/casual	15
+40	108	SC	1	201	3	Farming(tenancy)	4
+40	109	SC	1	201	3	Farming(tenancy)	4
+40	110	SC	1	201	3	Farming(tenancy)	4
+40	111	SC	1	201	2	Farm labourer	3
+40	112	SC	1	201	3	Government services (teacher, etc.)	8
+40	113	SC	1	201	3	Farm labourer	3
+40	114	SC	1	201	3	Dairy/cattle rearing	5
+40	115	SC	1	201	2	Dairy/cattle rearing	5
+40	116	SC	1	201	3	Farm labourer	3
+40	117	SC	1	201	4	Farm labourer	3
+40	118	SC	1	201	3	Farm labourer	3
+40	119	SC	1	201	3	Farm labourer	3
+40	120	SC	1	201	3	Farm labourer	3
+40	121	SC	1	201	3	Farm labourer	3
+40	122	SC	1	201	3	Farm labourer	3
+40	123	ST	2	201	3	Farm labourer	3
+40	124	OBC	3	408	3	Farm labourer	3
+40	125	SC	1	201	5	Farm land-owner	2
+40	126	General	4	401	3	Farm labourer	3
+40	127	General	4	401	3	Farm labourer	3
+40	129	General	4	401	5	Sericulture owner	6
+40	130	OBC	3	-333	3	Farm labourer	3
+40	131	OBC	3	408	3	Masonry/construction worker	12
+40	132	General	4	401	5	Farm land-owner	2
+40	133	OBC	3	408	3	Farm labourer	3
+40	135	OBC	3	408	3	Sericulture owner	6
+40	136	OBC	3	408	3	Farm land-owner	2
+40	137	SC	1	206	3	Domestic help/cook/casual	15
+40	138	SC	1	206	3	Farming(tenancy)	4
+40	139	SC	1	201	3	Farm labourer	3
+40	140	General	4	401	3	Government services (teacher, etc.)	8
+40	141	SC	1	401	5	Farm land-owner	2
+40	142	General	4	401	5	Farm land-owner	2
+40	143	General	4	401	5	Farm land-owner	2
+40	144	General	4	401	5	Farm land-owner	2
+40	145	General	4	401	3	Farm land-owner	2
+40	146	General	4	401	3	Farm land-owner	2
+40	147	General	4	401	3	Farm land-owner	2
+40	148	General	4	401	3	Farm land-owner	2
+40	149	General	4	401	5	Farm land-owner	2
+40	150	General	4	401	3	Farm land-owner	2
+40	151	General	4	401	3	Farm land-owner	2
+40	152	General	4	401	5	Farm land-owner	2
+40	153	General	4	401	5	Farm land-owner	2
+40	154	General	4	401	5	Farm land-owner	2
+40	155	SC	1	401	5	Farm land-owner	2
+40	156	General	4	401	3	Farm land-owner	2
+40	157	General	4	401	3	Government services (teacher, etc.)	8
+40	158	General	4	401	3	Government services (teacher, etc.)	8
+40	159	General	4	401	3	Farm land-owner	2
+40	160	General	4	401	3	Dairy/cattle rearing	5
+40	161	General	4	401	3	Farm labourer	3
+40	162	General	4	401	3	Dairy/cattle rearing	5
+40	163	SC	1	201	3	Farm labourer	3
+40	165	SC	1	201	4	Farm labourer	3
+40	166	SC	1	201	3	Farm labourer	3
+40	167	SC	1	201	3	Farm labourer	3
+40	168	SC	1	401	3	Farm land-owner	2
+40	169	General	4	401	5	Farm land-owner	2
+40	170	General	4	401	3	Farm land-owner	2
+40	171	General	4	401	3	Farm land-owner	2
+40	172	General	4	401	3	Farm land-owner	2
+40	173	General	4	401	3	Farm land-owner	2
+40	174	General	4	401	3	Farm land-owner	2
+40	175	General	4	401	3	Small business (shop, etc.)	1
+40	176	General	4	401	3	Farm land-owner	2
+40	177	General	4	401	3	Dairy/cattle rearing	5
+40	178	General	4	401	3	Dairy/cattle rearing	5
+40	179	General	4	401	3	Farm labourer	3
+40	180	General	4	401	3	Farm land-owner	2
+40	181	General	4	401	3	Farm labourer	3
+40	182	General	4	401	3	OTHERS, SPECIFY	-333
+40	183	General	4	401	3	Farm labourer	3
+40	184	OBC	3	102	3	Private services	9
+40	185	General	4	401	3	Government services (teacher, etc.)	8
+40	186	General	4	401	3	Farm labourer	3
+40	187	SC	1	401	3	Farm land-owner	2
+40	188	SC	1	401	3	Farm land-owner	2
+40	189	General	4	401	5	Farm land-owner	2
+40	191	General	4	401	3	Farm land-owner	2
+40	192	General	4	401	3	Farm land-owner	2
+40	193	General	4	401	3	Farm land-owner	2
+40	194	General	4	401	3	Farm land-owner	2
+40	195	General	4	401	3	Farm land-owner	2
+40	196	General	4	401	3	Farm land-owner	2
+40	197	General	4	401	3	Dairy/cattle rearing	5
+40	198	General	4	401	3	Farm land-owner	2
+40	199	General	4	401	3	Farm land-owner	2
+40	200	General	4	401	3	Dairy/cattle rearing	5
+40	201	General	4	401	3	Dairy/cattle rearing	5
+40	202	General	4	401	3	Farm labourer	3
+40	203	General	4	401	3	Farm land-owner	2
+40	204	General	4	401	3	Government services (teacher, etc.)	8
+40	205	General	4	401	3	Dairy/cattle rearing	5
+40	206	General	4	401	3	Farm land-owner	2
+40	207	OBC	3	413	3	Farm labourer	3
+40	208	General	4	401	3	Private services	9
+40	209	General	4	401	5	Farm land-owner	2
+40	210	General	4	401	3	Farm land-owner	2
+40	211	General	4	401	5	Farm land-owner	2
+40	212	OBC	3	401	3	Domestic help/cook/casual	15
+40	213	SC	1	206	-333	Private services	9
+40	214	General	4	401	5	Farm land-owner	2
+40	215	General	4	401	3	Farm labourer	3
+40	216	OBC	3	401	3	Government services (teacher, etc.)	8
+40	217	OBC	3	401	3	Farm land-owner	2
+40	218	General	4	401	5	Farm land-owner	2
+40	219	General	4	401	5	Farm land-owner	2
+40	220	General	4	401	3	Farm land-owner	2
+40	221	OBC	3	408	3	Domestic help/cook/casual	15
+40	222	OBC	3	401	3	Farm land-owner	2
+40	223	General	4	401	3	Farm land-owner	2
+40	224	General	4	401	3	Farm land-owner	2
+40	225	OBC	3	401	5	Farm labourer	3
+40	226	OBC	3	401	5	Farm land-owner	2
+40	227	OBC	3	401	5	Farm land-owner	2
+40	228	OBC	3	408	3	Domestic help/cook/casual	15
+40	229	SC	1	206	3	Farm labourer	3
+40	230	SC	1	206	5	Artist	14
+40	231	General	4	413	3	Farm labourer	3
+40	232	General	4	407	3	Farm land-owner	2
+40	233	General	4	407	3	Farm land-owner	2
+40	234	Religious Minority	5	406	3	Masonry/construction worker	12
+40	235	Religious Minority	5	413	3	Farm labourer	3
+40	236	General	4	413	4	Farming(tenancy)	4
+40	237	General	4	413	4	Farm labourer	3
+40	238	General	4	413	3	Farm labourer	3
+40	239	Religious Minority	5	413	3	Farm land-owner	2
+40	240	Religious Minority	5	413	3	Farm labourer	3
+40	241	SC	1	206	3	Farming(tenancy)	4
+40	242	Religious Minority	5	413	3	Farm labourer	3
+40	243	General	4	413	4	Farming(tenancy)	4
+40	244	General	4	413	4	Farming(tenancy)	4
+40	245	General	4	413	4	Farming(tenancy)	4
+40	246	General	4	413	4	Farming(tenancy)	4
+40	247	General	4	413	3	Farming(tenancy)	4
+40	248	General	4	413	4	Farming(tenancy)	4
+40	249	General	4	413	4	Farming(tenancy)	4
+40	250	General	4	413	3	Farming(tenancy)	4
+40	251	General	4	413	2	Farming(tenancy)	4
+40	252	General	4	413	3	Farming(tenancy)	4
+40	253	SC	1	206	3	Farming(tenancy)	4
+40	254	SC	1	206	3	Farming(tenancy)	4
+40	255	SC	1	206	3	Farming(tenancy)	4
+40	256	SC	1	206	3	Farming(tenancy)	4
+40	257	General	4	408	-333	Farm labourer	3
+40	258	OBC	3	408	3	Domestic help/cook/casual	15
+40	259	OBC	3	408	3	Domestic help/cook/casual	15
+40	260	OBC	3	408	3	Farm labourer	3
+40	261	SC	1	-333	5	Industrialist	11
+40	262	Religious Minority	5	-333	5	Industrialist	11
+40	263	OBC	3	-333	3	Farm labourer	3
+40	264	General	4	-333	3	Small business (shop, etc.)	1
+40	265	General	4	401	5	Small business (shop, etc.)	1
+40	266	SC	1	201	5	Farm labourer	3
+40	267	SC	1	209	1	Domestic help/cook/casual	15
+40	268	SC	1	209	5	Domestic help/cook/casual	15
+40	269	SC	1	209	3	Farm labourer	3
+40	270	SC	1	201	3	Farm labourer	3
+40	271	SC	1	209	5	Farm labourer	3
+40	272	SC	1	201	1	Farm labourer	3
+40	273	SC	1	201	3	Farm labourer	3
+40	274	SC	1	201	3	Domestic help/cook/casual	15
+40	275	SC	1	201	5	Farm labourer	3
+40	276	SC	1	201	2	Farm labourer	3
+40	277	SC	1	201	3	Masonry/construction worker	12
+40	278	SC	1	201	3	Farm labourer	3
+40	279	SC	1	209	3	Farm labourer	3
+40	280	SC	1	201	5	Private services	9
+40	281	SC	1	201	2	Domestic help/cook/casual	15
+40	282	General	4	401	5	Farm land-owner	2
+40	283	General	4	408	3	Farm labourer	3
+40	284	General	4	408	3	Farm labourer	3
+40	285	General	4	408	3	Farm labourer	3
+40	286	General	4	408	3	Farm labourer	3
+40	287	General	4	401	3	Farm land-owner	2
+40	288	General	4	401	3	Farm labourer	3
+40	289	OBC	3	401	5	Farm land-owner	2

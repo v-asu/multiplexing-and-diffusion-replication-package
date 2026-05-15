@@ -1,0 +1,139 @@
+villageid	hh_id	caste_category_label	caste_category	subcaste	roof_type	occupation_label	occupation
+5	101	SC	1	206	3	Masonry/construction worker	12
+5	102	General	4	101	3	Industrialist	11
+5	103	OBC	3	-333	3	Industry/factory worker(brick making etc)	10
+5	104	General	4	104	5	Industrialist	11
+5	105	General	4	-333	4	OTHERS, SPECIFY	-333
+5	106	General	4	-333	4	Masonry/construction worker	12
+5	107	SC	1	201	3	Farm labourer	3
+5	108	Religious Minority	5	413	3	Industrialist	11
+5	109	Religious Minority	5	413	3	Industrialist	11
+5	110	OBC	3	-333	2	Farm labourer	3
+5	111	SC	1	201	2	Government services (teacher, etc.)	8
+5	112	OBC	3	404	2	Farm labourer	3
+5	113	General	4	-333	3	Private services	9
+5	114	ST	2	309	3	Industrialist	11
+5	115	General	4	401	3	Industrialist	11
+5	116	OBC	3	304	2	Industrialist	11
+5	117	General	4	204	3	Domestic help/cook/casual	15
+5	118	General	4	104	3	Industrialist	11
+5	119	ST	2	309	5	Farm labourer	3
+5	120	General	4	-333	4	Farm labourer	3
+5	121	General	4	-333	2	Farm labourer	3
+5	122	General	4	402	3	Government services (teacher, etc.)	8
+5	123	General	4	404	4	Industrialist	11
+5	124	SC	1	201	5	Domestic help/cook/casual	15
+5	125	SC	1	201	4	Farm land-owner	2
+5	126	SC	1	201	4	Farm labourer	3
+5	127	SC	1	201	4	Farm labourer	3
+5	128	SC	1	201	4	Farm labourer	3
+5	129	SC	1	201	1	Farm labourer	3
+5	130	SC	1	201	5	Farm land-owner	2
+5	131	SC	1	201	2	Farm labourer	3
+5	132	SC	1	201	4	Masonry/construction worker	12
+5	133	SC	1	201	1	Industry/factory worker(brick making etc)	10
+5	134	SC	1	201	1	Industrialist	11
+5	135	SC	1	201	2	Pensioner	17
+5	136	SC	1	201	4	Masonry/construction worker	12
+5	137	SC	1	201	4	Private services	9
+5	138	OBC	3	403	5	Farm labourer	3
+5	139	General	4	-333	3	Industrialist	11
+5	140	SC	1	-333	4	Industrialist	11
+5	141	SC	1	-333	4	Farm labourer	3
+5	142	SC	1	-333	4	Farm labourer	3
+5	143	General	4	-333	3	Farm labourer	3
+5	144	General	4	-333	3	Farm land-owner	2
+5	145	OBC	3	403	5	Farm labourer	3
+5	146	SC	1	206	4	Masonry/construction worker	12
+5	147	SC	1	210	4	Industrialist	11
+5	148	SC	1	210	4	Industrialist	11
+5	149	SC	1	206	4	Masonry/construction worker	12
+5	150	SC	1	201	4	Farm labourer	3
+5	151	SC	1	206	3	Industrialist	11
+5	152	OBC	3	403	5	Small business (shop, etc.)	1
+5	153	Religious Minority	5	103	4	Small business (shop, etc.)	1
+5	154	General	4	402	3	Industrialist	11
+5	155	General	4	-333	4	OTHERS, SPECIFY	-333
+5	156	General	4	401	3	Private services	9
+5	157	General	4	-333	3	OTHERS, SPECIFY	-333
+5	158	SC	1	206	3	Farm labourer	3
+5	159	SC	1	206	3	Farm labourer	3
+5	160	SC	1	206	3	Farm labourer	3
+5	161	General	4	-333	2	Private services	9
+5	162	General	4	-333	2	Farm labourer	3
+5	163	General	4	-333	2	Private services	9
+5	164	SC	1	206	4	Farm labourer	3
+5	165	SC	1	206	2	Farm labourer	3
+5	166	General	4	401	4	Private services	9
+5	167	SC	1	201	3	Farm labourer	3
+5	168	OBC	3	403	5	Farm land-owner	2
+5	169	SC	1	403	4	Farm labourer	3
+5	170	SC	1	206	4	Farm land-owner	2
+5	171	SC	1	206	3	Farm labourer	3
+5	172	SC	1	206	3	Masonry/construction worker	12
+5	173	OBC	3	204	4	Industrialist	11
+5	174	SC	1	206	3	Farm labourer	3
+5	175	SC	1	206	4	Farm land-owner	2
+5	176	SC	1	206	4	Farm land-owner	2
+5	177	OBC	3	206	2	Housewife	16
+5	178	General	4	-333	4	Farm labourer	3
+5	179	General	4	-333	2	Farm land-owner	2
+5	180	General	4	-333	2	Farm labourer	3
+5	181	General	4	-333	4	Farm labourer	3
+5	182	OBC	3	-333	2	Farm labourer	3
+5	183	General	4	-333	3	Farm labourer	3
+5	184	SC	1	201	4	Private services	9
+5	185	SC	1	201	1	Farm labourer	3
+5	186	SC	1	201	2	Industry/factory worker(brick making etc)	10
+5	187	SC	1	201	4	Private services	9
+5	188	SC	1	201	4	Government services (teacher, etc.)	8
+5	189	SC	1	201	4	Farm land-owner	2
+5	190	SC	1	210	4	Farm labourer	3
+5	191	SC	1	210	5	Farm labourer	3
+5	192	SC	1	201	3	Farm labourer	3
+5	193	SC	1	201	2	Farm labourer	3
+5	194	SC	1	201	2	Farm labourer	3
+5	195	SC	1	201	2	Farm land-owner	2
+5	196	SC	1	201	2	Farm labourer	3
+5	198	SC	1	201	2	Private services	9
+5	199	SC	1	201	4	Private services	9
+5	200	SC	1	201	2	Farm labourer	3
+5	201	SC	1	201	2	Farm labourer	3
+5	202	SC	1	201	4	Farm labourer	3
+5	203	SC	1	201	4	Farm labourer	3
+5	204	SC	1	207	4	Masonry/construction worker	12
+5	205	SC	1	209	2	Farm labourer	3
+5	206	SC	1	201	2	Farm labourer	3
+5	207	SC	1	201	3	Masonry/construction worker	12
+5	208	SC	1	201	2	Farm labourer	3
+5	209	SC	1	201	2	Private services	9
+5	210	SC	1	201	4	Farm labourer	3
+5	211	SC	1	201	4	Masonry/construction worker	12
+5	212	SC	1	201	3	Masonry/construction worker	12
+5	213	SC	1	201	4	Farm labourer	3
+5	214	SC	1	201	2	Farm labourer	3
+5	215	SC	1	201	2	Farm land-owner	2
+5	216	SC	1	201	2	Masonry/construction worker	12
+5	217	SC	1	201	3	Farm labourer	3
+5	218	SC	1	201	3	Masonry/construction worker	12
+5	219	SC	1	201	4	Farm labourer	3
+5	220	SC	1	201	5	Farm land-owner	2
+5	221	General	4	-333	3	Small business (shop, etc.)	1
+5	222	General	4	-333	3	Small business (shop, etc.)	1
+5	223	SC	1	201	2	Farm labourer	3
+5	224	General	4	413	3	Private services	9
+5	225	General	4	-333	4	OTHERS, SPECIFY	-333
+5	226	OBC	3	304	2	Government services (teacher, etc.)	8
+5	227	General	4	401	4	Farm land-owner	2
+5	228	OBC	3	401	3	Farm labourer	3
+5	229	General	4	401	3	Farm land-owner	2
+5	230	SC	1	206	3	Farm land-owner	2
+5	231	General	4	401	3	Farm labourer	3
+5	232	ST	2	206	5	Farm land-owner	2
+5	233	General	4	401	2	Farm land-owner	2
+5	234	OBC	3	401	2	Farm land-owner	2
+5	235	OBC	3	401	2	Farm land-owner	2
+5	236	OBC	3	401	3	Housewife	16
+5	237	OBC	3	401	5	Farm land-owner	2
+5	238	General	4	-333	3	OTHERS, SPECIFY	-333
+5	239	SC	1	206	3	Farm labourer	3
