@@ -2,11 +2,11 @@
 
 This is the replication package for "Multiplexing in Networks and Diffusion" by Arun G. Chandrasekhar, Vasu Chaudhary, Benjamin Golub, and Matthew O. Jackson.
 
-The parent `replication_package` folder contains the code, input data, and generated outputs for the retained empirical figures and tables used in the paper and supplement. Treat `replication_package` as the project root.
+The repository root contains the code, input data, and generated outputs for the retained empirical figures and tables used in the paper and supplement. Treat the folder containing `run_all.R` as the project root.
 
 ## Quick Start
 
-From the `replication_package/` root, run:
+From the repository root, run:
 
 ```sh
 Rscript run_all.R
@@ -28,7 +28,7 @@ The package was tested from a clean copy by deleting `data/processed/`, `figures
 - `figures/`: regenerated figure outputs.
 - `tables/`: regenerated LaTeX table outputs.
 - `run_all.R`: runs the replication scripts in sequence from the package root.
-- `DATA_DICTIONARY.md`: file-level description of raw inputs and regenerated processed data.
+- `DATA_DICTIONARY.md`: file-level description of raw inputs.
 
 ## Expected Outputs
 
@@ -99,7 +99,7 @@ Cluster-side simulation-generation scripts are stored separately:
 
 ## Documentation
 
-- See `DATA_DICTIONARY.md` for a file-level description of the raw inputs and regenerated processed datasets used by the replication code.
+- See `DATA_DICTIONARY.md` for a file-level description of the raw inputs used by the replication code.
 
 ## Data Source References
 

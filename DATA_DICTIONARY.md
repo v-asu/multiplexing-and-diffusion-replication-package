@@ -1,7 +1,7 @@
 # Data Dictionary
 
 This file describes the raw inputs used by the replication code. Paths are
-relative to the `replication_package/` root.
+relative to the repository root.
 
 ## Microfinance Inputs
 
